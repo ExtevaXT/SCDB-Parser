@@ -1,0 +1,25 @@
+id: g9xG
+name: LR-300
+rank: Master
+class: 'Assault Rifles'
+weight: 3.1
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 35.0
+clipCapacity: 30.0
+maximumDistance: 145.0
+rateOfFire: 950.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.653
+hip-fireSpread: 3.0
+verticalRecoil: 0.32
+horizontalRecoil: 0.13
+drawTime: 0.8
+aimingTime: 0.25
+startDamage: 35.0
+damageDecreaseStart: 14.0
+endDamage: 24.0
+damageDecreaseEnd: 55.0
+maxDistance: 145.0

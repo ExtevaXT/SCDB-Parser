@@ -1,0 +1,25 @@
+id: Xn5y
+name: PTRD-M
+rank: Veteran
+class: 'Other Weapons'
+weight: 17.3
+durability: 100.0
+max.Durability: 100.0
+ammoType: 'High Caliber'
+damage: 220.0
+clipCapacity: 1.0
+maximumDistance: 250.0
+rateOfFire: 50.0
+reload: 5.0
+spread: 4.0
+hip-fireSpread: 8.0
+verticalRecoil: 10.0
+horizontalRecoil: 3.0
+drawTime: 2.5
+aimingTime: 0.8
+stoppingPower: 200.0
+startDamage: 220.0
+damageDecreaseStart: 50.0
+endDamage: 220.0
+damageDecreaseEnd: 150.0
+maxDistance: 250.0

@@ -1,0 +1,19 @@
+id: mbmZ
+name: 'Worn Fleece Protective Suit'
+rank: Stalker
+class: Combat
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 7.0
+bulletResistance: 58.0
+meleeProtection: 175.0
+explosionProtection: 80.0
+resistanceToElectricity: 36.0
+resistanceToFire: 36.0
+resistanceToChemicals: 36.0
+radiationProtection: 150.0
+thermalProtection: 20.0
+bioinfectionProtection: 120.0
+psy-emissionProtection: 60.0
+bleedingProtection: 68.0

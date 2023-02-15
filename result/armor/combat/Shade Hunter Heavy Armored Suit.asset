@@ -1,0 +1,21 @@
+id: 3Ze1
+name: 'Shade Hunter Heavy Armored Suit'
+rank: Veteran
+class: Combat
+weight: 14.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -20.0
+movementSpeed: -2.0
+carryWeight: 4.0
+bulletResistance: 124.0
+meleeProtection: 133.0
+explosionProtection: 190.0
+resistanceToElectricity: 127.0
+resistanceToFire: 127.0
+resistanceToChemicals: 127.0
+radiationProtection: 200.0
+thermalProtection: 60.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 135.0
+bleedingProtection: 64.0

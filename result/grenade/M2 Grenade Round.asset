@@ -1,0 +1,9 @@
+id: a0J0
+name: 'M2 Grenade Round'
+class: Grenades
+weight: 0.1
+damageAtCenter: 250.0
+minimumDamage: 125.0
+timeUntilDetonation: 8.0
+damageRange: 6.0
+fuseTime: 0.25

@@ -1,0 +1,7 @@
+id: A3Rw
+name: 'Flare Grenade'
+class: Grenades
+weight: 0.17
+range: 9.0
+max.BlindnessDuration: 4.0
+timeUntilActivation: 2.5

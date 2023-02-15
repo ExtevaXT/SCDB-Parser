@@ -1,0 +1,21 @@
+id: D05a
+name: 'AH-3 Seeker Suit'
+rank: Stalker
+class: Combo
+weight: 7.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 5.0
+periodicHealing: 1.5
+bulletResistance: 62.0
+meleeProtection: 72.0
+explosionProtection: 87.0
+resistanceToElectricity: 415.0
+resistanceToFire: 415.0
+resistanceToChemicals: 415.0
+radiationProtection: 195.0
+thermalProtection: 195.0
+bioinfectionProtection: 225.0
+psy-emissionProtection: 165.0
+bleedingProtection: 42.0

@@ -1,0 +1,9 @@
+id: B17n
+name: 'Candle Short Range Detector'
+rank: Newbie
+class: Devices
+weight: 0.7
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+range: 50.0

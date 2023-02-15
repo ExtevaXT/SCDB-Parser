@@ -1,0 +1,13 @@
+id: z1K2
+name: 'Bat with Nails'
+rank: Veteran
+class: 'Melee Weapons'
+weight: 0.72
+quickAttack(min): 60.0
+quickAttack(max): 70.0
+strongAttack(min): 130.0
+strongAttack(max): 150.0
+weaponReach(quick): 2.0
+weaponReach(strong): 2.1
+penetration: 50.0
+chanceForADeepWound: 30.0

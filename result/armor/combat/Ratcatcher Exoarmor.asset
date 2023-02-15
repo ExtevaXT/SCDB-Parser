@@ -1,0 +1,20 @@
+id: 8jaZ
+name: 'Ratcatcher Exoarmor'
+rank: Veteran
+class: Combat
+weight: 32.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 25.0
+bulletResistance: 105.0
+meleeProtection: 265.0
+explosionProtection: 150.0
+resistanceToElectricity: 59.0
+resistanceToFire: 59.0
+resistanceToChemicals: 59.0
+radiationProtection: 200.0
+thermalProtection: 40.0
+bioinfectionProtection: 210.0
+psy-emissionProtection: 180.0
+bleedingProtection: 77.0

@@ -1,0 +1,9 @@
+id: X9e1
+name: RGO
+class: Grenades
+weight: 0.53
+damageAtCenter: 450.0
+minimumDamage: 25.0
+timeUntilDetonation: 3.25
+damageRange: 9.0
+fuseTime: 0.5

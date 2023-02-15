@@ -1,0 +1,21 @@
+id: m82E
+name: 'KIM-102 Zircon'
+rank: Stalker
+class: Scientist
+weight: 6.0
+durability: 100.0
+max.Durability: 100.0
+periodicHealing: 3.0
+radiation: -2.0
+bleeding: -0.5
+bulletResistance: 56.0
+meleeProtection: 63.0
+explosionProtection: 76.0
+resistanceToElectricity: 644.0
+resistanceToFire: 644.0
+resistanceToChemicals: 644.0
+radiationProtection: 225.0
+thermalProtection: 225.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 225.0
+bleedingProtection: 38.0

@@ -1,0 +1,24 @@
+id: nqE3
+name: RPD
+rank: Veteran
+class: 'Machine Guns'
+weight: 7.2
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 42.0
+clipCapacity: 100.0
+maximumDistance: 170.0
+rateOfFire: 650.0
+reload: 7.0
+spread: 0.718
+hip-fireSpread: 2.8
+verticalRecoil: 0.7
+horizontalRecoil: 0.3
+drawTime: 1.2
+aimingTime: 0.4
+startDamage: 42.0
+damageDecreaseStart: 18.0
+endDamage: 27.0
+damageDecreaseEnd: 80.0
+maxDistance: 170.0

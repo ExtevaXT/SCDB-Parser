@@ -1,0 +1,8 @@
+id: rDgV
+name: '1st Class Antidote'
+class: Medicine
+weight: 0.1
+purpose: 'Bioinfection Protection'
+duration: 240.0
+poison: 50.0
+bioinfectionResistance: 25.0

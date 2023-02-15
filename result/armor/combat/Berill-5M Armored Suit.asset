@@ -1,0 +1,20 @@
+id: ERg1
+name: 'Berill-5M Armored Suit'
+rank: Newbie
+class: Combat
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -3.0
+carryWeight: 3.0
+bulletResistance: 61.0
+meleeProtection: 61.0
+explosionProtection: 84.0
+resistanceToElectricity: 24.0
+resistanceToFire: 24.0
+resistanceToChemicals: 24.0
+radiationProtection: 90.0
+thermalProtection: 0.0
+bioinfectionProtection: 75.0
+psy-emissionProtection: 0.0
+bleedingProtection: 39.0

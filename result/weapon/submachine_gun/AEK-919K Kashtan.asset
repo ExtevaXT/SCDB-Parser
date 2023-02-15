@@ -1,0 +1,25 @@
+id: KP0X
+name: 'AEK-919K Kashtan'
+rank: Picklock
+class: 'Submachine Guns'
+weight: 1.78
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 32.0
+clipCapacity: 30.0
+maximumDistance: 90.0
+rateOfFire: 900.0
+reload: 3.3
+tacticalReload: 2.8
+spread: 1.834
+hip-fireSpread: 2.4
+verticalRecoil: 0.36
+horizontalRecoil: 0.13
+drawTime: 0.75
+aimingTime: 0.15
+startDamage: 32.0
+damageDecreaseStart: 10.0
+endDamage: 15.0
+damageDecreaseEnd: 28.0
+maxDistance: 90.0

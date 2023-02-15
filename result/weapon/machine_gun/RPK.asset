@@ -1,0 +1,25 @@
+id: Ry5b
+name: RPK
+rank: Veteran
+class: 'Machine Guns'
+weight: 3.1100001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 41.0
+clipCapacity: 40.0
+maximumDistance: 165.0
+rateOfFire: 650.0
+reload: 3.8
+tacticalReload: 3.0
+spread: 0.658
+hip-fireSpread: 2.8
+verticalRecoil: 0.55
+horizontalRecoil: 0.2
+drawTime: 1.15
+aimingTime: 0.35
+startDamage: 41.0
+damageDecreaseStart: 17.0
+endDamage: 27.0
+damageDecreaseEnd: 75.0
+maxDistance: 165.0

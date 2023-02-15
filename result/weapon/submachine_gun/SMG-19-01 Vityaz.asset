@@ -1,0 +1,24 @@
+id: bnEg
+name: 'SMG-19-01 Vityaz'
+rank: Newbie
+class: 'Submachine Guns'
+weight: 2.8
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 37.0
+clipCapacity: 30.0
+maximumDistance: 105.0
+rateOfFire: 750.0
+reload: 2.75
+spread: 0.987
+hip-fireSpread: 2.4
+verticalRecoil: 0.25
+horizontalRecoil: 0.15
+drawTime: 0.9
+aimingTime: 0.2
+startDamage: 37.0
+damageDecreaseStart: 14.0
+endDamage: 20.0
+damageDecreaseEnd: 45.0
+maxDistance: 105.0

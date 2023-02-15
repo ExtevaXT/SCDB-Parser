@@ -1,0 +1,13 @@
+id: PLqE
+name: 'Ice Pick'
+rank: Veteran
+class: 'Melee Weapons'
+weight: 0.65
+quickAttack(min): 40.0
+quickAttack(max): 50.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.9
+weaponReach(strong): 1.9
+penetration: 70.0
+chanceForADeepWound: 55.0

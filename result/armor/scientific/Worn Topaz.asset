@@ -1,0 +1,18 @@
+id: gwAR
+name: 'Worn Topaz'
+rank: Stalker
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 49.0
+meleeProtection: 55.0
+explosionProtection: 67.0
+resistanceToElectricity: 333.0
+resistanceToFire: 1111.0
+resistanceToChemicals: 667.0
+radiationProtection: 310.0
+thermalProtection: 400.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 280.0
+bleedingProtection: 35.0

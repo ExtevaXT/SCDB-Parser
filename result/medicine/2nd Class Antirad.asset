@@ -1,0 +1,9 @@
+id: VYeJ
+name: '2nd Class Antirad'
+class: Medicine
+weight: 0.05
+purpose: 'Radiation Cleansing'
+duration: 5.0
+poison: 25.0
+radiationResistance: 75.0
+radiation: -50.0

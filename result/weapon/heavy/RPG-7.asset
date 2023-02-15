@@ -1,0 +1,19 @@
+id: 753d
+name: RPG-7
+rank: Master
+class: 'Other Weapons'
+weight: 6.3
+durability: 100.0
+max.Durability: 100.0
+ammoType: 'RPG Round'
+damage: 500.0
+clipCapacity: 1.0
+maximumDistance: 200.0
+rateOfFire: 75.0
+reload: 2.5
+spread: 1.0
+hip-fireSpread: 1.0
+verticalRecoil: 2.0
+horizontalRecoil: 1.0
+drawTime: 1.4
+aimingTime: 0.35

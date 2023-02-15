@@ -1,0 +1,10 @@
+id: w8PP
+name: “STRIKE”
+class: Medicine
+weight: 0.1
+purpose: Healing
+instantHealing: 15.0
+duration: 6.0
+poison: 25.0
+staminaRegeneration: 15.0
+periodicHealing: 10.0

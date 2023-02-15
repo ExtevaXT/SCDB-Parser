@@ -1,0 +1,19 @@
+id: lYVO
+name: 'Houndmaster Protective Suit'
+rank: Newbie
+class: Combat
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 5.0
+bulletResistance: 29.0
+meleeProtection: 84.0
+explosionProtection: 40.0
+resistanceToElectricity: 18.0
+resistanceToFire: 18.0
+resistanceToChemicals: 18.0
+radiationProtection: 75.0
+thermalProtection: 0.0
+bioinfectionProtection: 75.0
+psy-emissionProtection: 0.0
+bleedingProtection: 50.0

@@ -1,0 +1,25 @@
+id: r6YM
+name: 'SR-1 Gyurza'
+rank: Veteran
+class: Pistols
+weight: 0.90000004
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 59.0
+clipCapacity: 18.0
+maximumDistance: 57.0
+rateOfFire: 390.0
+reload: 2.8
+tacticalReload: 2.7
+spread: 1.121
+hip-fireSpread: 2.7
+verticalRecoil: 0.35
+horizontalRecoil: 0.25
+drawTime: 0.45
+aimingTime: 0.25
+startDamage: 59.0
+damageDecreaseStart: 13.0
+endDamage: 22.0
+damageDecreaseEnd: 30.0
+maxDistance: 57.0

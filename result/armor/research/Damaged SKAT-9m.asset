@@ -1,0 +1,20 @@
+id: lYK2
+name: 'Damaged SKAT-9m'
+rank: Veteran
+class: Explorer
+weight: 12.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -6.0
+carryWeight: 10.0
+bulletResistance: 112.0
+meleeProtection: 121.0
+explosionProtection: 163.0
+resistanceToElectricity: 281.0
+resistanceToFire: 281.0
+resistanceToChemicals: 281.0
+radiationProtection: 200.0
+thermalProtection: 90.0
+bioinfectionProtection: 210.0
+psy-emissionProtection: 160.0
+bleedingProtection: 58.0

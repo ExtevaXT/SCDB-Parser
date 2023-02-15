@@ -1,0 +1,18 @@
+id: 6Xr7
+name: 'KIM-116 Emerald'
+rank: Stalker
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 49.0
+meleeProtection: 55.0
+explosionProtection: 67.0
+resistanceToElectricity: 333.0
+resistanceToFire: 778.0
+resistanceToChemicals: 1333.0
+radiationProtection: 310.0
+thermalProtection: 370.0
+bioinfectionProtection: 410.0
+psy-emissionProtection: 310.0
+bleedingProtection: 35.0

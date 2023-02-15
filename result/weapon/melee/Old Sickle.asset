@@ -1,0 +1,13 @@
+id: MOqq
+name: 'Old Sickle'
+rank: Newbie
+class: 'Melee Weapons'
+weight: 0.52
+quickAttack(min): 40.0
+quickAttack(max): 50.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.9
+weaponReach(strong): 1.9
+penetration: 30.0
+chanceForADeepWound: 45.0

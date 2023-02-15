@@ -1,0 +1,19 @@
+id: zae2
+name: 'Saturn Suit'
+rank: Master
+class: Scientist
+weight: 13.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 8.0
+bulletResistance: 84.0
+meleeProtection: 95.0
+explosionProtection: 114.0
+resistanceToElectricity: 1031.0
+resistanceToFire: 1031.0
+resistanceToChemicals: 1031.0
+radiationProtection: 400.0
+thermalProtection: 400.0
+bioinfectionProtection: 415.0
+psy-emissionProtection: 400.0
+bleedingProtection: 48.0

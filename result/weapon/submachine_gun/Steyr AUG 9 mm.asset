@@ -1,0 +1,25 @@
+id: xEjK
+name: 'Steyr AUG 9 mm'
+rank: Veteran
+class: 'Submachine Guns'
+weight: 3.3
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 39.0
+clipCapacity: 32.0
+maximumDistance: 130.0
+rateOfFire: 800.0
+reload: 3.75
+tacticalReload: 3.25
+spread: 0.665
+hip-fireSpread: 2.25
+verticalRecoil: 0.24
+horizontalRecoil: 0.1
+drawTime: 0.9
+aimingTime: 0.25
+startDamage: 39.0
+damageDecreaseStart: 14.0
+endDamage: 21.0
+damageDecreaseEnd: 52.0
+maxDistance: 130.0

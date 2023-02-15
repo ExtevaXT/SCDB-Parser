@@ -1,0 +1,25 @@
+id: nqMw
+name: M4A1
+rank: Stalker
+class: 'Assault Rifles'
+weight: 2.948
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 34.0
+clipCapacity: 30.0
+maximumDistance: 150.0
+rateOfFire: 750.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.7
+hip-fireSpread: 3.0
+verticalRecoil: 0.35
+horizontalRecoil: 0.15
+drawTime: 0.9
+aimingTime: 0.25
+startDamage: 34.0
+damageDecreaseStart: 16.0
+endDamage: 26.0
+damageDecreaseEnd: 60.0
+maxDistance: 150.0

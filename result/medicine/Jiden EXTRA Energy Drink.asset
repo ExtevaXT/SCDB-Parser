@@ -1,0 +1,8 @@
+id: 2Zo7
+name: 'Jiden EXTRA Energy Drink'
+class: Medicine
+weight: 0.2
+purpose: 'Stamina Improvement'
+duration: 300.0
+movementSpeed: 2.0
+staminaRegeneration: 10.0

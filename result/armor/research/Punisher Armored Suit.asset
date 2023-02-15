@@ -1,0 +1,20 @@
+id: qD00
+name: 'Punisher Armored Suit'
+rank: Master
+class: Explorer
+weight: 22.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 8.0
+carryWeight: 20.0
+bulletResistance: 135.0
+meleeProtection: 160.0
+explosionProtection: 206.0
+resistanceToElectricity: 178.0
+resistanceToFire: 178.0
+resistanceToChemicals: 178.0
+radiationProtection: 210.0
+thermalProtection: 160.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 200.0
+bleedingProtection: 61.5

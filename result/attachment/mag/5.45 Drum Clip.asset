@@ -1,0 +1,10 @@
+id: 2RV7
+name: '5.45 Drum Clip'
+rank: Master
+class: Clips
+weight: 0.9
+clipSize: 75.0
+jamming: 0.0075
+rateOfFire: -0.99999905
+drawSpeed: 23.000002
+reloadTime: 39.999996

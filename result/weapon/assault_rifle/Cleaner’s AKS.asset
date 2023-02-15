@@ -1,0 +1,25 @@
+id: jaMq
+name: 'Cleaner’s AKS'
+rank: Newbie
+class: 'Assault Rifles'
+weight: 3.9
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.45'
+damage: 36.0
+clipCapacity: 30.0
+maximumDistance: 150.0
+rateOfFire: 600.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.858
+hip-fireSpread: 3.0
+verticalRecoil: 0.45
+horizontalRecoil: 0.2
+drawTime: 1.0
+aimingTime: 0.25
+startDamage: 36.0
+damageDecreaseStart: 12.0
+endDamage: 25.0
+damageDecreaseEnd: 70.0
+maxDistance: 150.0

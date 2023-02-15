@@ -1,0 +1,8 @@
+id: PbJx
+name: '12 Caliber Live Ammo'
+class: Ammo
+weight: 0.03
+armor-penetration: 20.0
+bleeding: 10.0
+spread: -60.000004
+stoppingPower: 75.0

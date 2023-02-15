@@ -1,0 +1,25 @@
+id: MO0D
+name: Fort-12
+rank: Newbie
+class: Pistols
+weight: 0.83
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 51.0
+clipCapacity: 12.0
+maximumDistance: 55.0
+rateOfFire: 400.0
+reload: 3.0
+tacticalReload: 2.25
+spread: 1.452
+hip-fireSpread: 2.7
+verticalRecoil: 0.35
+horizontalRecoil: 0.3
+drawTime: 0.4
+aimingTime: 0.15
+startDamage: 51.0
+damageDecreaseStart: 12.0
+endDamage: 18.0
+damageDecreaseEnd: 25.0
+maxDistance: 55.0

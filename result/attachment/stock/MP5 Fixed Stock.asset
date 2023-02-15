@@ -1,0 +1,8 @@
+id: K5ax
+name: 'MP5 Fixed Stock'
+class: Stocks
+weight: 0.25
+recoil: -2.9999971
+sway: -14.999998
+recoilBuildup: -19.999998
+stabilization: 14.999998

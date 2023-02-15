@@ -1,0 +1,21 @@
+id: 6XG0
+name: 'Khors Group ZIVCAS'
+rank: Master
+class: Combo
+weight: 26.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 25.0
+periodicHealing: 4.0
+bulletResistance: 102.0
+meleeProtection: 116.0
+explosionProtection: 183.0
+resistanceToElectricity: 533.0
+resistanceToFire: 533.0
+resistanceToChemicals: 1244.0
+radiationProtection: 240.0
+thermalProtection: 240.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 240.0
+bleedingProtection: 55.0

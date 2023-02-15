@@ -1,0 +1,24 @@
+id: NNPA
+name: 'SMG Nut'
+rank: Stalker
+class: 'Submachine Guns'
+weight: 1.9
+durability: 100.0
+max.Durability: 100.0
+ammoType: '10 mm'
+damage: 50.0
+clipCapacity: 24.0
+maximumDistance: 60.0
+rateOfFire: 700.0
+reload: 2.75
+spread: 0.499
+hip-fireSpread: 2.4
+verticalRecoil: 0.4
+horizontalRecoil: 0.2
+drawTime: 0.8
+aimingTime: 0.15
+startDamage: 50.0
+damageDecreaseStart: 6.0
+endDamage: 30.0
+damageDecreaseEnd: 28.0
+maxDistance: 60.0

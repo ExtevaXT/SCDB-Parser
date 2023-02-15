@@ -1,0 +1,8 @@
+id: Krnx
+name: '9 mm Incendiary Ammo'
+class: Ammo
+weight: 0.0045
+armor-penetration: 4.0
+bleeding: -45.0
+burning: 50.0
+stoppingPower: 75.0

@@ -1,0 +1,21 @@
+id: rbJ0
+name: 'Legionnaire Heavy Armored Suit'
+rank: Veteran
+class: Combat
+weight: 11.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -3.0
+carryWeight: 8.0
+bulletResistance: 136.0
+meleeProtection: 136.0
+explosionProtection: 189.0
+resistanceToElectricity: 53.0
+resistanceToFire: 53.0
+resistanceToChemicals: 53.0
+radiationProtection: 200.0
+thermalProtection: 30.0
+bioinfectionProtection: 150.0
+psy-emissionProtection: 140.0
+bleedingProtection: 59.0

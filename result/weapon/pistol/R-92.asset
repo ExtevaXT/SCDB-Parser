@@ -1,0 +1,24 @@
+id: oqY7
+name: R-92
+rank: Picklock
+class: Pistols
+weight: 0.52
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 58.0
+clipCapacity: 5.0
+maximumDistance: 45.0
+rateOfFire: 550.0
+reload: 2.0
+spread: 1.308
+hip-fireSpread: 2.6999998
+verticalRecoil: 0.6
+horizontalRecoil: 0.4
+drawTime: 0.4
+aimingTime: 0.1
+startDamage: 58.0
+damageDecreaseStart: 8.0
+endDamage: 17.0
+damageDecreaseEnd: 22.0
+maxDistance: 45.0

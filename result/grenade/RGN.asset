@@ -1,0 +1,9 @@
+id: rB2d
+name: RGN
+class: Grenades
+weight: 0.29
+damageAtCenter: 450.0
+minimumDamage: 25.0
+timeUntilDetonation: 3.25
+damageRange: 6.0
+fuseTime: 0.5

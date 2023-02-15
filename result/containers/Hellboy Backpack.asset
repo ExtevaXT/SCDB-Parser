@@ -1,0 +1,12 @@
+id: 2DEN
+name: 'Hellboy Backpack'
+rank: Stalker
+class: 'Backpacks and Containers'
+weight: 4.1
+durability: 100.0
+max.Durability: 100.0
+innerProtection: 60.000004
+effectiveness: 80.0
+capacity: 2.0
+stamina: 20.0
+carryWeight: 28.0

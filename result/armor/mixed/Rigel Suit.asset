@@ -1,0 +1,21 @@
+id: JLBQ
+name: 'Rigel Suit'
+rank: Master
+class: Combo
+weight: 32.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 20.0
+bulletResistance: 105.0
+meleeProtection: 116.0
+explosionProtection: 171.0
+resistanceToElectricity: 711.0
+resistanceToFire: 1200.0
+resistanceToChemicals: 711.0
+radiationProtection: 240.0
+thermalProtection: 270.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 240.0
+bleedingProtection: 52.0

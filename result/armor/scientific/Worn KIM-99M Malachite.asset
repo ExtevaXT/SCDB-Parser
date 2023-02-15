@@ -1,0 +1,18 @@
+id: OLQj
+name: 'Worn KIM-99M Malachite'
+rank: Stalker
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 42.0
+meleeProtection: 47.0
+explosionProtection: 57.0
+resistanceToElectricity: 516.0
+resistanceToFire: 516.0
+resistanceToChemicals: 516.0
+radiationProtection: 210.0
+thermalProtection: 210.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 120.0
+bleedingProtection: 31.0

@@ -1,0 +1,8 @@
+id: Bkmy
+name: 'Mossberg Stock'
+class: Stocks
+weight: 0.25
+recoil: -14.999998
+sway: -19.999998
+drawSpeed: 14.999998
+stabilization: 25.0

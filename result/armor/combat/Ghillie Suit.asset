@@ -1,0 +1,20 @@
+id: wQww
+name: 'Ghillie Suit'
+rank: Newbie
+class: Combat
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 8.0
+carryWeight: 10.0
+bulletResistance: 55.0
+meleeProtection: 71.0
+explosionProtection: 77.0
+resistanceToElectricity: 27.0
+resistanceToFire: 0.0
+resistanceToChemicals: 22.0
+radiationProtection: 100.0
+thermalProtection: 0.0
+bioinfectionProtection: 90.0
+psy-emissionProtection: 50.0
+bleedingProtection: 42.0

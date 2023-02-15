@@ -1,0 +1,7 @@
+id: w3Xq
+name: '5.56 SBP Ammo'
+class: Ammo
+weight: 0.012
+armor-penetration: 20.0
+bleeding: 5.0
+stoppingPower: 15.0

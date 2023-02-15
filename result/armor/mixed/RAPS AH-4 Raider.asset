@@ -1,0 +1,22 @@
+id: 8jZn
+name: 'RAPS AH-4 Raider'
+rank: Veteran
+class: Combo
+weight: 28.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 10.0
+periodicHealing: 2.0
+bulletResistance: 79.0
+meleeProtection: 93.0
+explosionProtection: 111.0
+resistanceToElectricity: 533.0
+resistanceToFire: 533.0
+resistanceToChemicals: 533.0
+radiationProtection: 210.0
+thermalProtection: 210.0
+bioinfectionProtection: 270.0
+psy-emissionProtection: 210.0
+bleedingProtection: 44.0

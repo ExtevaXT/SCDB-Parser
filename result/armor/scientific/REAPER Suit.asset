@@ -1,0 +1,19 @@
+id: nbgM
+name: 'REAPER Suit'
+rank: Veteran
+class: Scientist
+weight: 12.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 5.0
+bulletResistance: 63.0
+meleeProtection: 71.0
+explosionProtection: 86.0
+resistanceToElectricity: 773.0
+resistanceToFire: 773.0
+resistanceToChemicals: 773.0
+radiationProtection: 340.0
+thermalProtection: 340.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 310.0
+bleedingProtection: 40.0

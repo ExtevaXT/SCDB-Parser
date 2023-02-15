@@ -1,0 +1,9 @@
+id: gJMm
+name: 'Wooden Skeleton Stock'
+class: Stocks
+weight: 0.45
+recoil: -2.9999971
+sway: -19.999998
+drawSpeed: 10.000002
+recoilBuildup: -19.999998
+stabilization: 25.0

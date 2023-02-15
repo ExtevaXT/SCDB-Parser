@@ -1,0 +1,8 @@
+id: qDnJ
+name: '1st Class Psy-Blocker'
+class: Medicine
+weight: 0.1
+purpose: 'Psy-Emission Protection'
+duration: 240.0
+poison: 50.0
+psy-emissionResistance: 25.0

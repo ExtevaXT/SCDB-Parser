@@ -1,0 +1,25 @@
+id: jaKq
+name: 'OTs-14 Groza'
+rank: Master
+class: 'Assault Rifles'
+weight: 2.5500002
+durability: 100.0
+max.Durability: 100.0
+ammoType: 9x39
+damage: 43.0
+clipCapacity: 20.0
+maximumDistance: 150.0
+rateOfFire: 700.0
+reload: 3.75
+tacticalReload: 3.1
+spread: 0.581
+hip-fireSpread: 2.6999998
+verticalRecoil: 0.4
+horizontalRecoil: 0.17
+drawTime: 0.95
+aimingTime: 0.2
+startDamage: 43.0
+damageDecreaseStart: 16.0
+endDamage: 26.0
+damageDecreaseEnd: 70.0
+maxDistance: 150.0

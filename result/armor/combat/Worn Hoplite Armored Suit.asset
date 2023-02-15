@@ -1,0 +1,21 @@
+id: 6Xl7
+name: 'Worn Hoplite Armored Suit'
+rank: Stalker
+class: Combat
+weight: 10.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -8.0
+movementSpeed: -1.0
+carryWeight: 5.0
+bulletResistance: 91.0
+meleeProtection: 91.0
+explosionProtection: 126.0
+resistanceToElectricity: 36.0
+resistanceToFire: 36.0
+resistanceToChemicals: 36.0
+radiationProtection: 150.0
+thermalProtection: 20.0
+bioinfectionProtection: 120.0
+psy-emissionProtection: 60.0
+bleedingProtection: 49.0

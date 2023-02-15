@@ -1,0 +1,25 @@
+id: qwjJ
+name: 'FAMAS G2'
+rank: Master
+class: 'Assault Rifles'
+weight: 3.8
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 34.0
+clipCapacity: 30.0
+maximumDistance: 155.0
+rateOfFire: 1000.0
+reload: 3.75
+tacticalReload: 3.0
+spread: 0.545
+hip-fireSpread: 2.7
+verticalRecoil: 0.3
+horizontalRecoil: 0.12
+drawTime: 1.0
+aimingTime: 0.2
+startDamage: 34.0
+damageDecreaseStart: 14.0
+endDamage: 24.0
+damageDecreaseEnd: 65.0
+maxDistance: 155.0

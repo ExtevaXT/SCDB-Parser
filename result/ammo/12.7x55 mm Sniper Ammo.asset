@@ -1,0 +1,7 @@
+id: KrEx
+name: '12.7x55 mm Sniper Ammo'
+class: Ammo
+weight: 0.03
+armor-penetration: 30.0
+bleeding: 5.0
+stoppingPower: 40.0

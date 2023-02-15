@@ -1,0 +1,25 @@
+id: y17N
+name: PM
+rank: Picklock
+class: Pistols
+weight: 0.73
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 50.0
+clipCapacity: 8.0
+maximumDistance: 50.0
+rateOfFire: 400.0
+reload: 2.5
+tacticalReload: 2.0
+spread: 1.553
+hip-fireSpread: 2.701
+verticalRecoil: 0.4
+horizontalRecoil: 0.4
+drawTime: 0.45
+aimingTime: 0.25
+startDamage: 50.0
+damageDecreaseStart: 10.0
+endDamage: 17.0
+damageDecreaseEnd: 25.0
+maxDistance: 50.0

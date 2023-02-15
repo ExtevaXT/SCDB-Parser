@@ -1,0 +1,10 @@
+id: VzQG
+name: 'SN-1 Pancake'
+class: Devices
+weight: 4.5
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+passiveRange: 25.0
+activeRange: 10.0
+scanningAngle: 60.0

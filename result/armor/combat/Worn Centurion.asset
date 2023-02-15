@@ -1,0 +1,21 @@
+id: nb5a
+name: 'Worn Centurion'
+rank: Master
+class: Combat
+weight: 40.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -15.0
+movementSpeed: -3.0
+carryWeight: 25.0
+bulletResistance: 167.0
+meleeProtection: 167.0
+explosionProtection: 230.0
+resistanceToElectricity: 65.0
+resistanceToFire: 65.0
+resistanceToChemicals: 65.0
+radiationProtection: 200.0
+thermalProtection: 40.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 180.0
+bleedingProtection: 63.0

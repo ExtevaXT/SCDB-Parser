@@ -1,0 +1,8 @@
+id: QAX1
+name: 'Large-Caliber Silver Ammo'
+class: Ammo
+weight: 0.2
+absoluteDamage: 20.0
+armor-penetration: 60.0
+bleeding: 100.0
+stoppingPower: 100.0

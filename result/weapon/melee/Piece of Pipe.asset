@@ -1,0 +1,13 @@
+id: eaxD
+name: 'Piece of Pipe'
+rank: Newbie
+class: 'Melee Weapons'
+weight: 1.3
+quickAttack(min): 55.0
+quickAttack(max): 65.0
+strongAttack(min): 125.0
+strongAttack(max): 145.0
+weaponReach(quick): 1.8
+weaponReach(strong): 1.8
+penetration: 30.0
+chanceForADeepWound: 25.0

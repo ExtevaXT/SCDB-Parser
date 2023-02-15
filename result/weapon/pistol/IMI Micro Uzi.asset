@@ -1,0 +1,24 @@
+id: lOZK
+name: 'IMI Micro Uzi'
+rank: Newbie
+class: Pistols
+weight: 2.1000001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 33.0
+clipCapacity: 40.0
+maximumDistance: 50.0
+rateOfFire: 1100.0
+reload: 2.5
+spread: 2.607
+hip-fireSpread: 3.0
+verticalRecoil: 0.45
+horizontalRecoil: 0.2
+drawTime: 0.6
+aimingTime: 0.15
+startDamage: 33.0
+damageDecreaseStart: 10.0
+endDamage: 16.0
+damageDecreaseEnd: 26.0
+maxDistance: 50.0

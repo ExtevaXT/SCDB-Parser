@@ -1,0 +1,23 @@
+id: nj29
+name: 'Tonga Suit'
+rank: Veteran
+class: Combo
+weight: 17.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 20.0
+periodicHealing: 2.0
+radiation: -1.0
+bleeding: -0.5
+bulletResistance: 76.0
+meleeProtection: 87.0
+explosionProtection: 94.0
+resistanceToElectricity: 474.0
+resistanceToFire: 474.0
+resistanceToChemicals: 474.0
+radiationProtection: 240.0
+thermalProtection: 240.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 210.0
+bleedingProtection: 40.0

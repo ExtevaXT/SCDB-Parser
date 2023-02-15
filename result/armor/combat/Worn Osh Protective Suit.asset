@@ -1,0 +1,21 @@
+id: Bn5l
+name: 'Worn Osh Protective Suit'
+rank: Veteran
+class: Combat
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -1.0
+carryWeight: 8.0
+bulletResistance: 78.0
+meleeProtection: 233.0
+explosionProtection: 107.0
+resistanceToElectricity: 47.0
+resistanceToFire: 47.0
+resistanceToChemicals: 47.0
+radiationProtection: 200.0
+thermalProtection: 30.0
+bioinfectionProtection: 170.0
+psy-emissionProtection: 105.0
+bleedingProtection: 73.0

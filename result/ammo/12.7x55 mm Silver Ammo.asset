@@ -1,0 +1,8 @@
+id: m0M8
+name: '12.7x55 mm Silver Ammo'
+class: Ammo
+weight: 0.022
+absoluteDamage: 20.0
+armor-penetration: 15.0
+bleeding: 5.0
+stoppingPower: 40.0

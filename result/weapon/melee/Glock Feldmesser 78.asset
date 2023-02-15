@@ -1,0 +1,13 @@
+id: kaMk
+name: 'Glock Feldmesser 78'
+rank: Stalker
+class: 'Melee Weapons'
+weight: 0.245
+quickAttack(min): 40.0
+quickAttack(max): 50.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.8
+weaponReach(strong): 1.9
+penetration: 40.0
+chanceForADeepWound: 60.0

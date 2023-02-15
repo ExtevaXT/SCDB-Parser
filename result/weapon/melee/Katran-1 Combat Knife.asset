@@ -1,0 +1,13 @@
+id: 8O2J
+name: 'Katran-1 Combat Knife'
+rank: Master
+class: 'Melee Weapons'
+weight: 0.32
+quickAttack(min): 50.0
+quickAttack(max): 60.0
+strongAttack(min): 120.0
+strongAttack(max): 140.0
+weaponReach(quick): 1.9
+weaponReach(strong): 1.9
+penetration: 80.0
+chanceForADeepWound: 50.0

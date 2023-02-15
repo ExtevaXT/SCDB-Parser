@@ -1,0 +1,8 @@
+id: 5e6a
+name: RGD-5
+class: Grenades
+weight: 0.3
+damageAtCenter: 450.0
+minimumDamage: 25.0
+timeUntilDetonation: 3.25
+damageRange: 7.5

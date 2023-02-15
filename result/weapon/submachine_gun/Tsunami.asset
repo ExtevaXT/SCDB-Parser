@@ -1,0 +1,24 @@
+id: BMyl
+name: Tsunami
+rank: Newbie
+class: 'Submachine Guns'
+weight: 1.74
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 35.0
+clipCapacity: 30.0
+maximumDistance: 80.0
+rateOfFire: 1000.0
+reload: 2.55
+spread: 1.618
+hip-fireSpread: 2.401
+verticalRecoil: 0.32
+horizontalRecoil: 0.17
+drawTime: 0.75
+aimingTime: 0.15
+startDamage: 35.0
+damageDecreaseStart: 8.0
+endDamage: 12.0
+damageDecreaseEnd: 25.0
+maxDistance: 80.0

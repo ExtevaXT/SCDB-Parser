@@ -1,0 +1,9 @@
+id: 3grl
+name: 'M381 Grenade Round'
+class: Grenades
+weight: 0.23
+damageAtCenter: 450.0
+minimumDamage: 25.0
+timeUntilDetonation: 8.0
+damageRange: 6.0
+fuseTime: 0.25

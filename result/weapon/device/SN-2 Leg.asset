@@ -1,0 +1,10 @@
+id: gKnN
+name: 'SN-2 Leg'
+class: Devices
+weight: 4.2
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+passiveRange: 30.0
+activeRange: 30.0
+scanningAngle: 30.0

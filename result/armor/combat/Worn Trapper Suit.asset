@@ -1,0 +1,19 @@
+id: wQoy
+name: 'Worn Trapper Suit'
+rank: Newbie
+class: Combat
+weight: 6.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 5.0
+bulletResistance: 39.0
+meleeProtection: 112.0
+explosionProtection: 53.0
+resistanceToElectricity: 24.0
+resistanceToFire: 24.0
+resistanceToChemicals: 24.0
+radiationProtection: 105.0
+thermalProtection: 20.0
+bioinfectionProtection: 105.0
+psy-emissionProtection: 20.0
+bleedingProtection: 59.0

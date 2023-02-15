@@ -1,0 +1,22 @@
+id: bbqO
+name: 'Worn AH-6 Nomad'
+rank: Master
+class: Combo
+weight: 24.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 15.0
+periodicHealing: 2.7
+bulletResistance: 97.0
+meleeProtection: 113.0
+explosionProtection: 136.0
+resistanceToElectricity: 652.0
+resistanceToFire: 652.0
+resistanceToChemicals: 652.0
+radiationProtection: 240.0
+thermalProtection: 240.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 225.0
+bleedingProtection: 52.0

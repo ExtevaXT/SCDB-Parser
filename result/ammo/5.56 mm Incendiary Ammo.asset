@@ -1,0 +1,8 @@
+id: G7E7
+name: '5.56 mm Incendiary Ammo'
+class: Ammo
+weight: 0.006
+armor-penetration: 8.0
+bleeding: -45.0
+burning: 50.0
+stoppingPower: 40.0

@@ -1,0 +1,21 @@
+id: y8a6
+name: 'Magnet Suit'
+rank: Veteran
+class: Combo
+weight: 15.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 20.0
+periodicHealing: 1.0
+bulletResistance: 68.0
+meleeProtection: 78.0
+explosionProtection: 84.0
+resistanceToElectricity: 421.0
+resistanceToFire: 421.0
+resistanceToChemicals: 421.0
+radiationProtection: 200.0
+thermalProtection: 190.0
+bioinfectionProtection: 290.0
+psy-emissionProtection: 190.0
+bleedingProtection: 38.0

@@ -1,0 +1,19 @@
+id: 8EQJ
+name: 'Worn Saturn Suit'
+rank: Master
+class: Scientist
+weight: 13.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 6.0
+bulletResistance: 77.0
+meleeProtection: 87.0
+explosionProtection: 105.0
+resistanceToElectricity: 945.0
+resistanceToFire: 945.0
+resistanceToChemicals: 945.0
+radiationProtection: 370.0
+thermalProtection: 370.0
+bioinfectionProtection: 405.0
+psy-emissionProtection: 370.0
+bleedingProtection: 45.0

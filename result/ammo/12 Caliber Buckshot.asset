@@ -1,0 +1,9 @@
+id: 2D9P
+name: '12 Caliber Buckshot'
+class: Ammo
+weight: 0.03
+numberOfProjectiles: 20.0
+damage: 49.999977
+bleeding: 0.25
+stoppingPower: 50.0
+damageAtRange: -65.0

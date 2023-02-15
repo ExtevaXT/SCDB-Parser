@@ -1,0 +1,9 @@
+id: lLod
+name: 'Elbrus Short Range Detector'
+rank: Veteran
+class: Devices
+weight: 0.6
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+range: 120.0

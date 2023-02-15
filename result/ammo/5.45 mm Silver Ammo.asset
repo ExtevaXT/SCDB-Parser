@@ -1,0 +1,7 @@
+id: JNX1
+name: '5.45 mm Silver Ammo'
+class: Ammo
+weight: 0.01
+absoluteDamage: 20.0
+bleeding: 5.0
+stoppingPower: 25.0

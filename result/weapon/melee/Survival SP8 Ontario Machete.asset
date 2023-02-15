@@ -1,0 +1,13 @@
+id: w1BA
+name: 'Survival SP8 Ontario Machete'
+rank: Stalker
+class: 'Melee Weapons'
+weight: 0.63
+quickAttack(min): 50.0
+quickAttack(max): 60.0
+strongAttack(min): 120.0
+strongAttack(max): 140.0
+weaponReach(quick): 1.9
+weaponReach(strong): 1.9
+penetration: 40.0
+chanceForADeepWound: 35.0

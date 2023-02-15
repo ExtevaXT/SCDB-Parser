@@ -1,0 +1,23 @@
+id: gD6n
+name: 'Albatross Scout Armored Exoskeleton'
+rank: Veteran
+class: Combo
+weight: 18.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 15.0
+carryWeight: 20.0
+radiation: -1.0
+psy-emissions: -1.0
+bleeding: -0.5
+bulletResistance: 73.0
+meleeProtection: 121.0
+explosionProtection: 124.0
+resistanceToElectricity: 278.0
+resistanceToFire: 278.0
+resistanceToChemicals: 278.0
+radiationProtection: 240.0
+thermalProtection: 100.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 240.0
+bleedingProtection: 56.0

@@ -1,0 +1,13 @@
+id: Xn3j
+name: Twitcher
+rank: Veteran
+class: 'Melee Weapons'
+weight: 0.28
+quickAttack(min): 40.0
+quickAttack(max): 50.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.7
+weaponReach(strong): 1.8
+penetration: 20.0
+chanceForADeepWound: 30.0

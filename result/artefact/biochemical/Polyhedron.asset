@@ -1,0 +1,7 @@
+id: D1eX
+name: Polyhedron
+class: Biochemical
+weight: 0.05
+common: 'Not studied'
+charge: 100.0
+max.Charge: 100.0

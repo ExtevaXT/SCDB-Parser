@@ -1,0 +1,6 @@
+id: BOry
+name: '9 mm Ammo'
+class: Ammo
+weight: 0.009
+bleeding: 5.0
+stoppingPower: 50.0

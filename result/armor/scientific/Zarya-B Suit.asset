@@ -1,0 +1,18 @@
+id: XqZk
+name: 'Zarya-B Suit'
+rank: Newbie
+class: Scientist
+weight: 5.2
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 21.0
+meleeProtection: 24.0
+explosionProtection: 29.0
+resistanceToElectricity: 178.0
+resistanceToFire: 178.0
+resistanceToChemicals: 178.0
+radiationProtection: 120.0
+thermalProtection: 105.0
+bioinfectionProtection: 180.0
+psy-emissionProtection: 90.0
+bleedingProtection: 18.0

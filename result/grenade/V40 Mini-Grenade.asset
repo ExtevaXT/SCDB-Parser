@@ -1,0 +1,8 @@
+id: l03r
+name: 'V40 Mini-Grenade'
+class: Grenades
+weight: 0.136
+damageAtCenter: 400.0
+minimumDamage: 75.0
+timeUntilDetonation: 2.0
+damageRange: 5.0

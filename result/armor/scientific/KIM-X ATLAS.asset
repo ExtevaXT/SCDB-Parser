@@ -1,0 +1,22 @@
+id: zxzq
+name: 'KIM-X ATLAS'
+rank: Master
+class: Scientist
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -15.0
+carryWeight: 4.0
+radiation: -2.0
+bleeding: -0.5
+bulletResistance: 64.0
+meleeProtection: 81.0
+explosionProtection: 80.0
+resistanceToElectricity: 840.0
+resistanceToFire: 840.0
+resistanceToChemicals: 840.0
+radiationProtection: 385.0
+thermalProtection: 370.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 310.0
+bleedingProtection: 35.0

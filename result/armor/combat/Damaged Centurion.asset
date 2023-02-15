@@ -1,0 +1,21 @@
+id: Vqw2
+name: 'Damaged Centurion'
+rank: Veteran
+class: Combat
+weight: 40.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -15.0
+movementSpeed: -3.0
+carryWeight: 25.0
+bulletResistance: 152.0
+meleeProtection: 152.0
+explosionProtection: 210.0
+resistanceToElectricity: 59.0
+resistanceToFire: 59.0
+resistanceToChemicals: 59.0
+radiationProtection: 200.0
+thermalProtection: 30.0
+bioinfectionProtection: 180.0
+psy-emissionProtection: 160.0
+bleedingProtection: 61.0

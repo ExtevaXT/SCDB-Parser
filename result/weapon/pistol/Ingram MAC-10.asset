@@ -1,0 +1,25 @@
+id: 32XR
+name: 'Ingram MAC-10'
+rank: Newbie
+class: Pistols
+weight: 2.8500001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 35.0
+clipCapacity: 32.0
+maximumDistance: 50.0
+rateOfFire: 900.0
+reload: 2.5
+tacticalReload: 2.0
+spread: 2.396
+hip-fireSpread: 3.0
+verticalRecoil: 0.38
+horizontalRecoil: 0.22
+drawTime: 0.6
+aimingTime: 0.15
+startDamage: 35.0
+damageDecreaseStart: 10.0
+endDamage: 17.0
+damageDecreaseEnd: 26.0
+maxDistance: 50.0

@@ -1,0 +1,13 @@
+id: xEOl
+name: Misericorde
+rank: Master
+class: 'Melee Weapons'
+weight: 0.32
+quickAttack(min): 40.0
+quickAttack(max): 50.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.8
+weaponReach(strong): 1.9
+penetration: 80.0
+chanceForADeepWound: 70.0

@@ -1,0 +1,23 @@
+id: mbKo
+name: 'Expedition Suit'
+rank: Veteran
+class: Combo
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: 2.0
+periodicHealing: 1.5
+radiation: -2.0
+bleeding: -0.5
+bulletResistance: 79.0
+meleeProtection: 93.0
+explosionProtection: 111.0
+resistanceToElectricity: 474.0
+resistanceToFire: 474.0
+resistanceToChemicals: 474.0
+radiationProtection: 200.0
+thermalProtection: 200.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 200.0
+bleedingProtection: 44.0

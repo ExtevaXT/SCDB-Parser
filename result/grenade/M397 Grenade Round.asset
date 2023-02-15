@@ -1,0 +1,9 @@
+id: VADg
+name: 'M397 Grenade Round'
+class: Grenades
+weight: 0.25
+damageAtCenter: 500.0
+minimumDamage: 35.0
+timeUntilDetonation: 8.0
+damageRange: 8.0
+fuseTime: 0.25

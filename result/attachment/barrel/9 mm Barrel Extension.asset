@@ -1,0 +1,9 @@
+id: dJnq
+name: '9 mm Barrel Extension'
+rank: Veteran
+class: 'Muzzles and Silencers'
+weight: 0.2
+distance: 20.000004
+recoil: 25.0
+spread: -19.999998
+damageAtRange: 14.999998

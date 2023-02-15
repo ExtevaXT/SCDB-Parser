@@ -1,0 +1,22 @@
+id: 1LNO
+name: 'RAPS AH-6 Nomad'
+rank: Master
+class: Combo
+weight: 24.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 15.0
+periodicHealing: 3.0
+bulletResistance: 105.0
+meleeProtection: 124.0
+explosionProtection: 149.0
+resistanceToElectricity: 711.0
+resistanceToFire: 711.0
+resistanceToChemicals: 711.0
+radiationProtection: 240.0
+thermalProtection: 240.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 240.0
+bleedingProtection: 53.0

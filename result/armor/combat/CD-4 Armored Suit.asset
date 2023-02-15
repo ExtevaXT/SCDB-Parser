@@ -1,0 +1,20 @@
+id: PYVY
+name: 'CD-4 Armored Suit'
+rank: Master
+class: Combat
+weight: 16.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 15.0
+bulletResistance: 153.0
+meleeProtection: 202.0
+explosionProtection: 219.0
+resistanceToElectricity: 167.0
+resistanceToFire: 167.0
+resistanceToChemicals: 167.0
+radiationProtection: 200.0
+thermalProtection: 100.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 200.0
+bleedingProtection: 67.0

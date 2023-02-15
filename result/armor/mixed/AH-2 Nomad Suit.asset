@@ -1,0 +1,20 @@
+id: NQmA
+name: 'AH-2 Nomad Suit'
+rank: Newbie
+class: Combo
+weight: 4.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+periodicHealing: 1.25
+bulletResistance: 40.0
+meleeProtection: 46.0
+explosionProtection: 56.0
+resistanceToElectricity: 267.0
+resistanceToFire: 267.0
+resistanceToChemicals: 267.0
+radiationProtection: 135.0
+thermalProtection: 135.0
+bioinfectionProtection: 135.0
+psy-emissionProtection: 90.0
+bleedingProtection: 28.0

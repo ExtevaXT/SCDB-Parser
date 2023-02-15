@@ -1,0 +1,13 @@
+id: GJak
+name: 'Cossack Shashka'
+rank: Master
+class: 'Melee Weapons'
+weight: 0.76
+quickAttack(min): 50.0
+quickAttack(max): 60.0
+strongAttack(min): 120.0
+strongAttack(max): 140.0
+weaponReach(quick): 1.9
+weaponReach(strong): 1.9
+penetration: 80.0
+chanceForADeepWound: 45.0

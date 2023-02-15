@@ -1,0 +1,25 @@
+id: 928V
+name: 'Desert Eagle Mark XIX'
+rank: Veteran
+class: Pistols
+weight: 1.9000001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 72.0
+clipCapacity: 7.0
+maximumDistance: 65.0
+rateOfFire: 350.0
+reload: 2.3
+tacticalReload: 1.95
+spread: 0.857
+hip-fireSpread: 2.7
+verticalRecoil: 0.8
+horizontalRecoil: 0.5
+drawTime: 0.5
+aimingTime: 0.2
+startDamage: 72.0
+damageDecreaseStart: 15.0
+endDamage: 30.0
+damageDecreaseEnd: 38.0
+maxDistance: 65.0

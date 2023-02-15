@@ -1,0 +1,25 @@
+id: kaNG
+name: 'IWI Tavor X95'
+rank: Master
+class: 'Assault Rifles'
+weight: 3.8
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 35.0
+clipCapacity: 30.0
+maximumDistance: 155.0
+rateOfFire: 900.0
+reload: 3.75
+tacticalReload: 3.0
+spread: 0.526
+hip-fireSpread: 2.7
+verticalRecoil: 0.28
+horizontalRecoil: 0.13
+drawTime: 1.0
+aimingTime: 0.2
+startDamage: 35.0
+damageDecreaseStart: 15.0
+endDamage: 26.0
+damageDecreaseEnd: 60.0
+maxDistance: 155.0

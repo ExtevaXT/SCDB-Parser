@@ -1,0 +1,18 @@
+id: k9D9
+name: 'Leather Jacket'
+rank: Picklock
+class: Clothing
+weight: 1.0
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 6.0
+meleeProtection: 11.0
+explosionProtection: 6.0
+resistanceToElectricity: 11.0
+resistanceToFire: 11.0
+resistanceToChemicals: 11.0
+radiationProtection: 0.0
+thermalProtection: 0.0
+bioinfectionProtection: 0.0
+psy-emissionProtection: 0.0
+bleedingProtection: 7.0

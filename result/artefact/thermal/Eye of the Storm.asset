@@ -1,0 +1,7 @@
+id: NMaj
+name: 'Eye of the Storm'
+class: Thermal
+weight: 0.15
+common: 'Not studied'
+charge: 100.0
+max.Charge: 100.0

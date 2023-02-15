@@ -1,0 +1,24 @@
+id: 92aQ
+name: МР-153
+rank: Stalker
+class: 'Shotguns and Rifles'
+weight: 3.51
+durability: 100.0
+max.Durability: 100.0
+ammoType: '12 caliber'
+damage: 180.0
+clipCapacity: 4.0
+maximumDistance: 65.0
+rateOfFire: 220.0
+reload: 3.1
+spread: 3.713
+hip-fireSpread: 4.501
+verticalRecoil: 5.0
+horizontalRecoil: 1.0
+drawTime: 0.85
+aimingTime: 0.3
+startDamage: 180.0
+damageDecreaseStart: 10.0
+endDamage: 40.0
+damageDecreaseEnd: 34.0
+maxDistance: 65.0

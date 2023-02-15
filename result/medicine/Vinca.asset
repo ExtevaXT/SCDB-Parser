@@ -1,0 +1,9 @@
+id: kqyG
+name: Vinca
+class: Medicine
+weight: 0.05
+purpose: 'Bleeding Protection'
+duration: 300.0
+poison: 20.0
+bleedingProtection: 10.0
+bleeding: -0.5

@@ -1,0 +1,8 @@
+id: DVKJ
+name: 'SureFire SOCOM556-RC2 Silencer'
+rank: Stalker
+class: 'Muzzles and Silencers'
+weight: 0.48
+spread: -9.000004
+drawSpeed: 10.000002
+damageAtRange: -22.000004

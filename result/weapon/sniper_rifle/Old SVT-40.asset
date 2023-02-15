@@ -1,0 +1,25 @@
+id: MOe1
+name: 'Old SVT-40'
+rank: Picklock
+class: 'Sniper Rifles'
+weight: 3.8
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 69.0
+clipCapacity: 10.0
+maximumDistance: 165.0
+rateOfFire: 180.0
+reload: 3.75
+spread: 0.187
+hip-fireSpread: 4.5829997
+verticalRecoil: 1.05
+horizontalRecoil: 0.45
+drawTime: 1.15
+aimingTime: 0.5
+stoppingPower: 20.0
+startDamage: 69.0
+damageDecreaseStart: 26.0
+endDamage: 55.2
+damageDecreaseEnd: 100.0
+maxDistance: 165.0

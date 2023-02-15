@@ -1,0 +1,25 @@
+id: KPE8
+name: PMM
+rank: Picklock
+class: Pistols
+weight: 0.76
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 52.0
+clipCapacity: 12.0
+maximumDistance: 50.0
+rateOfFire: 390.0
+reload: 2.5
+tacticalReload: 2.0
+spread: 1.606
+hip-fireSpread: 2.25
+verticalRecoil: 0.52
+horizontalRecoil: 0.4
+drawTime: 0.5
+aimingTime: 0.25
+startDamage: 52.0
+damageDecreaseStart: 10.0
+endDamage: 18.0
+damageDecreaseEnd: 26.0
+maxDistance: 50.0

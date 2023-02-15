@@ -1,0 +1,7 @@
+id: qeVw
+name: 'MTs-558 Silencer'
+rank: Master
+class: 'Muzzles and Silencers'
+weight: 1.1
+drawSpeed: 20.000004
+damageAtRange: -10.000002

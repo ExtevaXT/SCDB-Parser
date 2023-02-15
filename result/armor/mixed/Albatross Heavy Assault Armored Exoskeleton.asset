@@ -1,0 +1,21 @@
+id: RY6y
+name: 'Albatross Heavy Assault Armored Exoskeleton'
+rank: Legend
+class: Combo
+weight: 37.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 30.0
+radiation: -1.0
+bleeding: -1.0
+bulletResistance: 167.0
+meleeProtection: 167.0
+explosionProtection: 238.0
+resistanceToElectricity: 278.0
+resistanceToFire: 278.0
+resistanceToChemicals: 278.0
+radiationProtection: 210.0
+thermalProtection: 210.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 210.0
+bleedingProtection: 65.0

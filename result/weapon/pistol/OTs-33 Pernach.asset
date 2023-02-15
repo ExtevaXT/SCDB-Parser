@@ -1,0 +1,25 @@
+id: XnAX
+name: 'OTs-33 Pernach'
+rank: Veteran
+class: Pistols
+weight: 1.1500001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 45.0
+clipCapacity: 18.0
+maximumDistance: 55.0
+rateOfFire: 800.0
+reload: 2.4
+tacticalReload: 2.1
+spread: 0.965
+hip-fireSpread: 3.0
+verticalRecoil: 0.4
+horizontalRecoil: 0.25
+drawTime: 0.65
+aimingTime: 0.3
+startDamage: 45.0
+damageDecreaseStart: 12.0
+endDamage: 16.0
+damageDecreaseEnd: 30.0
+maxDistance: 55.0

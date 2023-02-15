@@ -1,0 +1,6 @@
+id: xgXa
+name: '5.56 mm Ammo'
+class: Ammo
+weight: 0.012
+bleeding: 5.0
+stoppingPower: 25.0

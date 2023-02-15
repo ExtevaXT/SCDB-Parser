@@ -1,0 +1,25 @@
+id: 75Qa
+name: 'PKP Pecheneg'
+rank: Master
+class: 'Machine Guns'
+weight: 8.2
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 45.0
+clipCapacity: 100.0
+maximumDistance: 180.0
+rateOfFire: 650.0
+reload: 7.0
+tacticalReload: 6.25
+spread: 0.419
+hip-fireSpread: 2.8
+verticalRecoil: 0.66
+horizontalRecoil: 0.27
+drawTime: 1.25
+aimingTime: 0.4
+startDamage: 45.0
+damageDecreaseStart: 25.0
+endDamage: 31.0
+damageDecreaseEnd: 88.0
+maxDistance: 180.0

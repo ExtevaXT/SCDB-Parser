@@ -1,0 +1,9 @@
+id: 0P9q
+name: '12 Caliber Incendiary'
+class: Ammo
+weight: 0.015
+numberOfProjectiles: 20.0
+damage: 49.999977
+burning: 50.0
+stoppingPower: 50.0
+damageAtRange: -50.0

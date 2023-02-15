@@ -1,0 +1,8 @@
+id: Vo8a
+name: 'JS Silencer'
+rank: Picklock
+class: 'Muzzles and Silencers'
+weight: 0.12
+spread: -4.000002
+drawSpeed: 4.999995
+damageAtRange: -30.000002

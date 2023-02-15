@@ -1,0 +1,21 @@
+id: 0blO
+name: 'SBA TANK'
+rank: Master
+class: Combat
+weight: 35.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -35.0
+movementSpeed: -15.0
+carryWeight: 10.0
+bulletResistance: 240.0
+meleeProtection: 291.0
+explosionProtection: 297.0
+resistanceToElectricity: 53.0
+resistanceToFire: 53.0
+resistanceToChemicals: 53.0
+radiationProtection: 200.0
+thermalProtection: 50.0
+bioinfectionProtection: 100.0
+psy-emissionProtection: 190.0
+bleedingProtection: 75.0

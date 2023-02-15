@@ -1,0 +1,7 @@
+id: X9AX
+name: '7.62 mm Sniper Ammo'
+class: Ammo
+weight: 0.022
+armor-penetration: 27.5
+bleeding: 5.0
+stoppingPower: 25.0

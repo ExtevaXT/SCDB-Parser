@@ -1,0 +1,8 @@
+id: 1rPj
+name: '7.62 mm Incendiary Ammo'
+class: Ammo
+weight: 0.008
+armor-penetration: 14.0
+bleeding: -45.0
+burning: 50.0
+stoppingPower: 40.0

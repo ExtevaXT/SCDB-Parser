@@ -1,0 +1,20 @@
+id: 3j7Z
+name: 'PS-1 Picklock'
+rank: Picklock
+class: Combo
+weight: 4.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+carryWeight: 3.0
+bulletResistance: 17.0
+meleeProtection: 21.0
+explosionProtection: 27.0
+resistanceToElectricity: 89.0
+resistanceToFire: 89.0
+resistanceToChemicals: 89.0
+radiationProtection: 100.0
+thermalProtection: 30.0
+bioinfectionProtection: 100.0
+psy-emissionProtection: 0.0
+bleedingProtection: 12.0

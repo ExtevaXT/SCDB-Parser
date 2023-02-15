@@ -1,0 +1,8 @@
+id: 9L5g
+name: '3rd Class Psy-Blocker'
+class: Medicine
+weight: 0.1
+purpose: 'Psy-Emission Protection'
+duration: 240.0
+poison: 50.0
+psy-emissionResistance: 50.0

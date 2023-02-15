@@ -1,0 +1,13 @@
+id: GLj9
+name: 'Guide’s First-Aid Kit'
+class: Medicine
+weight: 0.2
+purpose: Healing
+duration: 10.0
+staminaRegeneration: 15.0
+periodicHealing: 6.5
+radiationResistance: 30.0
+bioinfectionResistance: 30.0
+radiation: -5.0
+biologicalInfection: -5.0
+bleeding: -1.5

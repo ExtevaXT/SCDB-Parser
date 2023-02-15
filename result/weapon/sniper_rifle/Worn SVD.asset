@@ -1,0 +1,26 @@
+id: 20wg
+name: 'Worn SVD'
+rank: Stalker
+class: 'Sniper Rifles'
+weight: 4.83
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 80.0
+clipCapacity: 10.0
+maximumDistance: 180.0
+rateOfFire: 190.0
+reload: 3.3
+tacticalReload: 2.7
+spread: 0.083
+hip-fireSpread: 4.5
+verticalRecoil: 1.0
+horizontalRecoil: 0.45
+drawTime: 0.9
+aimingTime: 0.4
+stoppingPower: 40.0
+startDamage: 80.0
+damageDecreaseStart: 32.0
+endDamage: 64.0
+damageDecreaseEnd: 110.0
+maxDistance: 180.0

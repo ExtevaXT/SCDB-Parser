@@ -1,0 +1,27 @@
+id: AMXD
+name: 'McMillan CS5'
+rank: Master
+class: 'Sniper Rifles'
+weight: 5.3
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 106.0
+clipCapacity: 5.0
+maximumDistance: 230.0
+rateOfFire: 40.0
+reload: 4.0
+spread: 0.03
+hip-fireSpread: 4.5
+verticalRecoil: 1.6
+horizontalRecoil: 0.4
+drawTime: 1.2
+aimingTime: 0.45
+armor-penetration: 12.5
+bleeding: 95.0
+stoppingPower: 200.0
+startDamage: 106.0
+damageDecreaseStart: 40.0
+endDamage: 106.0
+damageDecreaseEnd: 120.0
+maxDistance: 230.0

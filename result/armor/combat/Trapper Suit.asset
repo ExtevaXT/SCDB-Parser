@@ -1,0 +1,19 @@
+id: GQxw
+name: 'Trapper Suit'
+rank: Newbie
+class: Combat
+weight: 6.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 6.0
+bulletResistance: 44.0
+meleeProtection: 125.0
+explosionProtection: 60.0
+resistanceToElectricity: 27.0
+resistanceToFire: 27.0
+resistanceToChemicals: 27.0
+radiationProtection: 120.0
+thermalProtection: 20.0
+bioinfectionProtection: 120.0
+psy-emissionProtection: 20.0
+bleedingProtection: 62.0

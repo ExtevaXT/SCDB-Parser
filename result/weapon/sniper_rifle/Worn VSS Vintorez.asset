@@ -1,0 +1,26 @@
+id: JJ3K
+name: 'Worn VSS Vintorez'
+rank: Veteran
+class: 'Sniper Rifles'
+weight: 3.9099998
+durability: 100.0
+max.Durability: 100.0
+ammoType: 9x39
+damage: 39.0
+clipCapacity: 20.0
+maximumDistance: 165.0
+rateOfFire: 590.0
+reload: 3.5
+tacticalReload: 2.6
+spread: 0.23
+hip-fireSpread: 3.771
+verticalRecoil: 0.3
+horizontalRecoil: 0.14
+drawTime: 1.0
+aimingTime: 0.25
+stoppingPower: 20.0
+startDamage: 39.0
+damageDecreaseStart: 20.0
+endDamage: 29.0
+damageDecreaseEnd: 65.0
+maxDistance: 165.0

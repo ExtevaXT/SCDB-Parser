@@ -1,0 +1,8 @@
+id: RYeb
+name: '2nd Class ThermoBlock'
+class: Medicine
+weight: 0.05
+purpose: 'Thermal Protection'
+duration: 240.0
+poison: 50.0
+thermalResistance: 35.0

@@ -1,0 +1,21 @@
+id: ERV1
+name: 'Worn AH-3 Seeker Suit'
+rank: Stalker
+class: Combo
+weight: 7.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 3.0
+periodicHealing: 1.25
+bulletResistance: 53.0
+meleeProtection: 62.0
+explosionProtection: 74.0
+resistanceToElectricity: 356.0
+resistanceToFire: 356.0
+resistanceToChemicals: 356.0
+radiationProtection: 180.0
+thermalProtection: 180.0
+bioinfectionProtection: 195.0
+psy-emissionProtection: 150.0
+bleedingProtection: 38.0

@@ -1,0 +1,10 @@
+id: l61K
+name: 'Army First-Aid Kit'
+class: Medicine
+weight: 0.2
+purpose: Healing
+duration: 10.0
+staminaRegeneration: 10.0
+periodicHealing: 6.0
+radiation: -5.0
+bleeding: -1.5

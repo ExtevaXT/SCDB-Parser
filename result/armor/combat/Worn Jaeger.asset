@@ -1,0 +1,21 @@
+id: 3jdD
+name: 'Worn Jaeger'
+rank: Veteran
+class: Combat
+weight: 32.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -15.0
+movementSpeed: -3.0
+carryWeight: 25.0
+bulletResistance: 92.0
+meleeProtection: 276.0
+explosionProtection: 127.0
+resistanceToElectricity: 56.0
+resistanceToFire: 56.0
+resistanceToChemicals: 56.0
+radiationProtection: 200.0
+thermalProtection: 30.0
+bioinfectionProtection: 190.0
+psy-emissionProtection: 170.0
+bleedingProtection: 77.0

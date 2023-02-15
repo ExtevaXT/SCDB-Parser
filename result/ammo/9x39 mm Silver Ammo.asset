@@ -1,0 +1,8 @@
+id: DNXV
+name: '9x39 mm Silver Ammo'
+class: Ammo
+weight: 0.02
+absoluteDamage: 20.0
+armor-penetration: 10.0
+bleeding: 5.0
+stoppingPower: 20.0

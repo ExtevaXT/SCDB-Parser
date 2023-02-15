@@ -1,0 +1,9 @@
+id: JLZ1
+name: “Hercules”
+class: Medicine
+weight: 0.2
+purpose: 'Strength Improvement'
+duration: 300.0
+poison: 15.0
+stamina: 100.0
+carryWeight: 15.0

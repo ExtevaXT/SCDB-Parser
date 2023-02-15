@@ -1,0 +1,18 @@
+id: Bn3l
+name: 'AH-1 Drifter Suit'
+rank: Newbie
+class: Combo
+weight: 4.0
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 26.0
+meleeProtection: 31.0
+explosionProtection: 37.0
+resistanceToElectricity: 178.0
+resistanceToFire: 178.0
+resistanceToChemicals: 178.0
+radiationProtection: 100.0
+thermalProtection: 100.0
+bioinfectionProtection: 100.0
+psy-emissionProtection: 20.0
+bleedingProtection: 21.0

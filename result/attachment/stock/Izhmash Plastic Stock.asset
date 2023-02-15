@@ -1,0 +1,9 @@
+id: nxlA
+name: 'Izhmash Plastic Stock'
+class: Stocks
+weight: 0.3
+recoil: -1.9999981
+sway: -14.999998
+drawSpeed: 2.9999971
+recoilBuildup: -14.999998
+stabilization: 14.999998

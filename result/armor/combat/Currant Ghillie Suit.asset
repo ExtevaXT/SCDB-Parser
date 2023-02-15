@@ -1,0 +1,19 @@
+id: yLx9
+name: 'Currant Ghillie Suit'
+rank: Picklock
+class: Combat
+weight: 3.2
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 3.0
+bulletResistance: 38.0
+meleeProtection: 40.0
+explosionProtection: 52.0
+resistanceToElectricity: 15.0
+resistanceToFire: 15.0
+resistanceToChemicals: 15.0
+radiationProtection: 30.0
+thermalProtection: 0.0
+bioinfectionProtection: 30.0
+psy-emissionProtection: 0.0
+bleedingProtection: 31.0

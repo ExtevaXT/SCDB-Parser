@@ -1,0 +1,12 @@
+id: y8Mx
+name: 'Scientific First-Aid Kit'
+class: Medicine
+weight: 0.2
+purpose: Healing
+duration: 12.0
+periodicHealing: 5.0
+radiationResistance: 25.0
+bioinfectionResistance: 25.0
+radiation: -10.0
+biologicalInfection: -10.0
+bleeding: -1.0

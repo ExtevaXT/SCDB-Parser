@@ -1,0 +1,8 @@
+id: 8EM3
+name: Vodka
+class: Medicine
+weight: 0.5
+purpose: 'Weak Radiation Cleansing'
+duration: 600.0
+poison: 25.0
+radiation: -1.5

@@ -1,0 +1,21 @@
+id: 2jbo
+name: 'Worn Exoskeleton'
+rank: Veteran
+class: Explorer
+weight: 27.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -16.0
+movementSpeed: -3.0
+carryWeight: 25.0
+bulletResistance: 118.0
+meleeProtection: 120.0
+explosionProtection: 171.0
+resistanceToElectricity: 80.0
+resistanceToFire: 80.0
+resistanceToChemicals: 80.0
+radiationProtection: 200.0
+thermalProtection: 60.0
+bioinfectionProtection: 150.0
+psy-emissionProtection: 140.0
+bleedingProtection: 56.0

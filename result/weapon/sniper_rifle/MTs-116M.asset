@@ -1,0 +1,27 @@
+id: aVPB
+name: MTs-116M
+rank: Veteran
+class: 'Sniper Rifles'
+weight: 6.5
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 100.0
+clipCapacity: 10.0
+maximumDistance: 200.0
+rateOfFire: 60.0
+reload: 4.0
+spread: 0.12
+hip-fireSpread: 4.0
+verticalRecoil: 2.0
+horizontalRecoil: 0.6
+drawTime: 1.25
+aimingTime: 0.4
+armor-penetration: 7.5000005
+bleeding: 95.0
+stoppingPower: 100.0
+startDamage: 100.0
+damageDecreaseStart: 36.0
+endDamage: 100.0
+damageDecreaseEnd: 120.0
+maxDistance: 200.0

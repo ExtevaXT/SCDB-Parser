@@ -1,0 +1,9 @@
+id: 3m8G
+name: '3 Port Mini Compensator'
+rank: Newbie
+class: 'Muzzles and Silencers'
+weight: 0.025
+recoil: -6.999999
+horizontalRecoil: -5.000001
+spread: -4.000002
+recoilBuildup: -14.999998

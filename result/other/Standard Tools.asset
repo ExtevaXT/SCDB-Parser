@@ -1,0 +1,5 @@
+id: 0dGO
+name: 'Standard Tools'
+class: Other
+weight: 0.01
+durabilityLossOnFailure: 7.5000005

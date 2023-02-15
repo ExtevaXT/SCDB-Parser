@@ -1,0 +1,5 @@
+id: nVD9
+name: 'Advanced Tools'
+class: Other
+weight: 0.01
+durabilityLossOnFailure: 5.0

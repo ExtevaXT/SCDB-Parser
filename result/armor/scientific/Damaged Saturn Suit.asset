@@ -1,0 +1,19 @@
+id: GLyk
+name: 'Damaged Saturn Suit'
+rank: Veteran
+class: Scientist
+weight: 13.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 6.0
+bulletResistance: 70.0
+meleeProtection: 79.0
+explosionProtection: 95.0
+resistanceToElectricity: 859.0
+resistanceToFire: 859.0
+resistanceToChemicals: 859.0
+radiationProtection: 355.0
+thermalProtection: 355.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 355.0
+bleedingProtection: 43.0

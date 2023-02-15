@@ -1,0 +1,20 @@
+id: xQ1j
+name: 'Hunter’s Cloak'
+rank: Picklock
+class: Combat
+weight: 3.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+carryWeight: 5.0
+bulletResistance: 24.0
+meleeProtection: 73.0
+explosionProtection: 33.0
+resistanceToElectricity: 15.0
+resistanceToFire: 15.0
+resistanceToChemicals: 15.0
+radiationProtection: 30.0
+thermalProtection: 0.0
+bioinfectionProtection: 30.0
+psy-emissionProtection: 0.0
+bleedingProtection: 42.0

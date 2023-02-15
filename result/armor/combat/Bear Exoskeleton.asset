@@ -1,0 +1,21 @@
+id: PQ7K
+name: 'Bear Exoskeleton'
+rank: Veteran
+class: Combat
+weight: 35.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -4.0
+carryWeight: 35.0
+bulletResistance: 144.0
+meleeProtection: 161.0
+explosionProtection: 199.0
+resistanceToElectricity: 47.0
+resistanceToFire: 47.0
+resistanceToChemicals: 47.0
+radiationProtection: 200.0
+thermalProtection: 0.0
+bioinfectionProtection: 100.0
+psy-emissionProtection: 75.0
+bleedingProtection: 63.0

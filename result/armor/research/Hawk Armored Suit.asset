@@ -1,0 +1,19 @@
+id: JQP3
+name: 'Hawk Armored Suit'
+rank: Stalker
+class: Explorer
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 10.0
+bulletResistance: 83.0
+meleeProtection: 89.0
+explosionProtection: 120.0
+resistanceToElectricity: 104.0
+resistanceToFire: 104.0
+resistanceToChemicals: 104.0
+radiationProtection: 180.0
+thermalProtection: 90.0
+bioinfectionProtection: 180.0
+psy-emissionProtection: 140.0
+bleedingProtection: 47.0

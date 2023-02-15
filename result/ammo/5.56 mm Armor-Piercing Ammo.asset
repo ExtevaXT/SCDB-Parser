@@ -1,0 +1,7 @@
+id: zgoX
+name: '5.56 mm Armor-Piercing Ammo'
+class: Ammo
+weight: 0.012
+armor-penetration: 10.0
+bleeding: 5.0
+stoppingPower: 15.0

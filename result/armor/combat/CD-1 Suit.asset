@@ -1,0 +1,19 @@
+id: VYXK
+name: 'CD-1 Suit'
+rank: Newbie
+class: Combat
+weight: 5.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 6.0
+bulletResistance: 33.0
+meleeProtection: 47.0
+explosionProtection: 63.0
+resistanceToElectricity: 53.0
+resistanceToFire: 53.0
+resistanceToChemicals: 53.0
+radiationProtection: 60.0
+thermalProtection: 45.0
+bioinfectionProtection: 60.0
+psy-emissionProtection: 0.0
+bleedingProtection: 33.0

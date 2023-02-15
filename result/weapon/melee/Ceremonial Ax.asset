@@ -1,0 +1,13 @@
+id: QBZQ
+name: 'Ceremonial Ax'
+rank: Stalker
+class: 'Melee Weapons'
+weight: 1.1
+quickAttack(min): 45.0
+quickAttack(max): 55.0
+strongAttack(min): 120.0
+strongAttack(max): 140.0
+weaponReach(quick): 1.8
+weaponReach(strong): 2.0
+penetration: 50.0
+chanceForADeepWound: 40.0

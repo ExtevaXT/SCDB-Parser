@@ -1,0 +1,25 @@
+id: 75xP
+name: SW1911
+rank: Stalker
+class: Pistols
+weight: 1.1
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 61.0
+clipCapacity: 7.0
+maximumDistance: 60.0
+rateOfFire: 365.0
+reload: 2.25
+tacticalReload: 1.9
+spread: 1.005
+hip-fireSpread: 2.7
+verticalRecoil: 0.45
+horizontalRecoil: 0.4
+drawTime: 0.45
+aimingTime: 0.25
+startDamage: 61.0
+damageDecreaseStart: 14.0
+endDamage: 22.0
+damageDecreaseEnd: 32.0
+maxDistance: 60.0

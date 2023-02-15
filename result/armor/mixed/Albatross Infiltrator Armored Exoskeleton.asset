@@ -1,0 +1,22 @@
+id: njL9
+name: 'Albatross Infiltrator Armored Exoskeleton'
+rank: Veteran
+class: Combo
+weight: 22.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 6.0
+carryWeight: 12.0
+radiation: -2.0
+bleeding: -0.5
+bulletResistance: 85.0
+meleeProtection: 121.0
+explosionProtection: 143.0
+resistanceToElectricity: 278.0
+resistanceToFire: 278.0
+resistanceToChemicals: 278.0
+radiationProtection: 240.0
+thermalProtection: 120.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 240.0
+bleedingProtection: 56.0

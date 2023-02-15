@@ -1,0 +1,24 @@
+id: g913
+name: 'Worn RPD'
+rank: Stalker
+class: 'Machine Guns'
+weight: 7.99
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 40.0
+clipCapacity: 100.0
+maximumDistance: 165.0
+rateOfFire: 625.0
+reload: 7.0
+spread: 0.744
+hip-fireSpread: 2.826
+verticalRecoil: 0.7
+horizontalRecoil: 0.3
+drawTime: 1.2
+aimingTime: 0.4
+startDamage: 40.0
+damageDecreaseStart: 16.0
+endDamage: 26.0
+damageDecreaseEnd: 70.0
+maxDistance: 165.0

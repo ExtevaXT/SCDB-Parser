@@ -1,0 +1,8 @@
+id: oPo7
+name: '7.62 mm Expanding Ammo'
+class: Ammo
+weight: 0.016
+damage: 10.000002
+armor-penetration: -20.0
+bleeding: 15.000001
+stoppingPower: 40.0

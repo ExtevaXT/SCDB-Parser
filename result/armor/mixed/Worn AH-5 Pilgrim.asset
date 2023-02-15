@@ -1,0 +1,22 @@
+id: KQJK
+name: 'Worn AH-5 Pilgrim'
+rank: Veteran
+class: Combo
+weight: 30.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 15.0
+periodicHealing: 2.25
+bulletResistance: 83.0
+meleeProtection: 98.0
+explosionProtection: 118.0
+resistanceToElectricity: 563.0
+resistanceToFire: 563.0
+resistanceToChemicals: 563.0
+radiationProtection: 225.0
+thermalProtection: 225.0
+bioinfectionProtection: 290.0
+psy-emissionProtection: 210.0
+bleedingProtection: 50.0

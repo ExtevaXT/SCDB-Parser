@@ -1,0 +1,7 @@
+id: lLGM
+name: Goldfish
+class: Gravitational
+weight: 0.2
+common: 'Not studied'
+charge: 100.0
+max.Charge: 100.0

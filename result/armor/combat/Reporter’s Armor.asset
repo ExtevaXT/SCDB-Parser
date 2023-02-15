@@ -1,0 +1,21 @@
+id: gw2B
+name: 'Reporter’s Armor'
+rank: Stalker
+class: Combat
+weight: 10.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -8.0
+movementSpeed: -1.0
+carryWeight: 5.0
+bulletResistance: 106.0
+meleeProtection: 106.0
+explosionProtection: 147.0
+resistanceToElectricity: 41.0
+resistanceToFire: 41.0
+resistanceToChemicals: 41.0
+radiationProtection: 170.0
+thermalProtection: 20.0
+bioinfectionProtection: 140.0
+psy-emissionProtection: 75.0
+bleedingProtection: 52.0

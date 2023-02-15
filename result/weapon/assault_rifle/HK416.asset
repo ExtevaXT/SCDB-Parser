@@ -1,0 +1,25 @@
+id: w1jP
+name: HK416
+rank: Veteran
+class: 'Assault Rifles'
+weight: 3.1000001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 34.0
+clipCapacity: 30.0
+maximumDistance: 155.0
+rateOfFire: 850.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.6
+hip-fireSpread: 3.0
+verticalRecoil: 0.35
+horizontalRecoil: 0.14
+drawTime: 1.0
+aimingTime: 0.25
+startDamage: 34.0
+damageDecreaseStart: 16.0
+endDamage: 26.0
+damageDecreaseEnd: 65.0
+maxDistance: 155.0

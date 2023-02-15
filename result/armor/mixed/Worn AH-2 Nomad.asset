@@ -1,0 +1,20 @@
+id: eb0G
+name: 'Worn AH-2 Nomad'
+rank: Newbie
+class: Combo
+weight: 4.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+periodicHealing: 1.25
+bulletResistance: 35.0
+meleeProtection: 41.0
+explosionProtection: 50.0
+resistanceToElectricity: 237.0
+resistanceToFire: 237.0
+resistanceToChemicals: 237.0
+radiationProtection: 105.0
+thermalProtection: 105.0
+bioinfectionProtection: 105.0
+psy-emissionProtection: 60.0
+bleedingProtection: 26.0

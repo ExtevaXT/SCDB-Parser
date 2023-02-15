@@ -1,0 +1,9 @@
+id: njk2
+name: '3rd Class Antirad'
+class: Medicine
+weight: 0.05
+purpose: 'Radiation Cleansing'
+duration: 5.0
+poison: 25.0
+radiationResistance: 100.0
+radiation: -100.0

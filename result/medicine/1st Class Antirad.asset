@@ -1,0 +1,9 @@
+id: 3ZoR
+name: '1st Class Antirad'
+class: Medicine
+weight: 0.05
+purpose: 'Radiation Cleansing'
+duration: 5.0
+poison: 25.0
+radiationResistance: 50.0
+radiation: -10.0

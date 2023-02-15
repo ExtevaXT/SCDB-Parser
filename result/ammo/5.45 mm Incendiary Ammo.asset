@@ -1,0 +1,8 @@
+id: m0Zz
+name: '5.45 mm Incendiary Ammo'
+class: Ammo
+weight: 0.005
+armor-penetration: 8.0
+bleeding: -45.0
+burning: 50.0
+stoppingPower: 40.0

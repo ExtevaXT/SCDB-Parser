@@ -1,0 +1,10 @@
+id: BLoN
+name: 'Personal First-Aid Kit'
+class: Medicine
+weight: 0.2
+purpose: Healing
+duration: 7.0
+periodicHealing: 5.0
+radiation: -3.0
+biologicalInfection: -3.0
+bleeding: -1.0

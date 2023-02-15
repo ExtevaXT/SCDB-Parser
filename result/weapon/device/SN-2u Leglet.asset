@@ -1,0 +1,10 @@
+id: 0Qd7
+name: 'SN-2u Leglet'
+class: Devices
+weight: 3.2
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+passiveRange: 25.0
+activeRange: 25.0
+scanningAngle: 30.0

@@ -1,0 +1,20 @@
+id: KLjj
+name: 'Altyn Set'
+rank: Stalker
+class: Combat
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+carryWeight: 6.0
+bulletResistance: 115.0
+meleeProtection: 119.0
+explosionProtection: 160.0
+resistanceToElectricity: 47.0
+resistanceToFire: 47.0
+resistanceToChemicals: 47.0
+radiationProtection: 100.0
+thermalProtection: 30.0
+bioinfectionProtection: 100.0
+psy-emissionProtection: 75.0
+bleedingProtection: 55.0

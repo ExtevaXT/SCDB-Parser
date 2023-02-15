@@ -1,0 +1,20 @@
+id: njGr
+name: 'CD-2 Armored Suit'
+rank: Newbie
+class: Combat
+weight: 7.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -5.0
+carryWeight: 8.0
+bulletResistance: 60.0
+meleeProtection: 76.0
+explosionProtection: 86.0
+resistanceToElectricity: 53.0
+resistanceToFire: 53.0
+resistanceToChemicals: 53.0
+radiationProtection: 100.0
+thermalProtection: 60.0
+bioinfectionProtection: 150.0
+psy-emissionProtection: 0.0
+bleedingProtection: 44.0

@@ -1,0 +1,25 @@
+id: jaZK
+name: 'Glock 17'
+rank: Veteran
+class: Pistols
+weight: 0.625
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 54.0
+clipCapacity: 17.0
+maximumDistance: 62.0
+rateOfFire: 450.0
+reload: 2.25
+tacticalReload: 1.9
+spread: 0.991
+hip-fireSpread: 2.7
+verticalRecoil: 0.25
+horizontalRecoil: 0.25
+drawTime: 0.45
+aimingTime: 0.25
+startDamage: 54.0
+damageDecreaseStart: 14.0
+endDamage: 23.0
+damageDecreaseEnd: 30.0
+maxDistance: 62.0

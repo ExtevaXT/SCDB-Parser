@@ -1,0 +1,8 @@
+id: l0XB
+name: '9 mm Expanding Ammo'
+class: Ammo
+weight: 0.009
+damage: 10.000002
+armor-penetration: -25.0
+bleeding: 15.000001
+stoppingPower: 75.0

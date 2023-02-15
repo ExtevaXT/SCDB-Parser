@@ -1,0 +1,25 @@
+id: y1q9
+name: Viper
+rank: Stalker
+class: 'Submachine Guns'
+weight: 3.43
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 40.0
+clipCapacity: 40.0
+maximumDistance: 125.0
+rateOfFire: 680.0
+reload: 2.9
+tacticalReload: 2.2
+spread: 0.7
+hip-fireSpread: 1.9000001
+verticalRecoil: 0.28
+horizontalRecoil: 0.14
+drawTime: 1.2
+aimingTime: 0.25
+startDamage: 40.0
+damageDecreaseStart: 12.0
+endDamage: 25.0
+damageDecreaseEnd: 45.0
+maxDistance: 125.0

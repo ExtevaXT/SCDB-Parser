@@ -1,0 +1,25 @@
+id: Xn11
+name: 'Worn M16A2'
+rank: Picklock
+class: 'Assault Rifles'
+weight: 3.25
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 34.0
+clipCapacity: 20.0
+maximumDistance: 150.0
+rateOfFire: 450.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.671
+hip-fireSpread: 3.02
+verticalRecoil: 0.4
+horizontalRecoil: 0.1
+drawTime: 1.0
+aimingTime: 0.25
+startDamage: 34.0
+damageDecreaseStart: 15.0
+endDamage: 26.0
+damageDecreaseEnd: 60.0
+maxDistance: 150.0

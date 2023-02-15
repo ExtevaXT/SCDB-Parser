@@ -1,0 +1,24 @@
+id: 32Pl
+name: 'Walther MPK'
+rank: Picklock
+class: 'Submachine Guns'
+weight: 3.0
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 39.0
+clipCapacity: 32.0
+maximumDistance: 100.0
+rateOfFire: 550.0
+reload: 2.6
+spread: 1.344
+hip-fireSpread: 2.4
+verticalRecoil: 0.3
+horizontalRecoil: 0.14
+drawTime: 0.8
+aimingTime: 0.2
+startDamage: 39.0
+damageDecreaseStart: 10.0
+endDamage: 20.0
+damageDecreaseEnd: 34.0
+maxDistance: 100.0

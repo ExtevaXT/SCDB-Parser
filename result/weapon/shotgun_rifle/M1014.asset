@@ -1,0 +1,24 @@
+id: DMXV
+name: M1014
+rank: Stalker
+class: 'Shotguns and Rifles'
+weight: 3.8000002
+durability: 100.0
+max.Durability: 100.0
+ammoType: '12 caliber'
+damage: 160.0
+clipCapacity: 6.0
+maximumDistance: 55.0
+rateOfFire: 200.0
+reload: 4.5
+spread: 3.57
+hip-fireSpread: 4.5
+verticalRecoil: 4.8
+horizontalRecoil: 1.5
+drawTime: 0.8
+aimingTime: 0.25
+startDamage: 160.0
+damageDecreaseStart: 8.0
+endDamage: 36.0
+damageDecreaseEnd: 30.0
+maxDistance: 55.0

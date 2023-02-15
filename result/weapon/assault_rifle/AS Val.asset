@@ -1,0 +1,25 @@
+id: 0nVk
+name: 'AS Val'
+rank: Veteran
+class: 'Assault Rifles'
+weight: 2.6100001
+durability: 100.0
+max.Durability: 100.0
+ammoType: 9x39
+damage: 40.0
+clipCapacity: 20.0
+maximumDistance: 140.0
+rateOfFire: 750.0
+reload: 3.5
+tacticalReload: 2.6
+spread: 0.576
+hip-fireSpread: 3.0
+verticalRecoil: 0.3
+horizontalRecoil: 0.1
+drawTime: 1.0
+aimingTime: 0.25
+startDamage: 40.0
+damageDecreaseStart: 15.0
+endDamage: 25.0
+damageDecreaseEnd: 55.0
+maxDistance: 140.0

@@ -1,0 +1,19 @@
+id: YqaA
+name: 'Worn REAPER Suit'
+rank: Veteran
+class: Scientist
+weight: 12.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 5.0
+bulletResistance: 56.0
+meleeProtection: 63.0
+explosionProtection: 76.0
+resistanceToElectricity: 687.0
+resistanceToFire: 687.0
+resistanceToChemicals: 687.0
+radiationProtection: 310.0
+thermalProtection: 310.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 295.0
+bleedingProtection: 38.0

@@ -1,0 +1,13 @@
+id: 0nq7
+name: 'Sapper’s Shovel'
+rank: Stalker
+class: 'Melee Weapons'
+weight: 0.6
+quickAttack(min): 55.0
+quickAttack(max): 65.0
+strongAttack(min): 130.0
+strongAttack(max): 150.0
+weaponReach(quick): 1.9
+weaponReach(strong): 2.0
+penetration: 40.0
+chanceForADeepWound: 25.0

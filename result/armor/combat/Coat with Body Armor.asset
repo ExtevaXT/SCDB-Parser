@@ -1,0 +1,18 @@
+id: nb6M
+name: 'Coat with Body Armor'
+rank: Picklock
+class: Combat
+weight: 4.0
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 23.0
+meleeProtection: 24.0
+explosionProtection: 31.0
+resistanceToElectricity: 9.0
+resistanceToFire: 9.0
+resistanceToChemicals: 9.0
+radiationProtection: 0.0
+thermalProtection: 0.0
+bioinfectionProtection: 0.0
+psy-emissionProtection: 0.0
+bleedingProtection: 21.0

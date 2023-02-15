@@ -1,0 +1,26 @@
+id: nqyx
+name: 'VSS Vintorez'
+rank: Master
+class: 'Sniper Rifles'
+weight: 2.85
+durability: 100.0
+max.Durability: 100.0
+ammoType: 9x39
+damage: 41.0
+clipCapacity: 20.0
+maximumDistance: 170.0
+rateOfFire: 600.0
+reload: 3.5
+tacticalReload: 2.6
+spread: 0.209
+hip-fireSpread: 3.75
+verticalRecoil: 0.3
+horizontalRecoil: 0.14
+drawTime: 1.0
+aimingTime: 0.25
+stoppingPower: 20.0
+startDamage: 41.0
+damageDecreaseStart: 20.0
+endDamage: 31.0
+damageDecreaseEnd: 75.0
+maxDistance: 170.0

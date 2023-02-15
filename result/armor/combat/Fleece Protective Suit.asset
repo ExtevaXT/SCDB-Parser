@@ -1,0 +1,19 @@
+id: zxdq
+name: 'Fleece Protective Suit'
+rank: Stalker
+class: Combat
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 7.0
+bulletResistance: 68.0
+meleeProtection: 204.0
+explosionProtection: 93.0
+resistanceToElectricity: 41.0
+resistanceToFire: 41.0
+resistanceToChemicals: 41.0
+radiationProtection: 180.0
+thermalProtection: 20.0
+bioinfectionProtection: 140.0
+psy-emissionProtection: 75.0
+bleedingProtection: 72.0

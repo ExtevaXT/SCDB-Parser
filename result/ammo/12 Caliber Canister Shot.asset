@@ -1,0 +1,7 @@
+id: RbNO
+name: '12 Caliber Canister Shot'
+class: Ammo
+weight: 0.03
+numberOfProjectiles: 8.0
+bleeding: 1.0
+stoppingPower: 100.0

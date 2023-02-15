@@ -1,0 +1,8 @@
+id: 81zQ
+name: '5.56 mm Expanding Ammo'
+class: Ammo
+weight: 0.012
+damage: 10.000002
+armor-penetration: -20.0
+bleeding: 15.000001
+stoppingPower: 40.0

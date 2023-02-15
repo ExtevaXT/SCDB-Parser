@@ -1,0 +1,26 @@
+id: oq3e
+name: 'Worn Winchester M70'
+rank: Newbie
+class: 'Sniper Rifles'
+weight: 5.03
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 84.0
+clipCapacity: 5.0
+maximumDistance: 175.0
+rateOfFire: 34.0
+reload: 4.5
+spread: 0.08
+hip-fireSpread: 5.005
+verticalRecoil: 2.3
+horizontalRecoil: 0.6
+drawTime: 1.25
+aimingTime: 0.5
+bleeding: 95.0
+stoppingPower: 130.0
+startDamage: 84.0
+damageDecreaseStart: 32.0
+endDamage: 84.0
+damageDecreaseEnd: 115.0
+maxDistance: 175.0

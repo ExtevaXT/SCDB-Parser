@@ -1,0 +1,21 @@
+id: 0b8O
+name: 'Blizzard-Bound Heavy Armored Suit'
+rank: Veteran
+class: Combat
+weight: 18.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -15.0
+movementSpeed: -5.0
+carryWeight: 25.0
+bulletResistance: 138.0
+meleeProtection: 184.0
+explosionProtection: 181.0
+resistanceToElectricity: 70.0
+resistanceToFire: 70.0
+resistanceToChemicals: 70.0
+radiationProtection: 200.0
+thermalProtection: 50.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 200.0
+bleedingProtection: 65.0

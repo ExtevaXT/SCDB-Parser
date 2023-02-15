@@ -1,0 +1,25 @@
+id: karG
+name: 'HK MP5K'
+rank: Stalker
+class: 'Submachine Guns'
+weight: 2.14
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 36.0
+clipCapacity: 30.0
+maximumDistance: 85.0
+rateOfFire: 900.0
+reload: 2.9
+tacticalReload: 2.2
+spread: 1.334
+hip-fireSpread: 2.4
+verticalRecoil: 0.28
+horizontalRecoil: 0.16
+drawTime: 0.7
+aimingTime: 0.25
+startDamage: 36.0
+damageDecreaseStart: 10.0
+endDamage: 18.0
+damageDecreaseEnd: 32.0
+maxDistance: 85.0

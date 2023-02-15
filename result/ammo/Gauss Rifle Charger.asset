@@ -1,0 +1,6 @@
+id: OZEV
+name: 'Gauss Rifle Charger'
+class: Ammo
+weight: 0.06
+armor-penetration: 62.0
+bleeding: 5.0

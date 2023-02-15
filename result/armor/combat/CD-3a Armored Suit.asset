@@ -1,0 +1,20 @@
+id: l6Jw
+name: 'CD-3a Armored Suit'
+rank: Stalker
+class: Combat
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 10.0
+bulletResistance: 73.0
+meleeProtection: 136.0
+explosionProtection: 137.0
+resistanceToElectricity: 167.0
+resistanceToFire: 167.0
+resistanceToChemicals: 167.0
+radiationProtection: 150.0
+thermalProtection: 100.0
+bioinfectionProtection: 150.0
+psy-emissionProtection: 150.0
+bleedingProtection: 59.0

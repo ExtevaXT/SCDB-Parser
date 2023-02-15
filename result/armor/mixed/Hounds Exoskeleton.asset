@@ -1,0 +1,23 @@
+id: ZzY8
+name: 'Hounds Exoskeleton'
+rank: Master
+class: Combo
+weight: 24.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 15.0
+carryWeight: 20.0
+periodicHealing: 2.0
+radiation: -2.0
+bleeding: -0.5
+bulletResistance: 95.0
+meleeProtection: 145.0
+explosionProtection: 143.0
+resistanceToElectricity: 356.0
+resistanceToFire: 356.0
+resistanceToChemicals: 356.0
+radiationProtection: 270.0
+thermalProtection: 150.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 270.0
+bleedingProtection: 60.0

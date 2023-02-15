@@ -1,0 +1,12 @@
+id: 9rKA
+name: 'Forager Container'
+rank: Veteran
+class: 'Backpacks and Containers'
+weight: 6.5
+durability: 100.0
+max.Durability: 100.0
+innerProtection: 70.0
+effectiveness: 80.0
+capacity: 4.0
+movementSpeed: -2.0
+radiation: -2.0

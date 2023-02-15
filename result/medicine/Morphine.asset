@@ -1,0 +1,8 @@
+id: m858
+name: Morphine
+class: Medicine
+weight: 0.05
+purpose: 'Short-Term Boost'
+duration: 90.0
+poison: 50.0
+vitality: 10.0

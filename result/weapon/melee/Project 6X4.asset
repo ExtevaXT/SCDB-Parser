@@ -1,0 +1,12 @@
+id: y1l8
+name: 'Project 6X4'
+rank: Picklock
+class: 'Melee Weapons'
+weight: 0.25
+quickAttack(min): 35.0
+quickAttack(max): 45.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.7
+weaponReach(strong): 1.8
+chanceForADeepWound: 25.0

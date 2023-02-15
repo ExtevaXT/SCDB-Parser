@@ -1,0 +1,8 @@
+id: BO2r
+name: F-1
+class: Grenades
+weight: 0.6
+damageAtCenter: 500.0
+minimumDamage: 35.0
+timeUntilDetonation: 3.25
+damageRange: 12.0

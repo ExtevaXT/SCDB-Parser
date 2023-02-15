@@ -1,0 +1,10 @@
+id: BOlx
+name: 'KZS-1 Container'
+rank: Newbie
+class: 'Backpacks and Containers'
+weight: 1.75
+durability: 100.0
+max.Durability: 100.0
+innerProtection: 75.0
+effectiveness: 90.0
+capacity: 1.0

@@ -1,0 +1,25 @@
+id: aVJ1
+name: RPK-74
+rank: Newbie
+class: 'Machine Guns'
+weight: 3.1100001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.45'
+damage: 36.0
+clipCapacity: 45.0
+maximumDistance: 155.0
+rateOfFire: 650.0
+reload: 3.8
+tacticalReload: 3.0
+spread: 0.705
+hip-fireSpread: 2.8
+verticalRecoil: 0.55
+horizontalRecoil: 0.2
+drawTime: 1.15
+aimingTime: 0.35
+startDamage: 36.0
+damageDecreaseStart: 14.0
+endDamage: 27.0
+damageDecreaseEnd: 70.0
+maxDistance: 155.0

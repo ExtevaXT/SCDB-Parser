@@ -1,0 +1,24 @@
+id: QBX1
+name: 'M249 SAW'
+rank: Veteran
+class: 'Machine Guns'
+weight: 6.85
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 36.0
+clipCapacity: 200.0
+maximumDistance: 165.0
+rateOfFire: 775.0
+reload: 7.25
+spread: 0.55
+hip-fireSpread: 2.8
+verticalRecoil: 0.45
+horizontalRecoil: 0.15
+drawTime: 1.3
+aimingTime: 0.4
+startDamage: 36.0
+damageDecreaseStart: 19.0
+endDamage: 26.0
+damageDecreaseEnd: 77.0
+maxDistance: 165.0

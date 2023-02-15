@@ -1,0 +1,9 @@
+id: mxd8
+name: 'G3 M1A Drum Clip'
+rank: Master
+class: Clips
+weight: 0.8
+clipSize: 50.0
+jamming: 0.005
+drawSpeed: 20.000004
+reloadTime: 39.999996

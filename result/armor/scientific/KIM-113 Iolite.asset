@@ -1,0 +1,18 @@
+id: mbnZ
+name: 'KIM-113 Iolite'
+rank: Stalker
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 49.0
+meleeProtection: 55.0
+explosionProtection: 67.0
+resistanceToElectricity: 1333.0
+resistanceToFire: 556.0
+resistanceToChemicals: 556.0
+radiationProtection: 400.0
+thermalProtection: 310.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 340.0
+bleedingProtection: 35.0

@@ -1,0 +1,25 @@
+id: jaGP
+name: 'FN FAL'
+rank: Master
+class: 'Assault Rifles'
+weight: 3.76
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 52.8
+clipCapacity: 20.0
+maximumDistance: 170.0
+rateOfFire: 540.0
+reload: 3.5
+tacticalReload: 2.9
+spread: 0.319
+hip-fireSpread: 2.7
+verticalRecoil: 0.7
+horizontalRecoil: 0.192
+drawTime: 0.8
+aimingTime: 0.25
+startDamage: 52.8
+damageDecreaseStart: 16.0
+endDamage: 34.0
+damageDecreaseEnd: 85.0
+maxDistance: 170.0

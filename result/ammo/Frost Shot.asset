@@ -1,0 +1,6 @@
+id: gPXm
+name: 'Frost Shot'
+class: Ammo
+weight: 0.015
+numberOfProjectiles: 10.0
+stoppingPower: 50.0

@@ -1,0 +1,27 @@
+id: AMA7
+name: 'Karbach OTL-03'
+rank: Master
+class: 'Sniper Rifles'
+weight: 3.6
+durability: 100.0
+max.Durability: 100.0
+ammoType: '12.7'
+damage: 106.0
+clipCapacity: 7.0
+maximumDistance: 230.0
+rateOfFire: 65.0
+reload: 6.75
+spread: 0.1
+hip-fireSpread: 4.0
+verticalRecoil: 1.5
+horizontalRecoil: 0.6
+drawTime: 1.1
+aimingTime: 0.4
+armor-penetration: 10.0
+bleeding: 95.0
+stoppingPower: 100.0
+startDamage: 106.0
+damageDecreaseStart: 30.0
+endDamage: 106.0
+damageDecreaseEnd: 102.0
+maxDistance: 230.0

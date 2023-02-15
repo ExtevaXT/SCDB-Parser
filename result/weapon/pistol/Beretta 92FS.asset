@@ -1,0 +1,25 @@
+id: V36x
+name: 'Beretta 92FS'
+rank: Stalker
+class: Pistols
+weight: 0.95
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 51.0
+clipCapacity: 15.0
+maximumDistance: 60.0
+rateOfFire: 415.0
+reload: 2.75
+tacticalReload: 2.25
+spread: 1.061
+hip-fireSpread: 2.7
+verticalRecoil: 0.3
+horizontalRecoil: 0.3
+drawTime: 0.4
+aimingTime: 0.15
+startDamage: 51.0
+damageDecreaseStart: 13.0
+endDamage: 18.0
+damageDecreaseEnd: 30.0
+maxDistance: 60.0

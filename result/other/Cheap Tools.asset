@@ -1,0 +1,5 @@
+id: VQNA
+name: 'Cheap Tools'
+class: Other
+weight: 0.01
+durabilityLossOnFailure: 10.0

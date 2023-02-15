@@ -1,0 +1,10 @@
+id: nx72
+name: '5.56 NATO Drum Clip, Black'
+rank: Master
+class: Clips
+weight: 1.0
+clipSize: 100.0
+jamming: 0.01
+rateOfFire: -2.9999971
+drawSpeed: 22.000004
+reloadTime: 60.000004

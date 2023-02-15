@@ -1,0 +1,11 @@
+id: a97B
+name: 'ATLAS Anabolic Steroid'
+class: Medicine
+weight: 0.12
+purpose: 'Stamina Improvement'
+duration: 300.0
+poison: 25.0
+stamina: 50.0
+movementSpeed: 2.0
+carryWeight: 10.0
+staminaRegeneration: 5.0

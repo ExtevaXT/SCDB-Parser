@@ -1,0 +1,5 @@
+id: gngn
+name: 'Special Tools'
+class: Other
+weight: 0.01
+durabilityLossOnFailure: 2.0

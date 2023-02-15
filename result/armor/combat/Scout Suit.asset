@@ -1,0 +1,19 @@
+id: KQN5
+name: 'Scout Suit'
+rank: Newbie
+class: Combat
+weight: 6.0
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 3.0
+bulletResistance: 45.0
+meleeProtection: 45.0
+explosionProtection: 63.0
+resistanceToElectricity: 18.0
+resistanceToFire: 18.0
+resistanceToChemicals: 18.0
+radiationProtection: 45.0
+thermalProtection: 0.0
+bioinfectionProtection: 45.0
+psy-emissionProtection: 0.0
+bleedingProtection: 32.0

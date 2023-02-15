@@ -1,0 +1,9 @@
+id: yZ08
+name: 'Buryat Short Range Detector'
+rank: Stalker
+class: Devices
+weight: 0.6
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+range: 80.0

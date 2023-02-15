@@ -1,0 +1,8 @@
+id: Romn
+name: 'Salvo 12 Silencer'
+rank: Veteran
+class: 'Muzzles and Silencers'
+weight: 0.96
+spread: -11.000002
+drawSpeed: 10.000002
+damageAtRange: -25.0

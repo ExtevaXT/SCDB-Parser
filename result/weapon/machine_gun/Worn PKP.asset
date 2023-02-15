@@ -1,0 +1,25 @@
+id: 202k
+name: 'Worn PKP'
+rank: Veteran
+class: 'Machine Guns'
+weight: 8.2
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 43.0
+clipCapacity: 100.0
+maximumDistance: 175.0
+rateOfFire: 625.0
+reload: 7.0
+tacticalReload: 6.25
+spread: 0.496
+hip-fireSpread: 2.877
+verticalRecoil: 0.66
+horizontalRecoil: 0.27
+drawTime: 1.25
+aimingTime: 0.4
+startDamage: 43.0
+damageDecreaseStart: 22.0
+endDamage: 28.0
+damageDecreaseEnd: 84.0
+maxDistance: 175.0

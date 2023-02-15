@@ -1,0 +1,10 @@
+id: MYek
+name: “Astrixin”
+class: Medicine
+weight: 0.05
+purpose: 'Bleeding Protection'
+duration: 300.0
+poison: 25.0
+healthRegeneration: 2.5
+bleedingProtection: 15.0
+bleeding: -1.0

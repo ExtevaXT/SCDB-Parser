@@ -1,0 +1,7 @@
+id: JNVG
+name: '12 Caliber Hunting Round'
+class: Ammo
+weight: 0.03
+bleeding: 15.000001
+spread: -60.000004
+stoppingPower: 100.0

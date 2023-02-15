@@ -1,0 +1,19 @@
+id: 6X90
+name: 'Worn Tourist'
+rank: Newbie
+class: Explorer
+weight: 4.3
+durability: 100.0
+max.Durability: 100.0
+carryWeight: 8.0
+bulletResistance: 50.0
+meleeProtection: 53.0
+explosionProtection: 76.0
+resistanceToElectricity: 36.0
+resistanceToFire: 36.0
+resistanceToChemicals: 36.0
+radiationProtection: 90.0
+thermalProtection: 30.0
+bioinfectionProtection: 120.0
+psy-emissionProtection: 0.0
+bleedingProtection: 36.0

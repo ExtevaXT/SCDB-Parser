@@ -1,0 +1,10 @@
+id: 3mJB
+name: 'Grip for OTs-14 Groza'
+rank: Veteran
+class: 'Muzzles and Silencers'
+weight: 0.1
+horizontalRecoil: -14.999998
+spread: -10.000002
+sway: -14.999998
+drawSpeed: 4.999995
+damageAtRange: 4.999995

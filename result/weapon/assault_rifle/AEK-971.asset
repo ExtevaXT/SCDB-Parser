@@ -1,0 +1,25 @@
+id: qwRM
+name: AEK-971
+rank: Veteran
+class: 'Assault Rifles'
+weight: 3.5300002
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.45'
+damage: 36.0
+clipCapacity: 30.0
+maximumDistance: 150.0
+rateOfFire: 850.0
+reload: 3.5
+tacticalReload: 2.9
+spread: 0.62
+hip-fireSpread: 3.054
+verticalRecoil: 0.36
+horizontalRecoil: 0.15
+drawTime: 1.0
+aimingTime: 0.25
+startDamage: 36.0
+damageDecreaseStart: 15.0
+endDamage: 25.0
+damageDecreaseEnd: 70.0
+maxDistance: 150.0

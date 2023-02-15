@@ -1,0 +1,18 @@
+id: ZAor
+name: 'Worn KIM-99 Amber'
+rank: Newbie
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 28.0
+meleeProtection: 32.0
+explosionProtection: 38.0
+resistanceToElectricity: 296.0
+resistanceToFire: 296.0
+resistanceToChemicals: 296.0
+radiationProtection: 150.0
+thermalProtection: 180.0
+bioinfectionProtection: 210.0
+psy-emissionProtection: 100.0
+bleedingProtection: 23.0

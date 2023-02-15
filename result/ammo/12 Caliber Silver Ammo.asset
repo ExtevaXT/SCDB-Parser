@@ -1,0 +1,8 @@
+id: 2Dz7
+name: '12 Caliber Silver Ammo'
+class: Ammo
+weight: 0.03
+absoluteDamage: 20.0
+bleeding: 15.000001
+spread: -60.000004
+stoppingPower: 100.0

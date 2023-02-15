@@ -1,0 +1,21 @@
+id: QYnR
+name: 'KIM-100 Garnet'
+rank: Stalker
+class: Scientist
+weight: 6.0
+durability: 100.0
+max.Durability: 100.0
+periodicHealing: 5.0
+radiation: -2.0
+bleeding: -1.0
+bulletResistance: 49.0
+meleeProtection: 55.0
+explosionProtection: 67.0
+resistanceToElectricity: 601.0
+resistanceToFire: 601.0
+resistanceToChemicals: 601.0
+radiationProtection: 210.0
+thermalProtection: 210.0
+bioinfectionProtection: 300.0
+psy-emissionProtection: 180.0
+bleedingProtection: 35.0

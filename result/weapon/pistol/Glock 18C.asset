@@ -1,0 +1,25 @@
+id: NNXN
+name: 'Glock 18C'
+rank: Veteran
+class: Pistols
+weight: 0.625
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 45.0
+clipCapacity: 17.0
+maximumDistance: 60.0
+rateOfFire: 800.0
+reload: 2.5
+tacticalReload: 2.0
+spread: 1.09
+hip-fireSpread: 3.0
+verticalRecoil: 0.25
+horizontalRecoil: 0.25
+drawTime: 0.45
+aimingTime: 0.25
+startDamage: 45.0
+damageDecreaseStart: 13.0
+endDamage: 19.0
+damageDecreaseEnd: 30.0
+maxDistance: 60.0

@@ -1,0 +1,24 @@
+id: z1jL
+name: МР-412
+rank: Veteran
+class: Pistols
+weight: 0.9
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 73.0
+clipCapacity: 6.0
+maximumDistance: 65.0
+rateOfFire: 500.0
+reload: 2.0
+spread: 1.142
+hip-fireSpread: 2.25
+verticalRecoil: 0.75
+horizontalRecoil: 0.5
+drawTime: 0.3
+aimingTime: 0.15
+startDamage: 73.0
+damageDecreaseStart: 15.0
+endDamage: 30.0
+damageDecreaseEnd: 36.0
+maxDistance: 65.0

@@ -1,0 +1,11 @@
+id: A3dB
+name: KZS-5
+rank: Stalker
+class: 'Backpacks and Containers'
+weight: 9.0
+durability: 100.0
+max.Durability: 100.0
+innerProtection: 75.0
+effectiveness: 90.0
+capacity: 5.0
+movementSpeed: -3.0

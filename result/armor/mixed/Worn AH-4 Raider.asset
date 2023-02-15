@@ -1,0 +1,22 @@
+id: yLQ9
+name: 'Worn AH-4 Raider'
+rank: Veteran
+class: Combo
+weight: 28.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -2.0
+carryWeight: 10.0
+periodicHealing: 1.75
+bulletResistance: 70.0
+meleeProtection: 82.0
+explosionProtection: 99.0
+resistanceToElectricity: 474.0
+resistanceToFire: 474.0
+resistanceToChemicals: 474.0
+radiationProtection: 210.0
+thermalProtection: 195.0
+bioinfectionProtection: 240.0
+psy-emissionProtection: 195.0
+bleedingProtection: 44.0

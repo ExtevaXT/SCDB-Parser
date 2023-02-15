@@ -1,0 +1,21 @@
+id: LQPm
+name: 'Worn Voshod Heavy Armored Suit'
+rank: Stalker
+class: Explorer
+weight: 12.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -3.0
+carryWeight: 10.0
+bulletResistance: 93.0
+meleeProtection: 102.0
+explosionProtection: 133.0
+resistanceToElectricity: 62.0
+resistanceToFire: 62.0
+resistanceToChemicals: 62.0
+radiationProtection: 180.0
+thermalProtection: 60.0
+bioinfectionProtection: 150.0
+psy-emissionProtection: 105.0
+bleedingProtection: 50.0

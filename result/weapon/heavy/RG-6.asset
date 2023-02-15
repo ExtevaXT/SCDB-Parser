@@ -1,0 +1,19 @@
+id: V35A
+name: RG-6
+rank: Veteran
+class: 'Other Weapons'
+weight: 5.6
+durability: 100.0
+max.Durability: 100.0
+ammoType: '40 mm'
+damage: 440.0
+clipCapacity: 6.0
+maximumDistance: 200.0
+rateOfFire: 75.0
+reload: 5.25
+spread: 1.0
+hip-fireSpread: 1.0
+verticalRecoil: 2.0
+horizontalRecoil: 1.0
+drawTime: 1.4
+aimingTime: 0.35

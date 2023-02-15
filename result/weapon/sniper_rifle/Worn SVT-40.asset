@@ -1,0 +1,25 @@
+id: 1gzl
+name: 'Worn SVT-40'
+rank: Newbie
+class: 'Sniper Rifles'
+weight: 3.8
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 74.0
+clipCapacity: 10.0
+maximumDistance: 170.0
+rateOfFire: 180.0
+reload: 3.75
+spread: 0.156
+hip-fireSpread: 4.552
+verticalRecoil: 1.05
+horizontalRecoil: 0.45
+drawTime: 1.15
+aimingTime: 0.5
+stoppingPower: 30.0
+startDamage: 74.0
+damageDecreaseStart: 28.0
+endDamage: 59.2
+damageDecreaseEnd: 100.0
+maxDistance: 170.0

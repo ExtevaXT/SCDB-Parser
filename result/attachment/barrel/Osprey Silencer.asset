@@ -1,0 +1,8 @@
+id: nxmD
+name: 'Osprey Silencer'
+rank: Stalker
+class: 'Muzzles and Silencers'
+weight: 0.21
+spread: -13.999998
+drawSpeed: 7.0000052
+damageAtRange: -19.999998

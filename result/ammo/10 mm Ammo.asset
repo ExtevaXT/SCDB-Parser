@@ -1,0 +1,7 @@
+id: A3E9
+name: '10 mm Ammo'
+class: Ammo
+weight: 0.013
+numberOfProjectiles: 5.0
+bleeding: 1.0
+stoppingPower: 10.0

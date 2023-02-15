@@ -1,0 +1,8 @@
+id: EYEE
+name: '10 mm Incendiary Ammo'
+class: Ammo
+weight: 0.013
+numberOfProjectiles: 5.0
+bleeding: -45.0
+burning: 50.0
+stoppingPower: 10.0

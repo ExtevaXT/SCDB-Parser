@@ -1,0 +1,7 @@
+id: Rboy
+name: 'Transformer Bag'
+rank: Picklock
+class: 'Backpacks and Containers'
+weight: 1.0
+stamina: 10.0
+carryWeight: 15.0

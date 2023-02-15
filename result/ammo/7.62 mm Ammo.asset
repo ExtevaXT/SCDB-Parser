@@ -1,0 +1,7 @@
+id: MZED
+name: '7.62 mm Ammo'
+class: Ammo
+weight: 0.016
+armor-penetration: 7.5
+bleeding: 5.0
+stoppingPower: 25.0

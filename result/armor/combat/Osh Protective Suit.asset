@@ -1,0 +1,21 @@
+id: wQmy
+name: 'Osh Protective Suit'
+rank: Veteran
+class: Combat
+weight: 8.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+movementSpeed: -1.0
+carryWeight: 10.0
+bulletResistance: 87.0
+meleeProtection: 262.0
+explosionProtection: 120.0
+resistanceToElectricity: 53.0
+resistanceToFire: 53.0
+resistanceToChemicals: 53.0
+radiationProtection: 200.0
+thermalProtection: 30.0
+bioinfectionProtection: 190.0
+psy-emissionProtection: 160.0
+bleedingProtection: 75.0

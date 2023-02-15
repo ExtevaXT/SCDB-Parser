@@ -1,0 +1,7 @@
+id: 6Q6x
+name: '5.45 mm SBP Ammo'
+class: Ammo
+weight: 0.01
+armor-penetration: 20.0
+bleeding: 5.0
+stoppingPower: 15.0

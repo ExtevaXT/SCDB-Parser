@@ -1,0 +1,18 @@
+id: JQG3
+name: 'Gorka-3 Suit'
+rank: Picklock
+class: Explorer
+weight: 1.0
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 9.0
+meleeProtection: 15.0
+explosionProtection: 29.0
+resistanceToElectricity: 30.0
+resistanceToFire: 30.0
+resistanceToChemicals: 30.0
+radiationProtection: 30.0
+thermalProtection: 10.0
+bioinfectionProtection: 30.0
+psy-emissionProtection: 0.0
+bleedingProtection: 10.0

@@ -1,0 +1,8 @@
+id: 3mln
+name: 'M4 Lightweight Stock'
+class: Stocks
+weight: 0.15
+recoil: -1.9999981
+sway: -10.000002
+recoilBuildup: -14.999998
+stabilization: 29.999996

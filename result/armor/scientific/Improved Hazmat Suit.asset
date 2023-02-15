@@ -1,0 +1,19 @@
+id: BLJj
+name: 'Improved Hazmat Suit'
+rank: Newbie
+class: Scientist
+weight: 5.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -20.0
+bulletResistance: 49.0
+meleeProtection: 55.0
+explosionProtection: 67.0
+resistanceToElectricity: 370.0
+resistanceToFire: 370.0
+resistanceToChemicals: 370.0
+radiationProtection: 150.0
+thermalProtection: 150.0
+bioinfectionProtection: 200.0
+psy-emissionProtection: 100.0
+bleedingProtection: 35.0

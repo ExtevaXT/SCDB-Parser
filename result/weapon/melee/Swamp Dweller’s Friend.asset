@@ -1,0 +1,13 @@
+id: 5DgM
+name: 'Swamp Dweller’s Friend'
+rank: Newbie
+class: 'Melee Weapons'
+weight: 0.26
+quickAttack(min): 35.0
+quickAttack(max): 45.0
+strongAttack(min): 100.0
+strongAttack(max): 120.0
+weaponReach(quick): 1.7
+weaponReach(strong): 1.8
+penetration: 20.0
+chanceForADeepWound: 30.0

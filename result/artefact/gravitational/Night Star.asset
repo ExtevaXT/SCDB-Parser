@@ -1,0 +1,7 @@
+id: RgMD
+name: 'Night Star'
+class: Gravitational
+weight: 0.1
+common: 'Not studied'
+charge: 100.0
+max.Charge: 100.0

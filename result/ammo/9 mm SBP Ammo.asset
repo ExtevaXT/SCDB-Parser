@@ -1,0 +1,7 @@
+id: kYX1
+name: '9 mm SBP Ammo'
+class: Ammo
+weight: 0.009
+armor-penetration: 15.0
+bleeding: 5.0
+stoppingPower: 30.0

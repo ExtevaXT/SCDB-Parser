@@ -1,0 +1,21 @@
+id: 0jRE
+name: 'RAPS Spanner'
+rank: Veteran
+class: Combo
+weight: 28.0
+durability: 100.0
+max.Durability: 100.0
+stamina: -10.0
+carryWeight: 10.0
+periodicHealing: 2.25
+bulletResistance: 90.0
+meleeProtection: 105.0
+explosionProtection: 125.0
+resistanceToElectricity: 533.0
+resistanceToFire: 533.0
+resistanceToChemicals: 533.0
+radiationProtection: 225.0
+thermalProtection: 225.0
+bioinfectionProtection: 285.0
+psy-emissionProtection: 225.0
+bleedingProtection: 47.0

@@ -1,0 +1,20 @@
+id: 9j3O
+name: 'Zarya Suit'
+rank: Picklock
+class: Explorer
+weight: 3.5
+durability: 100.0
+max.Durability: 100.0
+stamina: -2.0
+carryWeight: 5.0
+bulletResistance: 31.0
+meleeProtection: 35.0
+explosionProtection: 48.0
+resistanceToElectricity: 22.0
+resistanceToFire: 22.0
+resistanceToChemicals: 22.0
+radiationProtection: 60.0
+thermalProtection: 0.0
+bioinfectionProtection: 60.0
+psy-emissionProtection: 0.0
+bleedingProtection: 26.0

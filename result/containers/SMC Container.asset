@@ -1,0 +1,11 @@
+id: rBNm
+name: 'SMC Container'
+rank: Master
+class: 'Backpacks and Containers'
+weight: 7.0
+durability: 100.0
+max.Durability: 100.0
+innerProtection: 93.0
+effectiveness: 100.0
+capacity: 4.0
+movementSpeed: -1.5

@@ -1,0 +1,25 @@
+id: RywD
+name: 'SIG SG 550'
+rank: Veteran
+class: 'Assault Rifles'
+weight: 4.1
+durability: 100.0
+max.Durability: 100.0
+ammoType: '5.56'
+damage: 37.0
+clipCapacity: 30.0
+maximumDistance: 160.0
+rateOfFire: 700.0
+reload: 3.5
+tacticalReload: 2.95
+spread: 0.494
+hip-fireSpread: 3.0
+verticalRecoil: 0.39
+horizontalRecoil: 0.14
+drawTime: 1.05
+aimingTime: 0.3
+startDamage: 37.0
+damageDecreaseStart: 16.0
+endDamage: 28.0
+damageDecreaseEnd: 70.0
+maxDistance: 160.0

@@ -1,0 +1,19 @@
+id: BLjx
+name: 'Stylish Jacket'
+rank: Picklock
+class: Clothing
+weight: 3.0
+durability: 100.0
+max.Durability: 100.0
+movementSpeed: 1.0
+bulletResistance: 9.0
+meleeProtection: 14.0
+explosionProtection: 9.0
+resistanceToElectricity: 5.0
+resistanceToFire: 0.0
+resistanceToChemicals: 5.0
+radiationProtection: 30.0
+thermalProtection: 0.0
+bioinfectionProtection: 30.0
+psy-emissionProtection: 0.0
+bleedingProtection: 9.0

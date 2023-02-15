@@ -1,0 +1,9 @@
+id: x8NK
+name: “ClearMind+”
+class: Medicine
+weight: 0.05
+purpose: 'Psy-Emission Cleansing'
+duration: 5.0
+poison: 50.0
+psy-emissionResistance: 50.0
+psy-emissions: -50.0

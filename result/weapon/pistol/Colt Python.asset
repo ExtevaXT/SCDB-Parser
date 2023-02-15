@@ -1,0 +1,24 @@
+id: Z0Zy
+name: 'Colt Python'
+rank: Veteran
+class: Pistols
+weight: 1.34
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 76.0
+clipCapacity: 6.0
+maximumDistance: 70.0
+rateOfFire: 500.0
+reload: 2.2
+spread: 0.8
+hip-fireSpread: 2.7
+verticalRecoil: 0.9
+horizontalRecoil: 0.6
+drawTime: 0.5
+aimingTime: 0.2
+startDamage: 76.0
+damageDecreaseStart: 16.0
+endDamage: 32.0
+damageDecreaseEnd: 38.0
+maxDistance: 70.0

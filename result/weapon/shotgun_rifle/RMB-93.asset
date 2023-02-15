@@ -1,0 +1,24 @@
+id: Ry7n
+name: RMB-93
+rank: Stalker
+class: 'Shotguns and Rifles'
+weight: 2.7
+durability: 100.0
+max.Durability: 100.0
+ammoType: '12 caliber'
+damage: 195.0
+clipCapacity: 7.0
+maximumDistance: 60.0
+rateOfFire: 80.0
+reload: 4.8
+spread: 2.75
+hip-fireSpread: 4.5
+verticalRecoil: 4.0
+horizontalRecoil: 1.5
+drawTime: 0.75
+aimingTime: 0.25
+startDamage: 195.0
+damageDecreaseStart: 8.0
+endDamage: 34.0
+damageDecreaseEnd: 36.0
+maxDistance: 60.0

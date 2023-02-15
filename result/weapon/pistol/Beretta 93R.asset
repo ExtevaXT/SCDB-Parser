@@ -1,0 +1,25 @@
+id: 0n9q
+name: 'Beretta 93R'
+rank: Stalker
+class: Pistols
+weight: 1.1700001
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 45.0
+clipCapacity: 20.0
+maximumDistance: 52.0
+rateOfFire: 450.0
+reload: 2.25
+tacticalReload: 1.75
+spread: 1.125
+hip-fireSpread: 3.0
+verticalRecoil: 0.3
+horizontalRecoil: 0.25
+drawTime: 0.45
+aimingTime: 0.15
+startDamage: 45.0
+damageDecreaseStart: 10.0
+endDamage: 14.0
+damageDecreaseEnd: 28.0
+maxDistance: 52.0

@@ -1,0 +1,9 @@
+id: Ro3b
+name: '5.45 Clip'
+rank: Veteran
+class: Clips
+weight: 0.3
+clipSize: 60.0
+jamming: 0.006
+drawSpeed: 14.999998
+reloadTime: 20.000004

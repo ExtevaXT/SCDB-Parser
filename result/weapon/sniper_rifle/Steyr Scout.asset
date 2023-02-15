@@ -1,0 +1,26 @@
+id: 75z9
+name: 'Steyr Scout'
+rank: Stalker
+class: 'Sniper Rifles'
+weight: 3.3
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 76.0
+clipCapacity: 5.0
+maximumDistance: 170.0
+rateOfFire: 55.0
+reload: 4.0
+spread: 0.08
+hip-fireSpread: 4.0
+verticalRecoil: 1.8
+horizontalRecoil: 0.4
+drawTime: 0.75
+aimingTime: 0.4
+bleeding: 95.0
+stoppingPower: 110.0
+startDamage: 76.0
+damageDecreaseStart: 30.0
+endDamage: 76.0
+damageDecreaseEnd: 115.0
+maxDistance: 170.0

@@ -1,0 +1,8 @@
+id: 61RE
+name: '7.62 Bakelite Clip'
+rank: Newbie
+class: Clips
+weight: 0.32
+clipSize: 40.0
+drawSpeed: 20.000004
+reloadTime: 4.999995

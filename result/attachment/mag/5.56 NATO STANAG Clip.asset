@@ -1,0 +1,9 @@
+id: 3mkR
+name: '5.56 NATO STANAG Clip'
+rank: Veteran
+class: Clips
+weight: 0.18
+clipSize: 60.0
+jamming: 0.006
+drawSpeed: 14.999998
+reloadTime: 20.000004

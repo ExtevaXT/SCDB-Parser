@@ -1,0 +1,26 @@
+id: 92wq
+name: WA2000
+rank: Master
+class: 'Sniper Rifles'
+weight: 7.0499997
+durability: 100.0
+max.Durability: 100.0
+ammoType: '7.62'
+damage: 95.0
+clipCapacity: 10.0
+maximumDistance: 220.0
+rateOfFire: 210.0
+reload: 3.85
+tacticalReload: 3.1
+spread: 0.052
+hip-fireSpread: 3.75
+verticalRecoil: 1.0
+horizontalRecoil: 0.4
+drawTime: 1.0
+aimingTime: 0.3
+stoppingPower: 80.0
+startDamage: 95.0
+damageDecreaseStart: 36.0
+endDamage: 76.0
+damageDecreaseEnd: 120.0
+maxDistance: 220.0

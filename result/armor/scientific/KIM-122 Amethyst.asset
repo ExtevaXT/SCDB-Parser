@@ -1,0 +1,18 @@
+id: xQ6j
+name: 'KIM-122 Amethyst'
+rank: Veteran
+class: Scientist
+weight: 7.3
+durability: 100.0
+max.Durability: 100.0
+bulletResistance: 53.0
+meleeProtection: 63.0
+explosionProtection: 76.0
+resistanceToElectricity: 933.0
+resistanceToFire: 933.0
+resistanceToChemicals: 933.0
+radiationProtection: 370.0
+thermalProtection: 370.0
+bioinfectionProtection: 400.0
+psy-emissionProtection: 400.0
+bleedingProtection: 38.0

@@ -1,0 +1,25 @@
+id: JJd9
+name: Bee
+rank: Newbie
+class: Pistols
+weight: 0.7
+durability: 100.0
+max.Durability: 100.0
+ammoType: '9 mm'
+damage: 48.0
+clipCapacity: 16.0
+maximumDistance: 50.0
+rateOfFire: 460.0
+reload: 2.4
+tacticalReload: 2.1
+spread: 1.368
+hip-fireSpread: 2.7
+verticalRecoil: 0.25
+horizontalRecoil: 0.2
+drawTime: 0.6
+aimingTime: 0.15
+startDamage: 48.0
+damageDecreaseStart: 10.0
+endDamage: 17.0
+damageDecreaseEnd: 24.0
+maxDistance: 50.0

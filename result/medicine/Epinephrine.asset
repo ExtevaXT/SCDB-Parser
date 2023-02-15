@@ -1,0 +1,12 @@
+id: 6ZzE
+name: Epinephrine
+class: Medicine
+weight: 0.05
+purpose: 'Short-Term Boost'
+duration: 60.0
+poison: 50.0
+stamina: 100.0
+movementSpeed: 5.0
+staminaRegeneration: 10.0
+healingEffectiveness: 25.0
+bleedingProtection: -25.0

@@ -1,0 +1,21 @@
+id: nqe9
+name: Flamethrower
+rank: Veteran
+class: 'Other Weapons'
+weight: 16.0
+durability: 100.0
+max.Durability: 100.0
+ammoType: 'Flammable Mixture'
+damage: 10.0
+clipCapacity: 150.0
+maximumDistance: 10.0
+rateOfFire: 600.0
+reload: 11.25
+tacticalReload: 9.6
+spread: 2.0
+hip-fireSpread: 2.0
+verticalRecoil: 0.05
+drawTime: 1.35
+aimingTime: 0.45
+fireDamage: 66.66667
+absoluteDamage: 33.333336

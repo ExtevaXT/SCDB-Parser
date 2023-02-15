@@ -1,0 +1,10 @@
+id: n8Vk
+name: 'SN-1u Mini-Pancake'
+class: Devices
+weight: 3.5
+durability: 100.0
+max.Durability: 100.0
+charge: 100.0
+passiveRange: 20.0
+activeRange: 8.0
+scanningAngle: 60.0
