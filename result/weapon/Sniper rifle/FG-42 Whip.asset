@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NN0j
     key: fg42
-    name: 'FG-42 Whip'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'FG-42 Whip'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Veteran
     class: 'Sniper Rifles'
     weight: 4.95

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BMqn
     key: '21000'
-    name: 'Hunter’s Knife'
-    category: Weapon/Melee
+    fullName: 'Hunter’s Knife'
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 0.19

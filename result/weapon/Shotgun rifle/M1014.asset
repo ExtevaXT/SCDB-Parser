@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Benelli M4 Super 90, better known as M1014, is a semi-automatic semiautomatic magazine fed shotgun developed in Italy by Benelli Armi S.p.A.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: d07a7c4a8701e064e98dc6a0cec7603c, type: 3 }, { fileID: 8300000, guid: 063b244c245dd2d49a7d6b6e4eb28a29, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: DMXV
     key: m1014
-    name: M1014
+    fullName: M1014
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Stalker
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 2OBk
     key: oliva
-    name: 'Olive Armor Paint'
-    category: Other
+    fullName: 'Olive Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

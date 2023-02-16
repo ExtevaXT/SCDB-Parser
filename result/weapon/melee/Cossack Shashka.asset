@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: GJak
     key: shashka
-    name: 'Cossack Shashka'
-    category: Weapon/Melee
+    fullName: 'Cossack Shashka'
+    pathCategory: Weapon/Melee
     rank: Master
     class: 'Melee Weapons'
     weight: 0.76

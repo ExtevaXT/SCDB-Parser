@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAye
     key: scope_svt
-    name: 'PU Optical Sight for SVT'
-    category: Attachment/Sight
+    fullName: 'PU Optical Sight for SVT'
+    pathCategory: Attachment/Sight
     rank: Picklock
     class: Sights
     weight: 0.27

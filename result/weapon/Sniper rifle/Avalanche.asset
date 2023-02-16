@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JJao
     key: svu_mod
-    name: Avalanche
-    category: 'Weapon/Sniper rifle'
+    fullName: Avalanche
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Veteran
     class: 'Sniper Rifles'
     weight: 5.2000003

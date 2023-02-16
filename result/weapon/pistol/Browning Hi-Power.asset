@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 1a5c3907910011a47b5b00561d272cd0, type: 3 }, { fileID: 8300000, guid: 09747b0c04e400a4e864ca6ee5a389e4, type: 3 }, { fileID: 8300000, guid: f1ee845787a938b4fb9c905fb6acd460, type: 3 }, { fileID: 8300000, guid: 117e7bafbae1e2042ac86841adc9a6eb, type: 3 }, { fileID: 8300000, guid: 176944fe60521f244a538d06b60e0d86, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: d78f00c76429b704d9c67133c7b54333, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: nqXA
     key: hp
-    name: 'Browning Hi-Power'
+    fullName: 'Browning Hi-Power'
+    pathCategory: Weapon/Pistol
     rank: Stalker
     class: Pistols
     ammoType: '9 mm'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nx59
     key: handle_agr43g
-    name: 'Fab Defense AGR-43 Grip, Green'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AGR-43 Grip, Green'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.096

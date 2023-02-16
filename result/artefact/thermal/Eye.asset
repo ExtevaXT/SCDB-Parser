@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2XMR
     key: jarka_glaz
-    name: Eye
-    category: Artefact/Thermal
+    fullName: Eye
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.1
     common: 'Not studied'

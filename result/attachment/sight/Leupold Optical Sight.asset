@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEJ5
     key: scope_hamr
-    name: 'Leupold Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Leupold Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.42

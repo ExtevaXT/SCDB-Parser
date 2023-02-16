@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: G7E7
     key: 556inc
-    name: '5.56 mm Incendiary Ammo'
-    category: Ammo
+    fullName: '5.56 mm Incendiary Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.006
     piercing: 8.0

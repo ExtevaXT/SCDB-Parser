@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BkQw
     key: forend_bm
-    name: 'BM Barrel Mount'
-    category: Attachment/Forend
+    fullName: 'BM Barrel Mount'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.18

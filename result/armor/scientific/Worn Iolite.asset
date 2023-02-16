@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0joE
     key: iolit-1
-    name: 'Worn Iolite'
-    category: Armor/Scientific
+    fullName: 'Worn Iolite'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     weight: 7.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [310.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A turquoise research suit. One of the Chernobyl Research Institute’s true masterpieces. The special composition of the suit’s lining protects against high levels of radiation.'

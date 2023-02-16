@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DNVZ
     key: sports
-    name: 'Sports Bag'
-    category: Container
+    fullName: 'Sports Bag'
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 1.5

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: OOmj
     key: mourner
-    name: Martyr
-    category: Other
+    fullName: Martyr
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yZz5
     key: puh_kkoluchka
-    name: 'Crystal Thorn'
-    category: Artefact/Biochemical
+    fullName: 'Crystal Thorn'
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.4
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8jZn
     key: ao4
-    name: 'RAPS AH-4 Raider'
-    category: Armor/Mixed
+    fullName: 'RAPS AH-4 Raider'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 28.0
@@ -26,4 +26,6 @@ MonoBehaviour:
     biologicalProtection: [270.0]
     psychoProtection: [210.0]
     bleedingProtection: [44.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A reinforced anomalous protection suit, the logical next stage in the development of the Artifact Hunters range, which requires both physical and anomalous protection. The RAPS is the perfect choice for getting past Electros and for zones with increased psy-emissions.'

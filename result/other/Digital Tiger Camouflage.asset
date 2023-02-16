@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: dym9
     key: tiger_digital
-    name: 'Digital Tiger Camouflage'
-    category: Other
+    fullName: 'Digital Tiger Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

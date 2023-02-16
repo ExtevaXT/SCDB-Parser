@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KmMq
     key: voronka_goldgravi
-    name: 'Gold Gravi'
-    category: Artefact/Gravitational
+    fullName: 'Gold Gravi'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.2
     common: 'Not studied'

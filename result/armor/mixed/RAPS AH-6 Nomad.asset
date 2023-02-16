@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 1LNO
     key: ao6
-    name: 'RAPS AH-6 Nomad'
-    category: Armor/Mixed
+    fullName: 'RAPS AH-6 Nomad'
+    pathCategory: Armor/Mixed
     rank: Master
     class: Combo
     weight: 24.0
@@ -26,4 +26,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [240.0]
     bleedingProtection: [53.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'The best model in the Artifact Hunters range. The main emphasis was placed on increasing ease of use and fixing errors from previous versions.'

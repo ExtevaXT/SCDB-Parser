@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 6B0y
     key: '19118'
-    name: 'Birch Tree Camouflage 1943 Model'
-    category: Other
+    fullName: 'Birch Tree Camouflage 1943 Model'
+    pathCategory: Other
     class: 'Skins and Paint'

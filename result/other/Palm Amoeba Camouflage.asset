@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: z6yV
     key: '19120'
-    name: 'Palm Amoeba Camouflage'
-    category: Other
+    fullName: 'Palm Amoeba Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

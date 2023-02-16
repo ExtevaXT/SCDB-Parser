@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 75L6
     key: outlaw
-    name: Outlaw
-    category: Other
+    fullName: Outlaw
+    pathCategory: Other
     class: 'Skins and Paint'

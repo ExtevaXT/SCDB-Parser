@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 1ggY
     key: '19828'
-    name: 'OTs-33 Frost Tigor'
-    category: Other
+    fullName: 'OTs-33 Frost Tigor'
+    pathCategory: Other
     class: 'Skins and Paint'

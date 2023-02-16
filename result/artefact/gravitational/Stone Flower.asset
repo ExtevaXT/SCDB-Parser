@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vzbg
     key: trampoline_kamencvet
-    name: 'Stone Flower'
-    category: Artefact/Gravitational
+    fullName: 'Stone Flower'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

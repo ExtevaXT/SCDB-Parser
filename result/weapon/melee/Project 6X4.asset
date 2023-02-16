@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y1l8
     key: '21001'
-    name: 'Project 6X4'
-    category: Weapon/Melee
+    fullName: 'Project 6X4'
+    pathCategory: Weapon/Melee
     rank: Picklock
     class: 'Melee Weapons'
     weight: 0.25

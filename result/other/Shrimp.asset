@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Zx1x
     key: npc
-    name: Shrimp
-    category: Other
+    fullName: Shrimp
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.02

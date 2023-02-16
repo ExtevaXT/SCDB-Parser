@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Ro2y
     key: forend_m1ris2
-    name: 'M1A Stock with Picatinny Rails'
-    category: Attachment/Forend
+    fullName: 'M1A Stock with Picatinny Rails'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.96

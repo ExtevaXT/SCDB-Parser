@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y9bG
     key: '19201'
-    name: 'A-TACS AU Camouflage'
-    category: Other
+    fullName: 'A-TACS AU Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

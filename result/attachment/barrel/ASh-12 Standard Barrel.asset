@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7mYL
     key: barrel_ash12
-    name: 'ASh-12 Standard Barrel'
-    category: Attachment/Barrel
+    fullName: 'ASh-12 Standard Barrel'
+    pathCategory: Attachment/Barrel
     rank: Master
     class: 'Muzzles and Silencers'
     weight: 0.16

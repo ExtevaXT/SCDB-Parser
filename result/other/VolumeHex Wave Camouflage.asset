@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: qN5w
     key: '19238'
-    name: 'VolumeHex Wave Camouflage'
-    category: Other
+    fullName: 'VolumeHex Wave Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Rr8n
     key: atacs_wn
-    name: 'A-TACS WN Camouflage'
-    category: Other
+    fullName: 'A-TACS WN Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

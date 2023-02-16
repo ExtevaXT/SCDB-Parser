@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0QwO
     key: jarka_vslezy
-    name: 'Wolf Tears'
-    category: Artefact/Thermal
+    fullName: 'Wolf Tears'
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.05
     common: 'Not studied'

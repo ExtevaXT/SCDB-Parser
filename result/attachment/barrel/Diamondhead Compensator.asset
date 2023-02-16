@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEjG
     key: barrel_diamondhead
-    name: 'Diamondhead Compensator'
-    category: Attachment/Barrel
+    fullName: 'Diamondhead Compensator'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.141

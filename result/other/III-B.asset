@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 20ro
     key: bbb
-    name: III-B
-    category: Other
+    fullName: III-B
+    pathCategory: Other
     class: 'Skins and Paint'

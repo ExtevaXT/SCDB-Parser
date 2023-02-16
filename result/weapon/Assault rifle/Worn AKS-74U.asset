@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: V3Vg
     key: aksu-1
-    name: 'Worn AKS-74U'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn AKS-74U'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Picklock
     class: 'Assault Rifles'
     weight: 3.31

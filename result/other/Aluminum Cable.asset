@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9lDL
     key: mining_add
-    name: 'Aluminum Cable'
-    category: Other
+    fullName: 'Aluminum Cable'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.25

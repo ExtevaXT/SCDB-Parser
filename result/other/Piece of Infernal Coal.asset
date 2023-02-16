@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ARnw
     key: npc
-    name: 'Piece of Infernal Coal'
-    category: Other
+    fullName: 'Piece of Infernal Coal'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.02

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kaek
     key: '21048'
-    name: Grabber
-    category: Weapon/Melee
+    fullName: Grabber
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.3

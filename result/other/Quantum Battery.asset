@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VDJg
     key: airdrop
-    name: 'Quantum Battery'
-    category: Other
+    fullName: 'Quantum Battery'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.1

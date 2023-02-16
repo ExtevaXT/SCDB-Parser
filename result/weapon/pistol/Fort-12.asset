@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: b1d20aedb34e3264694c869da53d4573, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: e0f77dbd2059d8b4aa9d017b5275c12f, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: MO0D
     key: fort12
-    name: Fort-12
+    fullName: Fort-12
+    pathCategory: Weapon/Pistol
     rank: Newbie
     class: Pistols
     ammoType: '9 mm'

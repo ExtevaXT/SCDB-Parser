@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: a0nY
     key: fridge
-    name: 'Fridge Container'
-    category: Container
+    fullName: 'Fridge Container'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 6.0

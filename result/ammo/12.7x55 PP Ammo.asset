@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l0ZB
     key: 127bb
-    name: '12.7x55 PP Ammo'
-    category: Ammo
+    fullName: '12.7x55 PP Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.022
     piercing: 25.0

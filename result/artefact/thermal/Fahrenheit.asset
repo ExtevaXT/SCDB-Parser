@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rgdl
     key: blizzard_fahrenheit
-    name: Fahrenheit
-    category: Artefact/Thermal
+    fullName: Fahrenheit
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

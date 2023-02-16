@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: QBmP
     key: neon
-    name: Psycho
-    category: Other
+    fullName: Psycho
+    pathCategory: Other
     class: 'Skins and Paint'

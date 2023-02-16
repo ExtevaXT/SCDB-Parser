@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N512
     key: mount_mosinris
-    name: 'Kochetov Mount for Patriot with Picatinny Rail'
-    category: Attachment/Forend
+    fullName: 'Kochetov Mount for Patriot with Picatinny Rail'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.205

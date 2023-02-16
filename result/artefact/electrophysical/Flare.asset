@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lLBw
     key: electra_vspyshka
-    name: Flare
-    category: Artefact/Electrophysical
+    fullName: Flare
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

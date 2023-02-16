@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2RG1
     key: scope_pso3
-    name: 'PSO Optical Sight'
-    category: Attachment/Sight
+    fullName: 'PSO Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.75

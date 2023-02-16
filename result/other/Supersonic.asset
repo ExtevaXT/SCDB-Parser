@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Ry6G
     key: supersonic
-    name: Supersonic
-    category: Other
+    fullName: Supersonic
+    pathCategory: Other
     class: 'Skins and Paint'

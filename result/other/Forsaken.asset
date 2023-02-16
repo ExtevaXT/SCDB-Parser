@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: jagN
     key: forsworn
-    name: Forsaken
-    category: Other
+    fullName: Forsaken
+    pathCategory: Other
     class: 'Skins and Paint'

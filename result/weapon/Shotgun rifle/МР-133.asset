@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0nmJ
     key: mr133
-    name: МР-133
-    category: 'Weapon/Shotgun rifle'
+    fullName: МР-133
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Newbie
     class: 'Shotguns and Rifles'
     weight: 3.3000002

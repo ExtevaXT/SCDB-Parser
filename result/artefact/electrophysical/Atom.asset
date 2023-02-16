@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RgOz
     key: puzir_atom
-    name: Atom
-    category: Artefact/Electrophysical
+    fullName: Atom
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.1
     common: 'Not studied'

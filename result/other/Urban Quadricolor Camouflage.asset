@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Djw9
     key: '19115'
-    name: 'Urban Quadricolor Camouflage'
-    category: Other
+    fullName: 'Urban Quadricolor Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

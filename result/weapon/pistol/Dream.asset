@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aVzY
     key: hp_mod
-    name: Dream
-    category: Weapon/Pistol
+    fullName: Dream
+    pathCategory: Weapon/Pistol
     rank: Stalker
     class: Pistols
     weight: 0.88

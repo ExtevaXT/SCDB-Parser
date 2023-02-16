@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0grE
     key: mount_skslast
-    name: 'SKS Bracket—Dovetail Joint'
-    category: Attachment/Forend
+    fullName: 'SKS Bracket—Dovetail Joint'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.15

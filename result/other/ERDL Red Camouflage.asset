@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: DjQJ
     key: '19215'
-    name: 'ERDL Red Camouflage'
-    category: Other
+    fullName: 'ERDL Red Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

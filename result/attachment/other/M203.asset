@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yyzG
     key: launcher_m203
-    name: M203
-    category: Attachment/Other
+    fullName: M203
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 1.36

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mxd8
     key: mag_g350
-    name: 'G3 M1A Drum Clip'
-    category: Attachment/Mag
+    fullName: 'G3 M1A Drum Clip'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 0.8

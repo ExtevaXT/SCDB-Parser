@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: P8yA
     key: mag_pufgun556b
-    name: '5.56 Pufgun Clip, Black'
-    category: Attachment/Mag
+    fullName: '5.56 Pufgun Clip, Black'
+    pathCategory: Attachment/Mag
     rank: Stalker
     class: Clips
     weight: 0.12

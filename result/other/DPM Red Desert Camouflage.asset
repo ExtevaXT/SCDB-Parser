@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 1Ab7
     key: '19228'
-    name: 'DPM Red Desert Camouflage'
-    category: Other
+    fullName: 'DPM Red Desert Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

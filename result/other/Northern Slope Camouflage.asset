@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 8l2z
     key: '19121'
-    name: 'Northern Slope Camouflage'
-    category: Other
+    fullName: 'Northern Slope Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

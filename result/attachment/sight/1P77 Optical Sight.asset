@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJ0e
     key: scope_1p77
-    name: '1P77 Optical Sight'
-    category: Attachment/Sight
+    fullName: '1P77 Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.95

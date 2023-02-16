@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BMyl
     key: kedr_mod
-    name: Tsunami
-    category: 'Weapon/Submachine gun'
+    fullName: Tsunami
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     weight: 1.74

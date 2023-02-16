@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Combat
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: 0blO
     key: tank
-    name: 'SBA TANK'
+    fullName: 'SBA TANK'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     staminaBonus: [-35.0]
@@ -97,4 +98,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [190.0]
     bleedingProtection: [75.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'Heavy combat engineer armor developed by a Korean company as part of a joint order by several private military companies. It reached the Zone via the black market. It does not provide good anomalous protection, but is excellent for lengthy combat. The bulky helmet of this armor was seen as unusable in Zone conditions and swapped for a more suitable version.'

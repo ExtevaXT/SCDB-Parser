@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: njk2
     key: antirad_3
-    name: '3rd Class Antirad'
-    category: Medicine
+    fullName: '3rd Class Antirad'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Radiation Cleansing'

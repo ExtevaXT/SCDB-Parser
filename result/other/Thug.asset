@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: lOqO
     key: thug_ratcatcher
-    name: Thug
-    category: Other
+    fullName: Thug
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KPdA
     key: '21047'
-    name: 'Corrosive Saw'
-    category: Weapon/Melee
+    fullName: 'Corrosive Saw'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.1

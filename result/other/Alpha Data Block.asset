@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: '26e1'
     key: node_add
-    name: 'Alpha Data Block'
-    category: Other
+    fullName: 'Alpha Data Block'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

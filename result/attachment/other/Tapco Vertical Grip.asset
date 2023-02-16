@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAjV
     key: handgrip_tapco
-    name: 'Tapco Vertical Grip'
-    category: Attachment/Other
+    fullName: 'Tapco Vertical Grip'
+    pathCategory: Attachment/Other
     rank: Stalker
     class: 'Other Attachments'
     weight: 0.08

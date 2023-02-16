@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2RlP
     key: '22655'
-    name: 'APS Stock'
-    category: Attachment/Stock
+    fullName: 'APS Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.18
     wiggle: -25.0

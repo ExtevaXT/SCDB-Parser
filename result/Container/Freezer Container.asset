@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: q0Nr
     key: kolotun
-    name: 'Freezer Container'
-    category: Container
+    fullName: 'Freezer Container'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 7.0

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: GJMw
     key: archangel
-    name: Archangel
-    category: Other
+    fullName: Archangel
+    pathCategory: Other
     class: 'Skins and Paint'

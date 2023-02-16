@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: BOEy
     key: gas_small
-    name: 'Tank of Combustible Mixture'
-    category: Ammo
+    fullName: 'Tank of Combustible Mixture'
+    pathCategory: Ammo
     class: Ammo
     weight: 1.2

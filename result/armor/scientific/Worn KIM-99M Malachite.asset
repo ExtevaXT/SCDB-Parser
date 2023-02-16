@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OLQj
     key: kimm-1
-    name: 'Worn KIM-99M Malachite'
-    category: Armor/Scientific
+    fullName: 'Worn KIM-99M Malachite'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     weight: 7.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [120.0]
     bleedingProtection: [31.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A modification of the MIS-99 Amber suit. Fitted with upgraded body armor and 2nd-generation NVGs.'

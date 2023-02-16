@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VoPg
     key: scope_rakurs
-    name: 'Rakurs Wide-Angle Sight'
-    category: Attachment/Sight
+    fullName: 'Rakurs Wide-Angle Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.47

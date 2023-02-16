@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 7yR9
     key: spad
-    name: 'Drop Camouflage'
-    category: Other
+    fullName: 'Drop Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

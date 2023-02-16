@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: k58D
     key: voronka_yantar
-    name: Amberite
-    category: Artefact/Gravitational
+    fullName: Amberite
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

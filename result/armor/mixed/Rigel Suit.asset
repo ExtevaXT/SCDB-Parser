@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JLBQ
     key: rigel
-    name: 'Rigel Suit'
-    category: Armor/Mixed
+    fullName: 'Rigel Suit'
+    pathCategory: Armor/Mixed
     rank: Master
     class: Combo
     weight: 32.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [240.0]
     bleedingProtection: [52.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A suit with an exoskeleton. A direct descendant of the SEVA, it does not have any focused specialization. Instead, the Rigel provides comprehensive protection from nearly all dangers in the Zone.'

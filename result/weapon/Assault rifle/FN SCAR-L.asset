@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A weapon system developed by the American division of the Belgian company FN Herstal to compete for the USSOCOM''s new assault rifle in 2003. The system was declared the winner of the competition in December 2004.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 742418c97e5218340825d87234601a95, type: 3 }, { fileID: 8300000, guid: 1e58607f1e80e664d94d4bd01e3a5311, type: 3 }, { fileID: 8300000, guid: 8efdde65fbb22d64b9cc2ebd613b72fb, type: 3 }, { fileID: 8300000, guid: cf62bc00fbf79b64ea29e03d734a22de, type: 3 }, { fileID: 8300000, guid: 42d77b0f9f1ce7746a495c09dbb6dd69, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 0n6Q
     key: scarl
-    name: 'FN SCAR-L'
+    fullName: 'FN SCAR-L'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     ammoType: '5.56'

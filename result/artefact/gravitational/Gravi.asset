@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yZXl
     key: voronka_gravi
-    name: Gravi
-    category: Artefact/Gravitational
+    fullName: Gravi
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.2
     common: 'Not studied'

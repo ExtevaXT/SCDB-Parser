@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bn3l
     key: ao1
-    name: 'AH-1 Drifter Suit'
-    category: Armor/Mixed
+    fullName: 'AH-1 Drifter Suit'
+    pathCategory: Armor/Mixed
     rank: Newbie
     class: Combo
     weight: 4.0
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [20.0]
     bleedingProtection: [21.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An artifact hunter’s suit, offering decent protection from damage and the effect of anomalies.'

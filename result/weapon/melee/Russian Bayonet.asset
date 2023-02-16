@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JJqV
     key: '21012'
-    name: 'Russian Bayonet'
-    category: Weapon/Melee
+    fullName: 'Russian Bayonet'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.34

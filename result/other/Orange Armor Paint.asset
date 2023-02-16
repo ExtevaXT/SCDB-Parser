@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: l9AM
     key: orange
-    name: 'Orange Armor Paint'
-    category: Other
+    fullName: 'Orange Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

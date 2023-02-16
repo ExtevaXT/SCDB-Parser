@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0O1J
     key: dpm_white
-    name: 'DPM White Camouflage'
-    category: Other
+    fullName: 'DPM White Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxn9
     key: forend_uziris
-    name: 'Handguard with Guiding RIS for Uzi'
-    category: Attachment/Forend
+    fullName: 'Handguard with Guiding RIS for Uzi'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.22

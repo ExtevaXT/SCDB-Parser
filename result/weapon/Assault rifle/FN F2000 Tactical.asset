@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Z0xx
     key: f2000
-    name: 'FN F2000 Tactical'
-    category: 'Weapon/Assault rifle'
+    fullName: 'FN F2000 Tactical'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     weight: 3.8

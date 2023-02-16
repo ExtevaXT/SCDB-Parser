@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9rKA
     key: getter
-    name: 'Forager Container'
-    category: Container
+    fullName: 'Forager Container'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 6.5

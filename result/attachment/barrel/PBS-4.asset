@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: j7YO
     key: silencer_pbs4
-    name: PBS-4
-    category: Attachment/Barrel
+    fullName: PBS-4
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.61

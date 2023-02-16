@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: AVl2
     key: ao3-2
-    name: 'Damaged AH-3 Seeker Suit'
-    category: Armor/Mixed
+    fullName: 'Damaged AH-3 Seeker Suit'
+    pathCategory: Armor/Mixed
     rank: Stalker
     class: Combo
     weight: 7.5
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [165.0]
     psychoProtection: [120.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'

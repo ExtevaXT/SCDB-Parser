@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KDdO
     key: '19103'
-    name: 'SURPAT Camouflage'
-    category: Other
+    fullName: 'SURPAT Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

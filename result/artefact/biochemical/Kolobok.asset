@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KmgX
     key: puh_kolobok
-    name: Kolobok
-    category: Artefact/Biochemical
+    fullName: Kolobok
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.4
     common: 'Not studied'

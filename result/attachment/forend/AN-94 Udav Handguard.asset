@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N5xJ
     key: forend_an94
-    name: 'AN-94 Udav Handguard'
-    category: Attachment/Forend
+    fullName: 'AN-94 Udav Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.21

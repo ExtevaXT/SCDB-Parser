@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: xEaj
     key: sinner
-    name: Sinner
-    category: Other
+    fullName: Sinner
+    pathCategory: Other
     class: 'Skins and Paint'

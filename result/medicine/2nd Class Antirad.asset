@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VYeJ
     key: antirad_2
-    name: '2nd Class Antirad'
-    category: Medicine
+    fullName: '2nd Class Antirad'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Radiation Cleansing'

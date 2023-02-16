@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: z1wq
     key: agent
-    name: Agent
-    category: Other
+    fullName: Agent
+    pathCategory: Other
     class: 'Skins and Paint'

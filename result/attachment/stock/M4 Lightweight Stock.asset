@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mln
     key: '22605'
-    name: 'M4 Lightweight Stock'
-    category: Attachment/Stock
+    fullName: 'M4 Lightweight Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.15
     recoil: -1.9999981

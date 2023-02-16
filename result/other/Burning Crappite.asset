@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: P0jq
     key: npc_add
-    name: 'Burning Crappite'
-    category: Other
+    fullName: 'Burning Crappite'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.05

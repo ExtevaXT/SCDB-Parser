@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: m0Zz
     key: 545inc
-    name: '5.45 mm Incendiary Ammo'
-    category: Ammo
+    fullName: '5.45 mm Incendiary Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.005
     piercing: 8.0

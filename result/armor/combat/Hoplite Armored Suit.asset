@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8jkn
     key: goplit
-    name: 'Hoplite Armored Suit'
-    category: Armor/Combat
+    fullName: 'Hoplite Armored Suit'
+    pathCategory: Armor/Combat
     rank: Stalker
     class: Combat
     weight: 10.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [140.0]
     psychoProtection: [75.0]
     bleedingProtection: [52.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An excellent utility vest with body armor, a reliable helmet, and a gas mask. It is an excellent choice for any true firearms connoisseur. But don’t forget that in the Zone, you need more than just protection from bullets.'

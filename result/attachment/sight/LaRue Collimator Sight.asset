@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kxRD
     key: sight_irondot
-    name: 'LaRue Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'LaRue Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.16

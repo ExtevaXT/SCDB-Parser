@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V3jV
     key: iron
-    name: 'Metal Scrap'
-    category: Other
+    fullName: 'Metal Scrap'
+    pathCategory: Other
     class: 'Skins and Paint'

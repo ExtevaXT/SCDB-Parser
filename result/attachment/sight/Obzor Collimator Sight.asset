@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VoNw
     key: sight_obzor
-    name: 'Obzor Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Obzor Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Picklock
     class: Sights
     weight: 0.6

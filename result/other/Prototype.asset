@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y1a9
     key: prototype
-    name: Prototype
-    category: Other
+    fullName: Prototype
+    pathCategory: Other
     class: 'Skins and Paint'

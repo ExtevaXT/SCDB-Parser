@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: P8lx
     key: '22657'
-    name: 'OTs-33 Stock'
-    category: Attachment/Stock
+    fullName: 'OTs-33 Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.27
     wiggle: -25.0

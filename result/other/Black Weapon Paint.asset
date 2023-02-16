@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: gkDw
     key: black
-    name: 'Black Weapon Paint'
-    category: Other
+    fullName: 'Black Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

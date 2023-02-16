@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vqw2
     key: centurion-2
-    name: 'Damaged Centurion'
-    category: Armor/Combat
+    fullName: 'Damaged Centurion'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 40.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [180.0]
     psychoProtection: [160.0]
     bleedingProtection: [61.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this.'

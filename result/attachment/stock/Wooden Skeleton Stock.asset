@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJMm
     key: '22652'
-    name: 'Wooden Skeleton Stock'
-    category: Attachment/Stock
+    fullName: 'Wooden Skeleton Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.45
     recoil: -2.9999971

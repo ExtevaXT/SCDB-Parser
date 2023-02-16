@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DVeV
     key: mag_svu15
-    name: 'Kobra Extended Clip'
-    category: Attachment/Mag
+    fullName: 'Kobra Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.28

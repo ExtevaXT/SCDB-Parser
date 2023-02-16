@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: rNJB
     key: '19234'
-    name: 'Hexcam OPFOR Camouflage'
-    category: Other
+    fullName: 'Hexcam OPFOR Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

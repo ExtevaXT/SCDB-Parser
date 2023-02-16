@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: aVV5
     key: '19826'
-    name: 'OTs-62 Thug'
-    category: Other
+    fullName: 'OTs-62 Thug'
+    pathCategory: Other
     class: 'Skins and Paint'

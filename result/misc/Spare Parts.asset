@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: 3LE1
     key: protector
-    name: 'Spare Parts'
-    category: Misc
+    fullName: 'Spare Parts'
+    pathCategory: Misc
     class: Other
     weight: 0.1

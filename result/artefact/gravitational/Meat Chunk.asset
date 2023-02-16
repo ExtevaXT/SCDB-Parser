@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yZR8
     key: karousel_lomot
-    name: 'Meat Chunk'
-    category: Artefact/Gravitational
+    fullName: 'Meat Chunk'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

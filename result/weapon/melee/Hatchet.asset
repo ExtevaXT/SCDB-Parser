@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: GJqk
     key: '21022'
-    name: Hatchet
-    category: Weapon/Melee
+    fullName: Hatchet
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.75

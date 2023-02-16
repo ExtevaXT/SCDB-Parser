@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: ENDA
     key: mob_add
-    name: 'Devil’s Nettle'
-    category: Other
+    fullName: 'Devil’s Nettle'
+    pathCategory: Other
     rank: Veteran
     class: Other

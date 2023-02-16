@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ez99
     key: ny22_heavy
-    name: 'Nord-22 Group Assault Trooper'
-    category: Armor/Mixed
+    fullName: 'Nord-22 Group Assault Trooper'
+    pathCategory: Armor/Mixed
     rank: Legend
     class: Combo
     weight: 37.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [210.0]
     bleedingProtection: [65.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Developed by the ZIVCAS Research Institute, this armored exoskeleton has excellent properties, but every modification is very specific. This model is intended for combat in the extreme conditions of the Chernobyl Exclusion Zone. Equipped with an experimental life-support system and cutting-edge night-vision goggles that are virtually unaffected by daylight.'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: mOaD
     key: '19117'
-    name: 'Gravel Camouflage'
-    category: Other
+    fullName: 'Gravel Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

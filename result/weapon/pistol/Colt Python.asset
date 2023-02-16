@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Six-shot .357 Magnum caliber revolver. This revolver is assembled on a Type I frame and features a smooth trigger and high accuracy.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 6034c5a6767a3e5449deb613e8c51800, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: aa8e4630186eea549a44ad23f1bb16e7, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: Z0Zy
     key: python
-    name: 'Colt Python'
+    fullName: 'Colt Python'
+    pathCategory: Weapon/Pistol
     rank: Veteran
     class: Pistols
     ammoType: '9 mm'

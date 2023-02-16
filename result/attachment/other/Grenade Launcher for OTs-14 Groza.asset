@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lkn1
     key: launcher_groza
-    name: 'Grenade Launcher for OTs-14 Groza'
-    category: Attachment/Other
+    fullName: 'Grenade Launcher for OTs-14 Groza'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 1.6

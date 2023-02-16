@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: QOZJ
     key: '19116'
-    name: 'Russian Digital Camouflage'
-    category: Other
+    fullName: 'Russian Digital Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

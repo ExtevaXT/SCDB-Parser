@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xL0K
     key: mag_sig40
-    name: '40-Ammo EMAG Clip'
-    category: Attachment/Mag
+    fullName: '40-Ammo EMAG Clip'
+    pathCategory: Attachment/Mag
     rank: Stalker
     class: Clips
     weight: 0.22

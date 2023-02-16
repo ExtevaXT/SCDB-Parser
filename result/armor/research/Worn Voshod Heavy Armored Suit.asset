@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: LQPm
     key: voshod-1
-    name: 'Worn Voshod Heavy Armored Suit'
-    category: Armor/Research
+    fullName: 'Worn Voshod Heavy Armored Suit'
+    pathCategory: Armor/Research
     rank: Stalker
     class: Explorer
     weight: 12.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [105.0]
     bleedingProtection: [50.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Exoskeletons with irreparable actuators get a second life when they’re made into these suits. However, you can order one of these suits from the outset. The heavy plates are replaced with lighter ones, and the places where the actuators used to be are reinforced.'

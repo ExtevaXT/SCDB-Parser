@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NQD2
     key: skat10
-    name: 'SKAT-10 Armored Suit'
-    category: Armor/Research
+    fullName: 'SKAT-10 Armored Suit'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 12.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [210.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A modern military armored suit for assault operations in zones of anomalous activity. Components: PSZ-15 series heavy body armor; Sphere-15 helmet, equipped with induction field suppression; an anomalous protection suit and pressure suit.'

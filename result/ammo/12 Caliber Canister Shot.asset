@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RbNO
     key: 12kar
-    name: '12 Caliber Canister Shot'
-    category: Ammo
+    fullName: '12 Caliber Canister Shot'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.03
     numBullets: 8.0

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Scientific
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: xQ6j
     key: ametist
-    name: 'KIM-122 Amethyst'
+    fullName: 'KIM-122 Amethyst'
+    pathCategory: Armor/Scientific
     rank: Veteran
     class: Scientist
     nightVision: 1
@@ -94,4 +95,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [400.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'An indigo research suit. One of the masterpieces of the Chernobyl Research Institute. Can be worn in areas with high psychic influence.'

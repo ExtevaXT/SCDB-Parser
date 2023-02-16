@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'This type of sniper rifle has been on the arms market for half a century and during this time has managed to prove itself as an extremely reliable and easy to handle weapon. In the army it is mainly used to hit distant targets that cannot be hit with a machine gun, but stalkers appreciated the SVD in many ways because the bullet from it can penetrate even the thickest mutant skin or armor vest.'
     notes: null
-    category: 'Weapon/Sniper rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: b7834b41b2d70b0469f3467f96baa5eb, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: jamz
     key: svu
-    name: SVU
+    fullName: SVU
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Veteran
     class: 'Sniper Rifles'
     ammoType: '7.62'

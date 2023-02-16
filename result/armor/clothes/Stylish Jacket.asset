@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BLjx
     key: kyrtka_modnaya
-    name: 'Stylish Jacket'
-    category: Armor/Clothes
+    fullName: 'Stylish Jacket'
+    pathCategory: Armor/Clothes
     rank: Picklock
     class: Clothing
     weight: 3.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [9.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Well-connected guys like to stand out, too. In unusual ways, sometimes. This jacket model became very popular outside the Zone. The light body armor does not hinder movement and grants additional protection.'

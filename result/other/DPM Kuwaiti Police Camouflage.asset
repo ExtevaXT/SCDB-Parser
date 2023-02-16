@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: el00
     key: '19224'
-    name: 'DPM Kuwaiti Police Camouflage'
-    category: Other
+    fullName: 'DPM Kuwaiti Police Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

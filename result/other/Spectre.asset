@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: '6257'
     key: spectre
-    name: Spectre
-    category: Other
+    fullName: Spectre
+    pathCategory: Other
     class: 'Skins and Paint'

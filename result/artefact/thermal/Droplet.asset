@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKQn
     key: jarka_kaplya
-    name: Droplet
-    category: Artefact/Thermal
+    fullName: Droplet
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.05
     common: 'Not studied'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V1Ma
     key: m90_winter
-    name: 'M90 Winter Camouflage'
-    category: Other
+    fullName: 'M90 Winter Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

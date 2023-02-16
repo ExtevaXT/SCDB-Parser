@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3myD
     key: mount_shotgunris
-    name: 'Guiding RIS for Shotgun'
-    category: Attachment/Forend
+    fullName: 'Guiding RIS for Shotgun'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.14

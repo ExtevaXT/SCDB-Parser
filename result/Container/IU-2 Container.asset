@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: m0OL
     key: iu2
-    name: 'IU-2 Container'
-    category: Container
+    fullName: 'IU-2 Container'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 3.0

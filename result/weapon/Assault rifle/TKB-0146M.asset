@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MOXk
     key: tkb
-    name: TKB-0146M
-    category: 'Weapon/Assault rifle'
+    fullName: TKB-0146M
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     weight: 3.84

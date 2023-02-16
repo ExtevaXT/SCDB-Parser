@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3Ze1
     key: smog
-    name: 'Shade Hunter Heavy Armored Suit'
-    category: Armor/Combat
+    fullName: 'Shade Hunter Heavy Armored Suit'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 14.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [135.0]
     bleedingProtection: [64.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'The unknown craftsman who made the Zarya suit also created this modification for Voshod. Oxygen tanks, a good utility vest, upgraded armor, and cutting-edge NVG.'

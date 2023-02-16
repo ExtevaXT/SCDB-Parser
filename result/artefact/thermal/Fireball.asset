@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n8w9
     key: jarka_fireball
-    name: Fireball
-    category: Artefact/Thermal
+    fullName: Fireball
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.3
     common: 'Not studied'

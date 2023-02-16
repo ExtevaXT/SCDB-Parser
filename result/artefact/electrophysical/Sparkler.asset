@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yZP6
     key: electra_bengal
-    name: Sparkler
-    category: Artefact/Electrophysical
+    fullName: Sparkler
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

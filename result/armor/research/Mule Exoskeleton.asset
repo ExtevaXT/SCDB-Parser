@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: a9MN
     key: mule
-    name: 'Mule Exoskeleton'
-    category: Armor/Research
+    fullName: 'Mule Exoskeleton'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 35.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [65.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'With an exclusive carrying capacity, the Mule frame exoskeleton was created specifically for high-class couriers. It allows the wearer to not only carry bulky loads, but to also survive in conditions of increased anomalous activity.'

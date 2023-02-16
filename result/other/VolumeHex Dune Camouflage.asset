@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: OD6D
     key: '19237'
-    name: 'VolumeHex Dune Camouflage'
-    category: Other
+    fullName: 'VolumeHex Dune Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

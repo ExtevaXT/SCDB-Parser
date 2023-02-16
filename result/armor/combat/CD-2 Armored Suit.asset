@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: njGr
     key: kz2
-    name: 'CD-2 Armored Suit'
-    category: Armor/Combat
+    fullName: 'CD-2 Armored Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 7.5
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [0.0]
     bleedingProtection: [44.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An upgraded version of the standard Horizon clan suit. A cheap gas mask and improved protection from physical damage make this suit good for search operations in areas with average levels of anomalous activity.'

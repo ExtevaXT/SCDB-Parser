@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mqM8
     key: 9a91
-    name: 9А-91
-    category: 'Weapon/Assault rifle'
+    fullName: 9А-91
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 2.29

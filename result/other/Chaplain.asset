@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PLzn
     key: kapellan
-    name: Chaplain
-    category: Other
+    fullName: Chaplain
+    pathCategory: Other
     class: 'Skins and Paint'

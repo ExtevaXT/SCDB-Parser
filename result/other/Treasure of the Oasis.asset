@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: BMMj
     key: '19800'
-    name: 'Treasure of the Oasis'
-    category: Other
+    fullName: 'Treasure of the Oasis'
+    pathCategory: Other
     class: 'Skins and Paint'

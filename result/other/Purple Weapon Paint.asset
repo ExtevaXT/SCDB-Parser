@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nNjx
     key: violet
-    name: 'Purple Weapon Paint'
-    category: Other
+    fullName: 'Purple Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

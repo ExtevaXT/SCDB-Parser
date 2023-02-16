@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QRDb
     key: npc
-    name: Chlorinex
-    category: Other
+    fullName: Chlorinex
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.02

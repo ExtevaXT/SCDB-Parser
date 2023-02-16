@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: w117
     key: '19823'
-    name: 'Test Prototype RPK-16'
-    category: Other
+    fullName: 'Test Prototype RPK-16'
+    pathCategory: Other
     class: 'Skins and Paint'

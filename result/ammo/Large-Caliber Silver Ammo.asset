@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QAX1
     key: 12silver2
-    name: 'Large-Caliber Silver Ammo'
-    category: Ammo
+    fullName: 'Large-Caliber Silver Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.2
     default: 20.0

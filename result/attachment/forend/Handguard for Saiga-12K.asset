@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DVdZ
     key: forend_saiga
-    name: 'Handguard for Saiga-12K'
-    category: Attachment/Forend
+    fullName: 'Handguard for Saiga-12K'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.2

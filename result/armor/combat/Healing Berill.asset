@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Combat
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: 5L9J
     key: berill_lech
-    name: 'Healing Berill'
+    fullName: 'Healing Berill'
+    pathCategory: Armor/Combat
     rank: Stalker
     class: Combat
     staminaBonus: [-3.0]
@@ -97,4 +98,6 @@ MonoBehaviour:
     biologicalProtection: [75.0]
     psychoProtection: [0.0]
     bleedingProtection: [39.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The lining is soaked in a special invigorating, healing ointment. Rumor has it that it can cure a hangover, so it could even get Private Petrovich back on his feet.'

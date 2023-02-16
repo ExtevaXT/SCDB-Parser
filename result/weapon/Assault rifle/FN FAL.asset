@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A weapon system developed by the American division of the Belgian company FN Herstal to compete for the USSOCOM''s new assault rifle in 2003. The system was declared the winner of the competition in December 2004.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 7a8fb0b229ac71640b8b990a28dd0e41, type: 3 }, { fileID: 8300000, guid: 99484780ba19ed24ba1358faae8c199d, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3 }
@@ -63,7 +63,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: jaGP
     key: fal
-    name: 'FN FAL'
+    fullName: 'FN FAL'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     ammoType: '7.62'

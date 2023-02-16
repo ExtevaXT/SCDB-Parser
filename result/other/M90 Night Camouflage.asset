@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0OZJ
     key: '19209'
-    name: 'M90 Night Camouflage'
-    category: Other
+    fullName: 'M90 Night Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

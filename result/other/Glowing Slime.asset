@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nnJw
     key: fallout
-    name: 'Glowing Slime'
-    category: Other
+    fullName: 'Glowing Slime'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

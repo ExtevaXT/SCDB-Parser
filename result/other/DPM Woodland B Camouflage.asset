@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 7yXL
     key: '19231'
-    name: 'DPM Woodland B Camouflage'
-    category: Other
+    fullName: 'DPM Woodland B Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 86oE
     key: sight_dm51
-    name: 'DM Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'DM Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.15

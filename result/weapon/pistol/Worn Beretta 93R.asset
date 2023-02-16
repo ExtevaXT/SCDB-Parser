@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RyNO
     key: beretta93-1
-    name: 'Worn Beretta 93R'
-    category: Weapon/Pistol
+    fullName: 'Worn Beretta 93R'
+    pathCategory: Weapon/Pistol
     rank: Stalker
     class: Pistols
     weight: 1.2500001

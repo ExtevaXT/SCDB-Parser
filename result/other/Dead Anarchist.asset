@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: MO9B
     key: dead
-    name: 'Dead Anarchist'
-    category: Other
+    fullName: 'Dead Anarchist'
+    pathCategory: Other
     class: 'Skins and Paint'

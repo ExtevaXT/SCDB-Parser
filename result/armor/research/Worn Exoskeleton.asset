@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2jbo
     key: exo-1
-    name: 'Worn Exoskeleton'
-    category: Armor/Research
+    fullName: 'Worn Exoskeleton'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 27.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [140.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'At some point, a military invention fell into the hands of a brainy stalker technician, who put a lot of effort into crafting this item. The quality of the piece isn’t particularly high, due to the presence of fatal flaws in the original planning stage.'

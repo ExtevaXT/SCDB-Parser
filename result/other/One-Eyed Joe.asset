@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 1gmX
     key: joe
-    name: 'One-Eyed Joe'
-    category: Other
+    fullName: 'One-Eyed Joe'
+    pathCategory: Other
     class: 'Skins and Paint'

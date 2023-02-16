@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PAXM
     key: '19113'
-    name: 'Specter—Dirt Camouflage'
-    category: Other
+    fullName: 'Specter—Dirt Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

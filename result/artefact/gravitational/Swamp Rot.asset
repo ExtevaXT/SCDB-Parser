@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Km1A
     key: karousel_gnilec
-    name: 'Swamp Rot'
-    category: Artefact/Gravitational
+    fullName: 'Swamp Rot'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

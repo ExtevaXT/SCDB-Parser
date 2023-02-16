@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 92wq
     key: wa2000
-    name: 'WA 2000'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'WA 2000'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Master
     class: 'Sniper Rifles'
     weight: 7.0499997

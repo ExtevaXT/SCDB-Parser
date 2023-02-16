@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MZDY
     key: kzs3d
-    name: KZS-3u
-    category: Container
+    fullName: KZS-3u
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 5.25

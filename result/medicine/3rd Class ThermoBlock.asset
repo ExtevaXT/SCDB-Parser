@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OYel
     key: thermobarier_3
-    name: '3rd Class ThermoBlock'
-    category: Medicine
+    fullName: '3rd Class ThermoBlock'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: 'Thermal Protection'

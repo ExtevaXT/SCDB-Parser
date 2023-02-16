@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y9xG
     key: '19245'
-    name: 'Captured Erbsenmuster Camouflage'
-    category: Other
+    fullName: 'Captured Erbsenmuster Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

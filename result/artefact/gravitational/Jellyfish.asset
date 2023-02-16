@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n8Aw
     key: trampoline_meduza
-    name: Jellyfish
-    category: Artefact/Gravitational
+    fullName: Jellyfish
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

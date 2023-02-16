@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKLe
     key: trampoline_darkmeduza
-    name: 'Dark Jellyfish'
-    category: Artefact/Gravitational
+    fullName: 'Dark Jellyfish'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

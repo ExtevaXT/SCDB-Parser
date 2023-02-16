@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: YqaA
     key: jnec-1
-    name: 'Worn REAPER Suit'
-    category: Armor/Scientific
+    fullName: 'Worn REAPER Suit'
+    pathCategory: Armor/Scientific
     rank: Veteran
     class: Scientist
     weight: 12.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [295.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Having obtained a shipment of decommissioned body armor, the Chernobyl Research Institute decided to get a decisive foothold in a newly forming market segment: wealthy stalkers. This suit was the result. The closed breathing system gave it excellent performance and an eye-watering price. Fitted with 2nd-generation NVGs.'

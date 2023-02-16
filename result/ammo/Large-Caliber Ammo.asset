@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9r8V
     key: 12st
-    name: 'Large-Caliber Ammo'
-    category: Ammo
+    fullName: 'Large-Caliber Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.2
     piercing: 60.0

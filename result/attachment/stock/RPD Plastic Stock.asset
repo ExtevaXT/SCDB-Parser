@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAaG
     key: '22656'
-    name: 'RPD Plastic Stock'
-    category: Attachment/Stock
+    fullName: 'RPD Plastic Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.31
     recoil: -2.9999971

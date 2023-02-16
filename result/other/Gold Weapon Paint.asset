@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: BeLV
     key: '18000'
-    name: 'Gold Weapon Paint'
-    category: Other
+    fullName: 'Gold Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

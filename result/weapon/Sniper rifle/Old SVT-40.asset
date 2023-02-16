@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MOe1
     key: svt40-2
-    name: 'Old SVT-40'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Old SVT-40'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Picklock
     class: 'Sniper Rifles'
     weight: 3.8

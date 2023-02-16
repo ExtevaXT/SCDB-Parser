@@ -4,16 +4,12 @@
 MonoBehaviour:
     id: D1eX
     key: kisel_poly
-    name: Polyhedron
-    category: Artefact/Biochemical
+    fullName: Polyhedron
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.05
     common: 'Not studied'
     maxDurability: 100.0
-    triggerDamage: [100.0, 100.0]
-    blockingDamage: [50.0, 62.5]
-    recharge: [30.0, 18.0]
-    cost: [5.0, 3.0]
     speedModifier: [-10.0, -5.0]
     radiationAccumulation: [3.0, 4.0]
     text: 'A strange radioactive artifact that seems to consume the owner, but prevents them from dying.'

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A shortened version of the AKS-74 assault rifle, it was developed in the late 1970s-early 1980s for use with combat vehicles crews, aircraft crews, gun crews, and paratroopers. It is also used by the Interior Ministry and security agencies due to its small size.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 8d4bd21225a03064e83d5d885d24f1a9, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: kaON
     key: aksu
-    name: AKS-74U
+    fullName: AKS-74U
+    pathCategory: 'Weapon/Assault rifle'
     rank: Picklock
     class: 'Assault Rifles'
     ammoType: '5.45'

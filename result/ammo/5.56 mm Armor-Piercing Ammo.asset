@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zgoX
     key: 556bb
-    name: '5.56 mm Armor-Piercing Ammo'
-    category: Ammo
+    fullName: '5.56 mm Armor-Piercing Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.012
     piercing: 10.0

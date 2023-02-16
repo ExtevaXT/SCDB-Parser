@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: G5ab
     key: geleteika_winter
-    name: 'Snowdrift Camouflage'
-    category: Other
+    fullName: 'Snowdrift Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

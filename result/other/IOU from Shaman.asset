@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: Gn39
     key: '16122'
-    name: 'IOU from Shaman'
-    category: Other
+    fullName: 'IOU from Shaman'
+    pathCategory: Other
     class: Other
     text: 'I received this IOU as a reward from Shaman. I can use it to get an AKS from the merchant at the Cordon.'

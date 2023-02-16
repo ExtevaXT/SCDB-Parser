@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dJnq
     key: barrel_extension9mm
-    name: '9 mm Barrel Extension'
-    category: Attachment/Barrel
+    fullName: '9 mm Barrel Extension'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.2

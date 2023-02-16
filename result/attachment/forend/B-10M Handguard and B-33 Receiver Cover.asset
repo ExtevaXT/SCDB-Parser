@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2RQR
     key: forend_b10b33
-    name: 'B-10M Handguard and B-33 Receiver Cover'
-    category: Attachment/Forend
+    fullName: 'B-10M Handguard and B-33 Receiver Cover'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.435

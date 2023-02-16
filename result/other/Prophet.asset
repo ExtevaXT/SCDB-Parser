@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: LJlm
     key: prorok
-    name: Prophet
-    category: Other
+    fullName: Prophet
+    pathCategory: Other
     class: 'Skins and Paint'

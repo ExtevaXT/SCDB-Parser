@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oO0A
     key: exo_bandit
-    name: 'Trump Exoskeleton'
-    category: Armor/Research
+    fullName: 'Trump Exoskeleton'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 25.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [180.0]
     psychoProtection: [160.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'Ever since chumps started hanging around in exoskeletons, crooks decided not to sit on the sidelines, and ordered their own versions called the Trump. It moves fast with upgraded, lightened servomotors. It helps avoid the riffraff, but its protection against bullets leaves something to be desired.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ERg1
     key: berill
-    name: 'Berill-5M Armored Suit'
-    category: Armor/Combat
+    fullName: 'Berill-5M Armored Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 9.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [75.0]
     psychoProtection: [0.0]
     bleedingProtection: [39.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A military armored suit that was modified by the Chernobyl Research Institute. It isn’t the best of their modifications, but it is inexpensive and practical.'

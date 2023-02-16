@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rgay
     key: jarka_mamybusi
-    name: 'Mama’s Beads'
-    category: Artefact/Thermal
+    fullName: 'Mama’s Beads'
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

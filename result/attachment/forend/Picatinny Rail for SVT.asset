@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z5Bd
     key: mount_svt
-    name: 'Picatinny Rail for SVT'
-    category: Attachment/Forend
+    fullName: 'Picatinny Rail for SVT'
+    pathCategory: Attachment/Forend
     class: 'Hanguards and Brackets'
     weight: 0.12
     text: 'Picatinny rail for mounting sights on an SVT'

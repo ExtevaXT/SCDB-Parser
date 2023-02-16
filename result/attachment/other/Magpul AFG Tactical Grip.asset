@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bkon
     key: handgrip_magpul
-    name: 'Magpul AFG Tactical Grip'
-    category: Attachment/Other
+    fullName: 'Magpul AFG Tactical Grip'
+    pathCategory: Attachment/Other
     rank: Newbie
     class: 'Other Attachments'
     weight: 0.08

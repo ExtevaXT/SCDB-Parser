@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gBqe
     key: capture
-    name: 'Anomalous Serum'
-    category: Other
+    fullName: 'Anomalous Serum'
+    pathCategory: Other
     rank: Master
     class: Other
     weight: 0.03

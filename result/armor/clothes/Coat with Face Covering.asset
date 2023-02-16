@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yLb9
     key: kyrtka_pov
-    name: 'Coat with Face Covering'
-    category: Armor/Clothes
+    fullName: 'Coat with Face Covering'
+    pathCategory: Armor/Clothes
     rank: Picklock
     class: Clothing
     weight: 1.1
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [5.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A regular polyester coat. Polyester is water resistant, so it can resist the effect of chemical reagents very well, but it cannot withstand high temperatures. It melts and can cause serious harm to whoever is wearing it. The face covering will protect the wearer from any harmful substances in the air. Probably.'

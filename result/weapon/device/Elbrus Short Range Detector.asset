@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lLod
     key: dud_elbrus
-    name: 'Elbrus Short Range Detector'
-    category: Weapon/Device
+    fullName: 'Elbrus Short Range Detector'
+    pathCategory: Weapon/Device
     rank: Veteran
     class: Devices
     weight: 0.6

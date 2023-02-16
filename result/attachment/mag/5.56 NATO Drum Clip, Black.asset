@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nx72
     key: mag_cmag100b
-    name: '5.56 NATO Drum Clip, Black'
-    category: Attachment/Mag
+    fullName: '5.56 NATO Drum Clip, Black'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 1.0

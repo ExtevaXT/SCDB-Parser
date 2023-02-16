@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zae2
     key: saturn
-    name: 'Saturn Suit'
-    category: Armor/Scientific
+    fullName: 'Saturn Suit'
+    pathCategory: Armor/Scientific
     rank: Master
     class: Scientist
     weight: 13.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [415.0]
     psychoProtection: [400.0]
     bleedingProtection: [48.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A further development of the SEVA, this combines very good protection against anomalous with decent physical protection.'

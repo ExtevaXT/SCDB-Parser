@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mxwo
     key: mount_dpris
-    name: 'Adaptive RIS Rail for DP'
-    category: Attachment/Forend
+    fullName: 'Adaptive RIS Rail for DP'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.1

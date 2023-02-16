@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DNjR
     key: kzs2d
-    name: KZS-2u
-    category: Container
+    fullName: KZS-2u
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 3.5

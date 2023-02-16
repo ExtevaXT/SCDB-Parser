@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: eaxD
     key: '21024'
-    name: 'Piece of Pipe'
-    category: Weapon/Melee
+    fullName: 'Piece of Pipe'
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 1.3

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: bRZb
     key: 762sbp
-    name: '7.62 mm SBP Ammo'
-    category: Ammo
+    fullName: '7.62 mm SBP Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.016
     piercing: 27.5

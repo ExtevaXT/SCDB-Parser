@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7Z1e
     key: zveroboi-1
-    name: 'Worn Beast Slayer'
-    category: Armor/Combat
+    fullName: 'Worn Beast Slayer'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 32.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [220.0]
     psychoProtection: [200.0]
     bleedingProtection: [79.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Beast Slayer'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJ1N
     key: handgrip_fortiso
-    name: 'Fortis SHIFT Vertical Tactical Grip, Orange'
-    category: Attachment/Other
+    fullName: 'Fortis SHIFT Vertical Tactical Grip, Orange'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 0.09

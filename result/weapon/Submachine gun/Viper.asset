@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y1q9
     key: mp5_mod
-    name: Viper
-    category: 'Weapon/Submachine gun'
+    fullName: Viper
+    pathCategory: 'Weapon/Submachine gun'
     rank: Stalker
     class: 'Submachine Guns'
     weight: 3.43

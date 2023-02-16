@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: kqQN
     key: '25504'
-    name: 'NVD-11 Export'
-    category: Armor/Device
+    fullName: 'NVD-11 Export'
+    pathCategory: Armor/Device
     class: Devices
     weight: 1.75

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ogL9
     key: mob
-    name: 'Northern Moss'
-    category: Other
+    fullName: 'Northern Moss'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.01

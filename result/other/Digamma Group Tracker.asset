@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3rM7
     key: signal
-    name: 'Digamma Group Tracker'
-    category: Other
+    fullName: 'Digamma Group Tracker'
+    pathCategory: Other
     rank: Stalker
     class: Other
     weight: 0.02

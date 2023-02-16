@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QAOn
     key: hellboyd
-    name: 'Reinforced Hellboy Backpack'
-    category: Container
+    fullName: 'Reinforced Hellboy Backpack'
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 4.1

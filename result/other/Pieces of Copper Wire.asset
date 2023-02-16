@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JK9e
     key: mining
-    name: 'Pieces of Copper Wire'
-    category: Other
+    fullName: 'Pieces of Copper Wire'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

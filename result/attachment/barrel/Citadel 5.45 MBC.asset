@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: bM35
     key: barrel_citadel
-    name: 'Citadel 5.45 MBC'
-    category: Attachment/Barrel
+    fullName: 'Citadel 5.45 MBC'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.096

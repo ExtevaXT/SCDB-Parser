@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 3O7G
     key: '19249'
-    name: 'M90 Threat Camouflage'
-    category: Other
+    fullName: 'M90 Threat Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

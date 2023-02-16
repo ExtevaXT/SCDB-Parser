@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 81zQ
     key: 556exp
-    name: '5.56 mm Expanding Ammo'
-    category: Ammo
+    fullName: '5.56 mm Expanding Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.012
     damage: 10.000002

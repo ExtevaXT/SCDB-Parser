@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Medicine
+    category: Consumable
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -43,7 +43,8 @@ MonoBehaviour:
     usageFov: 0
     id: KLG8
     key: bandage
-    name: Bandage
+    fullName: Bandage
+    pathCategory: Medicine
     class: Medicine
     purpose: 'Bleeding Elimination'
     hpRegen: 5.0

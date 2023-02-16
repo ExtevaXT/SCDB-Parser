@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z1y2
     key: steeltiger
-    name: 'Steel Tiger Karambit'
-    category: Weapon/Melee
+    fullName: 'Steel Tiger Karambit'
+    pathCategory: Weapon/Melee
     rank: Master
     class: 'Melee Weapons'
     weight: 0.153

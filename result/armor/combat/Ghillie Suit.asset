@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wQww
     key: ghillie
-    name: 'Ghillie Suit'
-    category: Armor/Combat
+    fullName: 'Ghillie Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 9.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [90.0]
     psychoProtection: [50.0]
     bleedingProtection: [42.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A crude ghillie suit with a utility vest. The most suitable suit for snipers.'

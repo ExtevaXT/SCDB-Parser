@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: L3dZ
     key: mining
-    name: 'Remains of a Radio Transmitter'
-    category: Other
+    fullName: 'Remains of a Radio Transmitter'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

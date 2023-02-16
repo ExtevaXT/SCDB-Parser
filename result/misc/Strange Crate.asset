@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: 2E5a
     key: warpcrate
-    name: 'Strange Crate'
-    category: Misc
+    fullName: 'Strange Crate'
+    pathCategory: Misc
     class: Other
     weight: 5.0

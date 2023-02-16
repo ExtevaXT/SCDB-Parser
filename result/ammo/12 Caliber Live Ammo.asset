@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PbJx
     key: 12dart
-    name: '12 Caliber Live Ammo'
-    category: Ammo
+    fullName: '12 Caliber Live Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.03
     piercing: 20.0

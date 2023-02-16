@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9L5g
     key: psiblock_3
-    name: '3rd Class Psy-Blocker'
-    category: Medicine
+    fullName: '3rd Class Psy-Blocker'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: 'Psy-Emission Protection'

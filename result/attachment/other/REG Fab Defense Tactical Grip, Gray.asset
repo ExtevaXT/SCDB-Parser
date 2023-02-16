@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kxjk
     key: handgrip_regfbb
-    name: 'REG Fab Defense Tactical Grip, Gray'
-    category: Attachment/Other
+    fullName: 'REG Fab Defense Tactical Grip, Gray'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 0.12

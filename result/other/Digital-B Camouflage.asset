@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 3OYG
     key: '19205'
-    name: 'Digital-B Camouflage'
-    category: Other
+    fullName: 'Digital-B Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

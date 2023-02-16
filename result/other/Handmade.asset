@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 200R
     key: '19811'
-    name: Handmade
-    category: Other
+    fullName: Handmade
+    pathCategory: Other
     class: 'Skins and Paint'

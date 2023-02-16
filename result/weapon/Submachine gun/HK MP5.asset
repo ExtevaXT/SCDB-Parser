@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: ed75efa832c81f045aeba8926914fb23, type: 3 }, { fileID: 8300000, guid: b9d748281d3985a409dce5be4fcec0a8, type: 3 }, { fileID: 8300000, guid: 014386d6a5b329e45ad6eb920540f5e9, type: 3 }, { fileID: 8300000, guid: 57be1b14f70692d42afab9f930199972, type: 3 }, { fileID: 8300000, guid: c42d8b1d82c3fdc418f15d5b8841d703, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: y1d5
     key: mp5
-    name: 'HK MP5'
+    fullName: 'HK MP5'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     ammoType: '9 mm'

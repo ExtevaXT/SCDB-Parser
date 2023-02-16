@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Krnx
     key: 9inc
-    name: '9 mm Incendiary Ammo'
-    category: Ammo
+    fullName: '9 mm Incendiary Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.0045
     piercing: 4.0

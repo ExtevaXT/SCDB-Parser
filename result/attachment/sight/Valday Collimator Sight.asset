@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxP3
     key: sight_valdai
-    name: 'Valday Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Valday Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.298

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KPPj
     key: '19803'
-    name: 'Black Rose'
-    category: Other
+    fullName: 'Black Rose'
+    pathCategory: Other
     class: 'Skins and Paint'

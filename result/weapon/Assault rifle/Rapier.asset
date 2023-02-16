@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JJ03
     key: aks74_mod
-    name: Rapier
-    category: 'Weapon/Assault rifle'
+    fullName: Rapier
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     weight: 3.61

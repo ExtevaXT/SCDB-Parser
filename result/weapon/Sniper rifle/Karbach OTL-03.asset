@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: AMA7
     key: otl
-    name: 'Karbach OTL-03'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Karbach OTL-03'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Master
     class: 'Sniper Rifles'
     weight: 3.6

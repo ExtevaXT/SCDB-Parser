@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nj29
     key: tonga
-    name: 'Tonga Suit'
-    category: Armor/Mixed
+    fullName: 'Tonga Suit'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 17.0
@@ -27,4 +27,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [210.0]
     bleedingProtection: [40.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A suit named in honor of the archipelago in the Pacific Ocean. Outwardly it resembles a diving suit, but more technologically advanced. Equipped with a cheap but reliable life-support system.'

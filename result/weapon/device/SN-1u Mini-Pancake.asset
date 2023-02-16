@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n8Vk
     key: cn1u
-    name: 'SN-1u Mini-Pancake'
-    category: Weapon/Device
+    fullName: 'SN-1u Mini-Pancake'
+    pathCategory: Weapon/Device
     class: Devices
     weight: 3.5
     maxDurability: 100.0

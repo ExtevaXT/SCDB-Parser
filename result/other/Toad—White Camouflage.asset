@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V1K3
     key: '19106'
-    name: 'Toad—White Camouflage'
-    category: Other
+    fullName: 'Toad—White Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

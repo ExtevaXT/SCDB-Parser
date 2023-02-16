@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: MOOE
     key: '19825'
-    name: 'OTL-3 Thug'
-    category: Other
+    fullName: 'OTL-3 Thug'
+    pathCategory: Other
     class: 'Skins and Paint'

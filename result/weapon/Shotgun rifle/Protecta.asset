@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A regular hunting rifle with horizontal barrels, much more compact and lightweight than a conventional double-barreled shotgun. One of the most common weapons used by bandits, as it is convenient for concealed carry and very effective in close combat.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 1b597fdbf3e841048934c79c57eefd8f, type: 3 }, { fileID: 8300000, guid: 6b95cf33f009e47448bbfaed5aeb6166, type: 3 }, { fileID: 8300000, guid: 1fdb20d7e89e17648b943c396c05dbe6, type: 3 }, { fileID: 8300000, guid: 39adfb42b5bcc314aafdb3e7b9013b1b, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: XnQO
     key: protecta
-    name: Protecta
+    fullName: Protecta
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Veteran
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

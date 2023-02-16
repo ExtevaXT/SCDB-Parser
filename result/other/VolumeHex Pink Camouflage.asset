@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: YX1o
     key: '19239'
-    name: 'VolumeHex Pink Camouflage'
-    category: Other
+    fullName: 'VolumeHex Pink Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

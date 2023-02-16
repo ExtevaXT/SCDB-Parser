@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: LQDm
     key: berill_bandit
-    name: 'Worm Armored Suit'
-    category: Armor/Combat
+    fullName: 'Worm Armored Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 9.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [75.0]
     psychoProtection: [0.0]
     bleedingProtection: [39.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An earth-colored armored suit. Before approaching someone wearing this, it’s best to thoroughly weigh up your chances of getting away alive.'

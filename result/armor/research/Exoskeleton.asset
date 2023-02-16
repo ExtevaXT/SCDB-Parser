@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Research
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: awZd
     key: exo
-    name: Exoskeleton
+    fullName: Exoskeleton
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     staminaBonus: [-16.0]
@@ -97,4 +98,6 @@ MonoBehaviour:
     biologicalProtection: [180.0]
     psychoProtection: [160.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'At some point, a military invention fell into the hands of a brainy stalker technician, who put a lot of effort into crafting this item. The quality of the piece isn’t particularly high, due to the presence of fatal flaws in the original planning stage.'

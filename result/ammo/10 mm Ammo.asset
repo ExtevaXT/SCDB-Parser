@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: A3E9
     key: 10st
-    name: '10 mm Ammo'
-    category: Ammo
+    fullName: '10 mm Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.013
     numBullets: 5.0

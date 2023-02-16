@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: G0Z6
     key: forend_sks
-    name: 'Tactical Stock for SKS'
-    category: Attachment/Forend
+    fullName: 'Tactical Stock for SKS'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.1

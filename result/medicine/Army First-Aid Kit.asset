@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l61K
     key: apt_a
-    name: 'Army First-Aid Kit'
-    category: Medicine
+    fullName: 'Army First-Aid Kit'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.2
     purpose: Healing

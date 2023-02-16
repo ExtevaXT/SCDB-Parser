@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: G5xa
     key: '19222'
-    name: 'DPM Desert Camouflage'
-    category: Other
+    fullName: 'DPM Desert Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 62J9
     key: val-1
-    name: 'Worn AS Val'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn AS Val'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     weight: 3.5200002

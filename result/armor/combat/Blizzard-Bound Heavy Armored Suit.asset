@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0b8O
     key: frostwalker
-    name: 'Blizzard-Bound Heavy Armored Suit'
-    category: Armor/Combat
+    fullName: 'Blizzard-Bound Heavy Armored Suit'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 18.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [65.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Noting the popularity of the Shade Hunter amongst middle-class stalkers, several Masters teamed up to make a similar suit for Zone inhabitants, adjusting it to the conditions of anomalous blizzards. It turned out pretty well, but the cost of the materials needed to make it was so high that this Blizzard-Bound was the only such suit ever made.'

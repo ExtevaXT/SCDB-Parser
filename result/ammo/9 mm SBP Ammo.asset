@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kYX1
     key: 9sbp
-    name: '9 mm SBP Ammo'
-    category: Ammo
+    fullName: '9 mm SBP Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.009
     piercing: 15.0

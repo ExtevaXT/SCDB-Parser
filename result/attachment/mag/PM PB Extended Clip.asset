@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z5JL
     key: mag_pm
-    name: 'PM PB Extended Clip'
-    category: Attachment/Mag
+    fullName: 'PM PB Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Picklock
     class: Clips
     weight: 0.05

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: gk2X
     key: '19208'
-    name: 'M90 Camouflage'
-    category: Other
+    fullName: 'M90 Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

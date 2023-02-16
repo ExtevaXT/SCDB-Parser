@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kxk2
     key: forend_p90ris
-    name: 'RIS P90 Handguard'
-    category: Attachment/Forend
+    fullName: 'RIS P90 Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.3

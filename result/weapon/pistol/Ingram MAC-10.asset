@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 35f755246e3037a49b2f156f7c5079a5, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 2b449e759f0bcd34183303db3ebf5f92, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 32XR
     key: mac10
-    name: 'Ingram MAC-10'
+    fullName: 'Ingram MAC-10'
+    pathCategory: Weapon/Pistol
     rank: Newbie
     class: Pistols
     ammoType: '9 mm'

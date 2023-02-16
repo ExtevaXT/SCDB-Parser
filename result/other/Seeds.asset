@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3rxl
     key: npc
-    name: Seeds
-    category: Other
+    fullName: Seeds
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

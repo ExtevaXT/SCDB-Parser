@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OZEV
     key: akumulatora
-    name: 'Gauss Rifle Charger'
-    category: Ammo
+    fullName: 'Gauss Rifle Charger'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.06
     piercing: 62.0

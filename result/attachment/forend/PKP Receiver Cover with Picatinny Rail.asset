@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JA5Q
     key: forend_pkp
-    name: 'PKP Receiver Cover with Picatinny Rail'
-    category: Attachment/Forend
+    fullName: 'PKP Receiver Cover with Picatinny Rail'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.28

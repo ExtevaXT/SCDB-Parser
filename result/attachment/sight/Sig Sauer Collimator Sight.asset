@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mxNO
     key: sight_romeo3
-    name: 'Sig Sauer Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Sig Sauer Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.04

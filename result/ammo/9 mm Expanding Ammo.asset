@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l0XB
     key: 9exp
-    name: '9 mm Expanding Ammo'
-    category: Ammo
+    fullName: '9 mm Expanding Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.009
     damage: 10.000002

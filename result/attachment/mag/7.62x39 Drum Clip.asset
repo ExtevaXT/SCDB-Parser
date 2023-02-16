@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: bM8Z
     key: mag_rumag76275
-    name: '7.62x39 Drum Clip'
-    category: Attachment/Mag
+    fullName: '7.62x39 Drum Clip'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 0.9

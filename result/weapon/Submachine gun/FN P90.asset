@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The FN P90 is a Belgian submachine gun, developed in 1986-1987 by FN Herstal. The 5.7x28mm cartridge with high penetration power was developed especially for the P90, but due to the low popularity of the ammunition, the P90 was a rarity in the Zone until recently. That all changed when one of the craftsmen managed to adapt it for the more popular 5.56x45 cartridge and put it on the market. Of course, this greatly affected its reliability, but due to high ergonomics this submachine gun became quite popular among wealthy stalkers and extreme tourists.'
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: d056bb14d8864594ca4368bd246f62e1, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: g9be
     key: p90
-    name: 'FN P90'
+    fullName: 'FN P90'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Stalker
     class: 'Submachine Guns'
     ammoType: '9 mm'

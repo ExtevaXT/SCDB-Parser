@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KDLO
     key: yellow
-    name: 'Yellow Weapon Paint'
-    category: Other
+    fullName: 'Yellow Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

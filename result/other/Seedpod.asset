@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nnzw
     key: npc_add
-    name: Seedpod
-    category: Other
+    fullName: Seedpod
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.1

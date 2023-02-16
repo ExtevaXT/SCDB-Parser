@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rb1x
     key: kzs2
-    name: KZS-2
-    category: Container
+    fullName: KZS-2
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 3.5

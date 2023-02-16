@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 6MN9
     key: mining
-    name: 'Remains of Scientific Equipment'
-    category: Other
+    fullName: 'Remains of Scientific Equipment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

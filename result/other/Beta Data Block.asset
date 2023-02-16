@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wEVb
     key: node_add
-    name: 'Beta Data Block'
-    category: Other
+    fullName: 'Beta Data Block'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xL7L
     key: sight_pk01tz
-    name: 'PK-01(T Z) Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'PK-01(T Z) Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.25

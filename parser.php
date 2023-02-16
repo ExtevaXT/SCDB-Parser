@@ -11,6 +11,7 @@ $db_path = './stalcraft-database/ru/';
 $asset_path = './assets/';
 $result_path = './result/';
 
+$arr = [];
 
 //listing with all item references
 $listing = json_decode(file_get_contents("$db_path/listing.json"), true);
@@ -42,8 +43,8 @@ foreach ($listing as $item_ref){
     $template += ['id' => $item['id']];
     //item.att.silencer_fa556.name -> silencer_fa556
     $template += ['key' => array_reverse(explode('.',$item['name']['key']))[1]];
-    $template += ['name' => $item['name']['lines']['en']];
-    $template += ['category' => $item['category']];
+    $template += ['fullName' => $item['name']['lines']['en']];
+    $template += ['pathCategory' => $item['category']];
     foreach ($item['infoBlocks'] as $infoBlock){
         if(isset($infoBlock['type'])){
             if($infoBlock['type'] == 'list'){
@@ -60,19 +61,31 @@ foreach ($listing as $item_ref){
                     }
                     if($element['type'] == 'numeric'){
                         //single bonus
+                        str_replace('artefakt_heal', 'heal', $element['name']['key']);
                         if(!str_contains($element['name']['key'],'stalker.artefact_properties.factor.')){
                             //fix naming and remove excess vars
+                            if($item['category'] == 'Ammo') {
+                                //event ammo?
+                                str_replace('damage_type.default', 'absoluteDamage',$element['name']['key']);
+                            }
                             $name = KeyToVar($element['name']['key']);
                             $name = str_replace('direct','damage', $name);
-                            if(!str_contains($name,'durability'))
+                            if(!str_contains($name,'durability')){
                                 $template += [$name => $element['value']];
+                            }
                         }
-                        else $template += [KeyToVar($element['name']['key']) => [$element['value']]];
+                        else{
+                            $template += [KeyToVar($element['name']['key']) => [$element['value']]];
+                        }
+
                     }
                     if($element['type'] == 'range'){
                         //min max bonus
                         //burn_dmg_factor -> burnDmgFactor
-                        $template += [KeyToVar($element['name']['key']) => [$element['min'], $element['max']]];
+                        //without this shit
+                        str_replace('artefakt_heal', 'heal', $element['name']['key']);
+                        if(!str_contains($element['name']['key'],'lifesaver'))
+                            $template += [KeyToVar($element['name']['key']) => [$element['min'], $element['max']]];
                     }
                     //night vision in armor
                     if($element['type'] == 'text'){
@@ -97,12 +110,10 @@ foreach ($listing as $item_ref){
                 if(str_contains($infoBlock['text']['key'], 'description'))
                     $template += ['text' => $infoBlock['text']['lines']['en']];
                 //armor compatibles
-                if(str_contains($infoBlock['text']['key'], 'compatible_backpacks'))
-                    $template += ['compatibleBackpacks' =>
-                        str_replace('general.armor.compatibility.backpacks.', '',$infoBlock['text']['key'])];
-                if(str_contains($infoBlock['text']['key'], 'compatible_containers'))
-                    $template += ['compatibleContainers' =>
-                        str_replace('general.armor.compatibility.containers.', '',$infoBlock['text']['key'])];
+                if(str_contains($infoBlock['text']['key'], 'compatibility.backpacks'))
+                    $template += ['compatibleBackpacks' => KeyToVar($infoBlock['text']['key'])];
+                if(str_contains($infoBlock['text']['key'], 'compatibility.containers'))
+                    $template += ['compatibleContainers' => KeyToVar($infoBlock['text']['key'])];
             }
         }
     }
@@ -128,6 +139,7 @@ foreach ($listing as $item_ref){
 '.$final;
     file_put_contents($result_path.$item['category'].'/'.$item['name']['lines']['en'].'.asset', $final);
 }
+var_dump_pre($arr);
 echo 'ok';
 function KeyToVar($string){
     $keys = explode('.',$string);
@@ -141,9 +153,17 @@ function ToCamelCase($string){
     array_unshift($humps , $words[0]);
     return str_replace('.','',implode($humps));
 }
+//debug
 function var_dump_pre($mixed = null) {
     echo '<pre>';
     var_dump($mixed);
     echo '</pre>';
     return null;
+}
+function DebugArrFill($arr, $category, $needle, $key){
+    if(str_contains($category,$needle)){
+        if(!in_array($key.' / '. KeyToVar($key), $arr, true)){
+            array_push($arr,$key.' / '. KeyToVar($key));
+        }
+    }
 }

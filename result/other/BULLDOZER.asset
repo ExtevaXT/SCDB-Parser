@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: BMJl
     key: buldozer
-    name: BULLDOZER
-    category: Other
+    fullName: BULLDOZER
+    pathCategory: Other
     class: 'Skins and Paint'

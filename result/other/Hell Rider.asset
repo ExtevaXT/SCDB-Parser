@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: oqJA
     key: hellrider
-    name: 'Hell Rider'
-    category: Other
+    fullName: 'Hell Rider'
+    pathCategory: Other
     class: 'Skins and Paint'

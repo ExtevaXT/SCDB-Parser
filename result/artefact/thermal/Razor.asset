@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2Xqg
     key: '11455'
-    name: Razor
-    category: Artefact/Thermal
+    fullName: Razor
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.15
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ePQX
     key: forend_val
-    name: 'Val VSS Receiver Cover'
-    category: Attachment/Forend
+    fullName: 'Val VSS Receiver Cover'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.13

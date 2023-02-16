@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: Og3x
     key: mob
-    name: 'Acid Nettle'
-    category: Other
+    fullName: 'Acid Nettle'
+    pathCategory: Other
     rank: Newbie
     class: Other

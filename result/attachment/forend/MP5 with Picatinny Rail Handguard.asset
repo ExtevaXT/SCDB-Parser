@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5kj
     key: forend_mp5ris
-    name: 'MP5 with Picatinny Rail Handguard'
-    category: Attachment/Forend
+    fullName: 'MP5 with Picatinny Rail Handguard'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.18

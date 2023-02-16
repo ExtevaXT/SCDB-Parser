@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lLbd
     key: karousel_jelch
-    name: 'Stone Bile'
-    category: Artefact/Gravitational
+    fullName: 'Stone Bile'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

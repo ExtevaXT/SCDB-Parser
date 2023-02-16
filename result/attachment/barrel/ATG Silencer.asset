@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9mgQ
     key: silencer_atg
-    name: 'ATG Silencer'
-    category: Attachment/Barrel
+    fullName: 'ATG Silencer'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.52

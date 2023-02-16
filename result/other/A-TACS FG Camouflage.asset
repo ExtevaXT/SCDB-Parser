@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: BeN2
     key: '19200'
-    name: 'A-TACS FG Camouflage'
-    category: Other
+    fullName: 'A-TACS FG Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

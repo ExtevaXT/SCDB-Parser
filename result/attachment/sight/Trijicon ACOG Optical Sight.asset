@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vomg
     key: scope_acog4
-    name: 'Trijicon ACOG Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Trijicon ACOG Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.28

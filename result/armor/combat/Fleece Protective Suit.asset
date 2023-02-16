@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zxdq
     key: vorsa
-    name: 'Fleece Protective Suit'
-    category: Armor/Combat
+    fullName: 'Fleece Protective Suit'
+    pathCategory: Armor/Combat
     rank: Stalker
     class: Combat
     weight: 8.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [140.0]
     psychoProtection: [75.0]
     bleedingProtection: [72.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An improved version of the “Houndmaster.” Its protection is equally distributed across the whole body, which prevents any loss of mobility. The hockey mask was replaced with a hybrid of a ballistic mask and a respirator.'

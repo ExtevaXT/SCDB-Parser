@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bk2j
     key: forend_l85
-    name: 'RIS L85 Handguard'
-    category: Attachment/Forend
+    fullName: 'RIS L85 Handguard'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.2

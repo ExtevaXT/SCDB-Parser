@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: L3LZ
     key: mining_add
-    name: 'Intact Microchips'
-    category: Other
+    fullName: 'Intact Microchips'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.01

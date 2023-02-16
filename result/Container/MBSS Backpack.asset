@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MZ7E
     key: mbss
-    name: 'MBSS Backpack'
-    category: Container
+    fullName: 'MBSS Backpack'
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 2.0

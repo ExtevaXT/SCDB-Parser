@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vzkw
     key: puzir_spiral
-    name: Spiral
-    category: Artefact/Electrophysical
+    fullName: Spiral
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.15
     common: 'Not studied'

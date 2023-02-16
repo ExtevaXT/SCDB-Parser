@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: r62d
     key: a545
-    name: A-545
-    category: 'Weapon/Assault rifle'
+    fullName: A-545
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     weight: 3.3000002

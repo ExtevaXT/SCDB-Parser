@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kKV6
     key: launcher_eglm
-    name: 'FN EGLM Grenade Launcher'
-    category: Attachment/Other
+    fullName: 'FN EGLM Grenade Launcher'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 1.35

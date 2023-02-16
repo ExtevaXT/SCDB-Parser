@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z1jL
     key: mr412
-    name: МР-412
-    category: Weapon/Pistol
+    fullName: МР-412
+    pathCategory: Weapon/Pistol
     rank: Veteran
     class: Pistols
     weight: 0.9

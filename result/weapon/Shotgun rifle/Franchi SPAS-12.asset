@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The Franchi SPAS-12 (Special Purpose Automatic Shotgun) is an Italian shotgun developed in the late 1970s.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: d2472f65ff5d570419c476924a1f40d8, type: 3 }, { fileID: 8300000, guid: 4fd8e96b203d1144ca17d869e63c0744, type: 3 }, { fileID: 8300000, guid: 0464667a9fa7f214baddc934ccc9ce9e, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: 75aL
     key: spas
-    name: 'Franchi SPAS-12'
+    fullName: 'Franchi SPAS-12'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Stalker
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

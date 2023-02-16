@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gK2w
     key: blizzard_crust
-    name: Crust
-    category: Artefact/Thermal
+    fullName: Crust
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.5
     common: 'Not studied'

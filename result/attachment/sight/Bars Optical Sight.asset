@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RoPD
     key: scope_bars
-    name: 'Bars Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Bars Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.6

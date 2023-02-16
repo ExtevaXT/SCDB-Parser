@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Ro0D
     key: scope_pu
-    name: 'PU Optical Sight on Side Bracket'
-    category: Attachment/Sight
+    fullName: 'PU Optical Sight on Side Bracket'
+    pathCategory: Attachment/Sight
     rank: Picklock
     class: Sights
     weight: 0.27

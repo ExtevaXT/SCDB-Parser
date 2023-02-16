@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxYx
     key: lcu_compact
-    name: 'Kleshch-2PS Compact Laser Designator'
-    category: Attachment/Other
+    fullName: 'Kleshch-2PS Compact Laser Designator'
+    pathCategory: Attachment/Other
     rank: Newbie
     class: 'Other Attachments'
     weight: 0.14

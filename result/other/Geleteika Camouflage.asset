@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NL9j
     key: '19114'
-    name: 'Geleteika Camouflage'
-    category: Other
+    fullName: 'Geleteika Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

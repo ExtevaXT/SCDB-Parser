@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJAn
     key: handle_agr43h
-    name: 'Fab Defense AGR-43 Grip, Khaki'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AGR-43 Grip, Khaki'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.096

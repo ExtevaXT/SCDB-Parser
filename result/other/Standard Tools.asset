@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: 0dGO
     key: tools_2
-    name: 'Standard Tools'
-    category: Other
+    fullName: 'Standard Tools'
+    pathCategory: Other
     class: Other
     weight: 0.01

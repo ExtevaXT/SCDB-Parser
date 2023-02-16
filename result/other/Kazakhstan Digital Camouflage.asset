@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: oG1e
     key: '19127'
-    name: 'Kazakhstan Digital Camouflage'
-    category: Other
+    fullName: 'Kazakhstan Digital Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

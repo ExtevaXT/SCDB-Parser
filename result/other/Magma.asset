@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JJz3
     key: magma
-    name: Magma
-    category: Other
+    fullName: Magma
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: AMz5
     key: '21040'
-    name: 'Claw Karambit'
-    category: Weapon/Melee
+    fullName: 'Claw Karambit'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.34

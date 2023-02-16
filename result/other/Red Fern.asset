@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KkzX
     key: mob
-    name: 'Red Fern'
-    category: Other
+    fullName: 'Red Fern'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.03

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wD7l
     key: sight_panorama
-    name: 'Panorama Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Panorama Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.15

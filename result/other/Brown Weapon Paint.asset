@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JDLK
     key: brown
-    name: 'Brown Weapon Paint'
-    category: Other
+    fullName: 'Brown Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

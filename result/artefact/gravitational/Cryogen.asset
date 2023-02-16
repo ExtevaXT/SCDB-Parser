@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 31y7
     key: voronka_kriogen
-    name: Cryogen
-    category: Artefact/Gravitational
+    fullName: Cryogen
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.4
     common: 'Not studied'

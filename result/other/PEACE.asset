@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nq2M
     key: world
-    name: PEACE
-    category: Other
+    fullName: PEACE
+    pathCategory: Other
     class: 'Skins and Paint'

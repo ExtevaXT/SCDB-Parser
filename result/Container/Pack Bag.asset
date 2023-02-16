@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oPG8
     key: pouch
-    name: 'Pack Bag'
-    category: Container
+    fullName: 'Pack Bag'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 7.0

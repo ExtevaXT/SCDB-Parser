@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: anNx
     key: '19126'
-    name: 'Belarusian Digital Camouflage'
-    category: Other
+    fullName: 'Belarusian Digital Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

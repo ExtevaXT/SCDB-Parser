@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oq3e
     key: winchester-1
-    name: 'Worn Winchester M70'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn Winchester M70'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Newbie
     class: 'Sniper Rifles'
     weight: 5.03

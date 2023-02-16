@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KD6q
     key: yellow
-    name: 'Yellow Armor Paint'
-    category: Other
+    fullName: 'Yellow Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

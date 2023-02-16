@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAlB
     key: sight_bering2
-    name: 'Bering OPTICS Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Bering OPTICS Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.386

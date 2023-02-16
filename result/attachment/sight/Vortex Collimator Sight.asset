@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N5Vb
     key: sight_vortex2
-    name: 'Vortex Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Vortex Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.335

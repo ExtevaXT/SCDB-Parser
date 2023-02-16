@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KPy5
     key: raider_armai
-    name: Raider
-    category: Other
+    fullName: Raider
+    pathCategory: Other
     class: 'Skins and Paint'

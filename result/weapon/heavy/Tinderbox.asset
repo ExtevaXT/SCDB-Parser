@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Ryjy
     key: flamepistol
-    name: Tinderbox
-    category: Weapon/Heavy
+    fullName: Tinderbox
+    pathCategory: Weapon/Heavy
     rank: Veteran
     class: 'Other Weapons'
     weight: 4.3

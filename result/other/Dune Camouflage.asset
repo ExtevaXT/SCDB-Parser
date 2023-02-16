@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: gkzw
     key: '19108'
-    name: 'Dune Camouflage'
-    category: Other
+    fullName: 'Dune Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

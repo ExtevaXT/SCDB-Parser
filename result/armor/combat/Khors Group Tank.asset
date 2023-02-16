@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xQM3
     key: dr_tank
-    name: 'Khors Group Tank'
-    category: Armor/Combat
+    fullName: 'Khors Group Tank'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 35.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [190.0]
     bleedingProtection: [75.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'Heavy combat engineer armor developed by a Korean company as part of a joint order by several private military companies. It reached the Zone via the black market. It does not provide good anomalous protection, but is excellent for lengthy combat. The bulky helmet of this armor was seen as unusable in Zone conditions and swapped for a more suitable version.'

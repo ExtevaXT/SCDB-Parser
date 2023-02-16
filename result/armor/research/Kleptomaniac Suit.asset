@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: AVk2
     key: klepto
-    name: 'Kleptomaniac Suit'
-    category: Armor/Research
+    fullName: 'Kleptomaniac Suit'
+    pathCategory: Armor/Research
     rank: Newbie
     class: Explorer
     weight: 4.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [140.0]
     psychoProtection: [60.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A bandit suit that has been skillfully upgraded by some freak or other. The more reliable body armor offers improved protection against bullets, and the extra pockets allow you to carry more weight.'

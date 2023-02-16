@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated assault rifle that is chambered for the 7.62×39mm cartridge. Developed in the Soviet Union by Russian small-arms designer Mikhail Kalashnikov, it is the originating firearm of the Kalashnikov (or "AK") family of rifles.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: a3d4d55ce2d3ec94cb8a8952ee4c4223, type: 3 }, { fileID: 8300000, guid: 8fea5b635d64bad4ba490b1aa3ada93c, type: 3 }, { fileID: 8300000, guid: fa8c3f488949c0b448273f79c11630db, type: 3 }, { fileID: 8300000, guid: 1fb1e785fd62d4b47b6d61cbf438b74a, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: NNw9
     key: m16a3
-    name: M16A3
+    fullName: M16A3
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     ammoType: '5.56'

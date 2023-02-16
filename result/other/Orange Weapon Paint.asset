@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: l960
     key: orange
-    name: 'Orange Weapon Paint'
-    category: Other
+    fullName: 'Orange Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

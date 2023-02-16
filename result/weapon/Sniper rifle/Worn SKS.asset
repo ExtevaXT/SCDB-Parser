@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BMzV
     key: sks-1
-    name: 'Worn SKS'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn SKS'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Picklock
     class: 'Sniper Rifles'
     weight: 3.75

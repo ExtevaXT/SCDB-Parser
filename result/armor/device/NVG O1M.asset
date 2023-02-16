@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: 3Z5l
     key: nvdo
-    name: 'NVG O1M'
-    category: Armor/Device
+    fullName: 'NVG O1M'
+    pathCategory: Armor/Device
     class: Devices
     weight: 1.6

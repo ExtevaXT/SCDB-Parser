@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nnGw
     key: mob
-    name: 'Blue Yeast'
-    category: Other
+    fullName: 'Blue Yeast'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.015

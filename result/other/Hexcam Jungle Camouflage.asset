@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 9KOQ
     key: '19233'
-    name: 'Hexcam Jungle Camouflage'
-    category: Other
+    fullName: 'Hexcam Jungle Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: '1039'
     key: mag_ak30830
-    name: '30-Round Clip for AK-308'
-    category: Attachment/Mag
+    fullName: '30-Round Clip for AK-308'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 0.42

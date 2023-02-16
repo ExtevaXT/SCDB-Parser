@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: qDnJ
     key: psiblock_1
-    name: '1st Class Psy-Blocker'
-    category: Medicine
+    fullName: '1st Class Psy-Blocker'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: 'Psy-Emission Protection'

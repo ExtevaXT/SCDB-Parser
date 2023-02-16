@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 2Oqz
     key: '19211'
-    name: 'M90 Urban Camouflage'
-    category: Other
+    fullName: 'M90 Urban Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

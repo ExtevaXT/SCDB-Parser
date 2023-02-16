@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEXY
     key: mount_mp5ris
-    name: 'RIS Bracket-Rail'
-    category: Attachment/Forend
+    fullName: 'RIS Bracket-Rail'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.11

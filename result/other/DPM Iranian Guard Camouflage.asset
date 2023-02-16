@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: wLok
     key: '19223'
-    name: 'DPM Iranian Guard Camouflage'
-    category: Other
+    fullName: 'DPM Iranian Guard Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

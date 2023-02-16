@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2X11
     key: trampoline_protomeduza
-    name: Proto-Jellyfish
-    category: Artefact/Gravitational
+    fullName: Proto-Jellyfish
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.2
     common: 'Not studied'

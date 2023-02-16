@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Be8V
     key: '19100'
-    name: 'Bhutan Camouflage'
-    category: Other
+    fullName: 'Bhutan Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

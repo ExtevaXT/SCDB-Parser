@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y805
     key: '25501'
-    name: 'Night-Vision Goggles'
-    category: Armor/Device
+    fullName: 'Night-Vision Goggles'
+    pathCategory: Armor/Device
     rank: Newbie
     class: Devices
     weight: 1.5

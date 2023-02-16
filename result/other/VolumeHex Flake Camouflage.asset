@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: gkyX
     key: volumehex_flake
-    name: 'VolumeHex Flake Camouflage'
-    category: Other
+    fullName: 'VolumeHex Flake Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

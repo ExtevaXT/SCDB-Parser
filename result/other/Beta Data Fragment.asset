@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xmeM
     key: node
-    name: 'Beta Data Fragment'
-    category: Other
+    fullName: 'Beta Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.15

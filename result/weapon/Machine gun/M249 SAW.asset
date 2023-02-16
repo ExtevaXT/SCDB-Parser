@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'U.S. Army 5.56 caliber handgun (made by a local subsidiary of the Belgian company FN Herstal), production started in the 1980s.'
     notes: null
-    category: 'Weapon/Machine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: d1bfc5e6843dca349b6f3cad3bed0d41, type: 3 }, { fileID: 8300000, guid: f9120fb6930addf4e8c5920b09310499, type: 3 }, { fileID: 8300000, guid: 7b10b17875738e94fbca56a59ac86c18, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: d85bd6e46e4964146b3ba9856192bae1, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: QBX1
     key: m249
-    name: 'M249 SAW'
+    fullName: 'M249 SAW'
+    pathCategory: 'Weapon/Machine gun'
     rank: Veteran
     class: 'Machine Guns'
     ammoType: '5.56'

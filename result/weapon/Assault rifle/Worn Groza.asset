@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OOgx
     key: groza-1
-    name: 'Worn Groza'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn Groza'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 2.9100003

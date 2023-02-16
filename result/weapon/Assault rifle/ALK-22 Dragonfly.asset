@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 1g8d
     key: alk22
-    name: 'ALK-22 Dragonfly'
-    category: 'Weapon/Assault rifle'
+    fullName: 'ALK-22 Dragonfly'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 3.8

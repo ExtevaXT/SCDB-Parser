@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lLnr
     key: puh_ej
-    name: Urchin
-    category: Artefact/Biochemical
+    fullName: Urchin
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.4
     common: 'Not studied'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Rrjz
     key: sand
-    name: 'Khaki Armor Paint'
-    category: Other
+    fullName: 'Khaki Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

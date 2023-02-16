@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0P9q
     key: 12inc
-    name: '12 Caliber Incendiary'
-    category: Ammo
+    fullName: '12 Caliber Incendiary'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.015
     numBullets: 20.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wQoy
     key: trapper-1
-    name: 'Worn Trapper Suit'
-    category: Armor/Combat
+    fullName: 'Worn Trapper Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 6.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [105.0]
     psychoProtection: [20.0]
     bleedingProtection: [59.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A comfortable suit that is good for actively tracking mutants and for fleeing from them. Its average damage protection is offset by its base resistance to anomalies.'

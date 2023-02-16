@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 1gqO
     key: britva_fire
-    name: 'Fire Razor'
-    category: Weapon/Melee
+    fullName: 'Fire Razor'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.35

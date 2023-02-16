@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Jk6Q
     key: jarka_plamya
-    name: Flame
-    category: Artefact/Thermal
+    fullName: Flame
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

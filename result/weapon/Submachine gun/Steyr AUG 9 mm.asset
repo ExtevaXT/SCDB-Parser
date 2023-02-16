@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A submachine gun developed by Transformational Defense Industries. It uses a semi-rigid bolt system, which directs the recoil-driven bolt group downward at a steep angle.'
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 5c453797fb3b9b741af2221adcf136f5, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: fb3172aac1ab7294b975a7171acf415f, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: xEjK
     key: aug9mm
-    name: 'Steyr AUG 9 mm'
+    fullName: 'Steyr AUG 9 mm'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Veteran
     class: 'Submachine Guns'
     ammoType: '9 mm'

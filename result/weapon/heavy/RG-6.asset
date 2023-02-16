@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: V35A
     key: rg6
-    name: RG-6
-    category: Weapon/Heavy
+    fullName: RG-6
+    pathCategory: Weapon/Heavy
     rank: Veteran
     class: 'Other Weapons'
     weight: 5.6

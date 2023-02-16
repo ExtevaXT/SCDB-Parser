@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: E9e7
     key: '21041'
-    name: 'Spiked Club'
-    category: Weapon/Melee
+    fullName: 'Spiked Club'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.65

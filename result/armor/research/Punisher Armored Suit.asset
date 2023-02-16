@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: qD00
     key: punisher
-    name: 'Punisher Armored Suit'
-    category: Armor/Research
+    fullName: 'Punisher Armored Suit'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 22.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [200.0]
     bleedingProtection: [61.5]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The RS-72 Punisher is a universal armored suit supplied to various private military companies operating in the Zone. Mercenaries need a multipurpose suit to confidently perform any tasks assigned to them.'

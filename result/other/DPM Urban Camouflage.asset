@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: bgO5
     key: '19229'
-    name: 'DPM Urban Camouflage'
-    category: Other
+    fullName: 'DPM Urban Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

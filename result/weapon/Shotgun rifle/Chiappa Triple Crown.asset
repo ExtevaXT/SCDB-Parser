@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PLaZ
     key: triple
-    name: 'Chiappa Triple Crown'
-    category: 'Weapon/Shotgun rifle'
+    fullName: 'Chiappa Triple Crown'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Stalker
     class: 'Shotguns and Rifles'
     weight: 3.7

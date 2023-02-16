@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kgAD
     key: green
-    name: 'Green Armor Paint'
-    category: Other
+    fullName: 'Green Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

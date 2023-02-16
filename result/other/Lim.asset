@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zLwx
     key: npc
-    name: Lim
-    category: Other
+    fullName: Lim
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.1

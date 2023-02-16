@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aV5B
     key: mosin
-    name: 'Mosin’s Rifle'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Mosin’s Rifle'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Newbie
     class: 'Sniper Rifles'
     weight: 4.15

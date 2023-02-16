@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DPr7
     key: mining_add
-    name: 'Spool of Copper Wire'
-    category: Other
+    fullName: 'Spool of Copper Wire'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.25

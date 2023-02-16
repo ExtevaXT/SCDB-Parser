@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 323Z
     key: military_ssop
-    name: SSPP
-    category: Other
+    fullName: SSPP
+    pathCategory: Other
     class: 'Skins and Paint'

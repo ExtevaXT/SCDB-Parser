@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0zek
     key: npc_add
-    name: 'Large Pickle'
-    category: Other
+    fullName: 'Large Pickle'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.05

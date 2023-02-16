@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nNgD
     key: erdl_winter
-    name: 'ERDL Winter Camouflage'
-    category: Other
+    fullName: 'ERDL Winter Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

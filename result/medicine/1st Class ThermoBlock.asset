@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Zz72
     key: thermobarier_1
-    name: '1st Class ThermoBlock'
-    category: Medicine
+    fullName: '1st Class ThermoBlock'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: 'Thermal Protection'

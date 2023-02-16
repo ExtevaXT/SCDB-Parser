@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7Jyz
     key: kzs4
-    name: KZS-4
-    category: Container
+    fullName: KZS-4
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 7.0

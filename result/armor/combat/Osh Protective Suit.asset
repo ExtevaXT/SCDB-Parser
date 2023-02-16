@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wQmy
     key: osh
-    name: 'Osh Protective Suit'
-    category: Armor/Combat
+    fullName: 'Osh Protective Suit'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 8.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [190.0]
     psychoProtection: [160.0]
     bleedingProtection: [75.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Similar in appearance to a suit used for training dogs or a quilted jacket, the Osh is good to have around during fights with mutant teeth and claws. Its protection against bullets is only average, but mutants don’t know how to shoot yet, do they?'

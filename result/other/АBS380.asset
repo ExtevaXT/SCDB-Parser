@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: g96B
     key: abs382
-    name: АBS380
-    category: Other
+    fullName: АBS380
+    pathCategory: Other
     class: 'Skins and Paint'

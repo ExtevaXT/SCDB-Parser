@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mJB
     key: handgrip_groza
-    name: 'Grip for OTs-14 Groza'
-    category: Attachment/Barrel
+    fullName: 'Grip for OTs-14 Groza'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.1

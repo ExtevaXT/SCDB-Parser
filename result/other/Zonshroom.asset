@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mVzn
     key: mob
-    name: Zonshroom
-    category: Other
+    fullName: Zonshroom
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.018

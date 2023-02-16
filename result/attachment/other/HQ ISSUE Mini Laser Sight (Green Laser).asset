@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DVb9
     key: lcu_hqi
-    name: 'HQ ISSUE Mini Laser Sight (Green Laser)'
-    category: Attachment/Other
+    fullName: 'HQ ISSUE Mini Laser Sight (Green Laser)'
+    pathCategory: Attachment/Other
     rank: Stalker
     class: 'Other Attachments'
     weight: 0.085

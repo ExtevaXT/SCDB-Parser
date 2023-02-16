@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: E7gL
     key: '19241'
-    name: 'Flecktarn Suburban Camouflage'
-    category: Other
+    fullName: 'Flecktarn Suburban Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

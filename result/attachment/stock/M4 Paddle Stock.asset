@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kxB1
     key: '22604'
-    name: 'M4 Paddle Stock'
-    category: Attachment/Stock
+    fullName: 'M4 Paddle Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.35
     recoil: -2.9999971

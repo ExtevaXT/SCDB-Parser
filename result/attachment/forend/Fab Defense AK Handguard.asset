@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0gNO
     key: forend_akfb
-    name: 'Fab Defense AK Handguard'
-    category: Attachment/Forend
+    fullName: 'Fab Defense AK Handguard'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.22

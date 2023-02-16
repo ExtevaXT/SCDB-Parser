@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: rDgV
     key: antidot_1
-    name: '1st Class Antidote'
-    category: Medicine
+    fullName: '1st Class Antidote'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: 'Bioinfection Protection'

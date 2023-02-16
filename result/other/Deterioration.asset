@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: xEEN
     key: '19819'
-    name: Deterioration
-    category: Other
+    fullName: Deterioration
+    pathCategory: Other
     class: 'Skins and Paint'

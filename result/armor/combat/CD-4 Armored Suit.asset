@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PYVY
     key: kz4
-    name: 'CD-4 Armored Suit'
-    category: Armor/Combat
+    fullName: 'CD-4 Armored Suit'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 16.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [67.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Horizon clan tactical armor. The developers based this suit on the SKAT series during production, and, by and large, they were successful. Despite a few minor differences, the cost of this armored suit is notably lower.'

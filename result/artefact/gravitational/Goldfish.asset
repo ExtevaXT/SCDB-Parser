@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lLGM
     key: voronka_goldfish
-    name: Goldfish
-    category: Artefact/Gravitational
+    fullName: Goldfish
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.2
     common: 'Not studied'

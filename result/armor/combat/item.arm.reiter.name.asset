@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kqYk
     key: reiter
-    name: item.arm.reiter.name
-    category: Armor/Combat
+    fullName: item.arm.reiter.name
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 65.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [170.0]
     bleedingProtection: [75.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: item.arm.reiter.description

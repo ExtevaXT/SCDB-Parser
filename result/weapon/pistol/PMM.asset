@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The most common pistol in the area, a legacy of the Soviet era, the PM is one of the best representatives of the compact self-defense class. It is very large in size, extremely reliable, and easy to use and maintain. Disadvantages include short range and accuracy, low bullet efficiency, and (compared to modern pistols of the same class) rather high weight with insufficient magazine capacity.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: d73fadfcd28209c4aa59e19884a35111, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: aa8e4630186eea549a44ad23f1bb16e7, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: KPE8
     key: pmm
-    name: PMM
+    fullName: PMM
+    pathCategory: Weapon/Pistol
     rank: Picklock
     class: Pistols
     ammoType: '9 mm'

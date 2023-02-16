@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kg36
     key: '19248'
-    name: 'Hexagon-C Camouflage'
-    category: Other
+    fullName: 'Hexagon-C Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

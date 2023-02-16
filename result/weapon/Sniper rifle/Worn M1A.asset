@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Z0yq
     key: m1a-1
-    name: 'Worn M1A'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn M1A'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Stalker
     class: 'Sniper Rifles'
     weight: 4.63

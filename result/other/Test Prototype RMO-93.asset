@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 8OOA
     key: '19821'
-    name: 'Test Prototype RMO-93'
-    category: Other
+    fullName: 'Test Prototype RMO-93'
+    pathCategory: Other
     class: 'Skins and Paint'

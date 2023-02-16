@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Q80r
     key: sight_1x42
-    name: 'Trijicon Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Trijicon Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.23

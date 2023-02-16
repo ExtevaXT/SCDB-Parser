@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lzG2
     key: mount_tozris
-    name: 'Picatinny Rail and Base'
-    category: Attachment/Forend
+    fullName: 'Picatinny Rail and Base'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.15

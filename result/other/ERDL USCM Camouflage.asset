@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: xz1A
     key: '19219'
-    name: 'ERDL USCM Camouflage'
-    category: Other
+    fullName: 'ERDL USCM Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

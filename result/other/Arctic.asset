@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 5DnJ
     key: arctica
-    name: Arctic
-    category: Other
+    fullName: Arctic
+    pathCategory: Other
     class: 'Skins and Paint'

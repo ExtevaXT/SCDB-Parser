@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: XEdO
     key: silencer_imkas
-    name: 'PSUZV-11TM.12 Imkas'
-    category: Attachment/Barrel
+    fullName: 'PSUZV-11TM.12 Imkas'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.475

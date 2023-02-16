@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: GQRw
     key: ao5
-    name: 'RAPS AH-5 Pilgrim'
-    category: Armor/Mixed
+    fullName: 'RAPS AH-5 Pilgrim'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 30.0
@@ -26,4 +26,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [210.0]
     bleedingProtection: [47.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Virtually the best model in the Artifact Hunters range. Combines all the benefits of the previous versions and comes equipped with a closed breathing circuit.'

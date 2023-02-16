@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mqol
     key: '21017'
-    name: 'M9 Bayonet Knife'
-    category: Weapon/Melee
+    fullName: 'M9 Bayonet Knife'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.25

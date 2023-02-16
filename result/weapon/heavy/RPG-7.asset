@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 753d
     key: rpg7
-    name: RPG-7
-    category: Weapon/Heavy
+    fullName: RPG-7
+    pathCategory: Weapon/Heavy
     rank: Master
     class: 'Other Weapons'
     weight: 6.3

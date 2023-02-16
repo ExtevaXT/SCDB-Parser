@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3rMl
     key: node
-    name: 'Digamma Data Fragment'
-    category: Other
+    fullName: 'Digamma Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.15

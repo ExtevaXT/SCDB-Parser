@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wD0P
     key: mag_val30
-    name: '30-Round Clip for VSS Val'
-    category: Attachment/Mag
+    fullName: '30-Round Clip for VSS Val'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.45

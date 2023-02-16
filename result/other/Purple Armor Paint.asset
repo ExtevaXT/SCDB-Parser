@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nNA3
     key: violet
-    name: 'Purple Armor Paint'
-    category: Other
+    fullName: 'Purple Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V1bw
     key: indigo
-    name: 'Blue Armor Paint'
-    category: Other
+    fullName: 'Blue Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 2Odz
     key: hexcam_bx
-    name: 'Hexcam BX Camouflage'
-    category: Other
+    fullName: 'Hexcam BX Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

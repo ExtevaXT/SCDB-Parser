@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vz5w
     key: voronka_crystal
-    name: 'Black Crystal'
-    category: Artefact/Gravitational
+    fullName: 'Black Crystal'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.4
     common: 'Not studied'

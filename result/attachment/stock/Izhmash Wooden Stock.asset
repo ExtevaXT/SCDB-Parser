@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vogx
     key: '22650'
-    name: 'Izhmash Wooden Stock'
-    category: Attachment/Stock
+    fullName: 'Izhmash Wooden Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.4
     recoil: -1.9999981

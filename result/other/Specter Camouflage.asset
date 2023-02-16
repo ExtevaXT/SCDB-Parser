@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JDbK
     key: '19112'
-    name: 'Specter Camouflage'
-    category: Other
+    fullName: 'Specter Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

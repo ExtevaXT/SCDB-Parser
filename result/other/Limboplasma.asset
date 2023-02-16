@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MV9x
     key: boss
-    name: Limboplasma
-    category: Other
+    fullName: Limboplasma
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.3

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Medicine
+    category: Consumable
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -43,7 +43,8 @@ MonoBehaviour:
     usageFov: 0
     id: 8EM3
     key: vodka
-    name: Vodka
+    fullName: Vodka
+    pathCategory: Medicine
     class: Medicine
     purpose: 'Weak Radiation Cleansing'
     toxicity: 25.0

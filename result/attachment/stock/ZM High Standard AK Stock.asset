@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RokO
     key: '22654'
-    name: 'ZM High Standard AK Stock'
-    category: Attachment/Stock
+    fullName: 'ZM High Standard AK Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.47
     recoil: -2.9999971

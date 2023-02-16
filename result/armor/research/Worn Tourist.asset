@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 6X90
     key: turist-1
-    name: 'Worn Tourist'
-    category: Armor/Research
+    fullName: 'Worn Tourist'
+    pathCategory: Armor/Research
     rank: Newbie
     class: Explorer
     weight: 4.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [120.0]
     psychoProtection: [0.0]
     bleedingProtection: [36.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An example of the Zarya series that has been reworked by some freak or other. The upgraded body armor provides additional protection against bullets and the smartly chosen utility vest allows the wearer to carry a lot of weight.'

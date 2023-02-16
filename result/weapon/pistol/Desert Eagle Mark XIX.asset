@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A real pocket cannon - large, heavy and with extremely high killing power. It was developed as a specialized weapon for hunting medium and large game, as well as for sport shooting at silhouette targets at ranges of fifty meters or more. Because of the price, weight, and impressive size, it was not particularly popular in the Zone.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: b14adbfe685fd7342be518611e8df732, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 5b05a94d0bd37e2439f9331c242b53e2, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 928V
     key: deagle
-    name: 'Desert Eagle Mark XIX'
+    fullName: 'Desert Eagle Mark XIX'
+    pathCategory: Weapon/Pistol
     rank: Veteran
     class: Pistols
     ammoType: '9 mm'

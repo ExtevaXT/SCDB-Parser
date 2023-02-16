@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: z6dB
     key: '19220'
-    name: 'ERDL Woodland Camouflage'
-    category: Other
+    fullName: 'ERDL Woodland Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

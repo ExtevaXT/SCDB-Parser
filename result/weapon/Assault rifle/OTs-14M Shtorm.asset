@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 20z7
     key: storm
-    name: 'OTs-14M Shtorm'
-    category: 'Weapon/Assault rifle'
+    fullName: 'OTs-14M Shtorm'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 4.0

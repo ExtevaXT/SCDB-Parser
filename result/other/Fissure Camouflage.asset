@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: RrOl
     key: '19110'
-    name: 'Fissure Camouflage'
-    category: Other
+    fullName: 'Fissure Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

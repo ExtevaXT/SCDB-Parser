@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OYZz
     key: vanguard
-    name: 'Vanguard Armored Suit'
-    category: Armor/Combat
+    fullName: 'Vanguard Armored Suit'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 30.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [69.2]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A set of army gear adapted to Duty’s requirements. The Vanguard Armored Suit provides exceptional protection from mutants’ claws and teeth, and good bullet resistance makes it a reliable aid in the war for influence in the Zone.'

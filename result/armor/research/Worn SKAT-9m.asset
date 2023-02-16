@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yLQY
     key: skat9m-1
-    name: 'Worn SKAT-9m'
-    category: Armor/Research
+    fullName: 'Worn SKAT-9m'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 12.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [210.0]
     psychoProtection: [170.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A modern army armored suit for assault operations in zones of anomalous activity. Components: PSZ-12p series heavy body armor, Sphere-12m helmet, equipped with induction field suppression, an anomalous protection suit and pressure suit.'

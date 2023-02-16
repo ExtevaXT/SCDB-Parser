@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Weapon/Melee
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 1
     successfulUseSound: { fileID: 8300000, guid: 07eec9b377cb64b028b6e7ae54d4a8b9, type: 3 }
     failedUseSound: { fileID: 8300000, guid: 41fd1dfb8752a4f6cb3d9f593d5538ee, type: 3 }
@@ -43,7 +43,8 @@ MonoBehaviour:
     sphereCastRadius: 0.5
     id: 32qB
     key: downrange
-    name: 'Gerber Downrange Tomahawk'
+    fullName: 'Gerber Downrange Tomahawk'
+    pathCategory: Weapon/Melee
     rank: Master
     class: 'Melee Weapons'
     common: 45.0

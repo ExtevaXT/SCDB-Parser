@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ebAG
     key: eger
-    name: 'Jaeger Exoarmor'
-    category: Armor/Combat
+    fullName: 'Jaeger Exoarmor'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 32.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [180.0]
     bleedingProtection: [77.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'The perfect armor for eliminating mutants and other creatures that inhabit the Zone. Excellent protection against bullets, claws, nails, and knives. This armor is the stuff beast hunters dream about.'

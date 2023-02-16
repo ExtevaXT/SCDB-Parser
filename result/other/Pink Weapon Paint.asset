@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PAYM
     key: pink
-    name: 'Pink Weapon Paint'
-    category: Other
+    fullName: 'Pink Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

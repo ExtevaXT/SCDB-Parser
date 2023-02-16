@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V1ra
     key: '19206'
-    name: 'Belgian Jigsaw Camouflage'
-    category: Other
+    fullName: 'Belgian Jigsaw Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

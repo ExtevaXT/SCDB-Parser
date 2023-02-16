@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xLGN
     key: forend_rpd
-    name: 'RPD Tactical Handguard'
-    category: Attachment/Forend
+    fullName: 'RPD Tactical Handguard'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.24

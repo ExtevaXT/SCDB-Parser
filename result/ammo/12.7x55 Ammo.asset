@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yg5N
     key: 127st
-    name: '12.7x55 Ammo'
-    category: Ammo
+    fullName: '12.7x55 Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.022
     piercing: 15.0

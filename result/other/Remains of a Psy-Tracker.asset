@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kknN
     key: mining
-    name: 'Remains of a Psy-Tracker'
-    category: Other
+    fullName: 'Remains of a Psy-Tracker'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.03

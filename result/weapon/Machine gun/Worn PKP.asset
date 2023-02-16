@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 202k
     key: pkp-1
-    name: 'Worn PKP'
-    category: 'Weapon/Machine gun'
+    fullName: 'Worn PKP'
+    pathCategory: 'Weapon/Machine gun'
     rank: Veteran
     class: 'Machine Guns'
     weight: 8.2

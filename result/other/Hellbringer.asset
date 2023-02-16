@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: bnnd
     key: hrenorezka_flamepistol
-    name: Hellbringer
-    category: Other
+    fullName: Hellbringer
+    pathCategory: Other
     class: 'Skins and Paint'

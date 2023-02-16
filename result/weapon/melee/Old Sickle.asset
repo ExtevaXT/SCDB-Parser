@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MOqq
     key: '21025'
-    name: 'Old Sickle'
-    category: Weapon/Melee
+    fullName: 'Old Sickle'
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 0.52

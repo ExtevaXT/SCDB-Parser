@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: GQxw
     key: trapper
-    name: 'Trapper Suit'
-    category: Armor/Combat
+    fullName: 'Trapper Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 6.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [120.0]
     psychoProtection: [20.0]
     bleedingProtection: [62.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A comfortable suit that is good for actively tracking mutants and for fleeing from them. Its average damage protection is offset by its base resistance to anomalies.'

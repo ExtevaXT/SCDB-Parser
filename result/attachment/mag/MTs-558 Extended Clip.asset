@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: M7Bk
     key: mag_mc55810
-    name: 'MTs-558 Extended Clip'
-    category: Attachment/Mag
+    fullName: 'MTs-558 Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 0.35

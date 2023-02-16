@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 86J3
     key: mag_fort12
-    name: 'Fort-12 Extended Clip'
-    category: Attachment/Mag
+    fullName: 'Fort-12 Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Newbie
     class: Clips
     weight: 0.06

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3jdD
     key: eger-1
-    name: 'Worn Jaeger'
-    category: Armor/Combat
+    fullName: 'Worn Jaeger'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 32.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [190.0]
     psychoProtection: [170.0]
     bleedingProtection: [77.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'The perfect armor for eliminating mutants and other creatures that inhabit the Zone. Excellent protection against bullets, claws, nails, and knives. This armor is the stuff beast hunters dream about.'

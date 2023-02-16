@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lz8K
     key: mag_pmag30h
-    name: '5.56 NATO PMAG Clip, Khaki'
-    category: Attachment/Mag
+    fullName: '5.56 NATO PMAG Clip, Khaki'
+    pathCategory: Attachment/Mag
     rank: Newbie
     class: Clips
     weight: 0.14

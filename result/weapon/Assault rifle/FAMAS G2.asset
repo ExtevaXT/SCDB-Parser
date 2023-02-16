@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The first in a series of FAMAS assault rifles designed by the French. The high rate of fire and the bullpup layout made it quite popular among foreign gun enthusiasts.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 4ab3fbceb24f2ea4a8ba90cc32a8f5e5, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b69bbb0928f1e614182492cde0080c71, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: qwjJ
     key: famas
-    name: 'FAMAS G2'
+    fullName: 'FAMAS G2'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     ammoType: '5.56'

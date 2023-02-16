@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'German single machine gun of the World War II period. Modification using 7.62x51 NATO cartridge.'
     notes: null
-    category: 'Weapon/Machine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 3905343568dbd8843af2e392817e0156, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: d56d0a9cc18042c418dfb4e89a4faeb3, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: ja9X
     key: mg42
-    name: 'MG 42'
+    fullName: 'MG 42'
+    pathCategory: 'Weapon/Machine gun'
     rank: Master
     class: 'Machine Guns'
     ammoType: '7.62'

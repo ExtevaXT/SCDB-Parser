@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: LMDR
     key: '19242'
-    name: 'Flecktarn Forest Camouflage'
-    category: Other
+    fullName: 'Flecktarn Forest Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

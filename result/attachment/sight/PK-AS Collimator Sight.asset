@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJX3
     key: sight_pkas
-    name: 'PK-AS Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'PK-AS Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.45

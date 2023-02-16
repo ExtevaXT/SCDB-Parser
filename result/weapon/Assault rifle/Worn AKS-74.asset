@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: d0o0
     key: aks74-1
-    name: 'Worn AKS-74'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn AKS-74'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Newbie
     class: 'Assault Rifles'
     weight: 3.9

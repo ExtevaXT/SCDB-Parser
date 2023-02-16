@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: '2681'
     key: mob
-    name: 'Rusty Mold'
-    category: Other
+    fullName: 'Rusty Mold'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.03

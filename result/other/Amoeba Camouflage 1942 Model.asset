@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: xzO7
     key: '19119'
-    name: 'Amoeba Camouflage 1942 Model'
-    category: Other
+    fullName: 'Amoeba Camouflage 1942 Model'
+    pathCategory: Other
     class: 'Skins and Paint'

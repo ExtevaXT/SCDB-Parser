@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: P8KA
     key: mag_vss20
-    name: 'Ergonomic Clip for VSS Val'
-    category: Attachment/Mag
+    fullName: 'Ergonomic Clip for VSS Val'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.3

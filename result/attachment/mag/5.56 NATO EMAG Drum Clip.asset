@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAo1
     key: mag_emag55660
-    name: '5.56 NATO EMAG Drum Clip'
-    category: Attachment/Mag
+    fullName: '5.56 NATO EMAG Drum Clip'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.58

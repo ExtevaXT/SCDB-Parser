@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gBje
     key: node
-    name: 'Alpha Data Fragment'
-    category: Other
+    fullName: 'Alpha Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.15

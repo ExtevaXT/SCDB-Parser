@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NNgA
     key: hw22
-    name: Reborn
-    category: Other
+    fullName: Reborn
+    pathCategory: Other
     class: 'Skins and Paint'

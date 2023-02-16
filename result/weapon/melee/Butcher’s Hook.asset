@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 32VB
     key: '21049'
-    name: 'Butcher’s Hook'
-    category: Weapon/Melee
+    fullName: 'Butcher’s Hook'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.735

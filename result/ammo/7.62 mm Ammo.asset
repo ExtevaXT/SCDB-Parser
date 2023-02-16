@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MZED
     key: 762st
-    name: '7.62 mm Ammo'
-    category: Ammo
+    fullName: '7.62 mm Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.016
     piercing: 7.5

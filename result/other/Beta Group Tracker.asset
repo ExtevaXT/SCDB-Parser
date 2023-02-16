@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: eO2K
     key: signal
-    name: 'Beta Group Tracker'
-    category: Other
+    fullName: 'Beta Group Tracker'
+    pathCategory: Other
     rank: Stalker
     class: Other
     weight: 0.02

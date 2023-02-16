@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: R2JD
     key: npc
-    name: Crappite
-    category: Other
+    fullName: Crappite
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

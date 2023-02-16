@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: oGxn
     key: '19227'
-    name: 'DPM PECOC Camouflage'
-    category: Other
+    fullName: 'DPM PECOC Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

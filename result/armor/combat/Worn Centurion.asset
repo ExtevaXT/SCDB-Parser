@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nb5a
     key: centurion-1
-    name: 'Worn Centurion'
-    category: Armor/Combat
+    fullName: 'Worn Centurion'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 40.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [180.0]
     bleedingProtection: [63.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RoG7
     key: handgrip_fmade
-    name: 'FMA DARK EARTH Fire Transfer Grip'
-    category: Attachment/Other
+    fullName: 'FMA DARK EARTH Fire Transfer Grip'
+    pathCategory: Attachment/Other
     rank: Newbie
     class: 'Other Attachments'
     weight: 0.08

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 622D
     key: '19818'
-    name: UZ
-    category: Other
+    fullName: UZ
+    pathCategory: Other
     class: 'Skins and Paint'

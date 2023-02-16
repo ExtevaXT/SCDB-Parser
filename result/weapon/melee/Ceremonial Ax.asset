@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QBZQ
     key: raxe
-    name: 'Ceremonial Ax'
-    category: Weapon/Melee
+    fullName: 'Ceremonial Ax'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 1.1

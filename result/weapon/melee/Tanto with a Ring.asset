@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RyB7
     key: '21010'
-    name: 'Tanto with a Ring'
-    category: Weapon/Melee
+    fullName: 'Tanto with a Ring'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.22

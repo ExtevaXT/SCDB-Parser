@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: rBNm
     key: ksm
-    name: 'SMC Container'
-    category: Container
+    fullName: 'SMC Container'
+    pathCategory: Container
     rank: Master
     class: 'Backpacks and Containers'
     weight: 7.0

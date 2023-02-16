@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: el6g
     key: butan_snow
-    name: 'Bhutan—Snow Camouflage'
-    category: Other
+    fullName: 'Bhutan—Snow Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

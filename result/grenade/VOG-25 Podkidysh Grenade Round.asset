@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kYkN
     key: vog25p
-    name: 'VOG-25 Podkidysh Grenade Round'
-    category: Grenade
+    fullName: 'VOG-25 Podkidysh Grenade Round'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.275
     explosionStrength: 500.0

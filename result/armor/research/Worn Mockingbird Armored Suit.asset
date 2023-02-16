@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Q1bP
     key: mocking-1
-    name: 'Worn Mockingbird Armored Suit'
-    category: Armor/Research
+    fullName: 'Worn Mockingbird Armored Suit'
+    pathCategory: Armor/Research
     rank: Stalker
     class: Explorer
     weight: 9.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [100.0]
     bleedingProtection: [46.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The stalker’s Hawk, but instead of the regular suit, this is a hunter’s suit. Other pieces of gear are chosen to match. A true bandit has to look stylish.'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: mOmj
     key: '19217'
-    name: 'ERDL Streetfighter Camouflage'
-    category: Other
+    fullName: 'ERDL Streetfighter Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

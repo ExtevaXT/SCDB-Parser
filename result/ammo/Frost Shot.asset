@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gPXm
     key: 12frz
-    name: 'Frost Shot'
-    category: Ammo
+    fullName: 'Frost Shot'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.015
     numBullets: 10.0

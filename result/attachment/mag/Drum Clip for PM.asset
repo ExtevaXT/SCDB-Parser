@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAd1
     key: mag_pmdrum
-    name: 'Drum Clip for PM'
-    category: Attachment/Mag
+    fullName: 'Drum Clip for PM'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.364

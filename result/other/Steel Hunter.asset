@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PLVn
     key: hunt
-    name: 'Steel Hunter'
-    category: Other
+    fullName: 'Steel Hunter'
+    pathCategory: Other
     class: 'Skins and Paint'

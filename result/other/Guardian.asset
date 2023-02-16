@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Xnjk
     key: guardian
-    name: Guardian
-    category: Other
+    fullName: Guardian
+    pathCategory: Other
     class: 'Skins and Paint'

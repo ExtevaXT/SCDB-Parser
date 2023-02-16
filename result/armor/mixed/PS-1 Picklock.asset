@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3j7Z
     key: picklock
-    name: 'PS-1 Picklock'
-    category: Armor/Mixed
+    fullName: 'PS-1 Picklock'
+    pathCategory: Armor/Mixed
     rank: Picklock
     class: Combo
     weight: 4.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [0.0]
     bleedingProtection: [12.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Rejected or irreparable Zarya suits often get a second life as a kind of protective suit. Of course, their bullet resistance leaves something to be desired, but you won’t find better protection from radiation for this price.'

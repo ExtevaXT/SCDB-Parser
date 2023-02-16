@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 9d2efbca326ec8442aced7bc566aed5a, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 80f4257e22a5dbf4caacabefee2bb887, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: YgZm
     key: rsh12
-    name: RSh-12
+    fullName: RSh-12
+    pathCategory: Weapon/Pistol
     rank: Master
     class: Pistols
     ammoType: '12.7'

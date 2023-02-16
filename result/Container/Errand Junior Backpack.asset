@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: G706
     key: errand
-    name: 'Errand Junior Backpack'
-    category: Container
+    fullName: 'Errand Junior Backpack'
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 1.6

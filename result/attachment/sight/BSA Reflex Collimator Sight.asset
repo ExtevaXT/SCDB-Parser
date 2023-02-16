@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Voaw
     key: sight_bsa
-    name: 'BSA Reflex Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'BSA Reflex Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.255

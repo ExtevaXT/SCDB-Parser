@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0nxb
     key: m40-1
-    name: 'Worn M40A5'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn M40A5'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Stalker
     class: 'Sniper Rifles'
     weight: 6.979999

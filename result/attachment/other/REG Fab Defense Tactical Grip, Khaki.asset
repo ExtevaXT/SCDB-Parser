@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5GA
     key: handgrip_regfbh
-    name: 'REG Fab Defense Tactical Grip, Khaki'
-    category: Attachment/Other
+    fullName: 'REG Fab Defense Tactical Grip, Khaki'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 0.12

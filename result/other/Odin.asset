@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 8Odn
     key: odin
-    name: Odin
-    category: Other
+    fullName: Odin
+    pathCategory: Other
     class: 'Skins and Paint'

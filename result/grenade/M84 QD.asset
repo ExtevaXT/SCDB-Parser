@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Lm3Z
     key: m84qd
-    name: 'M84 QD'
-    category: Grenade
+    fullName: 'M84 QD'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.24
     explosionSize: 12.0

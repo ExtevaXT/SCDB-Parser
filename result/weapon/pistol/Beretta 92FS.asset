@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 85ee6775fae2def40a48b973d28d91c6, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 7a0edbf09cf87ad41aea93d1d473d6d1, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: V36x
     key: beretta
-    name: 'Beretta 92FS'
+    fullName: 'Beretta 92FS'
+    pathCategory: Weapon/Pistol
     rank: Stalker
     class: Pistols
     ammoType: '9 mm'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JJd9
     key: p99_mod
-    name: Bee
-    category: Weapon/Pistol
+    fullName: Bee
+    pathCategory: Weapon/Pistol
     rank: Newbie
     class: Pistols
     weight: 0.7

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEx6
     key: handle_ag47b
-    name: 'Fab Defense AG-47 Grip, Black'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AG-47 Grip, Black'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.093

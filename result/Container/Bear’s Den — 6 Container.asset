@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VA1K
     key: bear6
-    name: 'Bear’s Den — 6 Container'
-    category: Container
+    fullName: 'Bear’s Den — 6 Container'
+    pathCategory: Container
     rank: Master
     class: 'Backpacks and Containers'
     weight: 7.0

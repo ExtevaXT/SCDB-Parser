@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ymel
     key: node_add
-    name: 'Digamma Data Block'
-    category: Other
+    fullName: 'Digamma Data Block'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

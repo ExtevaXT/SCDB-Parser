@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oqbX
     key: britva
-    name: Razor
-    category: Weapon/Melee
+    fullName: Razor
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.35

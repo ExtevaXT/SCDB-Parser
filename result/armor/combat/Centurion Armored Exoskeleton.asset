@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Xqok
     key: centurion
-    name: 'Centurion Armored Exoskeleton'
-    category: Armor/Combat
+    fullName: 'Centurion Armored Exoskeleton'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 40.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [66.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this.'

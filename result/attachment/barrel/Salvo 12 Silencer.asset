@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Romn
     key: silencer_salvo12
-    name: 'Salvo 12 Silencer'
-    category: Attachment/Barrel
+    fullName: 'Salvo 12 Silencer'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.96

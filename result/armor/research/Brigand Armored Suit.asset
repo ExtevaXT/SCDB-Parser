@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: bbYq
     key: armai
-    name: 'Brigand Armored Suit'
-    category: Armor/Research
+    fullName: 'Brigand Armored Suit'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 9.0
@@ -26,4 +26,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [170.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A consignment of protection gear sets, intended for a group of foreign mercenaries, was intercepted by parties unknown, eventually falling into the hands of Masters. The latter took advantage of the components and, inspired by the Pack of common PSZ-10s and Kingpins, developed a new armored suit. Of particular note are the quality of the fabric, which distributes heat, and the compact healing module similar to the one installed in the AH-2 Nomad.'

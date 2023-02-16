@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: r6y0
     key: mod47
-    name: 'Modification 47'
-    category: Other
+    fullName: 'Modification 47'
+    pathCategory: Other
     class: 'Skins and Paint'

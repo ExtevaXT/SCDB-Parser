@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VD9g
     key: mob
-    name: 'Stinky Root'
-    category: Other
+    fullName: 'Stinky Root'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.03

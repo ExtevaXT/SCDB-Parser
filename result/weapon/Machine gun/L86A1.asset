@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Russian single machine gun developed on the basis of PKM. Designed to defeat enemy manpower, fire and transport vehicles, and air targets.'
     notes: null
-    category: 'Weapon/Machine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 86f43ff452d59d6409cdbca20a984a2e, type: 3 }, { fileID: 8300000, guid: 48e55b1b381390948b3a1a1362c68715, type: 3 }, { fileID: 8300000, guid: eef99167a94fbb84f903bc087ccd7810, type: 3 }, { fileID: 8300000, guid: 27b78014575c20d43ad6ec4bfa0be015, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 85c68abf79fa7a946bb8319f494b59d3, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: V3yw
     key: l86
-    name: L86A1
+    fullName: L86A1
+    pathCategory: 'Weapon/Machine gun'
     rank: Stalker
     class: 'Machine Guns'
     ammoType: '5.56'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: M7XQ
     key: barrel_akademia
-    name: 'AKademia T’ma Flash Suppressor'
-    category: Attachment/Barrel
+    fullName: 'AKademia T’ma Flash Suppressor'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.19

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Q8xR
     key: forend_skstop
-    name: 'SKS Tactical Grip'
-    category: Attachment/Forend
+    fullName: 'SKS Tactical Grip'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.11

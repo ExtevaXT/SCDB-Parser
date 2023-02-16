@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MYrL
     key: ny22_exomod
-    name: 'Nord-22 Group Exoskeleton'
-    category: Armor/Combat
+    fullName: 'Nord-22 Group Exoskeleton'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 38.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [65.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'An exoskeleton modification made by an unknown craftsman. By all appearances, this model was upgraded using anomalous tools and acquired unique capabilities. Among the various upgrades, the advanced servomotors, the unlimited freedom of movement, the cutting-edge NVG and the upgraded shielding helmet stand out.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: k5VN
     key: puh_steelkolobok
-    name: 'Steel Kolobok'
-    category: Artefact/Biochemical
+    fullName: 'Steel Kolobok'
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 1.0
     common: 'Not studied'

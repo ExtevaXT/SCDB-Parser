@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kx6N
     key: scope_bravo
-    name: 'Sig Sauer Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Sig Sauer Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.398

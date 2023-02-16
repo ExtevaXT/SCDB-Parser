@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mr1
     key: forend_falris
-    name: 'Fal Quad Rail'
-    category: Attachment/Forend
+    fullName: 'Fal Quad Rail'
+    pathCategory: Attachment/Forend
     rank: Master
     class: 'Hanguards and Brackets'
     weight: 0.43

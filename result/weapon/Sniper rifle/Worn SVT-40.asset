@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 1gzl
     key: svt40-1
-    name: 'Worn SVT-40'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn SVT-40'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Newbie
     class: 'Sniper Rifles'
     weight: 3.8

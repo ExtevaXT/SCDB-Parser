@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: E9Xq
     key: six12
-    name: 'Crye Precision SIX12'
-    category: 'Weapon/Shotgun rifle'
+    fullName: 'Crye Precision SIX12'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Veteran
     class: 'Shotguns and Rifles'
     weight: 2.65

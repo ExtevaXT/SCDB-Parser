@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0Qd7
     key: cn2u
-    name: 'SN-2u Leglet'
-    category: Weapon/Device
+    fullName: 'SN-2u Leglet'
+    pathCategory: Weapon/Device
     class: Devices
     weight: 3.2
     maxDurability: 100.0

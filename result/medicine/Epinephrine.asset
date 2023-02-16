@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Medicine
+    category: Consumable
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -43,7 +43,8 @@ MonoBehaviour:
     usageFov: 0
     id: 6ZzE
     key: epinephrine
-    name: Epinephrine
+    fullName: Epinephrine
+    pathCategory: Medicine
     class: Medicine
     purpose: 'Short-Term Boost'
     toxicity: 50.0

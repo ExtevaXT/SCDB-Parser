@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: w1by
     key: lancelot
-    name: Lancelot
-    category: Other
+    fullName: Lancelot
+    pathCategory: Other
     class: 'Skins and Paint'

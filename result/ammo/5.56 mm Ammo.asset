@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xgXa
     key: 556st
-    name: '5.56 mm Ammo'
-    category: Ammo
+    fullName: '5.56 mm Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.012
     bleeding: 5.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PR1M
     key: blizzard_chickengod
-    name: 'Chicken God'
-    category: Artefact/Thermal
+    fullName: 'Chicken God'
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

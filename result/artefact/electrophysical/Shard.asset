@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKz3
     key: puzir_oskolok
-    name: Shard
-    category: Artefact/Electrophysical
+    fullName: Shard
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.2
     common: 'Not studied'

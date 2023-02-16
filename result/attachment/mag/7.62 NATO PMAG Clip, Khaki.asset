@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RoKb
     key: mag_pmag76230h
-    name: '7.62 NATO PMAG Clip, Khaki'
-    category: Attachment/Mag
+    fullName: '7.62 NATO PMAG Clip, Khaki'
+    pathCategory: Attachment/Mag
     rank: Master
     class: Clips
     weight: 0.38

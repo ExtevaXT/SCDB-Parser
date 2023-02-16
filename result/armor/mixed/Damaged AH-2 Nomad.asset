@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MA5B
     key: ao2-2
-    name: 'Damaged AH-2 Nomad'
-    category: Armor/Mixed
+    fullName: 'Damaged AH-2 Nomad'
+    pathCategory: Armor/Mixed
     rank: Newbie
     class: Combo
     weight: 4.5
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [30.0]
     bleedingProtection: [26.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The AH-1 suit enjoyed amazing popularity, and so an improved modification was launched: the AH-2. It differs in terms of its increased protection from all sources of damage.'

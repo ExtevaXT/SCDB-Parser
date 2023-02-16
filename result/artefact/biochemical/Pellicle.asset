@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NMyK
     key: kisel_plenka
-    name: Pellicle
-    category: Artefact/Biochemical
+    fullName: Pellicle
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.03
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PLqE
     key: '21013'
-    name: 'Ice Pick'
-    category: Weapon/Melee
+    fullName: 'Ice Pick'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.65

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: jnkO
     key: '19232'
-    name: 'Hexcam Arid Camouflage'
-    category: Other
+    fullName: 'Hexcam Arid Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

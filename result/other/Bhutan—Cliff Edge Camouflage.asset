@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y9BZ
     key: '19101'
-    name: 'Bhutan—Cliff Edge Camouflage'
-    category: Other
+    fullName: 'Bhutan—Cliff Edge Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

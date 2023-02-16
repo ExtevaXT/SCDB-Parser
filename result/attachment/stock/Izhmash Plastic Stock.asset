@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxlA
     key: butt_ak_p
-    name: 'Izhmash Plastic Stock'
-    category: Attachment/Stock
+    fullName: 'Izhmash Plastic Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.3
     recoil: -1.9999981

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BL7r
     key: '25500'
-    name: 'Home-made NVG'
-    category: Armor/Device
+    fullName: 'Home-made NVG'
+    pathCategory: Armor/Device
     rank: Picklock
     class: Devices
     weight: 1.25

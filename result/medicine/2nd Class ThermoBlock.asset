@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RYeb
     key: thermobarier_2
-    name: '2nd Class ThermoBlock'
-    category: Medicine
+    fullName: '2nd Class ThermoBlock'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Thermal Protection'

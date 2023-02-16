@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: z11P
     key: '19820'
-    name: 'Test Prototype OTs-33'
-    category: Other
+    fullName: 'Test Prototype OTs-33'
+    pathCategory: Other
     class: 'Skins and Paint'

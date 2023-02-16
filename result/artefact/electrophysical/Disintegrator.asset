@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VzgA
     key: electra_dezintegrator
-    name: Disintegrator
-    category: Artefact/Electrophysical
+    fullName: Disintegrator
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.2
     common: 'Not studied'

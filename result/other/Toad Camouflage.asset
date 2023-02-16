@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 3OVO
     key: '19105'
-    name: 'Toad Camouflage'
-    category: Other
+    fullName: 'Toad Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

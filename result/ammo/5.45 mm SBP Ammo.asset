@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 6Q6x
     key: 545sbp
-    name: '5.45 mm SBP Ammo'
-    category: Ammo
+    fullName: '5.45 mm SBP Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.01
     piercing: 20.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rb5b
     key: 9silver2
-    name: '9 mm Silver Ammo'
-    category: Ammo
+    fullName: '9 mm Silver Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.009
     default: 20.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NMaj
     key: blizzard_stormeye
-    name: 'Eye of the Storm'
-    category: Artefact/Thermal
+    fullName: 'Eye of the Storm'
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.15
     common: 'Not studied'

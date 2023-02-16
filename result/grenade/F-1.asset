@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BO2r
     key: f1
-    name: F-1
-    category: Grenade
+    fullName: F-1
+    pathCategory: Grenade
     class: Grenades
     weight: 0.6
     explosionStrength: 500.0

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: '3221'
     key: '19805'
-    name: Pine
-    category: Other
+    fullName: Pine
+    pathCategory: Other
     class: 'Skins and Paint'

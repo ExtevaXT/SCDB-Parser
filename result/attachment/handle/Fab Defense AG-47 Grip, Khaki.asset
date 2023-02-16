@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5Nj
     key: handle_ag47h
-    name: 'Fab Defense AG-47 Grip, Khaki'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AG-47 Grip, Khaki'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.093

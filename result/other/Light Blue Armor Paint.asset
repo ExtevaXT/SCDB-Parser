@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 3Ob7
     key: blue
-    name: 'Light Blue Armor Paint'
-    category: Other
+    fullName: 'Light Blue Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

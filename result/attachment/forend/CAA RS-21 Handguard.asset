@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RoLy
     key: forend_caars
-    name: 'CAA RS-21 Handguard'
-    category: Attachment/Forend
+    fullName: 'CAA RS-21 Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.43

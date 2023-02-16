@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: k5b2
     key: electra_snowflake
-    name: Snowflake
-    category: Artefact/Electrophysical
+    fullName: Snowflake
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

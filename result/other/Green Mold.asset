@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ymn5
     key: mob
-    name: 'Green Mold'
-    category: Other
+    fullName: 'Green Mold'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.012

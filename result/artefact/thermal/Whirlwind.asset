@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0QZb
     key: blizzard_vortex
-    name: Whirlwind
-    category: Artefact/Thermal
+    fullName: Whirlwind
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.1
     common: 'Not studied'

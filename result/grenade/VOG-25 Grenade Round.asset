@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KrkX
     key: vog25
-    name: 'VOG-25 Grenade Round'
-    category: Grenade
+    fullName: 'VOG-25 Grenade Round'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.25
     explosionStrength: 450.0

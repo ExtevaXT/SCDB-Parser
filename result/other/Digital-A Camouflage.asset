@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kgD6
     key: '19204'
-    name: 'Digital-A Camouflage'
-    category: Other
+    fullName: 'Digital-A Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

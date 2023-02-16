@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5MK
     key: mount_lastris
-    name: 'Side Bracket with Picatinny Rail'
-    category: Attachment/Forend
+    fullName: 'Side Bracket with Picatinny Rail'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.26

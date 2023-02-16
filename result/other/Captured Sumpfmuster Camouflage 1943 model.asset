@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KDNe
     key: '19247'
-    name: 'Captured Sumpfmuster Camouflage 1943 model'
-    category: Other
+    fullName: 'Captured Sumpfmuster Camouflage 1943 model'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aVDN
     key: '21026'
-    name: 'New Year’s Shovel'
-    category: Weapon/Melee
+    fullName: 'New Year’s Shovel'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.6

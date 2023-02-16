@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0n8N
     key: fullmetal
-    name: 'Full Metal'
-    category: Other
+    fullName: 'Full Metal'
+    pathCategory: Other
     class: 'Skins and Paint'

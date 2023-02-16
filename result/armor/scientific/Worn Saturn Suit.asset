@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8EQJ
     key: saturn-1
-    name: 'Worn Saturn Suit'
-    category: Armor/Scientific
+    fullName: 'Worn Saturn Suit'
+    pathCategory: Armor/Scientific
     rank: Master
     class: Scientist
     weight: 13.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [405.0]
     psychoProtection: [370.0]
     bleedingProtection: [45.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A further development of the SEVA, this combines very good protection against anomalous with decent physical protection.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: w3Xq
     key: 556sbp
-    name: '5.56 SBP Ammo'
-    category: Ammo
+    fullName: '5.56 SBP Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.012
     piercing: 20.0

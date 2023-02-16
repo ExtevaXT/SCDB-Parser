@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mbKo
     key: expedition
-    name: 'Expedition Suit'
-    category: Armor/Mixed
+    fullName: 'Expedition Suit'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 8.0
@@ -27,4 +27,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [44.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Every suit has a purpose, and this Expedition Suit is no exception. Initially designed to withstand the conditions of an anomalous blizzard, it is so user-friendly and cheap to produce that it very quickly became popular amongst middle-class stalkers.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3m8G
     key: barrel_3port
-    name: '3 Port Mini Compensator'
-    category: Attachment/Barrel
+    fullName: '3 Port Mini Compensator'
+    pathCategory: Attachment/Barrel
     rank: Newbie
     class: 'Muzzles and Silencers'
     weight: 0.025

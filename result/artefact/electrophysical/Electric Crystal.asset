@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B16j
     key: electra_crystal
-    name: 'Electric Crystal'
-    category: Artefact/Electrophysical
+    fullName: 'Electric Crystal'
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

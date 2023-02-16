@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JDeB
     key: brown
-    name: 'Brown Armor Paint'
-    category: Other
+    fullName: 'Brown Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

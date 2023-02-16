@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: MAQB
     key: skat9b
-    name: 'SKAT-9b Armored Suit'
-    category: Armor/Research
+    fullName: 'SKAT-9b Armored Suit'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 14.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [200.0]
     bleedingProtection: [58.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'An armored suit made from components analogous to those in the SKAT-9m suit. The expensive NVG has been replaced with a more widespread model. The resulting cost reduction made it possible to install oxygen tanks and an advanced air-filtration system. This means the armor is maximally adapted for working in areas of the Zone with high levels of radiation and biological infection.'

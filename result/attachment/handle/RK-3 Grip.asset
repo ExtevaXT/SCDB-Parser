@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bk3j
     key: handle_rk3
-    name: 'RK-3 Grip'
-    category: Attachment/Handle
+    fullName: 'RK-3 Grip'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.225

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 0964fd44d7553934eaea782009410401, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 20g1
     key: pp2000
-    name: PP-2000
+    fullName: PP-2000
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     ammoType: '9 mm'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: lOJO
     key: fireman
-    name: Firefighter
-    category: Other
+    fullName: Firefighter
+    pathCategory: Other
     class: 'Skins and Paint'

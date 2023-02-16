@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VzQG
     key: cn1
-    name: 'SN-1 Pancake'
-    category: Weapon/Device
+    fullName: 'SN-1 Pancake'
+    pathCategory: Weapon/Device
     class: Devices
     weight: 4.5
     maxDurability: 100.0

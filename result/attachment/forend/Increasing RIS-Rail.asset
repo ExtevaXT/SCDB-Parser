@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xLr3
     key: mount_riselevator
-    name: 'Increasing RIS-Rail'
-    category: Attachment/Forend
+    fullName: 'Increasing RIS-Rail'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.05

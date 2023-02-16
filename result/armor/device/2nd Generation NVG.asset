@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l6or
     key: nvd2
-    name: '2nd Generation NVG'
-    category: Armor/Device
+    fullName: '2nd Generation NVG'
+    pathCategory: Armor/Device
     rank: Veteran
     class: Devices
     weight: 2.0

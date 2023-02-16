@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: amzB
     key: mag_psg1
-    name: 'PSG1 Extended Clip'
-    category: Attachment/Mag
+    fullName: 'PSG1 Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.24

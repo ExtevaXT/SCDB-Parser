@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NLaB
     key: '19214'
-    name: 'ERDL ARVN Yellow Camouflage'
-    category: Other
+    fullName: 'ERDL ARVN Yellow Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

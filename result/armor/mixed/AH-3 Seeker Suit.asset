@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: D05a
     key: ao3
-    name: 'AH-3 Seeker Suit'
-    category: Armor/Mixed
+    fullName: 'AH-3 Seeker Suit'
+    pathCategory: Armor/Mixed
     rank: Stalker
     class: Combo
     weight: 7.5
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [225.0]
     psychoProtection: [165.0]
     bleedingProtection: [42.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'

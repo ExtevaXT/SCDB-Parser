@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nqq9
     key: '19807'
-    name: 'Red Autumn'
-    category: Other
+    fullName: 'Red Autumn'
+    pathCategory: Other
     class: 'Skins and Paint'

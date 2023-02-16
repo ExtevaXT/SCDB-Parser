@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kgeK
     key: '19104'
-    name: 'SURPAT—Urban Noise Camouflage'
-    category: Other
+    fullName: 'SURPAT—Urban Noise Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

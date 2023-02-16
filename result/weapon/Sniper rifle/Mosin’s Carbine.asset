@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y1DZ
     key: mosinkar
-    name: 'Mosin’s Carbine'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Mosin’s Carbine'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Picklock
     class: 'Sniper Rifles'
     weight: 3.45

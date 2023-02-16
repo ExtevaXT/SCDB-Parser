@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gwAR
     key: topaz-1
-    name: 'Worn Topaz'
-    category: Armor/Scientific
+    fullName: 'Worn Topaz'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     weight: 7.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [280.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A gray research suit. It is an expensive thermal protection suit, but it is not all that difficult to produce. Suits like these are used in special labs or by firefighters.'

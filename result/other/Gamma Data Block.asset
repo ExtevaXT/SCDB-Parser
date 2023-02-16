@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9lGL
     key: node_add
-    name: 'Gamma Data Block'
-    category: Other
+    fullName: 'Gamma Data Block'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

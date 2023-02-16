@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0gBq
     key: '22653'
-    name: 'M4 Buttstock'
-    category: Attachment/Stock
+    fullName: 'M4 Buttstock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.48
     recoil: -2.9999971

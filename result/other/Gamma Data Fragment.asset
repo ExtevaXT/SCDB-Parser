@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: bj6g
     key: node
-    name: 'Gamma Data Fragment'
-    category: Other
+    fullName: 'Gamma Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.15

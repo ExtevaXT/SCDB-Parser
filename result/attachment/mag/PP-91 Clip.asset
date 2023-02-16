@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N5yN
     key: mag_kedr40
-    name: 'PP-91 Clip'
-    category: Attachment/Mag
+    fullName: 'PP-91 Clip'
+    pathCategory: Attachment/Mag
     rank: Picklock
     class: Clips
     weight: 0.128

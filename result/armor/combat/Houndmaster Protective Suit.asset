@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lYVO
     key: dogger
-    name: 'Houndmaster Protective Suit'
-    category: Armor/Combat
+    fullName: 'Houndmaster Protective Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 8.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [75.0]
     psychoProtection: [0.0]
     bleedingProtection: [50.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A suit that offers good protection against mutants. It is particularly effective against smaller varieties: rodents, cats, and dogs. The latter are what gave it its name.'

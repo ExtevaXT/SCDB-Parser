@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kao9
     key: halflive
-    name: Half-life
-    category: Other
+    fullName: Half-life
+    pathCategory: Other
     class: 'Skins and Paint'

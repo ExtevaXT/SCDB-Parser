@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KrEx
     key: 127snp
-    name: '12.7x55 mm Sniper Ammo'
-    category: Ammo
+    fullName: '12.7x55 mm Sniper Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.03
     piercing: 30.0

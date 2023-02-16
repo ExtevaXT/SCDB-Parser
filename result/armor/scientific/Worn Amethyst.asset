@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2jbM
     key: ametist-1
-    name: 'Worn Amethyst'
-    category: Armor/Scientific
+    fullName: 'Worn Amethyst'
+    pathCategory: Armor/Scientific
     rank: Veteran
     class: Scientist
     weight: 7.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [370.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'An indigo research suit. One of the masterpieces of the Chernobyl Research Institute. Can be worn in areas with high psychic influence.'

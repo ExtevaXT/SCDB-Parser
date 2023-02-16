@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Yx67
     key: node
-    name: 'Delta Data Fragment'
-    category: Other
+    fullName: 'Delta Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.2

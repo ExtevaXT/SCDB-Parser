@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JKre
     key: signal
-    name: 'Alpha Group Tracker'
-    category: Other
+    fullName: 'Alpha Group Tracker'
+    pathCategory: Other
     rank: Stalker
     class: Other
     weight: 0.02

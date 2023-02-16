@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: a97B
     key: atlas
-    name: 'ATLAS Anabolic Steroid'
-    category: Medicine
+    fullName: 'ATLAS Anabolic Steroid'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.12
     purpose: 'Stamina Improvement'

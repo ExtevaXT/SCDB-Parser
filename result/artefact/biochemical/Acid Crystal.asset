@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vz0G
     key: kisel_crystal
-    name: 'Acid Crystal'
-    category: Artefact/Biochemical
+    fullName: 'Acid Crystal'
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.3
     common: 'Not studied'

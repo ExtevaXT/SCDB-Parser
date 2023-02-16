@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PQ7K
     key: bear
-    name: 'Bear Exoskeleton'
-    category: Armor/Combat
+    fullName: 'Bear Exoskeleton'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 35.0

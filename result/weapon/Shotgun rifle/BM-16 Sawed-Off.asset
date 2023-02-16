@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A regular hunting rifle with horizontal barrels, much more compact and lightweight than a conventional double-barreled shotgun. One of the most common weapons used by bandits, as it is convenient for concealed carry and very effective in close combat.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: b7daba78c49516d4d9d8dfe0c76c342e, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: BMA2
     key: obrezbm16
-    name: 'BM-16 Sawed-Off'
+    fullName: 'BM-16 Sawed-Off'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Picklock
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

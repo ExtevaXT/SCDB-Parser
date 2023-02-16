@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 1Akl
     key: '19128'
-    name: 'Field Camouflage'
-    category: Other
+    fullName: 'Field Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

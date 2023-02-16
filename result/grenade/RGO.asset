@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Grenade
+    category: null
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 8300000, guid: cfc38ad81a7e3fb46a1b9a7eb121fff9, type: 3 }
     failedUseSound: { fileID: 0 }
@@ -63,7 +63,8 @@ MonoBehaviour:
     radius: 10
     id: X9e1
     key: rgo
-    name: RGO
+    fullName: RGO
+    pathCategory: Grenade
     class: Grenades
     explosionStrength: 450.0
     explosionStrengthMin: 25.0

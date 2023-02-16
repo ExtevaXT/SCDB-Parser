@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: ff9d124f23a73cd4eb33d334e9cc9bad, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 80f4257e22a5dbf4caacabefee2bb887, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: oqY7
     key: r92
-    name: R-92
+    fullName: R-92
+    pathCategory: Weapon/Pistol
     rank: Picklock
     class: Pistols
     ammoType: '9 mm'

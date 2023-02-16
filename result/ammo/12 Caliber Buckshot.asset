@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2D9P
     key: 12drob
-    name: '12 Caliber Buckshot'
-    category: Ammo
+    fullName: '12 Caliber Buckshot'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.03
     numBullets: 20.0

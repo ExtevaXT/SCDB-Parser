@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mqal
     key: fireknuckle
-    name: 'Fiery Greeting'
-    category: Weapon/Melee
+    fullName: 'Fiery Greeting'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.7

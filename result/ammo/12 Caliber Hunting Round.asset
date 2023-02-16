@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JNVG
     key: 12slug
-    name: '12 Caliber Hunting Round'
-    category: Ammo
+    fullName: '12 Caliber Hunting Round'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.03
     bleeding: 15.000001

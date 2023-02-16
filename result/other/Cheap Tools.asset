@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: VQNA
     key: tools_1
-    name: 'Cheap Tools'
-    category: Other
+    fullName: 'Cheap Tools'
+    pathCategory: Other
     class: Other
     weight: 0.01

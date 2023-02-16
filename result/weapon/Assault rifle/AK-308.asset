@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Автомат Калашникова АК-308 разработан концерном «Калашникова» под требования иностранных заказчиков, испытывающих потребность в мощном и надежном ручном автоматическом оружии под патрон 7.62x51 НАТО.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 9d85b878db6089b4fabe8fc42e84afaa, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -63,7 +63,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: KPX8
     key: ak308
-    name: AK-308
+    fullName: AK-308
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     ammoType: '7.62'

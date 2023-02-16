@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A folding assault rifle, model 1974, chambered in 5.45 × 39 ammunition. It is a simple and reliable weapon, although its cheapness in production somewhat affected the ease of use and accuracy of combat. It is the main weapon of the military, stalkers, and many loners in the Zone.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 8ce91c5b4bf367a4ba6bc6b91218ddb1, type: 3 }, { fileID: 8300000, guid: ccb5ae0597a64db4087e0bbe31616ecc, type: 3 }, { fileID: 8300000, guid: e9875a89dcc0365498825723e7d84a7c, type: 3 }, { fileID: 8300000, guid: af306ffc0ae136744b4be2192b29d874, type: 3 }, { fileID: 8300000, guid: 966d89c611652124c919f42aa7915dfe, type: 3 }, { fileID: 8300000, guid: ddda84b860da2b748b9577ffb2366531, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: MOwn
     key: aks74
-    name: AKS-74
+    fullName: AKS-74
+    pathCategory: 'Weapon/Assault rifle'
     rank: Newbie
     class: 'Assault Rifles'
     ammoType: '5.45'

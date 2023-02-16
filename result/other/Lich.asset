@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: DMGa
     key: lich
-    name: Lich
-    category: Other
+    fullName: Lich
+    pathCategory: Other
     class: 'Skins and Paint'

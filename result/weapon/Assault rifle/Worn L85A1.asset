@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: r6ed
     key: l85-1
-    name: 'Worn L85A1'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn L85A1'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Picklock
     class: 'Assault Rifles'
     weight: 4.31

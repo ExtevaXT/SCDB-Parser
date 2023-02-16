@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Ry5b
     key: rpk
-    name: RPK
-    category: 'Weapon/Machine gun'
+    fullName: RPK
+    pathCategory: 'Weapon/Machine gun'
     rank: Veteran
     class: 'Machine Guns'
     weight: 3.1100001

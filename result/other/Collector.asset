@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kaa2
     key: '19804'
-    name: Collector
-    category: Other
+    fullName: Collector
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: o7jn
     key: barrel_vihr
-    name: 'Whirlwind MBC'
-    category: Attachment/Barrel
+    fullName: 'Whirlwind MBC'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.227

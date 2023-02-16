@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VowA
     key: handle_agr43b
-    name: 'Fab Defense AGR-43 Grip, Black'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AGR-43 Grip, Black'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.096

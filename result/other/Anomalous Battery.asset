@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: eORO
     key: airdrop
-    name: 'Anomalous Battery'
-    category: Other
+    fullName: 'Anomalous Battery'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.25

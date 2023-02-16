@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ZzY8
     key: hound
-    name: 'Hounds Exoskeleton'
-    category: Armor/Mixed
+    fullName: 'Hounds Exoskeleton'
+    pathCategory: Armor/Mixed
     rank: Master
     class: Combo
     weight: 24.0
@@ -27,4 +27,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [270.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'This exo-suit is an excellent purchase for a sniper working in the Zone. High mobility is combined with the ability to lie for hours in a radioactive swamp, waiting for the enemy. Masters of ambush from Freedom approve!'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 8lkq
     key: '19221'
-    name: 'Multicam Camouflage'
-    category: Other
+    fullName: 'Multicam Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

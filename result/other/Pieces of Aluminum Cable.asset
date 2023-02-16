@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: jKjq
     key: mining
-    name: 'Pieces of Aluminum Cable'
-    category: Other
+    fullName: 'Pieces of Aluminum Cable'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

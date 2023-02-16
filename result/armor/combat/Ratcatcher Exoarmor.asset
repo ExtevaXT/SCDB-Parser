@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8jaZ
     key: ratcatcher
-    name: 'Ratcatcher Exoarmor'
-    category: Armor/Combat
+    fullName: 'Ratcatcher Exoarmor'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 32.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [210.0]
     psychoProtection: [180.0]
     bleedingProtection: [77.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Hunting for rats requires the right suit.'

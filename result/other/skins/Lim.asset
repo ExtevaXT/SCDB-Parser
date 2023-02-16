@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: g9wN
     key: lim
-    name: Lim
-    category: Other/Skins
+    fullName: Lim
+    pathCategory: Other/Skins
     class: 'Skins and Paint'

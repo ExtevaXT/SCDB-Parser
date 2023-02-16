@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y8a6
     key: magnit
-    name: 'Magnet Suit'
-    category: Armor/Mixed
+    fullName: 'Magnet Suit'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 15.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [290.0]
     psychoProtection: [190.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A patched-up, darned, but reliable suit. It’s saved its owner’s hide more than once. The owner repaid it in full, by outfitting it with drives, replacing the dying breathing circuit with a new, compact one, which required sacrificing one of the batteries. Stalkers say that this suit literally draws artifacts to it, which is where it gets its name. Others say that all it attracts is mutants. The owner of this suit went missing during one of his trips. Curious fact: only the owner went missing—the suit was found in the same condition it was in before the trip. Rumor has it that the Zone was terribly fond of the owner of the Magnet, and it took him for itself. But rumors have a way of staying rumors, right?'

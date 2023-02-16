@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l6Jw
     key: kz3a
-    name: 'CD-3a Armored Suit'
-    category: Armor/Combat
+    fullName: 'CD-3a Armored Suit'
+    pathCategory: Armor/Combat
     rank: Stalker
     class: Combat
     weight: 9.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [150.0]
     bleedingProtection: [59.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: '“Combined Defense, model 3, anomalous”—one of the most expensive CD series suits, which combines excellent combat properties, decent anomalous protection and an impressive appearance.'

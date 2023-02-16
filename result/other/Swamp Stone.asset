@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B2jr
     key: npc
-    name: 'Swamp Stone'
-    category: Other
+    fullName: 'Swamp Stone'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.025

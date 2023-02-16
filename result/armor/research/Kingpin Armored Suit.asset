@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: jqkN
     key: pahan
-    name: 'Kingpin Armored Suit'
-    category: Armor/Research
+    fullName: 'Kingpin Armored Suit'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 9.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [160.0]
     bleedingProtection: [53.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The bandit version of the PSZ-10. Comes in a stylish shade of black.'

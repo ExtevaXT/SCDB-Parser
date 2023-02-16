@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lze1
     key: barrel_resistance
-    name: 'Resistance Armament Compensator'
-    category: Attachment/Barrel
+    fullName: 'Resistance Armament Compensator'
+    pathCategory: Attachment/Barrel
     rank: Newbie
     class: 'Muzzles and Silencers'
     weight: 0.113

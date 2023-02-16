@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: E951
     key: guard2
-    name: SecureOps
-    category: Other
+    fullName: SecureOps
+    pathCategory: Other
     class: 'Skins and Paint'

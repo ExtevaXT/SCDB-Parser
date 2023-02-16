@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: qb5L
     key: bover_gas
-    name: 'Bandit Suit with Gas Mask'
-    category: Armor/Research
+    fullName: 'Bandit Suit with Gas Mask'
+    pathCategory: Armor/Research
     rank: Newbie
     class: Explorer
     weight: 3.7
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [120.0]
     psychoProtection: [0.0]
     bleedingProtection: [30.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Acquiring a good Zarya suit from a stalker or buying a new one gets more difficult every day, and bandits have decided to seek alternatives. Due to its widespread availability and low cost, they opted for the RS-32. PMG gas mask included.'

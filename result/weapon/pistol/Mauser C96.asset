@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: cbf9c33251bec5f4faf411d76880917e, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: aa8e4630186eea549a44ad23f1bb16e7, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: g9Xm
     key: mauser
-    name: 'Mauser C96'
+    fullName: 'Mauser C96'
+    pathCategory: Weapon/Pistol
     rank: Stalker
     class: Pistols
     ammoType: '9 mm'

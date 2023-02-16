@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JAKQ
     key: forend_g3
-    name: 'Fab Defense G3-RS Handguard'
-    category: Attachment/Forend
+    fullName: 'Fab Defense G3-RS Handguard'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.326

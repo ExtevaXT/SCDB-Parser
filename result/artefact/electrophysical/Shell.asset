@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 31K1
     key: electra_pustishka
-    name: Shell
-    category: Artefact/Electrophysical
+    fullName: Shell
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

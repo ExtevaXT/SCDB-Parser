@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2R2a
     key: handgrip_fmatd
-    name: 'FMA TD Grip Tactical Grip'
-    category: Attachment/Other
+    fullName: 'FMA TD Grip Tactical Grip'
+    pathCategory: Attachment/Other
     rank: Picklock
     class: 'Other Attachments'
     weight: 0.07

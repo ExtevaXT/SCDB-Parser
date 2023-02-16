@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2XVa
     key: kisel_svetlyak
-    name: Firefly
-    category: Artefact/Biochemical
+    fullName: Firefly
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.2
     common: 'Not studied'

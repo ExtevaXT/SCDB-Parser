@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Ro3b
     key: mag_rumag54560
-    name: '5.45 Clip'
-    category: Attachment/Mag
+    fullName: '5.45 Clip'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.3

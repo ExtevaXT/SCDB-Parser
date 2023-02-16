@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xQ1j
     key: vestcoat
-    name: 'Hunter’s Cloak'
-    category: Armor/Combat
+    fullName: 'Hunter’s Cloak'
+    pathCategory: Armor/Combat
     rank: Picklock
     class: Combat
     weight: 3.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [42.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Over this thick, waterproof cloak, one can wear a large utility vest with body armor, which allows you to increase the amount of resources that can be carried.'

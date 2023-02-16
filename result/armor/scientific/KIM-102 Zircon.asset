@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Scientific
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: m82E
     key: cirkon
-    name: 'KIM-102 Zircon'
+    fullName: 'KIM-102 Zircon'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     artefaktHeal: [3.0]
@@ -97,4 +98,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [225.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A golden yellow research suit. First designed as a multipurpose suit for the higher-ups at labs transported into the newly appeared Zone, but due to the wild success during testing, the suit began to be mass-produced. Also equipped with a basic life-support system.'

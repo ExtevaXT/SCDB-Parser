@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: {  }
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: bnEg
     key: vityaz
-    name: 'PP-19-01 Vityaz'
+    fullName: 'PP-19-01 Vityaz'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     ammoType: '9 mm'

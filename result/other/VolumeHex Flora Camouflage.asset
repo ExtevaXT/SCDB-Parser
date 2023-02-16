@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: ZBbl
     key: '19236'
-    name: 'VolumeHex Flora Camouflage'
-    category: Other
+    fullName: 'VolumeHex Flora Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

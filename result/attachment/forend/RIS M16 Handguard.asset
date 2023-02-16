@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lz3w
     key: forend_m16ris
-    name: 'RIS M16 Handguard'
-    category: Attachment/Forend
+    fullName: 'RIS M16 Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.25

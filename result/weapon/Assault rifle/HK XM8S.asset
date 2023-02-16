@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The new trends in Western-made automatic weapons are embodied: the principle of operation is based on a short stroke gas piston instead of a semi-automatic bolt. It must be said that the changes have clearly benefited: this assault rifle is a first-class example of modern weapon - lightweight, reliable and ergonomic.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 295149a5b52d7af47a7c2ed43cf39348, type: 3 }, { fileID: 8300000, guid: 332e34d5d86cb314e9e9387f5f8472ab, type: 3 }, { fileID: 8300000, guid: 6646416f6d6e14441bdc7af6951d0fcc, type: 3 }, { fileID: 8300000, guid: 11eb3dc976701bc4296c2cc8def14e05, type: 3 }, { fileID: 8300000, guid: 81bde2220ecc08441b94abb213f617de, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: BMXN
     key: xm8s
-    name: 'HK XM8S'
+    fullName: 'HK XM8S'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     ammoType: '5.56'

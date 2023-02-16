@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V1Y3
     key: indigo
-    name: 'Blue Weapon Paint'
-    category: Other
+    fullName: 'Blue Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: j6nm
     key: cocoon
-    name: 'Cocoon Container'
-    category: Container
+    fullName: 'Cocoon Container'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 7.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kqyG
     key: barvinok
-    name: Vinca
-    category: Medicine
+    fullName: Vinca
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Bleeding Protection'

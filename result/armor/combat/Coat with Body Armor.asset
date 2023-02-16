@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nb6M
     key: bronj
-    name: 'Coat with Body Armor'
-    category: Armor/Combat
+    fullName: 'Coat with Body Armor'
+    pathCategory: Armor/Combat
     rank: Picklock
     class: Combat
     weight: 4.0
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [0.0]
     psychoProtection: [0.0]
     bleedingProtection: [21.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A coat with a comfortable and reliable body armor. Does not hinder movement.'

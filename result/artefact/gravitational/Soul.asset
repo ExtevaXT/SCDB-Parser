@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: k51k
     key: karousel_dusha
-    name: Soul
-    category: Artefact/Gravitational
+    fullName: Soul
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: A3KP
     key: npa
-    name: 'NPA Backpack'
-    category: Container
+    fullName: 'NPA Backpack'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 2.5

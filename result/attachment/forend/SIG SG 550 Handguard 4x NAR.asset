@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VoDA
     key: forend_sigris4
-    name: 'SIG SG 550 Handguard 4x NAR'
-    category: Attachment/Forend
+    fullName: 'SIG SG 550 Handguard 4x NAR'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.66

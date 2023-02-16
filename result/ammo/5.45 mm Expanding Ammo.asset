@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QAEj
     key: 545exp
-    name: '5.45 mm Expanding Ammo'
-    category: Ammo
+    fullName: '5.45 mm Expanding Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.01
     damage: 10.000002

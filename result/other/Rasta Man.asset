@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: V33A
     key: '19806'
-    name: 'Rasta Man'
-    category: Other
+    fullName: 'Rasta Man'
+    pathCategory: Other
     class: 'Skins and Paint'

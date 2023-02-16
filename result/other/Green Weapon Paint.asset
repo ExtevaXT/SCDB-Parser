@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: kgqK
     key: green
-    name: 'Green Weapon Paint'
-    category: Other
+    fullName: 'Green Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7jK6
     key: longcoat
-    name: Cloak
-    category: Armor/Combat
+    fullName: Cloak
+    pathCategory: Armor/Combat
     rank: Picklock
     class: Combat
     weight: 2.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [34.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Beneath this thick waterproof cloak is a sweater, which conceals light body armor.'

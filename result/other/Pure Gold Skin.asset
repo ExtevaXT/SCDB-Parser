@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Be0Q
     key: '19000'
-    name: 'Pure Gold Skin'
-    category: Other
+    fullName: 'Pure Gold Skin'
+    pathCategory: Other
     class: 'Skins and Paint'

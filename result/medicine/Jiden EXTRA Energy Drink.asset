@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2Zo7
     key: jiden
-    name: 'Jiden EXTRA Energy Drink'
-    category: Medicine
+    fullName: 'Jiden EXTRA Energy Drink'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.2
     purpose: 'Stamina Improvement'

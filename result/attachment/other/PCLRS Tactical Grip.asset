@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEM8
     key: handgrip_pclrs
-    name: 'PCLRS Tactical Grip'
-    category: Attachment/Other
+    fullName: 'PCLRS Tactical Grip'
+    pathCategory: Attachment/Other
     rank: Stalker
     class: 'Other Attachments'
     weight: 0.07

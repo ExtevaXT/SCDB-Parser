@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3gLq
     key: kzs1d
-    name: 'KZS-1u Container'
-    category: Container
+    fullName: 'KZS-1u Container'
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 1.75

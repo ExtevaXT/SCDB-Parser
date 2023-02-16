@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKnN
     key: cn2
-    name: 'SN-2 Leg'
-    category: Weapon/Device
+    fullName: 'SN-2 Leg'
+    pathCategory: Weapon/Device
     class: Devices
     weight: 4.2
     maxDurability: 100.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BLJj
     key: ozk
-    name: 'Improved Hazmat Suit'
-    category: Armor/Scientific
+    fullName: 'Improved Hazmat Suit'
+    pathCategory: Armor/Scientific
     rank: Newbie
     class: Scientist
     weight: 5.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [100.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The hazmat suit set with a cheap lining for anomalous protection, worn on top of light body armor. A very popular set, due to its cost and prevalence. Just don’t look at yourself in the mirror.'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 3OZO
     key: blue
-    name: 'Light Blue Weapon Paint'
-    category: Other
+    fullName: 'Light Blue Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

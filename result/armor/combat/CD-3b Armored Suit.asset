@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kqo2
     key: kz3b
-    name: 'CD-3b Armored Suit'
-    category: Armor/Combat
+    fullName: 'CD-3b Armored Suit'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 11.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [100.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Tactical armor worn by the Horizon clan, not released for mass production. Most stalkers prefer the CD-3a, as it has better overall properties, but this armored suit has found owners among fans of protection from bandit bullets and mutant claws.'

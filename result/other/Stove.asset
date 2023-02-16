@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: DMRa
     key: bake
-    name: Stove
-    category: Other
+    fullName: Stove
+    pathCategory: Other
     class: 'Skins and Paint'

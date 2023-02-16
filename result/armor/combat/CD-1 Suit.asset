@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VYXK
     key: kz1
-    name: 'CD-1 Suit'
-    category: Armor/Combat
+    fullName: 'CD-1 Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 5.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [60.0]
     psychoProtection: [0.0]
     bleedingProtection: [33.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'One of the first suits for the Horizon clan. A mixed, but cheap and comfortable set with properties similar to Zarya.'

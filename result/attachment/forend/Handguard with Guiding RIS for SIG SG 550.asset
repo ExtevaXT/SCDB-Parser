@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJBn
     key: forend_sigris1
-    name: 'Handguard with Guiding RIS for SIG SG 550'
-    category: Attachment/Forend
+    fullName: 'Handguard with Guiding RIS for SIG SG 550'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.35

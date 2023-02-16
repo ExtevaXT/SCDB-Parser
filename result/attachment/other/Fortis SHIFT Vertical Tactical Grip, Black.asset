@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0g07
     key: handgrip_fortisb
-    name: 'Fortis SHIFT Vertical Tactical Grip, Black'
-    category: Attachment/Other
+    fullName: 'Fortis SHIFT Vertical Tactical Grip, Black'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 0.09

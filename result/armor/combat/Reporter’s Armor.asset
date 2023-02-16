@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gw2B
     key: bronj_press
-    name: 'Reporter’s Armor'
-    category: Armor/Combat
+    fullName: 'Reporter’s Armor'
+    pathCategory: Armor/Combat
     rank: Stalker
     class: Combat
     weight: 10.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [140.0]
     psychoProtection: [75.0]
     bleedingProtection: [52.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Protection set for reporters.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l3wM
     key: airdrop_add
-    name: 'Portable Quantum Generator'
-    category: Other
+    fullName: 'Portable Quantum Generator'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 3.0

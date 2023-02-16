@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mz7
     key: sight_okp
-    name: 'OKP-7 Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'OKP-7 Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.25

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yEm6
     key: forend_m4ris
-    name: 'RIS M4A1 Handguard'
-    category: Attachment/Forend
+    fullName: 'RIS M4A1 Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.2

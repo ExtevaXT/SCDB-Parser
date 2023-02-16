@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Scientific
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: 6Xr7
     key: izumrud
-    name: 'KIM-116 Emerald'
+    fullName: 'KIM-116 Emerald'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     nightVision: 1
@@ -94,4 +95,6 @@ MonoBehaviour:
     biologicalProtection: [410.0]
     psychoProtection: [310.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A bright green research suit. One of the masterpieces of the Chernobyl Research Institute. The material can survive contact with concentrated acidic and alkaline substances.'

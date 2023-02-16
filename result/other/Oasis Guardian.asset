@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: qwYL
     key: oazis
-    name: 'Oasis Guardian'
-    category: Other
+    fullName: 'Oasis Guardian'
+    pathCategory: Other
     class: 'Skins and Paint'

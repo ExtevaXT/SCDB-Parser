@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n86x
     key: blizzard_crystal
-    name: Crystal
-    category: Artefact/Thermal
+    fullName: Crystal
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.3
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: m0M8
     key: 127silver2
-    name: '12.7x55 mm Silver Ammo'
-    category: Ammo
+    fullName: '12.7x55 mm Silver Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.022
     default: 20.0

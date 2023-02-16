@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: XboO
     key: '19235'
-    name: 'Hexcam Mist Camouflage'
-    category: Other
+    fullName: 'Hexcam Mist Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxyw
     key: scope_m145
-    name: 'Elcan M145 Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Elcan M145 Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.69

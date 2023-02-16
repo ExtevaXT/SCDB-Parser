@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKMn
     key: electra_helium
-    name: Helium
-    category: Artefact/Electrophysical
+    fullName: Helium
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.1
     common: 'Not studied'

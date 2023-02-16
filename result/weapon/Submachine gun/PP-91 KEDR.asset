@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 2906badd9494492458a1dd4ef26acf59, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: BMBr
     key: kedr
-    name: 'PP-91 KEDR'
+    fullName: 'PP-91 KEDR'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Picklock
     class: 'Submachine Guns'
     ammoType: '9 mm'

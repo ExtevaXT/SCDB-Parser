@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: x8NK
     key: clearmind
-    name: “ClearMind+”
-    category: Medicine
+    fullName: “ClearMind+”
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Psy-Emission Cleansing'

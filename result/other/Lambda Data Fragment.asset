@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wEbl
     key: node
-    name: 'Lambda Data Fragment'
-    category: Other
+    fullName: 'Lambda Data Fragment'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.15

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vzr3
     key: blizzard_frost
-    name: Frost
-    category: Artefact/Thermal
+    fullName: Frost
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.3
     common: 'Not studied'

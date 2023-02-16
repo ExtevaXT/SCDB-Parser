@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VqrV
     key: raincoat
-    name: Raincoat
-    category: Armor/Scientific
+    fullName: Raincoat
+    pathCategory: Armor/Scientific
     rank: Picklock
     class: Scientist
     weight: 0.5
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [40.0]
     psychoProtection: [0.0]
     bleedingProtection: [0.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Only protects the user against slight acid rain and mosquito bites.'

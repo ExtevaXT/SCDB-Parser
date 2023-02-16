@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Z0n8
     key: '21036'
-    name: '6H9 Knife'
-    category: Weapon/Melee
+    fullName: '6H9 Knife'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.26

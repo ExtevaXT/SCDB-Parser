@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 1rPj
     key: 762inc
-    name: '7.62 mm Incendiary Ammo'
-    category: Ammo
+    fullName: '7.62 mm Incendiary Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.008
     piercing: 14.0

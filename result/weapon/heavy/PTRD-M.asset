@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Xn5y
     key: ptrd
-    name: PTRD-M
-    category: Weapon/Heavy
+    fullName: PTRD-M
+    pathCategory: Weapon/Heavy
     rank: Veteran
     class: 'Other Weapons'
     weight: 17.3

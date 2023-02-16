@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: X9bQ
     key: bear4d
-    name: 'Berloga-4u Container'
-    category: Container
+    fullName: 'Berloga-4u Container'
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 5.0

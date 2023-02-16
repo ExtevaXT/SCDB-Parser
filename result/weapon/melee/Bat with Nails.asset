@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z1K2
     key: '21020'
-    name: 'Bat with Nails'
-    category: Weapon/Melee
+    fullName: 'Bat with Nails'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.72

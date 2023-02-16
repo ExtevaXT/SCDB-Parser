@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B17n
     key: dud_svecha
-    name: 'Candle Short Range Detector'
-    category: Weapon/Device
+    fullName: 'Candle Short Range Detector'
+    pathCategory: Weapon/Device
     rank: Newbie
     class: Devices
     weight: 0.7

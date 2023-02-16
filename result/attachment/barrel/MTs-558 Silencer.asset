@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: qeVw
     key: silencer_mc558
-    name: 'MTs-558 Silencer'
-    category: Attachment/Barrel
+    fullName: 'MTs-558 Silencer'
+    pathCategory: Attachment/Barrel
     rank: Master
     class: 'Muzzles and Silencers'
     weight: 1.1

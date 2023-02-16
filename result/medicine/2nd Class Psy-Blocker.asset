@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gD7G
     key: psiblock_2
-    name: '2nd Class Psy-Blocker'
-    category: Medicine
+    fullName: '2nd Class Psy-Blocker'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Psy-Emission Protection'

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: f28fa2030b3f3734394662d8989dec29, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 32Pl
     key: mpk
-    name: 'Walther MPK'
+    fullName: 'Walther MPK'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Picklock
     class: 'Submachine Guns'
     ammoType: '9 mm'

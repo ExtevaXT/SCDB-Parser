@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: MDj1
     key: burya
-    name: 'Tempest Camouflage'
-    category: Other
+    fullName: 'Tempest Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

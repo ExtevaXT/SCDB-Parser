@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 61KD
     key: forend_b10m
-    name: 'B-10M Handguard (Bottom Rail)'
-    category: Attachment/Forend
+    fullName: 'B-10M Handguard (Bottom Rail)'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.12

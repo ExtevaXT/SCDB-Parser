@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bn5w
     key: exo_bandit-1
-    name: 'Worn Trump'
-    category: Armor/Research
+    fullName: 'Worn Trump'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 25.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [140.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'Ever since chumps started hanging around in exoskeletons, crooks decided not to sit on the sidelines, and ordered their own versions called the Trump. It moves fast with upgraded, lightened servomotors. It helps avoid the riffraff, but its protection against bullets leaves something to be desired.'

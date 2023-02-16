@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PA1Z
     key: '19213'
-    name: 'ERDL ARVN SV Camouflage'
-    category: Other
+    fullName: 'ERDL ARVN SV Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JJB3
     key: build
-    name: 'Special Machinery'
-    category: Other
+    fullName: 'Special Machinery'
+    pathCategory: Other
     class: 'Skins and Paint'

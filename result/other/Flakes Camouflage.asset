@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: wLZj
     key: flake
-    name: 'Flakes Camouflage'
-    category: Other
+    fullName: 'Flakes Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

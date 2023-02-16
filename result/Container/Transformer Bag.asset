@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rboy
     key: transformer
-    name: 'Transformer Bag'
-    category: Container
+    fullName: 'Transformer Bag'
+    pathCategory: Container
     rank: Picklock
     class: 'Backpacks and Containers'
     weight: 1.0

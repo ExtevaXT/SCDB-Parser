@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Z08r
     key: goblin
-    name: 'Forest Sprite'
-    category: Other
+    fullName: 'Forest Sprite'
+    pathCategory: Other
     class: 'Skins and Paint'

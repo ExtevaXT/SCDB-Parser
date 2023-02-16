@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DNXV
     key: 939silver2
-    name: '9x39 mm Silver Ammo'
-    category: Ammo
+    fullName: '9x39 mm Silver Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.02
     default: 20.0

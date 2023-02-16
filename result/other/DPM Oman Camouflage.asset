@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: an3r
     key: '19226'
-    name: 'DPM Oman Camouflage'
-    category: Other
+    fullName: 'DPM Oman Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

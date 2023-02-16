@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: d00G
     key: hrenostrel_fg42
-    name: Hellfire
-    category: Other
+    fullName: Hellfire
+    pathCategory: Other
     class: 'Skins and Paint'

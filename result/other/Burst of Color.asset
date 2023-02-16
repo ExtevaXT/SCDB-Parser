@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NNOA
     key: paint
-    name: 'Burst of Color'
-    category: Other
+    fullName: 'Burst of Color'
+    pathCategory: Other
     class: 'Skins and Paint'

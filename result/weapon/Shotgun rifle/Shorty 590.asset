@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A regular hunting rifle with horizontal barrels, much more compact and lightweight than a conventional double-barreled shotgun. One of the most common weapons used by bandits, as it is convenient for concealed carry and very effective in close combat.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: db1469a6eb46562419b9b1d85ac79fdb, type: 3 }, { fileID: 8300000, guid: 9ba7b78be6b15834e8c5ab94b1b1004b, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: g9VX
     key: shorty
-    name: 'Shorty 590'
+    fullName: 'Shorty 590'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Newbie
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

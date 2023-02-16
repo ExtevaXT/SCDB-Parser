@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5ax
     key: '22603'
-    name: 'MP5 Fixed Stock'
-    category: Attachment/Stock
+    fullName: 'MP5 Fixed Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.25
     recoil: -2.9999971

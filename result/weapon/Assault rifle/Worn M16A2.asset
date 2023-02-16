@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Xn11
     key: m16a2-1
-    name: 'Worn M16A2'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn M16A2'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Picklock
     class: 'Assault Rifles'
     weight: 3.25

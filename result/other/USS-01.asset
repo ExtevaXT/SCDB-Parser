@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Ry9G
     key: uss
-    name: USS-01
-    category: Other
+    fullName: USS-01
+    pathCategory: Other
     class: 'Skins and Paint'

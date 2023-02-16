@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zxzq
     key: atlas
-    name: 'KIM-X ATLAS'
-    category: Armor/Scientific
+    fullName: 'KIM-X ATLAS'
+    pathCategory: Armor/Scientific
     rank: Master
     class: Scientist
     weight: 9.0
@@ -26,4 +26,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [310.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'The result of long, arduous work on the MIS series. A multi-functional suit that protects from the majority of anomalous effects. Judging from the marks on the armor, this suit belonged to someone.'

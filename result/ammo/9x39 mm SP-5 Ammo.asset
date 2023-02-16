@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dLZj
     key: 939st
-    name: '9x39 mm SP-5 Ammo'
-    category: Ammo
+    fullName: '9x39 mm SP-5 Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.02
     piercing: 10.0

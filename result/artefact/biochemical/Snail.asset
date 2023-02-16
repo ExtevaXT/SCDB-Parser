@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JkdV
     key: kisel_ulitka
-    name: Snail
-    category: Artefact/Biochemical
+    fullName: Snail
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.3
     common: 'Not studied'

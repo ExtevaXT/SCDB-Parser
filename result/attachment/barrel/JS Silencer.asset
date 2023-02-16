@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vo8a
     key: silencer_js
-    name: 'JS Silencer'
-    category: Attachment/Barrel
+    fullName: 'JS Silencer'
+    pathCategory: Attachment/Barrel
     rank: Picklock
     class: 'Muzzles and Silencers'
     weight: 0.12

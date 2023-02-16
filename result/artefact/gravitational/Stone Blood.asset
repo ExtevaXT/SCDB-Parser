@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B1xn
     key: karousel_bloodstone
-    name: 'Stone Blood'
-    category: Artefact/Gravitational
+    fullName: 'Stone Blood'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

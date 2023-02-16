@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gDj2
     key: longcoat_donate
-    name: 'Reinforced Cloak'
-    category: Armor/Clothes
+    fullName: 'Reinforced Cloak'
+    pathCategory: Armor/Clothes
     rank: Picklock
     class: Clothing
     weight: 2.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [34.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Beneath this thick waterproof cloak is a sweater, which conceals light body armor.'

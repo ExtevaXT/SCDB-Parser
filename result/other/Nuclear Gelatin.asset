@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: kknD
     key: fallout_add
-    name: 'Nuclear Gelatin'
-    category: Other
+    fullName: 'Nuclear Gelatin'
+    pathCategory: Other
     class: Other
     weight: 0.15

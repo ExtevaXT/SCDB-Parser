@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: RrYl
     key: sand
-    name: 'Khaki Weapon Paint'
-    category: Other
+    fullName: 'Khaki Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

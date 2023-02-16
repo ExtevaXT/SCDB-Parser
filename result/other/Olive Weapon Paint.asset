@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 2OZg
     key: oliva
-    name: 'Olive Weapon Paint'
-    category: Other
+    fullName: 'Olive Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

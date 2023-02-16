@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: X9E7
     key: trizip
-    name: 'Tri-Zip Assault Backpack'
-    category: Container
+    fullName: 'Tri-Zip Assault Backpack'
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 1.5

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n813
     key: puzir_zerkalo
-    name: Mirror
-    category: Artefact/Electrophysical
+    fullName: Mirror
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

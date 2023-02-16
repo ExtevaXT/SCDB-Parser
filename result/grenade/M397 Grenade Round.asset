@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VADg
     key: m397
-    name: 'M397 Grenade Round'
-    category: Grenade
+    fullName: 'M397 Grenade Round'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.25
     explosionStrength: 500.0

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 5O92
     key: flecktarn_frost
-    name: 'Flecktarn Frost Camouflage'
-    category: Other
+    fullName: 'Flecktarn Frost Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: AdkV
     key: '19240'
-    name: 'Flecktarn Camouflage'
-    category: Other
+    fullName: 'Flecktarn Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nqok
     key: '21051'
-    name: Icicle
-    category: Weapon/Melee
+    fullName: Icicle
+    pathCategory: Weapon/Melee
     rank: Picklock
     class: 'Melee Weapons'
     weight: 0.32

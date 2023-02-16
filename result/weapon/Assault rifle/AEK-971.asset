@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'АЕК-971 - автомат, разработанный в 1978 году на заводе имени Дегтярева в Коврове. В 2013-2015 годах модификация АЕК-971 под названием «А-545» принимала участие в конкурсе на новый общевойсковой автомат.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 71f836dea543fc248af58abbc6e2c387, type: 3 }, { fileID: 8300000, guid: e0f96c887b4a3b44f8364a955853f01f, type: 3 }, { fileID: 8300000, guid: 5eb7af656730e234eb9198e719c70c7f, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -63,7 +63,8 @@ MonoBehaviour:
     recoilVertical: 2
     id: qwRM
     key: aek971
-    name: AEK-971
+    fullName: AEK-971
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     ammoType: '5.45'

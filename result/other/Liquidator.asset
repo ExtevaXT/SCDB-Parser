@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: aVed
     key: likvidator
-    name: Liquidator
-    category: Other
+    fullName: Liquidator
+    pathCategory: Other
     class: 'Skins and Paint'

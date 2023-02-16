@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: bnoQ
     key: mercury
-    name: Mercury
-    category: Other
+    fullName: Mercury
+    pathCategory: Other
     class: 'Skins and Paint'

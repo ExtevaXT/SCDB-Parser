@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: OZDE
     key: tasche
-    name: 'Game Bag'
-    category: Container
+    fullName: 'Game Bag'
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 6.0

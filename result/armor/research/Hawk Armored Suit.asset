@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JQP3
     key: sokol
-    name: 'Hawk Armored Suit'
-    category: Armor/Research
+    fullName: 'Hawk Armored Suit'
+    pathCategory: Armor/Research
     rank: Stalker
     class: Explorer
     weight: 9.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [180.0]
     psychoProtection: [140.0]
     bleedingProtection: [47.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The Huntsman suit, body armor with a utility vest, the Hawk helmet and respirator don’t look like anything special, but in the conditions of the Zone, they make up an incredibly useful pack for an experienced stalker. The wisely selected components don’t hinder movement at all.'

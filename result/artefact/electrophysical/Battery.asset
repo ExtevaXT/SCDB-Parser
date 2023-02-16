@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Kmoj
     key: electra_batareyka
-    name: Battery
-    category: Artefact/Electrophysical
+    fullName: Battery
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

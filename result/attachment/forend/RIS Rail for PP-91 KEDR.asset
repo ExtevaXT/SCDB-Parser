@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DV62
     key: forend_kedrris
-    name: 'RIS Rail for PP-91 KEDR'
-    category: Attachment/Forend
+    fullName: 'RIS Rail for PP-91 KEDR'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.04

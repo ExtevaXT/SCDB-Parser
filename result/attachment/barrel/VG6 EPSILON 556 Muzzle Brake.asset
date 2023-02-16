@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Vola
     key: barrel_vg6556
-    name: 'VG6 EPSILON 556 Muzzle Brake'
-    category: Attachment/Barrel
+    fullName: 'VG6 EPSILON 556 Muzzle Brake'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.071

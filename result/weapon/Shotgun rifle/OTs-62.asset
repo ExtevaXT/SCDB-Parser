@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: qw6w
     key: ots62
-    name: OTs-62
-    category: 'Weapon/Shotgun rifle'
+    fullName: OTs-62
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Veteran
     class: 'Shotguns and Rifles'
     weight: 2.5

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0Qk7
     key: kisel_sliznyak
-    name: Slug
-    category: Artefact/Biochemical
+    fullName: Slug
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.3
     common: 'Not studied'

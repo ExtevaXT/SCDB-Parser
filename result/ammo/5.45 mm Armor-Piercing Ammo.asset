@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DNBn
     key: 545bb
-    name: '5.45 mm Armor-Piercing Ammo'
-    category: Ammo
+    fullName: '5.45 mm Armor-Piercing Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.01
     piercing: 10.0

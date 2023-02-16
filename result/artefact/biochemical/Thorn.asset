@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B19r
     key: puh_koluchka
-    name: Thorn
-    category: Artefact/Biochemical
+    fullName: Thorn
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.4
     common: 'Not studied'

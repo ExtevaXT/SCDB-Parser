@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: mxEE
     key: forend_b21m
-    name: 'B-21M Handguard'
-    category: Attachment/Forend
+    fullName: 'B-21M Handguard'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.18

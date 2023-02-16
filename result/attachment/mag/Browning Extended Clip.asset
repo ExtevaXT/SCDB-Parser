@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N57N
     key: mag_browning
-    name: 'Browning Extended Clip'
-    category: Attachment/Mag
+    fullName: 'Browning Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Stalker
     class: Clips
     weight: 0.07

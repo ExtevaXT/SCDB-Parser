@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: EY7z
     key: hive
-    name: 'Hive Container'
-    category: Container
+    fullName: 'Hive Container'
+    pathCategory: Container
     rank: Master
     class: 'Backpacks and Containers'
     weight: 8.0

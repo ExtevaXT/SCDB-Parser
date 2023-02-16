@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 20Aa
     key: '21011'
-    name: 'Hunter’s Machete'
-    category: Weapon/Melee
+    fullName: 'Hunter’s Machete'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.42

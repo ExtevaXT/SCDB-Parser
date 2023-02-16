@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxaD
     key: barrel_vg6762
-    name: 'VG6 EPSILON 762 Muzzle Brake'
-    category: Attachment/Barrel
+    fullName: 'VG6 EPSILON 762 Muzzle Brake'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.075

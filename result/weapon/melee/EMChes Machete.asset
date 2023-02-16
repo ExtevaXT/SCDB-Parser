@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: QBqQ
     key: '21016'
-    name: 'EMChes Machete'
-    category: Weapon/Melee
+    fullName: 'EMChes Machete'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.8

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: B1QQ
     key: voronka_vivert
-    name: Quirk
-    category: Artefact/Gravitational
+    fullName: Quirk
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

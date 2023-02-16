@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BkX2
     key: barrel_noveske
-    name: 'Noveske KX3 Flash Suppressor'
-    category: Attachment/Barrel
+    fullName: 'Noveske KX3 Flash Suppressor'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.2

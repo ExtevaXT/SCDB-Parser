@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: PAdR
     key: pink
-    name: 'Manly Pink Armor Paint'
-    category: Other
+    fullName: 'Manly Pink Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

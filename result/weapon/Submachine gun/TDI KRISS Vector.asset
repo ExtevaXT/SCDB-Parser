@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A submachine gun developed by Transformational Defense Industries. It uses a semi-rigid bolt system, which directs the recoil-driven bolt group downward at a steep angle.'
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: e38294bed4017d24b957c859ca90dbc2, type: 3 }, { fileID: 8300000, guid: 7015650fdb5345947b138c4bbc710573, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: 92lL
     key: kriss
-    name: 'TDI KRISS Vector'
+    fullName: 'TDI KRISS Vector'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Veteran
     class: 'Submachine Guns'
     ammoType: '9 mm'

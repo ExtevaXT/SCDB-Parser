@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gD6n
     key: albatros_scout
-    name: 'Albatross Scout Armored Exoskeleton'
-    category: Armor/Mixed
+    fullName: 'Albatross Scout Armored Exoskeleton'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 18.0
@@ -27,4 +27,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [240.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Use of cheaper protection made it possible to lower the cost of the main Albatross series. The first modification to this armored exoskeleton was the Albatross Scout.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JQG3
     key: gorka
-    name: 'Gorka-3 Suit'
-    category: Armor/Research
+    fullName: 'Gorka-3 Suit'
+    pathCategory: Armor/Research
     rank: Picklock
     class: Explorer
     weight: 1.0
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [10.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'This suit consists of a coat and pants with suspenders. For a better fit and to prevent it from flapping around like a sail in the wind, it has a system of zip ties made of braids of rubber fabric along the sides of the coat, on the sleeves, under the knees, and at the bottom of the pants. A light, concealed body armor can be worn under the coat.'

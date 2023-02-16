@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KPj5
     key: mehatronika
-    name: Mechatronics
-    category: Other
+    fullName: Mechatronics
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lzVw
     key: handle_ag47g
-    name: 'Fab Defense AG-47 Grip, Green'
-    category: Attachment/Handle
+    fullName: 'Fab Defense AG-47 Grip, Green'
+    pathCategory: Attachment/Handle
     rank: Stalker
     class: 'Pistol Grips'
     weight: 0.093

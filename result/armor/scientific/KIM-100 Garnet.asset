@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Scientific
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: QYnR
     key: granat
-    name: 'KIM-100 Garnet'
+    fullName: 'KIM-100 Garnet'
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     artefaktHeal: [5.0]
@@ -97,4 +98,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [180.0]
     bleedingProtection: [35.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'A bright red research suit. One of the masterpieces of the Chernobyl Research Institute. Equipped with an unparalleled life-support system.'

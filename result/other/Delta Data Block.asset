@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 56Xa
     key: node_add
-    name: 'Delta Data Block'
-    category: Other
+    fullName: 'Delta Data Block'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

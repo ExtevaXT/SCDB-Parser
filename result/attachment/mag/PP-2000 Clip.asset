@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Q8k1
     key: mag_pp200040
-    name: 'PP-2000 Clip'
-    category: Attachment/Mag
+    fullName: 'PP-2000 Clip'
+    pathCategory: Attachment/Mag
     rank: Newbie
     class: Clips
     weight: 0.26

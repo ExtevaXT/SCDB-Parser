@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 18Vd
     key: mining
-    name: 'Remains of Batteries'
-    category: Other
+    fullName: 'Remains of Batteries'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.05

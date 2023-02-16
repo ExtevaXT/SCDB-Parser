@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NL1b
     key: grey
-    name: 'Gray Armor Paint'
-    category: Other
+    fullName: 'Gray Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

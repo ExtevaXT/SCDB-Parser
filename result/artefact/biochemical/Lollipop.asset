@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n8Bk
     key: kisel_kisel
-    name: Lollipop
-    category: Artefact/Biochemical
+    fullName: Lollipop
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.02
     common: 'Not studied'

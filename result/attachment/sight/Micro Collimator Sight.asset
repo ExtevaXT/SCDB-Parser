@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BkPQ
     key: sight_microt1
-    name: 'Micro Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Micro Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Picklock
     class: Sights
     weight: 0.18

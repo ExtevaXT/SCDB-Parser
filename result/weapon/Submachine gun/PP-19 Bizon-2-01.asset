@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 0e00861879aa9814693230af9b25b0a4, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: oq89
     key: bizon
-    name: 'PP-19 Bizon-2-01'
+    fullName: 'PP-19 Bizon-2-01'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     ammoType: '9 mm'

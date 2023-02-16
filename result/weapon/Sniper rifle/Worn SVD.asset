@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 20wg
     key: svd-1
-    name: 'Worn SVD'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn SVD'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Stalker
     class: 'Sniper Rifles'
     weight: 4.83

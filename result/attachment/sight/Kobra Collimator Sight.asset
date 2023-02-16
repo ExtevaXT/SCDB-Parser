@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxD3
     key: sight_cobra
-    name: 'Kobra Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Kobra Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.41

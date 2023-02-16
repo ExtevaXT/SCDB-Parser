@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: rwnB
     key: silencer_groza
-    name: 'Silencer for OTs-14 Groza'
-    category: Attachment/Barrel
+    fullName: 'Silencer for OTs-14 Groza'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.48

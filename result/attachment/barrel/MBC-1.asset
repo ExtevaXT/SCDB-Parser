@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 10Y7
     key: barrel_dtk1
-    name: MBC-1
-    category: Attachment/Barrel
+    fullName: MBC-1
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.128

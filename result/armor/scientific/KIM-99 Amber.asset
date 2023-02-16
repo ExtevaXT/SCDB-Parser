@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: null
     notes: null
-    category: Armor/Scientific
+    category: Body
     keepUsingWhileButtonDown: 0
     successfulUseSound: { fileID: 0 }
     failedUseSound: { fileID: 0 }
@@ -79,7 +79,8 @@ MonoBehaviour:
     damageFactorChemicalBonus: 0
     id: RQ8G
     key: yantar
-    name: 'KIM-99 Amber'
+    fullName: 'KIM-99 Amber'
+    pathCategory: Armor/Scientific
     rank: Newbie
     class: Scientist
     nightVision: 1
@@ -94,4 +95,6 @@ MonoBehaviour:
     biologicalProtection: [255.0]
     psychoProtection: [105.0]
     bleedingProtection: [25.0]
+    compatibleBackpacks: light
+    compatibleContainers: standard
     text: 'One of the Chernobyl Research Institute’s suits that might be classed as a success. From this production suit came a whole plethora of specialized prototypes. They are valuable not only in terms of their price: maintaining them also costs a pretty penny. Advanced stalkers use them to obtain artifacts in places that are inaccessible when wearing a regular suit.'

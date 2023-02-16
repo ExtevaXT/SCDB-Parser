@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JNX1
     key: 545silver2
-    name: '5.45 mm Silver Ammo'
-    category: Ammo
+    fullName: '5.45 mm Silver Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.01
     default: 20.0

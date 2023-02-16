@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 92JD
     key: iceaxe_f
-    name: 'Frozen Ice Pick'
-    category: Weapon/Melee
+    fullName: 'Frozen Ice Pick'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.65

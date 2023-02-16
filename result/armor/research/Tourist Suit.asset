@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: ZAbr
     key: turist
-    name: 'Tourist Suit'
-    category: Armor/Research
+    fullName: 'Tourist Suit'
+    pathCategory: Armor/Research
     rank: Newbie
     class: Explorer
     weight: 4.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [140.0]
     psychoProtection: [60.0]
     bleedingProtection: [38.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'An example of the Zarya series that has been reworked by some freak or other. The upgraded body armor provides additional protection against bullets and the smartly chosen utility vest allows the wearer to carry a lot of weight.'

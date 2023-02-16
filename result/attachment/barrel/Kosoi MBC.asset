@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: amPr
     key: barrel_kosoi
-    name: 'Kosoi MBC'
-    category: Attachment/Barrel
+    fullName: 'Kosoi MBC'
+    pathCategory: Attachment/Barrel
     rank: Newbie
     class: 'Muzzles and Silencers'
     weight: 0.019

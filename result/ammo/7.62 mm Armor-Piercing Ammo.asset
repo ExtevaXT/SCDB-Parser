@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: a0EV
     key: 762bb
-    name: '7.62 mm Armor-Piercing Ammo'
-    category: Ammo
+    fullName: '7.62 mm Armor-Piercing Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.016
     piercing: 17.5

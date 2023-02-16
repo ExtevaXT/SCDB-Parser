@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BOlx
     key: kzs1
-    name: 'KZS-1 Container'
-    category: Container
+    fullName: 'KZS-1 Container'
+    pathCategory: Container
     rank: Newbie
     class: 'Backpacks and Containers'
     weight: 1.75

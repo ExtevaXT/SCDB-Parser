@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: E3OZ
     key: black_regaliy
-    name: 'Black Regalia'
-    category: Misc
+    fullName: 'Black Regalia'
+    pathCategory: Misc
     class: Other
     weight: 0.4

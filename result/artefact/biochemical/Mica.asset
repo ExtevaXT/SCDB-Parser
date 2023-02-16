@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Rg37
     key: kisel_slyda
-    name: Mica
-    category: Artefact/Biochemical
+    fullName: Mica
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.3
     common: 'Not studied'

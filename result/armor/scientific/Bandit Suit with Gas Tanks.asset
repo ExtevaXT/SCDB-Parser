@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Yq1A
     key: bover_balon
-    name: 'Bandit Suit with Gas Tanks'
-    category: Armor/Scientific
+    fullName: 'Bandit Suit with Gas Tanks'
+    pathCategory: Armor/Scientific
     rank: Newbie
     class: Scientist
     weight: 5.2
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [180.0]
     psychoProtection: [90.0]
     bleedingProtection: [18.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Getting an undamaged Zarya-A from a stalker is pretty difficult, so the kingpins decided to order a shipment of RS-33s, which are more resistant to the effects of anomalies, on the black market. A PMG gas mask and oxygen tanks are included in the suit. To compensate for the weight of the tanks, they decided to use lighter materials for the body armor.'

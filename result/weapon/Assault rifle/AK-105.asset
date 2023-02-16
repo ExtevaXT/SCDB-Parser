@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Автомат Калашникова АК-12 является перспективным индивидуальным стрелковым оружием Российской армии и других силовых ведомств, обеспечивающим еще большую боевую эффективность оружия, универсальность применения, точность и кучность стрельбы.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 9d85b878db6089b4fabe8fc42e84afaa, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -63,7 +63,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: nqa2
     key: ak105
-    name: AK-105
+    fullName: AK-105
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     ammoType: '5.45'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 9jOO
     key: skat9m
-    name: 'SKAT-9m Armored Suit'
-    category: Armor/Research
+    fullName: 'SKAT-9m Armored Suit'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 12.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [210.0]
     psychoProtection: [200.0]
     bleedingProtection: [58.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A modern army armored suit for assault operations in zones of anomalous activity. Components: PSZ-12p series heavy body armor, Sphere-12m helmet, equipped with induction field suppression, an anomalous protection suit and pressure suit.'

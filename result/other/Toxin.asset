@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 755d
     key: alk22_toxin
-    name: Toxin
-    category: Other
+    fullName: Toxin
+    pathCategory: Other
     class: 'Skins and Paint'

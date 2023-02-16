@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 5DgM
     key: bolotnik
-    name: 'Swamp Dweller’s Friend'
-    category: Weapon/Melee
+    fullName: 'Swamp Dweller’s Friend'
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 0.26

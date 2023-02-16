@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JDG0
     key: '19212'
-    name: 'ERDL ARVN Red Camouflage'
-    category: Other
+    fullName: 'ERDL ARVN Red Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

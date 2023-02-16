@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0Qak
     key: trampoline_jilnik
-    name: Veiner
-    category: Artefact/Gravitational
+    fullName: Veiner
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

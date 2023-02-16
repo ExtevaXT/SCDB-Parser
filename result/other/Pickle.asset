@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VDXg
     key: npc
-    name: Pickle
-    category: Other
+    fullName: Pickle
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.02

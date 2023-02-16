@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yZ08
     key: dud_buryat
-    name: 'Buryat Short Range Detector'
-    category: Weapon/Device
+    fullName: 'Buryat Short Range Detector'
+    pathCategory: Weapon/Device
     rank: Stalker
     class: Devices
     weight: 0.6

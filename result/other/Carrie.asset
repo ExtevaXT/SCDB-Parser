@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: eaRG
     key: carry
-    name: Carrie
-    category: Other
+    fullName: Carrie
+    pathCategory: Other
     class: 'Skins and Paint'

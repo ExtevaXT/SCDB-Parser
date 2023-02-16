@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oqrQ
     key: terminator
-    name: 'Cobray Terminator'
-    category: 'Weapon/Shotgun rifle'
+    fullName: 'Cobray Terminator'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Picklock
     class: 'Shotguns and Rifles'
     weight: 2.175

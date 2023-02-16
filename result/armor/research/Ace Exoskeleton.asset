@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oDwX
     key: tuz
-    name: 'Ace Exoskeleton'
-    category: Armor/Research
+    fullName: 'Ace Exoskeleton'
+    pathCategory: Armor/Research
     rank: Master
     class: Explorer
     weight: 32.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [200.0]
     bleedingProtection: [65.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'The thieves’ elite decided that they needed an equivalent to the stalker Mule, which is why the Ace Exoskeleton was created. The key difference is that it has increased mobility and weighs less.'

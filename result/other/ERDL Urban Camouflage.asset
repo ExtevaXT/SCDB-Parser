@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 6Bl8
     key: '19218'
-    name: 'ERDL Urban Camouflage'
-    category: Other
+    fullName: 'ERDL Urban Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

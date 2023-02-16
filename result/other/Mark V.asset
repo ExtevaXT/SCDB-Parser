@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 32eZ
     key: markv
-    name: 'Mark V'
-    category: Other
+    fullName: 'Mark V'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PRKE
     key: kisel_puzir
-    name: Bubble
-    category: Artefact/Biochemical
+    fullName: Bubble
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.2
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yLx9
     key: smorodina
-    name: 'Currant Ghillie Suit'
-    category: Armor/Combat
+    fullName: 'Currant Ghillie Suit'
+    pathCategory: Armor/Combat
     rank: Picklock
     class: Combat
     weight: 3.2
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [30.0]
     psychoProtection: [0.0]
     bleedingProtection: [31.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A high-quality ghillie suit with a utility vest. The sensible weight distribution and decent protection against damage make it a good choice for a hunter who lies in wait.'

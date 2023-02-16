@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: jnwz
     key: fir
-    name: 'Spruce Camouflage'
-    category: Other
+    fullName: 'Spruce Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

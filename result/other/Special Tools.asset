@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: gngn
     key: tools_2a
-    name: 'Special Tools'
-    category: Other
+    fullName: 'Special Tools'
+    pathCategory: Other
     class: Other
     weight: 0.01

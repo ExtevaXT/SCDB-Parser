@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: g913
     key: rpd-1
-    name: 'Worn RPD'
-    category: 'Weapon/Machine gun'
+    fullName: 'Worn RPD'
+    pathCategory: 'Weapon/Machine gun'
     rank: Stalker
     class: 'Machine Guns'
     weight: 7.99

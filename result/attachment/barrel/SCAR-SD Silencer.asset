@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJRX
     key: silencer_scarsd
-    name: 'SCAR-SD Silencer'
-    category: Attachment/Barrel
+    fullName: 'SCAR-SD Silencer'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.56

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JkGK
     key: blizzard_heel
-    name: Heel
-    category: Artefact/Thermal
+    fullName: Heel
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kx8X
     key: mount_xm8ris
-    name: 'RIS XM8 Rail'
-    category: Attachment/Forend
+    fullName: 'RIS XM8 Rail'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.13

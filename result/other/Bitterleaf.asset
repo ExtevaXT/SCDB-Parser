@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8ydE
     key: mob
-    name: Bitterleaf
-    category: Other
+    fullName: Bitterleaf
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.01

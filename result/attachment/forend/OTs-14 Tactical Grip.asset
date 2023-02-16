@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wDG7
     key: forend_groza
-    name: 'OTs-14 Tactical Grip'
-    category: Attachment/Forend
+    fullName: 'OTs-14 Tactical Grip'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.11

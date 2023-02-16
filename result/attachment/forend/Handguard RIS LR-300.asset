@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2R6R
     key: forend_lr300ris
-    name: 'Handguard RIS LR-300'
-    category: Attachment/Forend
+    fullName: 'Handguard RIS LR-300'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 0.25

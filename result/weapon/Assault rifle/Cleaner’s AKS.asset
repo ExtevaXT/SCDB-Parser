@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: jaMq
     key: aks74_main
-    name: 'Cleaner’s AKS'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Cleaner’s AKS'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Newbie
     class: 'Assault Rifles'
     weight: 3.9

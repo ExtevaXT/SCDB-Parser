@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NQmA
     key: ao2
-    name: 'AH-2 Nomad Suit'
-    category: Armor/Mixed
+    fullName: 'AH-2 Nomad Suit'
+    pathCategory: Armor/Mixed
     rank: Newbie
     class: Combo
     weight: 4.5
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [135.0]
     psychoProtection: [90.0]
     bleedingProtection: [28.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The AH-1 suit enjoyed amazing popularity, and so an improved modification was launched: the AH-2. It differs in terms of its increased protection from all sources of damage.'

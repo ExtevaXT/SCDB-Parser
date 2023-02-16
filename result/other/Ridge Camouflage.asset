@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: bgD8
     key: '19129'
-    name: 'Ridge Camouflage'
-    category: Other
+    fullName: 'Ridge Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

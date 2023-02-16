@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xLRK
     key: mag_pmag545b
-    name: '5.45 PMAG Clip, Black'
-    category: Attachment/Mag
+    fullName: '5.45 PMAG Clip, Black'
+    pathCategory: Attachment/Mag
     rank: Picklock
     class: Clips
     weight: 0.2

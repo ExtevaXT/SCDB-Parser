@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: NLYj
     key: grey
-    name: 'Gray Weapon Paint'
-    category: Other
+    fullName: 'Gray Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

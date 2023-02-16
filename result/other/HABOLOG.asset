@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: mq7Z
     key: habolog
-    name: HABOLOG
-    category: Other
+    fullName: HABOLOG
+    pathCategory: Other
     class: 'Skins and Paint'

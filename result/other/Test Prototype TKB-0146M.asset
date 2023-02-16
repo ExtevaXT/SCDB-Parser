@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: GJJ6
     key: '19822'
-    name: 'Test Prototype TKB-0146M'
-    category: Other
+    fullName: 'Test Prototype TKB-0146M'
+    pathCategory: Other
     class: 'Skins and Paint'

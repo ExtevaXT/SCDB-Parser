@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: zg6l
     key: kzs3
-    name: KZS-3
-    category: Container
+    fullName: KZS-3
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 5.25

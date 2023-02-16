@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3grl
     key: m381
-    name: 'M381 Grenade Round'
-    category: Grenade
+    fullName: 'M381 Grenade Round'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.23
     explosionStrength: 450.0

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7BOm
     key: mob_add
-    name: 'Flowering Northern Moss'
-    category: Other
+    fullName: 'Flowering Northern Moss'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.05

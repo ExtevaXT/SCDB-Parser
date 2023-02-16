@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 2DON
     key: bear6d
-    name: 'Berloga-6u Container'
-    category: Container
+    fullName: 'Berloga-6u Container'
+    pathCategory: Container
     rank: Master
     class: 'Backpacks and Containers'
     weight: 7.0

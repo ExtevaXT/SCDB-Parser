@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RgMD
     key: trampoline_nightstar
-    name: 'Night Star'
-    category: Artefact/Gravitational
+    fullName: 'Night Star'
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.1
     common: 'Not studied'

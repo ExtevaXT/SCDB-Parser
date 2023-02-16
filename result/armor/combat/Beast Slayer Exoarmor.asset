@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dzBO
     key: zveroboi
-    name: 'Beast Slayer Exoarmor'
-    category: Armor/Combat
+    fullName: 'Beast Slayer Exoarmor'
+    pathCategory: Armor/Combat
     rank: Master
     class: Combat
     weight: 32.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [240.0]
     psychoProtection: [220.0]
     bleedingProtection: [80.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'Beast Slayer'

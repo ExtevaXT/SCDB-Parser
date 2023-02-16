@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxmD
     key: silencer_osprey
-    name: 'Osprey Silencer'
-    category: Attachment/Barrel
+    fullName: 'Osprey Silencer'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.21

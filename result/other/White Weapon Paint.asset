@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0Obb
     key: white
-    name: 'White Weapon Paint'
-    category: Other
+    fullName: 'White Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

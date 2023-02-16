@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: LJ3Z
     key: sig-1
-    name: 'Worn SIG SG 550'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn SIG SG 550'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     weight: 4.84

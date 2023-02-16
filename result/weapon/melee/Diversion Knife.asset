@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Yg5Y
     key: '21039'
-    name: 'Diversion Knife'
-    category: Weapon/Melee
+    fullName: 'Diversion Knife'
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 0.308

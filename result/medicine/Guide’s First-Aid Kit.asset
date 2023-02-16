@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: GLj9
     key: apt_p
-    name: 'Guide’s First-Aid Kit'
-    category: Medicine
+    fullName: 'Guide’s First-Aid Kit'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.2
     purpose: Healing

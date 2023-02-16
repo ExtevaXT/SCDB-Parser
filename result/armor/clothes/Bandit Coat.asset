@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lYQO
     key: kyrtka_bandit
-    name: 'Bandit Coat'
-    category: Armor/Clothes
+    fullName: 'Bandit Coat'
+    pathCategory: Armor/Clothes
     rank: Picklock
     class: Clothing
     weight: 1.0
@@ -21,4 +21,6 @@ MonoBehaviour:
     biologicalProtection: [0.0]
     psychoProtection: [0.0]
     bleedingProtection: [7.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A black leather coat. When combined with striped pants, it creates a distinct, recognizable image.'

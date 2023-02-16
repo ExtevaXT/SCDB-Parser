@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: E9NA
     key: g3a1-1
-    name: 'Worn HK G3A1'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn HK G3A1'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 5.4900002

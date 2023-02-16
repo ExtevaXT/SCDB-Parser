@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: Rrdn
     key: '19210'
-    name: 'M90 Desert Camouflage'
-    category: Other
+    fullName: 'M90 Desert Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

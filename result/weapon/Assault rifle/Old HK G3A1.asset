@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: AMRw
     key: g3a1-2
-    name: 'Old HK G3A1'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Old HK G3A1'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Stalker
     class: 'Assault Rifles'
     weight: 5.4900002

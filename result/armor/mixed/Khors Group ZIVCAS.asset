@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 6XG0
     key: dr_zivcas
-    name: 'Khors Group ZIVCAS'
-    category: Armor/Mixed
+    fullName: 'Khors Group ZIVCAS'
+    pathCategory: Armor/Mixed
     rank: Master
     class: Combo
     weight: 26.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [300.0]
     psychoProtection: [240.0]
     bleedingProtection: [55.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: spacious
     text: 'One version of the legendary exoarmor prototype. Combines all the benefits of cutting-edge research suits and army armored exoskeleton. Comes with a special covering that prevents damage from chemical substances.'

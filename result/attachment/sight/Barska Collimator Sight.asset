@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RoRz
     key: sight_barska_closed
-    name: 'Barska Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Barska Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.386

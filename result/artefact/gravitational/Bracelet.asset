@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Jkme
     key: trampoline_braslet
-    name: Bracelet
-    category: Artefact/Gravitational
+    fullName: Bracelet
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.15
     common: 'Not studied'

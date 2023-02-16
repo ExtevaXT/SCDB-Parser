@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: a0J0
     key: m381_2
-    name: 'M2 Grenade Round'
-    category: Grenade
+    fullName: 'M2 Grenade Round'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.1
     explosionStrength: 250.0

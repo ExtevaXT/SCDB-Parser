@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: KQN5
     key: scout
-    name: 'Scout Suit'
-    category: Armor/Combat
+    fullName: 'Scout Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 6.0
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [45.0]
     psychoProtection: [0.0]
     bleedingProtection: [32.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A suit that is purchased by mercenaries on the Mainland. It is popular due to its lightness and comfort. It isn’t well suited to the conditions of the Zone, but it offers good protection against bullets.'

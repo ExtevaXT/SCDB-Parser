@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0gxk
     key: scope_elcan6
-    name: 'Elcan Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Elcan Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.705

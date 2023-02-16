@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: RQXk
     key: kim85
-    name: KIM-85D
-    category: Armor/Scientific
+    fullName: KIM-85D
+    pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
     weight: 7.3
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [400.0]
     psychoProtection: [395.0]
     bleedingProtection: [37.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A specialized suit from X-4, developed for working in areas of high psy-activity. Judging from the documentation, it was used mainly for work near the core of the TOS-Devora-1 neuro-installation.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 8O2J
     key: katran
-    name: 'Katran-1 Combat Knife'
-    category: Weapon/Melee
+    fullName: 'Katran-1 Combat Knife'
+    pathCategory: Weapon/Melee
     rank: Master
     class: 'Melee Weapons'
     weight: 0.32

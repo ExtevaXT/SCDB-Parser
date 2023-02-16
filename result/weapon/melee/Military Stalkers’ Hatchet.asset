@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: r67Z
     key: '21034'
-    name: 'Military Stalkers’ Hatchet'
-    category: Weapon/Melee
+    fullName: 'Military Stalkers’ Hatchet'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.55

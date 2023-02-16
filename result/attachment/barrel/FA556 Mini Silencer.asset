@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0gYJ
     key: silencer_fa556
-    name: 'FA556 Mini Silencer'
-    category: Attachment/Barrel
+    fullName: 'FA556 Mini Silencer'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.4

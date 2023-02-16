@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NNqK
     key: '21014'
-    name: Ax
-    category: Weapon/Melee
+    fullName: Ax
+    pathCategory: Weapon/Melee
     rank: Newbie
     class: 'Melee Weapons'
     weight: 1.04

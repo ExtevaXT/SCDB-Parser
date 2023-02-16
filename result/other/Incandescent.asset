@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: JJJQ
     key: '19812'
-    name: Incandescent
-    category: Other
+    fullName: Incandescent
+    pathCategory: Other
     class: 'Skins and Paint'

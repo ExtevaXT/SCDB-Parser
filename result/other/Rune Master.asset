@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: d0am
     key: runemaster
-    name: 'Rune Master'
-    category: Other
+    fullName: 'Rune Master'
+    pathCategory: Other
     class: 'Skins and Paint'

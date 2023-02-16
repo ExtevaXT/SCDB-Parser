@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: wDjk
     key: barrel_longdeagle
-    name: 'D-Eagle Barrel Extension'
-    category: Attachment/Barrel
+    fullName: 'D-Eagle Barrel Extension'
+    pathCategory: Attachment/Barrel
     rank: Veteran
     class: 'Muzzles and Silencers'
     weight: 0.96

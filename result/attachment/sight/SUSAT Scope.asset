@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bkwr
     key: scope_susat
-    name: 'SUSAT Scope'
-    category: Attachment/Sight
+    fullName: 'SUSAT Scope'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.417

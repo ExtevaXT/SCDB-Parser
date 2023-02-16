@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aVNN
     key: endgame
-    name: Endgame
-    category: Weapon/Melee
+    fullName: Endgame
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.8

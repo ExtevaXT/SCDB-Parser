@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0jRE
     key: spanner
-    name: 'RAPS Spanner'
-    category: Armor/Mixed
+    fullName: 'RAPS Spanner'
+    pathCategory: Armor/Mixed
     rank: Veteran
     class: Combo
     weight: 28.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [285.0]
     psychoProtection: [225.0]
     bleedingProtection: [47.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: spacious
     text: 'A reinforced anomalous protection suit inspired by the AH-4. It has the same psy-emission offset device and absorbent capacitor, but the design of the suit has been reworked. An advanced air-filtration system and a frame to fit bulky backpacks were added, the armor was strengthened.'

@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
     notes: null
-    category: Weapon/Pistol
+    category: WeaponOnehand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 0658e1d3923242144a7b6956a35d20c4, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 97433ad2fa1849b4dadcbf3170761a31, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: aVXV
     key: p99
-    name: 'Walther P99'
+    fullName: 'Walther P99'
+    pathCategory: Weapon/Pistol
     rank: Newbie
     class: Pistols
     ammoType: '9 mm'

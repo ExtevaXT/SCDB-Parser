@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: lOOw
     key: '19802'
-    name: Legend
-    category: Other
+    fullName: Legend
+    pathCategory: Other
     class: 'Skins and Paint'

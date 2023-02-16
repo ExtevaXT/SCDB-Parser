@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A regular hunting rifle with horizontal barrels, much more compact and lightweight than a conventional double-barreled shotgun. One of the most common weapons used by bandits, as it is convenient for concealed carry and very effective in close combat.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: 20c2e6dbebfa373469079ebffda1a326, type: 3 }, { fileID: 8300000, guid: 6542219f63286e944944ab6fc2163727, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: ja2O
     key: saiga
-    name: Saiga-12K
+    fullName: Saiga-12K
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Veteran
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

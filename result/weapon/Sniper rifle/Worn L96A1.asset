@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: YgBV
     key: l96-1
-    name: 'Worn L96A1'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn L96A1'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Veteran
     class: 'Sniper Rifles'
     weight: 9.71

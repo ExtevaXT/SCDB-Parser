@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0Ore
     key: white
-    name: 'White Armor Paint'
-    category: Other
+    fullName: 'White Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

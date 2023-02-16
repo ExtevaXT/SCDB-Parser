@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mwl
     key: scope_tr20
-    name: 'Trijicon AccuPoint Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Trijicon AccuPoint Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Veteran
     class: Sights
     weight: 0.38

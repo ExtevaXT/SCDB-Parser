@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nqe9
     key: flamethrower
-    name: Flamethrower
-    category: Weapon/Heavy
+    fullName: Flamethrower
+    pathCategory: Weapon/Heavy
     rank: Veteran
     class: 'Other Weapons'
     weight: 16.0

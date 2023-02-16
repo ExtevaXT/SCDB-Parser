@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lz1d
     key: handgrip_ang4
-    name: 'ANG4 Vertical Grip'
-    category: Attachment/Other
+    fullName: 'ANG4 Vertical Grip'
+    pathCategory: Attachment/Other
     rank: Stalker
     class: 'Other Attachments'
     weight: 0.1

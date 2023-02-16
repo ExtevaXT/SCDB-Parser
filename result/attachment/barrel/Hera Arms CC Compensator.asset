@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: K5Xe
     key: barrel_heracc
-    name: 'Hera Arms CC Compensator'
-    category: Attachment/Barrel
+    fullName: 'Hera Arms CC Compensator'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.106

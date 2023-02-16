@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 7jX6
     key: bulat
-    name: 'PSZ-10 Armored Suit'
-    category: Armor/Research
+    fullName: 'PSZ-10 Armored Suit'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 9.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [160.0]
     bleedingProtection: [53.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Army body armor and pressure suit. A Sphere-4 shielding helmet. While these items are hard to acquire, the wide reach of the black market makes it easy to find them.'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: BOry
     key: 9st
-    name: '9 mm Ammo'
-    category: Ammo
+    fullName: '9 mm Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.009
     bleeding: 5.0

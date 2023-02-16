@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: n8l9
     key: electra_moonlight
-    name: Moonlight
-    category: Artefact/Electrophysical
+    fullName: Moonlight
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

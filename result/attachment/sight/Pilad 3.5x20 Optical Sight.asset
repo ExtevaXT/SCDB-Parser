@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: N539
     key: scope_pilad
-    name: 'Pilad 3.5x20 Optical Sight'
-    category: Attachment/Sight
+    fullName: 'Pilad 3.5x20 Optical Sight'
+    pathCategory: Attachment/Sight
     rank: Stalker
     class: Sights
     weight: 0.55

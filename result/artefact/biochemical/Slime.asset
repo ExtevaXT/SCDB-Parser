@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gKaN
     key: kisel_sliz
-    name: Slime
-    category: Artefact/Biochemical
+    fullName: Slime
+    pathCategory: Artefact/Biochemical
     class: Biochemical
     weight: 0.2
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JJ3K
     key: vss-1
-    name: 'Worn VSS Vintorez'
-    category: 'Weapon/Sniper rifle'
+    fullName: 'Worn VSS Vintorez'
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Veteran
     class: 'Sniper Rifles'
     weight: 3.9099998

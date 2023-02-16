@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: VYjA
     key: heavyaltyn
-    name: 'Altyn-T Heavy Set'
-    category: Armor/Combat
+    fullName: 'Altyn-T Heavy Set'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 12.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [100.0]
     psychoProtection: [100.0]
     bleedingProtection: [57.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'This set contains the Altyn helmet, utility vest, heavy body armor and Gorka-3 suit with a limb protection set.'

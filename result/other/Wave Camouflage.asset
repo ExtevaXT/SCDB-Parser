@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 0OKb
     key: '19109'
-    name: 'Wave Camouflage'
-    category: Other
+    fullName: 'Wave Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

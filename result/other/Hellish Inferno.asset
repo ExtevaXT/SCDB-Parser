@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y116
     key: '19801'
-    name: 'Hellish Inferno'
-    category: Other
+    fullName: 'Hellish Inferno'
+    pathCategory: Other
     class: 'Skins and Paint'

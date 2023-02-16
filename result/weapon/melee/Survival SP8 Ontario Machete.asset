@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: w1BA
     key: '21023'
-    name: 'Survival SP8 Ontario Machete'
-    category: Weapon/Melee
+    fullName: 'Survival SP8 Ontario Machete'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.63

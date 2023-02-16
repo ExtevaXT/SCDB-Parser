@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bl92
     key: launcher_gp25
-    name: 'GP-25 Kostyor'
-    category: Attachment/Other
+    fullName: 'GP-25 Kostyor'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 1.5

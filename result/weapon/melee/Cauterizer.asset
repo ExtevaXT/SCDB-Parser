@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: d06O
     key: burner
-    name: Cauterizer
-    category: Weapon/Melee
+    fullName: Cauterizer
+    pathCategory: Weapon/Melee
     rank: Master
     class: 'Melee Weapons'
     weight: 0.72

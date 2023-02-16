@@ -4,7 +4,7 @@
 MonoBehaviour:
     id: Kkzq
     key: capture_add
-    name: 'Notes of Major D.'
-    category: Other
+    fullName: 'Notes of Major D.'
+    pathCategory: Other
     class: Other
     weight: 0.5

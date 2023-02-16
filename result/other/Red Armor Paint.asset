@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y9Al
     key: red
-    name: 'Red Armor Paint'
-    category: Other
+    fullName: 'Red Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

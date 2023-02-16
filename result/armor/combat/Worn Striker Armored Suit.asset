@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aw3d
     key: striker-1
-    name: 'Worn Striker Armored Suit'
-    category: Armor/Combat
+    fullName: 'Worn Striker Armored Suit'
+    pathCategory: Armor/Combat
     rank: Newbie
     class: Combat
     weight: 9.0
@@ -23,4 +23,6 @@ MonoBehaviour:
     biologicalProtection: [90.0]
     psychoProtection: [30.0]
     bleedingProtection: [42.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'The direct successor to the Berill. This widely-available soldier’s suit has ended up with various syndicates via the black market. They put together a complete set of gear for their soldiers based on this attire, with upgraded body armor, limb protection, and a more comfortable uniform. The helmet remained unchanged.'

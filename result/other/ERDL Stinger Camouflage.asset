@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: QObl
     key: '19216'
-    name: 'ERDL Stinger Camouflage'
-    category: Other
+    fullName: 'ERDL Stinger Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

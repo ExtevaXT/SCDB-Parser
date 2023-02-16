@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0gzO
     key: forend_m1ris1
-    name: 'M1A with Picatinny Rail Handguard'
-    category: Attachment/Forend
+    fullName: 'M1A with Picatinny Rail Handguard'
+    pathCategory: Attachment/Forend
     rank: Stalker
     class: 'Hanguards and Brackets'
     weight: 0.12

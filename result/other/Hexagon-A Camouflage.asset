@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: l9Q1
     key: '19202'
-    name: 'Hexagon-A Camouflage'
-    category: Other
+    fullName: 'Hexagon-A Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

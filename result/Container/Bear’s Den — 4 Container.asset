@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dLy5
     key: bear4
-    name: 'Bear’s Den — 4 Container'
-    category: Container
+    fullName: 'Bear’s Den — 4 Container'
+    pathCategory: Container
     rank: Stalker
     class: 'Backpacks and Containers'
     weight: 5.0

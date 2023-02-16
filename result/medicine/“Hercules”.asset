@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: JLZ1
     key: gerkules
-    name: “Hercules”
-    category: Medicine
+    fullName: “Hercules”
+    pathCategory: Medicine
     class: Medicine
     weight: 0.2
     purpose: 'Strength Improvement'

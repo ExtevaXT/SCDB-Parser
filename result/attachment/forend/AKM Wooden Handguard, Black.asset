@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gJEn
     key: forend_akmblack
-    name: 'AKM Wooden Handguard, Black'
-    category: Attachment/Forend
+    fullName: 'AKM Wooden Handguard, Black'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.2

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: EYEE
     key: 10inc
-    name: '10 mm Incendiary Ammo'
-    category: Ammo
+    fullName: '10 mm Incendiary Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.013
     numBullets: 5.0

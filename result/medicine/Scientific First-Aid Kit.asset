@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y8Mx
     key: apt_s
-    name: 'Scientific First-Aid Kit'
-    category: Medicine
+    fullName: 'Scientific First-Aid Kit'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.2
     purpose: Healing

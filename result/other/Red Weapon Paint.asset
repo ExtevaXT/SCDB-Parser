@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: y98Z
     key: red
-    name: 'Red Weapon Paint'
-    category: Other
+    fullName: 'Red Weapon Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

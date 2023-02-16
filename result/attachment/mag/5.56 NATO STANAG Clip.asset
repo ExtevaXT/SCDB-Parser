@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3mkR
     key: mag_stanag60
-    name: '5.56 NATO STANAG Clip'
-    category: Attachment/Mag
+    fullName: '5.56 NATO STANAG Clip'
+    pathCategory: Attachment/Mag
     rank: Veteran
     class: Clips
     weight: 0.18

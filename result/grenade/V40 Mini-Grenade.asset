@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l03r
     key: v40
-    name: 'V40 Mini-Grenade'
-    category: Grenade
+    fullName: 'V40 Mini-Grenade'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.136
     explosionStrength: 400.0

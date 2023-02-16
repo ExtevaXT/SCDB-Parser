@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Q8VJ
     key: lcu_lowp
-    name: 'HQ ISSUE Low-Profile Laser Sight (Red Laser)'
-    category: Attachment/Other
+    fullName: 'HQ ISSUE Low-Profile Laser Sight (Red Laser)'
+    pathCategory: Attachment/Other
     rank: Veteran
     class: 'Other Attachments'
     weight: 0.042

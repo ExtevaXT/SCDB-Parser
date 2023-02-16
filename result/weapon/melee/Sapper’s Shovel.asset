@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0nq7
     key: '21009'
-    name: 'Sapper’s Shovel'
-    category: Weapon/Melee
+    fullName: 'Sapper’s Shovel'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.6

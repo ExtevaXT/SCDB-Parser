@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: MD5Q
     key: '19225'
-    name: 'DPM OJ Camouflage'
-    category: Other
+    fullName: 'DPM OJ Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l3gr
     key: mining_add
-    name: 'Remains of a Signal Processor'
-    category: Other
+    fullName: 'Remains of a Signal Processor'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.12

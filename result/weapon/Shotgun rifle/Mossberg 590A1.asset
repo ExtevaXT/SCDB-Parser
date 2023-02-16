@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A regular hunting rifle with horizontal barrels, much more compact and lightweight than a conventional double-barreled shotgun. One of the most common weapons used by bandits, as it is convenient for concealed carry and very effective in close combat.'
     notes: null
-    category: 'Weapon/Shotgun rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 0
     successfulUseSound: [{ fileID: 8300000, guid: d8c4e0050e5dc094589300468b5200e8, type: 3 }, { fileID: 8300000, guid: 3f5211c252144c84ab4a7a12698bdd01, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -76,7 +76,8 @@ MonoBehaviour:
     spreadVertical: 1
     id: nqPD
     key: mossberg
-    name: 'Mossberg 590A1'
+    fullName: 'Mossberg 590A1'
+    pathCategory: 'Weapon/Shotgun rifle'
     rank: Newbie
     class: 'Shotguns and Rifles'
     ammoType: '12 caliber'

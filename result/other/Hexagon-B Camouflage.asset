@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: KDwe
     key: '19203'
-    name: 'Hexagon-B Camouflage'
-    category: Other
+    fullName: 'Hexagon-B Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

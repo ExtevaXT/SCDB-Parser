@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: abe1
     key: npc_add
-    name: 'Dark Lim'
-    category: Other
+    fullName: 'Dark Lim'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.2

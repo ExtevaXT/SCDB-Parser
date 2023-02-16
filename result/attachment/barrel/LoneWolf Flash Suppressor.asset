@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: kxw6
     key: barrel_lonewolf
-    name: 'LoneWolf Flash Suppressor'
-    category: Attachment/Barrel
+    fullName: 'LoneWolf Flash Suppressor'
+    pathCategory: Attachment/Barrel
     rank: Newbie
     class: 'Muzzles and Silencers'
     weight: 0.031

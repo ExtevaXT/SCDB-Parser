@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: gwAB
     key: legion-1
-    name: 'Worn Legionnaire'
-    category: Armor/Combat
+    fullName: 'Worn Legionnaire'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 11.0
@@ -25,4 +25,6 @@ MonoBehaviour:
     biologicalProtection: [150.0]
     psychoProtection: [120.0]
     bleedingProtection: [56.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this.'

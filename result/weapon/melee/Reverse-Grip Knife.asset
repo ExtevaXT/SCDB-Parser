@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: lOMd
     key: '21046'
-    name: 'Reverse-Grip Knife'
-    category: Weapon/Melee
+    fullName: 'Reverse-Grip Knife'
+    pathCategory: Weapon/Melee
     rank: Stalker
     class: 'Melee Weapons'
     weight: 0.5

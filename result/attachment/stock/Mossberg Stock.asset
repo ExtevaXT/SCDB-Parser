@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: Bkmy
     key: '22600'
-    name: 'Mossberg Stock'
-    category: Attachment/Stock
+    fullName: 'Mossberg Stock'
+    pathCategory: Attachment/Stock
     class: Stocks
     weight: 0.25
     recoil: -14.999998

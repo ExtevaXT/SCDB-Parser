@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DVKJ
     key: silencer_socom556
-    name: 'SureFire SOCOM556-RC2 Silencer'
-    category: Attachment/Barrel
+    fullName: 'SureFire SOCOM556-RC2 Silencer'
+    pathCategory: Attachment/Barrel
     rank: Stalker
     class: 'Muzzles and Silencers'
     weight: 0.48

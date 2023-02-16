@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: PReY
     key: jarka_solnce
-    name: Sun
-    category: Artefact/Thermal
+    fullName: Sun
+    pathCategory: Artefact/Thermal
     class: Thermal
     weight: 0.2
     common: 'Not studied'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: jawR
     key: kukri_f
-    name: 'Icy Kukri'
-    category: Weapon/Melee
+    fullName: 'Icy Kukri'
+    pathCategory: Weapon/Melee
     rank: Veteran
     class: 'Melee Weapons'
     weight: 0.6

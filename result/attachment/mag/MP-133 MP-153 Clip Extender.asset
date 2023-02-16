@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: G0o9
     key: mag_mr133
-    name: 'MP-133 MP-153 Clip Extender'
-    category: Attachment/Mag
+    fullName: 'MP-133 MP-153 Clip Extender'
+    pathCategory: Attachment/Mag
     rank: Newbie
     class: Clips
     weight: 0.124

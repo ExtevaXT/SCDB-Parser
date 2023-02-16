@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'Russian single machine gun developed on the basis of PKM. Designed to defeat enemy manpower, fire and transport vehicles, and air targets.'
     notes: null
-    category: 'Weapon/Machine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 9dc56790149811043a317e6e7a418384, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: 98157e9ae1f47854d9e1a45a8101c0f8, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: nqE3
     key: rpd
-    name: RPD
+    fullName: RPD
+    pathCategory: 'Weapon/Machine gun'
     rank: Veteran
     class: 'Machine Guns'
     ammoType: '7.62'

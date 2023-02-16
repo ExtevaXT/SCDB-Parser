@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 61k0
     key: mount_m16ris
-    name: 'Sight Mount for M16A2'
-    category: Attachment/Forend
+    fullName: 'Sight Mount for M16A2'
+    pathCategory: Attachment/Forend
     rank: Newbie
     class: 'Hanguards and Brackets'
     weight: 0.05

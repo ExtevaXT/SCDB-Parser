@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: jKgX
     key: signal
-    name: 'Lambda Group Tracker'
-    category: Other
+    fullName: 'Lambda Group Tracker'
+    pathCategory: Other
     rank: Stalker
     class: Other
     weight: 0.02

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: xQD3
     key: klepto-1
-    name: 'Worn Kleptomaniac'
-    category: Armor/Research
+    fullName: 'Worn Kleptomaniac'
+    pathCategory: Armor/Research
     rank: Newbie
     class: Explorer
     weight: 4.3
@@ -22,4 +22,6 @@ MonoBehaviour:
     biologicalProtection: [120.0]
     psychoProtection: [0.0]
     bleedingProtection: [36.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: bulky
     text: 'A bandit suit that has been skillfully upgraded by some freak or other. The more reliable body armor offers improved protection against bullets, and the extra pockets allow you to carry more weight.'

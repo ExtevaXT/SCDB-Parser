@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: NQo2
     key: ghost
-    name: 'Phantom Hunter Armored Suit'
-    category: Armor/Combat
+    fullName: 'Phantom Hunter Armored Suit'
+    pathCategory: Armor/Combat
     rank: Veteran
     class: Combat
     weight: 14.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [200.0]
     psychoProtection: [135.0]
     bleedingProtection: [64.0]
+    compatibleBackpacks: light
+    compatibleContainers: spacious
     text: 'A reworked Shade Hunter which adds both increased mobility and more cutting-edge NVG.'

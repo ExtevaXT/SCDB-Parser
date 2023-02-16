@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: DV8V
     key: mag_colt
-    name: 'Colt Extended Clip'
-    category: Attachment/Mag
+    fullName: 'Colt Extended Clip'
+    pathCategory: Attachment/Mag
     rank: Stalker
     class: Clips
     weight: 0.24

@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: ka29
     key: frostfighter
-    name: 'Frost Fighter'
-    category: Other
+    fullName: 'Frost Fighter'
+    pathCategory: Other
     class: 'Skins and Paint'

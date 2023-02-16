@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 31kB
     key: karousel_prujina
-    name: Spring
-    category: Artefact/Gravitational
+    fullName: Spring
+    pathCategory: Artefact/Gravitational
     class: Gravitational
     weight: 0.3
     common: 'Not studied'

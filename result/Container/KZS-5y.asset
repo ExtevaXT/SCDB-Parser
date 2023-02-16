@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yg92
     key: kzs5d
-    name: KZS-5y
-    category: Container
+    fullName: KZS-5y
+    pathCategory: Container
     rank: Veteran
     class: 'Backpacks and Containers'
     weight: 9.0

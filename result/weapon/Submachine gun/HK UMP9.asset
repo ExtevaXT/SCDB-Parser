@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'A submachine gun developed by Transformational Defense Industries. It uses a semi-rigid bolt system, which directs the recoil-driven bolt group downward at a steep angle.'
     notes: null
-    category: 'Weapon/Submachine gun'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 9215f2a9b516e60498d082a73b77e211, type: 3 }]
     failedUseSound: { fileID: 0 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: BMEN
     key: ump
-    name: 'HK UMP9'
+    fullName: 'HK UMP9'
+    pathCategory: 'Weapon/Submachine gun'
     rank: Newbie
     class: 'Submachine Guns'
     ammoType: '9 mm'

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 0QKe
     key: puzir_prisma
-    name: Prism
-    category: Artefact/Electrophysical
+    fullName: Prism
+    pathCategory: Artefact/Electrophysical
     class: Electrophysical
     weight: 0.3
     common: 'Not studied'

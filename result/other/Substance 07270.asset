@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: l3wr
     key: npc
-    name: 'Substance 07270'
-    category: Other
+    fullName: 'Substance 07270'
+    pathCategory: Other
     rank: Newbie
     class: Other
     weight: 0.04

@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: nxE9
     key: forend_b11
-    name: 'B-11 Handguard with Upper Rail'
-    category: Attachment/Forend
+    fullName: 'B-11 Handguard with Upper Rail'
+    pathCategory: Attachment/Forend
     rank: Picklock
     class: 'Hanguards and Brackets'
     weight: 0.2

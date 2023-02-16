@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dxaK
     key: airdrop_add
-    name: 'Modified Anomalous Battery'
-    category: Other
+    fullName: 'Modified Anomalous Battery'
+    pathCategory: Other
     rank: Veteran
     class: Other
     weight: 0.45

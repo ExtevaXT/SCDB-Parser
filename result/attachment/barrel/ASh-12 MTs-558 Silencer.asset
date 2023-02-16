@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: O8dD
     key: silencer_ash12_mc558
-    name: 'ASh-12 MTs-558 Silencer'
-    category: Attachment/Barrel
+    fullName: 'ASh-12 MTs-558 Silencer'
+    pathCategory: Attachment/Barrel
     rank: Master
     class: 'Muzzles and Silencers'
     weight: 0.7

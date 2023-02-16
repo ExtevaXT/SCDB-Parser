@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: l9V1
     key: '19246'
-    name: 'Captured Luft Splinter Camouflage'
-    category: Other
+    fullName: 'Captured Luft Splinter Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

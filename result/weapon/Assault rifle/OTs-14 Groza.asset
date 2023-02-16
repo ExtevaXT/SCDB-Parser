@@ -27,7 +27,7 @@ MonoBehaviour:
     hide: 0
     content: 'The grenade launcher system is 70% unified with AK-74 assault rifles (the main differences are the 9x39 mm caliber, the bullpup layout and wider upgrade options). It is designed to be used by the Rapid Deployment Force (RDF). Very much appreciated by military and stalkers for its ability to reliably hit the enemy in body armor and behind cover.'
     notes: null
-    category: 'Weapon/Assault rifle'
+    category: WeaponTwohand
     keepUsingWhileButtonDown: 1
     successfulUseSound: [{ fileID: 8300000, guid: 1035a4a5b06b8ea41ab4060c75ec7ffd, type: 3 }, { fileID: 8300000, guid: ab4cb36ec6e5e9f4b8073c9f5ef99389, type: 3 }, { fileID: 8300000, guid: 3c31fe89ffa9ed44f9d82c76c703c790, type: 3 }, { fileID: 8300000, guid: 58dd60f5e131570419ea9ce911a4349b, type: 3 }, { fileID: 8300000, guid: c8c1db830679bc54e817f98bd3c60d8c, type: 3 }]
     failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
@@ -69,7 +69,8 @@ MonoBehaviour:
     recoilVertical: 4
     id: jaKq
     key: groza
-    name: 'OTs-14 Groza'
+    fullName: 'OTs-14 Groza'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Master
     class: 'Assault Rifles'
     ammoType: 9x39

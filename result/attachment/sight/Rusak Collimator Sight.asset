@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: z57x
     key: sight_rusak
-    name: 'Rusak Collimator Sight'
-    category: Attachment/Sight
+    fullName: 'Rusak Collimator Sight'
+    pathCategory: Attachment/Sight
     rank: Newbie
     class: Sights
     weight: 0.13

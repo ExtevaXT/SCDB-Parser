@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: oPo7
     key: 762exp
-    name: '7.62 mm Expanding Ammo'
-    category: Ammo
+    fullName: '7.62 mm Expanding Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.016
     damage: 10.000002

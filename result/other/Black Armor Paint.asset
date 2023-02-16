@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: gkm3
     key: black
-    name: 'Black Armor Paint'
-    category: Other
+    fullName: 'Black Armor Paint'
+    pathCategory: Other
     class: 'Skins and Paint'

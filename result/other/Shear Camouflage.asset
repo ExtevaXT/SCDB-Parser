@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: 2O3g
     key: '19111'
-    name: 'Shear Camouflage'
-    category: Other
+    fullName: 'Shear Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

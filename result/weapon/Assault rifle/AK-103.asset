@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: aVb0
     key: ak103
-    name: AK-103
-    category: 'Weapon/Assault rifle'
+    fullName: AK-103
+    pathCategory: 'Weapon/Assault rifle'
     rank: Veteran
     class: 'Assault Rifles'
     weight: 3.15

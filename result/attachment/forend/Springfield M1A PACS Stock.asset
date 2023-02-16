@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: P80Y
     key: forend_m1pacs
-    name: 'Springfield M1A PACS Stock'
-    category: Attachment/Forend
+    fullName: 'Springfield M1A PACS Stock'
+    pathCategory: Attachment/Forend
     rank: Veteran
     class: 'Hanguards and Brackets'
     weight: 1.9

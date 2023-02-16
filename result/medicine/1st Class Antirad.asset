@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: 3ZoR
     key: antirad_1
-    name: '1st Class Antirad'
-    category: Medicine
+    fullName: '1st Class Antirad'
+    pathCategory: Medicine
     class: Medicine
     weight: 0.05
     purpose: 'Radiation Cleansing'

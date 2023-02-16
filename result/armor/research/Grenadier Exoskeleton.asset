@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: dzRL
     key: grenadier
-    name: 'Grenadier Exoskeleton'
-    category: Armor/Research
+    fullName: 'Grenadier Exoskeleton'
+    pathCategory: Armor/Research
     rank: Veteran
     class: Explorer
     weight: 20.0
@@ -24,4 +24,6 @@ MonoBehaviour:
     biologicalProtection: [270.0]
     psychoProtection: [150.0]
     bleedingProtection: [60.0]
+    compatibleBackpacks: superheavy
+    compatibleContainers: standard
     text: 'This suit is a good choice for anyone who wants to sneak up behind the enemy unnoticed (even in the middle of the night—it comes with excellent NVG!) and set up a “grenade shower.” The enemy has little chance of survival... unless they’re also equipped with Grenadiers and manage to flee quickly.'

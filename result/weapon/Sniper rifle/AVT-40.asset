@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: V3g2
     key: svt40_mod
-    name: AVT-40
-    category: 'Weapon/Sniper rifle'
+    fullName: AVT-40
+    pathCategory: 'Weapon/Sniper rifle'
     rank: Stalker
     class: 'Sniper Rifles'
     weight: 3.8

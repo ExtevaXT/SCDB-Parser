@@ -4,6 +4,6 @@
 MonoBehaviour:
     id: nNox
     key: '19107'
-    name: 'Flora Camouflage'
-    category: Other
+    fullName: 'Flora Camouflage'
+    pathCategory: Other
     class: 'Skins and Paint'

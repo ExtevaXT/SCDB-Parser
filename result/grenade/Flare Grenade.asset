@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: A3Rw
     key: vspishka
-    name: 'Flare Grenade'
-    category: Grenade
+    fullName: 'Flare Grenade'
+    pathCategory: Grenade
     class: Grenades
     weight: 0.17
     explosionSize: 9.0

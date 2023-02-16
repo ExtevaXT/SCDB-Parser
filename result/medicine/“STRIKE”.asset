@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: w8PP
     key: strike
-    name: “STRIKE”
-    category: Medicine
+    fullName: “STRIKE”
+    pathCategory: Medicine
     class: Medicine
     weight: 0.1
     purpose: Healing

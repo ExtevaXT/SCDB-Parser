@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: V3Lg
     key: abakan-1
-    name: 'Worn AN-94 Abakan'
-    category: 'Weapon/Assault rifle'
+    fullName: 'Worn AN-94 Abakan'
+    pathCategory: 'Weapon/Assault rifle'
     rank: Newbie
     class: 'Assault Rifles'
     weight: 4.052

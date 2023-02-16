@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: y1R2
     key: pm_mod
-    name: 'Eternal Novice’s PM'
-    category: Weapon/Pistol
+    fullName: 'Eternal Novice’s PM'
+    pathCategory: Weapon/Pistol
     rank: Newbie
     class: Pistols
     weight: 0.73

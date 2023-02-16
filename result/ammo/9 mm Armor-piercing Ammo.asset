@@ -4,8 +4,8 @@
 MonoBehaviour:
     id: yg3N
     key: 9bb
-    name: '9 mm Armor-piercing Ammo'
-    category: Ammo
+    fullName: '9 mm Armor-piercing Ammo'
+    pathCategory: Ammo
     class: Ammo
     weight: 0.009
     piercing: 5.0
