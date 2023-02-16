@@ -1,3 +1,10 @@
-id: Gn39
-name: 'IOU from Shaman'
-class: Other
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Gn39
+    key: '16122'
+    name: 'IOU from Shaman'
+    category: Other
+    class: Other
+    text: 'I received this IOU as a reward from Shaman. I can use it to get an AKS from the merchant at the Cordon.'

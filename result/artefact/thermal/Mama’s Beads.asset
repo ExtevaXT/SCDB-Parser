@@ -1,7 +1,16 @@
-id: Rgay
-name: 'Mama’s Beads'
-class: Thermal
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Rgay
+    key: jarka_mamybusi
+    name: 'Mama’s Beads'
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    healthBonus: [1.0, 3.0]
+    healEfficiency: [10.0, 20.0]
+    radiationAccumulation: [0.0, 3.0]
+    text: 'This artifact makes up for its mild radioactivity by significantly improving vitality.'

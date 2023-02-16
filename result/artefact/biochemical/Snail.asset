@@ -1,7 +1,16 @@
-id: JkdV
-name: Snail
-class: Biochemical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JkdV
+    key: kisel_ulitka
+    name: Snail
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    staminaBonus: [-20.0, -10.0]
+    psychoDmgFactor: [5.0, 15.0]
+    psychoAccumulation: [-5.0, -2.0]
+    text: 'A small, round formation that resembles a snail’s shell. The shape determined the name, and the effect confirmed it. This artifact emits a weak anomalous field that positively affects brain cells. However, the effect of this field causes muscles to tire much more rapidly.'

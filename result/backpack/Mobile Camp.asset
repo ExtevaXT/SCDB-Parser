@@ -1,4 +1,11 @@
-id: yd96
-name: 'Mobile Camp'
-class: Backpacks
-weight: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yd96
+    key: ffa_camp
+    name: 'Mobile Camp'
+    category: Backpack
+    class: Backpacks
+    weight: 25.0
+    text: 'When placed in a tournament location, lets you respawn in the camp.'

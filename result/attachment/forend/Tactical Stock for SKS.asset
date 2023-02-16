@@ -1,5 +1,12 @@
-id: G0Z6
-name: 'Tactical Stock for SKS'
-rank: Picklock
-class: 'Hanguards and Brackets'
-weight: 0.1
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: G0Z6
+    key: forend_sks
+    name: 'Tactical Stock for SKS'
+    category: Attachment/Forend
+    rank: Picklock
+    class: 'Hanguards and Brackets'
+    weight: 0.1
+    suitableFor: [SKS]

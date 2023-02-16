@@ -1,13 +1,16 @@
-id: E9e7
-name: 'Spiked Club'
-rank: Stalker
-class: 'Melee Weapons'
-weight: 0.65
-quickAttack(min): 55.0
-quickAttack(max): 65.0
-strongAttack(min): 125.0
-strongAttack(max): 145.0
-weaponReach(quick): 1.8
-weaponReach(strong): 1.8
-penetration: 50.0
-chanceForADeepWound: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: E9e7
+    key: '21041'
+    name: 'Spiked Club'
+    category: Weapon/Melee
+    rank: Stalker
+    class: 'Melee Weapons'
+    weight: 0.65
+    common: 55.0
+    strong: 125.0
+    piercing: 50.0
+    bloodlustChance: 30.0
+    text: 'A wooden club with bones, claws, and teeth from the undead on Boral.'

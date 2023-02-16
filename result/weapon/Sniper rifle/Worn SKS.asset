@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BMzV
+    key: sks-1
+    name: 'Worn SKS'
+    category: 'Weapon/Sniper rifle'
+    rank: Picklock
+    class: 'Sniper Rifles'
+    weight: 3.75
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 44.0
+    clipSize: 10.0
+    distance: 165.0
+    rateOfFire: 350.0
+    reloadTime: 3.75
+    spread: 0.313
+    hipSpread: 3.812
+    recoil: 0.7
+    horizontalRecoil: 0.3
+    drawTime: 1.1
+    aimSwitch: 0.45
+    stoppingPower: 20.0
+    startDamage: 44.0
+    damageDecreaseStart: 22.0
+    endDamage: 35.2
+    damageDecreaseEnd: 75.0
+    maxDistance: 165.0
+    text: 'This Soviet semi-automatic carbine that was designed by Sergey Simonov was entered into service in 1949.'

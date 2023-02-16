@@ -1,10 +1,17 @@
-id: 3mJB
-name: 'Grip for OTs-14 Groza'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.1
-horizontalRecoil: -14.999998
-spread: -10.000002
-sway: -14.999998
-drawSpeed: 4.999995
-damageAtRange: 4.999995
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3mJB
+    key: handgrip_groza
+    name: 'Grip for OTs-14 Groza'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.1
+    horizontalRecoil: -14.999998
+    spread: -10.000002
+    wiggle: -14.999998
+    drawTime: 4.999995
+    damageDistant: 4.999995
+    suitableFor: ['OTs-14 Groza', 'OTs-14 Tactical Grip']

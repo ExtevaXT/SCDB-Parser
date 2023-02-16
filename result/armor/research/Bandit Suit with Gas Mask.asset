@@ -1,20 +1,26 @@
-id: qb5L
-name: 'Bandit Suit with Gas Mask'
-rank: Newbie
-class: Explorer
-weight: 3.7
-durability: 100.0
-max.Durability: 100.0
-stamina: -4.0
-carryWeight: 5.0
-bulletResistance: 37.0
-meleeProtection: 40.0
-explosionProtection: 57.0
-resistanceToElectricity: 27.0
-resistanceToFire: 27.0
-resistanceToChemicals: 27.0
-radiationProtection: 90.0
-thermalProtection: 30.0
-bioinfectionProtection: 120.0
-psy-emissionProtection: 0.0
-bleedingProtection: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: qb5L
+    key: bover_gas
+    name: 'Bandit Suit with Gas Mask'
+    category: Armor/Research
+    rank: Newbie
+    class: Explorer
+    weight: 3.7
+    maxDurability: 100.0
+    staminaBonus: [-4.0]
+    maxWeightBonus: [5.0]
+    bulletDmgFactor: [37.0]
+    tearDmgFactor: [40.0]
+    explosionDmgFactor: [57.0]
+    electraDmgFactor: [27.0]
+    burnDmgFactor: [27.0]
+    chemicalBurnDmgFactor: [27.0]
+    radiationProtection: [90.0]
+    thermalProtection: [30.0]
+    biologicalProtection: [120.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [30.0]
+    text: 'Acquiring a good Zarya suit from a stalker or buying a new one gets more difficult every day, and bandits have decided to seek alternatives. Due to its widespread availability and low cost, they opted for the RS-32. PMG gas mask included.'

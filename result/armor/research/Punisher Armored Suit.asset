@@ -1,20 +1,27 @@
-id: qD00
-name: 'Punisher Armored Suit'
-rank: Master
-class: Explorer
-weight: 22.0
-durability: 100.0
-max.Durability: 100.0
-movementSpeed: 8.0
-carryWeight: 20.0
-bulletResistance: 135.0
-meleeProtection: 160.0
-explosionProtection: 206.0
-resistanceToElectricity: 178.0
-resistanceToFire: 178.0
-resistanceToChemicals: 178.0
-radiationProtection: 210.0
-thermalProtection: 160.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 200.0
-bleedingProtection: 61.5
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: qD00
+    key: punisher
+    name: 'Punisher Armored Suit'
+    category: Armor/Research
+    rank: Master
+    class: Explorer
+    weight: 22.0
+    maxDurability: 100.0
+    speedModifier: [8.0]
+    maxWeightBonus: [20.0]
+    nightVision: 1
+    bulletDmgFactor: [135.0]
+    tearDmgFactor: [160.0]
+    explosionDmgFactor: [206.0]
+    electraDmgFactor: [178.0]
+    burnDmgFactor: [178.0]
+    chemicalBurnDmgFactor: [178.0]
+    radiationProtection: [210.0]
+    thermalProtection: [160.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [200.0]
+    bleedingProtection: [61.5]
+    text: 'The RS-72 Punisher is a universal armored suit supplied to various private military companies operating in the Zone. Mercenaries need a multipurpose suit to confidently perform any tasks assigned to them.'

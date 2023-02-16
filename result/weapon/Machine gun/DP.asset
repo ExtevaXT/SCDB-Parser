@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: DP
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 9.12
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 900ce14f55452a142a1fe423b4ce5227, type: 3 }
+    drop: { fileID: -674074274231560322, guid: 89476fd57f4d15348a40d89bcdc9b9e0, type: 3 }
+    modelPrefab: { fileID: 1726046159356512, guid: c0c945cf84c075748ab0c5119436c12b, type: 3 }
+    type: Machinegun
+    hide: 0
+    content: 'Russian single machine gun developed on the basis of PKM. Designed to defeat enemy manpower, fire and transport vehicles, and air targets.'
+    notes: null
+    category: 'Weapon/Machine gun'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: f0c252a2447f06e428f72838260b2670, type: 3 }, { fileID: 8300000, guid: 1156c4dd85300a24094136daa83f4533, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 98157e9ae1f47854d9e1a45a8101c0f8, type: 3 }
+    emptySound: { fileID: 8300000, guid: 98157e9ae1f47854d9e1a45a8101c0f8, type: 3 }
+    drawSound: { fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3 }
+    cooldown: 0.1
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 140
+    damage: 44.0
+    damageType: Bullet
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 30
+    reloadTime: 6.0
+    reloadTimeFull: 3.2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 942b122266abaaa49b9091028cd4ab24, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: d518292e01ffc7140b903b07e443dd5b, type: 3 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 0 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 2
+    recoilVertical: 4
+    id: MOxx
+    key: dp
+    name: DP
+    rank: Newbie
+    class: 'Machine Guns'
+    ammoType: '7.62'
+    clipSize: 47.0
+    distance: 160.0
+    rateOfFire: 550.0
+    spread: 0.84
+    hipSpread: 2.8
+    recoil: 1.0
+    horizontalRecoil: 0.4
+    drawTime: 1.15
+    aimSwitch: 0.4
+    startDamage: 44.0
+    damageDecreaseStart: 22.0
+    endDamage: 28.0
+    damageDecreaseEnd: 75.0
+    maxDistance: 160.0
+    text: 'A handheld machine gun developed by V. A. Degtyarev. The DP was one of the first examples of a Soviet-made firearm.'

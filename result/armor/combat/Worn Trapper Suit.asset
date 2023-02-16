@@ -1,19 +1,25 @@
-id: wQoy
-name: 'Worn Trapper Suit'
-rank: Newbie
-class: Combat
-weight: 6.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 5.0
-bulletResistance: 39.0
-meleeProtection: 112.0
-explosionProtection: 53.0
-resistanceToElectricity: 24.0
-resistanceToFire: 24.0
-resistanceToChemicals: 24.0
-radiationProtection: 105.0
-thermalProtection: 20.0
-bioinfectionProtection: 105.0
-psy-emissionProtection: 20.0
-bleedingProtection: 59.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: wQoy
+    key: trapper-1
+    name: 'Worn Trapper Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 6.0
+    maxDurability: 100.0
+    maxWeightBonus: [5.0]
+    bulletDmgFactor: [39.0]
+    tearDmgFactor: [112.0]
+    explosionDmgFactor: [53.0]
+    electraDmgFactor: [24.0]
+    burnDmgFactor: [24.0]
+    chemicalBurnDmgFactor: [24.0]
+    radiationProtection: [105.0]
+    thermalProtection: [20.0]
+    biologicalProtection: [105.0]
+    psychoProtection: [20.0]
+    bleedingProtection: [59.0]
+    text: 'A comfortable suit that is good for actively tracking mutants and for fleeing from them. Its average damage protection is offset by its base resistance to anomalies.'

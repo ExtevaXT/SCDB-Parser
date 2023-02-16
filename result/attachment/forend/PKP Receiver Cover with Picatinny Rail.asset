@@ -1,5 +1,12 @@
-id: JA5Q
-name: 'PKP Receiver Cover with Picatinny Rail'
-rank: Veteran
-class: 'Hanguards and Brackets'
-weight: 0.28
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JA5Q
+    key: forend_pkp
+    name: 'PKP Receiver Cover with Picatinny Rail'
+    category: Attachment/Forend
+    rank: Veteran
+    class: 'Hanguards and Brackets'
+    weight: 0.28
+    suitableFor: ['PKP Pecheneg']

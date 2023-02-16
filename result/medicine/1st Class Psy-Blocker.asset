@@ -1,8 +1,15 @@
-id: qDnJ
-name: '1st Class Psy-Blocker'
-class: Medicine
-weight: 0.1
-purpose: 'Psy-Emission Protection'
-duration: 240.0
-poison: 50.0
-psy-emissionResistance: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: qDnJ
+    key: psiblock_1
+    name: '1st Class Psy-Blocker'
+    category: Medicine
+    class: Medicine
+    weight: 0.1
+    purpose: 'Psy-Emission Protection'
+    duration: 240.0
+    toxicity: 50.0
+    psychoDmgFactor: [25.0]
+    text: 'A pill that reduces the effects of psy-emissions. Frequent use has a negative effect on brainpower.'

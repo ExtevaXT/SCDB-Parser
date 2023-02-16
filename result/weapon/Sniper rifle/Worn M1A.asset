@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Z0yq
+    key: m1a-1
+    name: 'Worn M1A'
+    category: 'Weapon/Sniper rifle'
+    rank: Stalker
+    class: 'Sniper Rifles'
+    weight: 4.63
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 52.0
+    clipSize: 20.0
+    distance: 175.0
+    rateOfFire: 360.0
+    reloadTime: 3.7
+    tacticalReloadTime: 3.2
+    spread: 0.209
+    hipSpread: 3.802
+    recoil: 0.6
+    horizontalRecoil: 0.2
+    drawTime: 0.75
+    aimSwitch: 0.3
+    stoppingPower: 40.0
+    startDamage: 52.0
+    damageDecreaseStart: 26.0
+    endDamage: 41.6
+    damageDecreaseEnd: 85.0
+    maxDistance: 175.0
+    text: 'M1A semi-automatic rifle. It is in demand among stalkers due to its availability, high accuracy, and substantial stopping power.'

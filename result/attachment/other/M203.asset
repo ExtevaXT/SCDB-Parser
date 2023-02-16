@@ -1,5 +1,13 @@
-id: yyzG
-name: M203
-rank: Veteran
-class: 'Other Attachments'
-weight: 1.36
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yyzG
+    key: launcher_m203
+    name: M203
+    category: Attachment/Other
+    rank: Veteran
+    class: 'Other Attachments'
+    weight: 1.36
+    text: 'American 40 mm Underbarrel Grenade Launcher'
+    suitableFor: [M4A1, 'M4 LB', LR-300, HK416, 'HK XM8S', HK417, 'RIS M4A1 Handguard', 'RIS M16 Handguard', 'SIG SG 550 Handguard 4x NAR', 'Handguard with Guiding RIS for SIG SG 550', 'Handguard RIS LR-300']

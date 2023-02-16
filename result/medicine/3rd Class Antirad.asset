@@ -1,9 +1,16 @@
-id: njk2
-name: '3rd Class Antirad'
-class: Medicine
-weight: 0.05
-purpose: 'Radiation Cleansing'
-duration: 5.0
-poison: 25.0
-radiationResistance: 100.0
-radiation: -100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: njk2
+    key: antirad_3
+    name: '3rd Class Antirad'
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Radiation Cleansing'
+    duration: 5.0
+    toxicity: 25.0
+    radiationDmgFactor: [100.0]
+    radiationAccumulation: [-100.0]
+    text: 'Removes radiation from the body.'

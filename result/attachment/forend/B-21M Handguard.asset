@@ -1,5 +1,12 @@
-id: mxEE
-name: 'B-21M Handguard'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.18
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: mxEE
+    key: forend_b21m
+    name: 'B-21M Handguard'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.18
+    suitableFor: ['SMG-19-01 Vityaz']

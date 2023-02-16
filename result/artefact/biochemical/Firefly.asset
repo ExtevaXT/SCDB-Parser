@@ -1,7 +1,16 @@
-id: 2XVa
-name: Firefly
-class: Biochemical
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2XVa
+    key: kisel_svetlyak
+    name: Firefly
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    healthBonus: [2.0, 4.0]
+    regenerationBonus: [1.5, 3.0]
+    psychoAccumulation: [3.0, 8.0]
+    text: 'Affects the owner’s nervous system, thereby increasing pain tolerance. However, it has a negative effect on the human mind, damaging mental stability.'

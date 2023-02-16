@@ -1,10 +1,17 @@
-id: MYek
-name: “Astrixin”
-class: Medicine
-weight: 0.05
-purpose: 'Bleeding Protection'
-duration: 300.0
-poison: 25.0
-healthRegeneration: 2.5
-bleedingProtection: 15.0
-bleeding: -1.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: MYek
+    key: astrikcin
+    name: “Astrixin”
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Bleeding Protection'
+    duration: 300.0
+    toxicity: 25.0
+    regenerationBonus: [2.5]
+    bleedingProtection: [15.0]
+    bleedingAccumulation: [-1.0]
+    text: 'A medicinal drug that replaced Vinca, which comprehensively contributes to the coagulation and clotting of the blood. Actively used by soldiers, it gets good reviews as it is less toxic.'

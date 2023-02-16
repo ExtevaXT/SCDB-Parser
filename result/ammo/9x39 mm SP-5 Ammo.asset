@@ -1,7 +1,13 @@
-id: dLZj
-name: '9x39 mm SP-5 Ammo'
-class: Ammo
-weight: 0.02
-armor-penetration: 10.0
-bleeding: 5.0
-stoppingPower: 20.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: dLZj
+    key: 939st
+    name: '9x39 mm SP-5 Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.02
+    piercing: 10.0
+    bleeding: 5.0
+    stoppingPower: 20.0

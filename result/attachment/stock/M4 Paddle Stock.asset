@@ -1,9 +1,16 @@
-id: kxB1
-name: 'M4 Paddle Stock'
-class: Stocks
-weight: 0.35
-recoil: -2.9999971
-sway: -14.999998
-drawSpeed: 4.999995
-recoilBuildup: -19.999998
-stabilization: 20.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: kxB1
+    key: '22604'
+    name: 'M4 Paddle Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.35
+    recoil: -2.9999971
+    wiggle: -14.999998
+    drawTime: 4.999995
+    recoilGain: -19.999998
+    tickSpreadMultiplierReduction: 20.000004
+    suitableFor: [M4A1, 'M4 LB', LR-300]

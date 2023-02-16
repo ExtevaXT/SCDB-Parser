@@ -1,21 +1,28 @@
-id: OYZz
-name: 'Vanguard Armored Suit'
-rank: Master
-class: Combat
-weight: 30.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -25.0
-movementSpeed: -6.0
-carryWeight: 25.0
-bulletResistance: 192.0
-meleeProtection: 255.0
-explosionProtection: 229.0
-resistanceToElectricity: 44.0
-resistanceToFire: 44.0
-resistanceToChemicals: 44.0
-radiationProtection: 200.0
-thermalProtection: 50.0
-bioinfectionProtection: 200.0
-psy-emissionProtection: 200.0
-bleedingProtection: 69.2
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: OYZz
+    key: vanguard
+    name: 'Vanguard Armored Suit'
+    category: Armor/Combat
+    rank: Master
+    class: Combat
+    weight: 30.0
+    maxDurability: 100.0
+    staminaBonus: [-25.0]
+    speedModifier: [-6.0]
+    maxWeightBonus: [25.0]
+    nightVision: 1
+    bulletDmgFactor: [192.0]
+    tearDmgFactor: [255.0]
+    explosionDmgFactor: [229.0]
+    electraDmgFactor: [44.0]
+    burnDmgFactor: [44.0]
+    chemicalBurnDmgFactor: [44.0]
+    radiationProtection: [200.0]
+    thermalProtection: [50.0]
+    biologicalProtection: [200.0]
+    psychoProtection: [200.0]
+    bleedingProtection: [69.2]
+    text: 'A set of army gear adapted to Duty’s requirements. The Vanguard Armored Suit provides exceptional protection from mutants’ claws and teeth, and good bullet resistance makes it a reliable aid in the war for influence in the Zone.'

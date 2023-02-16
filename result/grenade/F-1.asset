@@ -1,8 +1,15 @@
-id: BO2r
-name: F-1
-class: Grenades
-weight: 0.6
-damageAtCenter: 500.0
-minimumDamage: 35.0
-timeUntilDetonation: 3.25
-damageRange: 12.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BO2r
+    key: f1
+    name: F-1
+    category: Grenade
+    class: Grenades
+    weight: 0.6
+    explosionStrength: 500.0
+    explosionStrengthMin: 35.0
+    lifetime: 3.25
+    explosionSize: 12.0
+    text: 'An antipersonnel defensive fragmentation grenade.'

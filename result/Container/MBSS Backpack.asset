@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: MZ7E
+    key: mbss
+    name: 'MBSS Backpack'
+    category: Container
+    rank: Newbie
+    class: 'Backpacks and Containers'
+    weight: 2.0
+    staminaBonus: [25.0]
+    maxWeightBonus: [30.0]

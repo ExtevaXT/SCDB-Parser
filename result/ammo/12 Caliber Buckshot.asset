@@ -1,9 +1,15 @@
-id: 2D9P
-name: '12 Caliber Buckshot'
-class: Ammo
-weight: 0.03
-numberOfProjectiles: 20.0
-damage: 49.999977
-bleeding: 0.25
-stoppingPower: 50.0
-damageAtRange: -65.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2D9P
+    key: 12drob
+    name: '12 Caliber Buckshot'
+    category: Ammo
+    class: Ammo
+    weight: 0.03
+    numBullets: 20.0
+    damage: 49.999977
+    bleeding: 0.25
+    stoppingPower: 50.0
+    damageDistant: -65.0

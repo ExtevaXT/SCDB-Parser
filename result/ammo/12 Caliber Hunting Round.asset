@@ -1,7 +1,13 @@
-id: JNVG
-name: '12 Caliber Hunting Round'
-class: Ammo
-weight: 0.03
-bleeding: 15.000001
-spread: -60.000004
-stoppingPower: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JNVG
+    key: 12slug
+    name: '12 Caliber Hunting Round'
+    category: Ammo
+    class: Ammo
+    weight: 0.03
+    bleeding: 15.000001
+    spread: -60.000004
+    stoppingPower: 100.0

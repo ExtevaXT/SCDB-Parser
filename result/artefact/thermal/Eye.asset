@@ -1,7 +1,16 @@
-id: 2XMR
-name: Eye
-class: Thermal
-weight: 0.1
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2XMR
+    key: jarka_glaz
+    name: Eye
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.1
+    common: 'Not studied'
+    maxDurability: 100.0
+    bulletDmgFactor: [5.0, 15.0]
+    explosionDmgFactor: [5.0, 15.0]
+    radiationAccumulation: [3.0, 5.0]
+    text: 'This artifact improves the metabolism of its owner, which means that they recover quicker after damage. Some of the more superstitious stalkers believe that it keeps “watch” over its owner, providing protection against serious injuries—as bullets and fragments won’t hit any vital organs.'

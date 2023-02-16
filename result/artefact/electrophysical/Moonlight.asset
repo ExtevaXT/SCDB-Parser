@@ -1,7 +1,16 @@
-id: n8l9
-name: Moonlight
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n8l9
+    key: electra_moonlight
+    name: Moonlight
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    psychoDmgFactor: [5.0, 15.0]
+    radiationAccumulation: [2.0, 5.0]
+    psychoAccumulation: [-3.0, -1.0]
+    text: 'Plasma is somehow contained in a cloud similar to the finest glass, yet organic in nature. The artifact has a positive effect on the mind of its owner, despite being radioactive.'

@@ -1,21 +1,100 @@
-id: QYnR
-name: 'KIM-100 Garnet'
-rank: Stalker
-class: Scientist
-weight: 6.0
-durability: 100.0
-max.Durability: 100.0
-periodicHealing: 5.0
-radiation: -2.0
-bleeding: -1.0
-bulletResistance: 49.0
-meleeProtection: 55.0
-explosionProtection: 67.0
-resistanceToElectricity: 601.0
-resistanceToFire: 601.0
-resistanceToChemicals: 601.0
-radiationProtection: 210.0
-thermalProtection: 210.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 180.0
-bleedingProtection: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: 90c06992fabc4400c8c2e33ff979c9e2, type: 3 }
+    m_Name: 'KIM-100 Garnet'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 6.0
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nHazmat costume\n\n{ARTEFACTBONUS} Max artefact amount\nDurability: {DURABILITY}%"
+    image: { fileID: 21300000, guid: dd8bc9fbaae98a64a95d2aa96017610b, type: 3 }
+    drop: { fileID: -3002282694736733961, guid: ec0cb1acb689b7c48b1c86afb7daeeb1, type: 3 }
+    modelPrefab: { fileID: 3658017124668526173, guid: d8a00d7667128a14993a730ba0671503, type: 3 }
+    type: Scientific
+    hide: 0
+    content: null
+    notes: null
+    category: Armor/Scientific
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: { fileID: 0 }
+    failedUseSound: { fileID: 0 }
+    emptySound: { fileID: 0 }
+    cooldown: 0
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 0
+    useDirectly: 0
+    hood: 1
+    mask: 1
+    head: { fileID: 11400000, guid: d49a915cc2addf140aa0b76f31c3e621, type: 2 }
+    backSize: 0
+    healthBonus: 0
+    hydrationBonus: 0
+    nutritionBonus: 0
+    damageBonus: 0
+    protectionThermalBonus: 0
+    protectionBiologicalBonus: 0
+    protectionPsychoBonus: 0
+    protectionRadiationBonus: 100
+    slotBonus: 0
+    artefactBonus: 0
+    healthRecoveryBonus: 0
+    healingBonus: 0
+    healingEffiencyBonus: 0
+    enduranceBonus: 0
+    enduranceRecoveryBonus: 0
+    speedBonus: 0
+    weightBonus: 10000
+    defenseThermalBonus: 0
+    defenseBiologicalBonus: 0
+    defensePsychoBonus: 0
+    defenseRadiationBonus: 0
+    defenseBleedingBonus: 0
+    accumulationThermalBonus: 0
+    accumulationBiologicalBonus: 0
+    accumulationPsychoBonus: 0
+    accumulationRadiationBonus: 0
+    accumulationBleedingBonus: 0
+    defenseBulletBonus: 0
+    defenseExplosionBonus: 0
+    defenseTearBonus: 0
+    defenseElectricalBonus: 0
+    defenseBurnBonus: 0
+    defenseChemicalBonus: 0
+    damageFactorTearBonus: 0
+    damageFactorElectricalBonus: 0
+    damageFactorBurnBonus: 0
+    damageFactorChemicalBonus: 0
+    id: QYnR
+    key: granat
+    name: 'KIM-100 Garnet'
+    rank: Stalker
+    class: Scientist
+    artefaktHeal: [5.0]
+    radiationAccumulation: [-2.0]
+    bleedingAccumulation: [-1.0]
+    nightVision: 1
+    bulletDmgFactor: [49.0]
+    tearDmgFactor: [55.0]
+    explosionDmgFactor: [67.0]
+    electraDmgFactor: [601.0]
+    burnDmgFactor: [601.0]
+    chemicalBurnDmgFactor: [601.0]
+    radiationProtection: [210.0]
+    thermalProtection: [210.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [180.0]
+    bleedingProtection: [35.0]
+    text: 'A bright red research suit. One of the masterpieces of the Chernobyl Research Institute. Equipped with an unparalleled life-support system.'

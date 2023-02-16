@@ -1,5 +1,12 @@
-id: 0grE
-name: 'SKS Bracket—Dovetail Joint'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.15
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0grE
+    key: mount_skslast
+    name: 'SKS Bracket—Dovetail Joint'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.15
+    suitableFor: [SKS]

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ae8f2a691b5974289ba8a2d2fd217c, type: 3}
+  m_Name: Silencer ATG
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 1000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Silencer for weapon
+  image: {fileID: 21300000, guid: 5d526c6f6f21c384ab98ff9236a00556, type: 3}
+  drop: {fileID: -1322884234165360555, guid: 2ab61ba2213782046bdb9b22f6c03840, type: 3}
+  modelPrefab: {fileID: 1380941306134420, guid: 6cb2f3e7473a25b42a5f110b9e4dc9e7,
+    type: 3}
+  type: Muzzle
+  hide: 0
+  content: 
+  notes: 
+  attachmentMetaId: 73
+  attachmentMetaGroup: 0
+  silenced: 0
+  magazine: 0
+  recoilHorizontal: 0
+  recoilVertical: 0
+  zoom: 0

@@ -1,19 +1,25 @@
-id: KQN5
-name: 'Scout Suit'
-rank: Newbie
-class: Combat
-weight: 6.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 3.0
-bulletResistance: 45.0
-meleeProtection: 45.0
-explosionProtection: 63.0
-resistanceToElectricity: 18.0
-resistanceToFire: 18.0
-resistanceToChemicals: 18.0
-radiationProtection: 45.0
-thermalProtection: 0.0
-bioinfectionProtection: 45.0
-psy-emissionProtection: 0.0
-bleedingProtection: 32.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: KQN5
+    key: scout
+    name: 'Scout Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 6.0
+    maxDurability: 100.0
+    maxWeightBonus: [3.0]
+    bulletDmgFactor: [45.0]
+    tearDmgFactor: [45.0]
+    explosionDmgFactor: [63.0]
+    electraDmgFactor: [18.0]
+    burnDmgFactor: [18.0]
+    chemicalBurnDmgFactor: [18.0]
+    radiationProtection: [45.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [45.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [32.0]
+    text: 'A suit that is purchased by mercenaries on the Mainland. It is popular due to its lightness and comfort. It isn’t well suited to the conditions of the Zone, but it offers good protection against bullets.'

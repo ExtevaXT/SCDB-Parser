@@ -1,19 +1,25 @@
-id: lYVO
-name: 'Houndmaster Protective Suit'
-rank: Newbie
-class: Combat
-weight: 8.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 5.0
-bulletResistance: 29.0
-meleeProtection: 84.0
-explosionProtection: 40.0
-resistanceToElectricity: 18.0
-resistanceToFire: 18.0
-resistanceToChemicals: 18.0
-radiationProtection: 75.0
-thermalProtection: 0.0
-bioinfectionProtection: 75.0
-psy-emissionProtection: 0.0
-bleedingProtection: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lYVO
+    key: dogger
+    name: 'Houndmaster Protective Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 8.0
+    maxDurability: 100.0
+    maxWeightBonus: [5.0]
+    bulletDmgFactor: [29.0]
+    tearDmgFactor: [84.0]
+    explosionDmgFactor: [40.0]
+    electraDmgFactor: [18.0]
+    burnDmgFactor: [18.0]
+    chemicalBurnDmgFactor: [18.0]
+    radiationProtection: [75.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [75.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [50.0]
+    text: 'A suit that offers good protection against mutants. It is particularly effective against smaller varieties: rodents, cats, and dogs. The latter are what gave it its name.'

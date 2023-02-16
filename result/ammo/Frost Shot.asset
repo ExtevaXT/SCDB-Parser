@@ -1,6 +1,12 @@
-id: gPXm
-name: 'Frost Shot'
-class: Ammo
-weight: 0.015
-numberOfProjectiles: 10.0
-stoppingPower: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: gPXm
+    key: 12frz
+    name: 'Frost Shot'
+    category: Ammo
+    class: Ammo
+    weight: 0.015
+    numBullets: 10.0
+    stoppingPower: 50.0

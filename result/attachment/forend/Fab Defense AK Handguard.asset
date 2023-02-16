@@ -1,5 +1,12 @@
-id: 0gNO
-name: 'Fab Defense AK Handguard'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.22
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0gNO
+    key: forend_akfb
+    name: 'Fab Defense AK Handguard'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.22
+    suitableFor: [AKS-74, AKM, AK-103, 'Kbk wz. 88 Tantal', AK-105]

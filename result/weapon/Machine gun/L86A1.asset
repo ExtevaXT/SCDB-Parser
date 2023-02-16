@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: L86A1
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 6.58
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: d97a3a1c39e4dee4181108898b37ae55, type: 3 }
+    drop: { fileID: -674074274231560322, guid: 89476fd57f4d15348a40d89bcdc9b9e0, type: 3 }
+    modelPrefab: { fileID: 1726046159356512, guid: c0c945cf84c075748ab0c5119436c12b, type: 3 }
+    type: Machinegun
+    hide: 0
+    content: 'Russian single machine gun developed on the basis of PKM. Designed to defeat enemy manpower, fire and transport vehicles, and air targets.'
+    notes: null
+    category: 'Weapon/Machine gun'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: 86f43ff452d59d6409cdbca20a984a2e, type: 3 }, { fileID: 8300000, guid: 48e55b1b381390948b3a1a1362c68715, type: 3 }, { fileID: 8300000, guid: eef99167a94fbb84f903bc087ccd7810, type: 3 }, { fileID: 8300000, guid: 27b78014575c20d43ad6ec4bfa0be015, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 85c68abf79fa7a946bb8319f494b59d3, type: 3 }
+    emptySound: { fileID: 8300000, guid: 85c68abf79fa7a946bb8319f494b59d3, type: 3 }
+    drawSound: { fileID: 8300000, guid: 1dda23453b39b194d9df5dbe97c801b3, type: 3 }
+    cooldown: 0.13
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 150
+    damage: 37.2
+    damageType: Tear
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 20
+    reloadTime: 4.5
+    reloadTimeFull: 3.5
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 133c6a204e368994c9565fbe754d2239, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: b7784a46fa06ebb48bb227a31240aa5b, type: 3 }
+    reloadBolt: { fileID: 8300000, guid: 1f4ef1a43d84992458e6092fbf88ea9d, type: 3 }
+    reloadIn: { fileID: 8300000, guid: e6bbe59871773e74b8e3a6cf091dcf86, type: 3 }
+    reloadOut: { fileID: 8300000, guid: 86ee039a15cd3bb4d833f575e5edbbe2, type: 3 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: 17d1126af77b55b43bef7ab0b712e84b, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 1
+    recoilVertical: 2
+    id: V3yw
+    key: l86
+    name: L86A1
+    rank: Stalker
+    class: 'Machine Guns'
+    ammoType: '5.56'
+    clipSize: 60.0
+    distance: 160.0
+    rateOfFire: 700.0
+    tacticalReloadTime: 3.75
+    spread: 0.6
+    hipSpread: 2.6
+    recoil: 0.4
+    horizontalRecoil: 0.15
+    drawTime: 1.1
+    aimSwitch: 0.3
+    startDamage: 37.2
+    damageDecreaseStart: 16.0
+    endDamage: 27.0
+    damageDecreaseEnd: 75.0
+    maxDistance: 160.0
+    text: 'The SA80 (SA-80—Small Arms for the 1980s) is a British family of firearms developed in the mid-1980s. It comprises the L85 assault rifle, the L86 light support weapon, the L22 carbine and the L98 cadet rifle. The set is used as the service weapons of the British Army.'

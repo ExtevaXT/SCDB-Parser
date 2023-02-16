@@ -1,10 +1,17 @@
-id: bM8Z
-name: '7.62x39 Drum Clip'
-rank: Master
-class: Clips
-weight: 0.9
-clipSize: 75.0
-jamming: 0.0075
-rateOfFire: -0.99999905
-drawSpeed: 23.000002
-reloadTime: 39.999996
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: bM8Z
+    key: mag_rumag76275
+    name: '7.62x39 Drum Clip'
+    category: Attachment/Mag
+    rank: Master
+    class: Clips
+    weight: 0.9
+    clipSize: 75.0
+    jamming: 0.0075
+    rateOfFire: -0.99999905
+    drawTime: 23.000002
+    reloadTime: 39.999996
+    suitableFor: [AKM, AK-103, SOK-94, RPK]

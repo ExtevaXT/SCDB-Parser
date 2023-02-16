@@ -1,3 +1,9 @@
-id: KD6q
-name: 'Yellow Armor Paint'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: KD6q
+    key: yellow
+    name: 'Yellow Armor Paint'
+    category: Other
+    class: 'Skins and Paint'

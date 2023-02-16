@@ -1,5 +1,11 @@
-id: 6MN9
-name: 'Remains of Scientific Equipment'
-rank: Newbie
-class: Other
-weight: 0.05
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 6MN9
+    key: mining
+    name: 'Remains of Scientific Equipment'
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.05

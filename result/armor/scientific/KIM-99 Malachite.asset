@@ -1,18 +1,25 @@
-id: 2jdo
-name: 'KIM-99 Malachite'
-rank: Stalker
-class: Scientist
-weight: 7.3
-durability: 100.0
-max.Durability: 100.0
-bulletResistance: 49.0
-meleeProtection: 55.0
-explosionProtection: 67.0
-resistanceToElectricity: 601.0
-resistanceToFire: 601.0
-resistanceToChemicals: 601.0
-radiationProtection: 210.0
-thermalProtection: 210.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 180.0
-bleedingProtection: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2jdo
+    key: kimm
+    name: 'KIM-99 Malachite'
+    category: Armor/Scientific
+    rank: Stalker
+    class: Scientist
+    weight: 7.3
+    maxDurability: 100.0
+    nightVision: 1
+    bulletDmgFactor: [49.0]
+    tearDmgFactor: [55.0]
+    explosionDmgFactor: [67.0]
+    electraDmgFactor: [601.0]
+    burnDmgFactor: [601.0]
+    chemicalBurnDmgFactor: [601.0]
+    radiationProtection: [210.0]
+    thermalProtection: [210.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [180.0]
+    bleedingProtection: [35.0]
+    text: 'A modification of the MIS-99 Amber suit. Fitted with upgraded body armor and 2nd-generation NVGs.'

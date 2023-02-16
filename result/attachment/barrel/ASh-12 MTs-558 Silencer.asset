@@ -1,7 +1,14 @@
-id: O8dD
-name: 'ASh-12 MTs-558 Silencer'
-rank: Master
-class: 'Muzzles and Silencers'
-weight: 0.7
-drawSpeed: 10.000002
-damageAtRange: -14.999998
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: O8dD
+    key: silencer_ash12_mc558
+    name: 'ASh-12 MTs-558 Silencer'
+    category: Attachment/Barrel
+    rank: Master
+    class: 'Muzzles and Silencers'
+    weight: 0.7
+    drawTime: 10.000002
+    damageDistant: -14.999998
+    suitableFor: [ASh-12, MTs-558]

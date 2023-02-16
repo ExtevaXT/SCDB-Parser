@@ -1,8 +1,14 @@
-id: Krnx
-name: '9 mm Incendiary Ammo'
-class: Ammo
-weight: 0.0045
-armor-penetration: 4.0
-bleeding: -45.0
-burning: 50.0
-stoppingPower: 75.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Krnx
+    key: 9inc
+    name: '9 mm Incendiary Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.0045
+    piercing: 4.0
+    bleeding: -45.0
+    combustion: 50.0
+    stoppingPower: 75.0

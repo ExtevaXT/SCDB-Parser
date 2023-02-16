@@ -1,8 +1,15 @@
-id: bM35
-name: 'Citadel 5.45 MBC'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.096
-recoil: -1.9999981
-horizontalRecoil: -11.000002
-spread: -22.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: bM35
+    key: barrel_citadel
+    name: 'Citadel 5.45 MBC'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.096
+    recoil: -1.9999981
+    horizontalRecoil: -11.000002
+    spread: -22.000004
+    suitableFor: [AKS-74U, AKS-74, 'AN-94 Abakan', A-545, AEK-971, 'Kbk wz. 88 Tantal', AK-105, RPK-16, AK-12, RPK-74, Rapier]

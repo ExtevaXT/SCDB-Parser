@@ -1,23 +1,30 @@
-id: ZzY8
-name: 'Hounds Exoskeleton'
-rank: Master
-class: Combo
-weight: 24.0
-durability: 100.0
-max.Durability: 100.0
-movementSpeed: 15.0
-carryWeight: 20.0
-periodicHealing: 2.0
-radiation: -2.0
-bleeding: -0.5
-bulletResistance: 95.0
-meleeProtection: 145.0
-explosionProtection: 143.0
-resistanceToElectricity: 356.0
-resistanceToFire: 356.0
-resistanceToChemicals: 356.0
-radiationProtection: 270.0
-thermalProtection: 150.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 270.0
-bleedingProtection: 60.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: ZzY8
+    key: hound
+    name: 'Hounds Exoskeleton'
+    category: Armor/Mixed
+    rank: Master
+    class: Combo
+    weight: 24.0
+    maxDurability: 100.0
+    speedModifier: [15.0]
+    maxWeightBonus: [20.0]
+    artefaktHeal: [2.0]
+    radiationAccumulation: [-2.0]
+    bleedingAccumulation: [-0.5]
+    nightVision: 1
+    bulletDmgFactor: [95.0]
+    tearDmgFactor: [145.0]
+    explosionDmgFactor: [143.0]
+    electraDmgFactor: [356.0]
+    burnDmgFactor: [356.0]
+    chemicalBurnDmgFactor: [356.0]
+    radiationProtection: [270.0]
+    thermalProtection: [150.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [270.0]
+    bleedingProtection: [60.0]
+    text: 'This exo-suit is an excellent purchase for a sniper working in the Zone. High mobility is combined with the ability to lie for hours in a radioactive swamp, waiting for the enemy. Masters of ambush from Freedom approve!'

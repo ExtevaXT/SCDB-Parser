@@ -1,7 +1,13 @@
-id: 6Q6x
-name: '5.45 mm SBP Ammo'
-class: Ammo
-weight: 0.01
-armor-penetration: 20.0
-bleeding: 5.0
-stoppingPower: 15.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 6Q6x
+    key: 545sbp
+    name: '5.45 mm SBP Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.01
+    piercing: 20.0
+    bleeding: 5.0
+    stoppingPower: 15.0

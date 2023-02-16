@@ -1,5 +1,12 @@
-id: Vo52
-name: 'Clamp with RIS Rail'
-rank: Stalker
-class: 'Hanguards and Brackets'
-weight: 0.08
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Vo52
+    key: forend_valris1
+    name: 'Clamp with RIS Rail'
+    category: Attachment/Forend
+    rank: Stalker
+    class: 'Hanguards and Brackets'
+    weight: 0.08
+    suitableFor: ['AS Val', VSK-94, 'VSS Vintorez']

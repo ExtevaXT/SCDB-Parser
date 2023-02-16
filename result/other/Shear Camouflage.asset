@@ -1,3 +1,9 @@
-id: 2O3g
-name: 'Shear Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2O3g
+    key: '19111'
+    name: 'Shear Camouflage'
+    category: Other
+    class: 'Skins and Paint'

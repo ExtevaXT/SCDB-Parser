@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: M4 LB
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 1
+  price: 100
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 9d4cbf2d70b416c4da6c0901cf807210, type: 3}
+  drop: {fileID: 4724983406357909044, guid: 2854e6cdbcdaaec44a8e9ec49ae145fb, type: 3}
+  modelPrefab: {fileID: 1428701504022370, guid: c2a14a7492b824e408d4a35a42a0665e,
+    type: 3}
+  type: Assault Rifle
+  hide: 0
+  content: "The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated
+    assault rifle that is chambered for the 7.62\xD739mm cartridge. Developed in
+    the Soviet Union by Russian small-arms designer Mikhail Kalashnikov, it is the
+    originating firearm of the Kalashnikov (or \"AK\") family of rifles."
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 1
+  successfulUseSound:
+  - {fileID: 8300000, guid: 613317be30d83034aaaf89034fc5ea84, type: 3}
+  - {fileID: 8300000, guid: f5e222e347b9d634c859fef46af5ac29, type: 3}
+  - {fileID: 8300000, guid: 2d6363f5825ad2740ae48119b3aee152, type: 3}
+  - {fileID: 8300000, guid: 48d4adde41e2b5545b6e8f527b17a3cf, type: 3}
+  - {fileID: 8300000, guid: 3c4359d558aeb3447a06581def2777dd, type: 3}
+  failedUseSound: {fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3}
+  emptySound: {fileID: 8300000, guid: 4d0ae8a62805d13408f3bc90c689f7ab, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 0.13
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 150
+  damage: 10
+  damageType: Tear
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 5b6be2186c3465a4da34c342ef66162d, type: 2}
+  magazineSize: 20
+  reloadTime: 3
+  reloadTimeFull: 3.5
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: 2c00f40647fda83458ef720e98cf4bbc, type: 3}
+  reloadSound0: {fileID: 8300000, guid: 061c38eb6377d5842bb3e37eb91c316e, type: 3}
+  reloadBolt: {fileID: 8300000, guid: a017eb38e33df304b942e53cc13441bf, type: 3}
+  reloadIn: {fileID: 8300000, guid: be156a3bcaaf23a4a8fea3017a37b379, type: 3}
+  reloadOut: {fileID: 8300000, guid: cdb526d90a499b041b4b303804990868, type: 3}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: 13f830096601e4d4f96fc5a340a752dc, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 1
+  recoilVertical: 2

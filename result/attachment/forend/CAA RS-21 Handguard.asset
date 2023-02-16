@@ -1,5 +1,12 @@
-id: RoLy
-name: 'CAA RS-21 Handguard'
-rank: Stalker
-class: 'Hanguards and Brackets'
-weight: 0.43
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: RoLy
+    key: forend_caars
+    name: 'CAA RS-21 Handguard'
+    category: Attachment/Forend
+    rank: Stalker
+    class: 'Hanguards and Brackets'
+    weight: 0.43
+    suitableFor: [AKS-74, AKM, AK-103, 'Kbk wz. 88 Tantal', AK-105, RPK, RPK-74]

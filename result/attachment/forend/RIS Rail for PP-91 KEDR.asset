@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: DV62
+    key: forend_kedrris
+    name: 'RIS Rail for PP-91 KEDR'
+    category: Attachment/Forend
+    rank: Picklock
+    class: 'Hanguards and Brackets'
+    weight: 0.04
+    suitableFor: ['SMG-91 KEDR', Tsunami]

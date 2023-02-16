@@ -1,21 +1,28 @@
-id: 6XG0
-name: 'Khors Group ZIVCAS'
-rank: Master
-class: Combo
-weight: 26.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 25.0
-periodicHealing: 4.0
-bulletResistance: 102.0
-meleeProtection: 116.0
-explosionProtection: 183.0
-resistanceToElectricity: 533.0
-resistanceToFire: 533.0
-resistanceToChemicals: 1244.0
-radiationProtection: 240.0
-thermalProtection: 240.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 240.0
-bleedingProtection: 55.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 6XG0
+    key: dr_zivcas
+    name: 'Khors Group ZIVCAS'
+    category: Armor/Mixed
+    rank: Master
+    class: Combo
+    weight: 26.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [25.0]
+    artefaktHeal: [4.0]
+    nightVision: 1
+    bulletDmgFactor: [102.0]
+    tearDmgFactor: [116.0]
+    explosionDmgFactor: [183.0]
+    electraDmgFactor: [533.0]
+    burnDmgFactor: [533.0]
+    chemicalBurnDmgFactor: [1244.0]
+    radiationProtection: [240.0]
+    thermalProtection: [240.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [240.0]
+    bleedingProtection: [55.0]
+    text: 'One version of the legendary exoarmor prototype. Combines all the benefits of cutting-edge research suits and army armored exoskeleton. Comes with a special covering that prevents damage from chemical substances.'

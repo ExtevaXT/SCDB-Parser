@@ -1,13 +1,16 @@
-id: GJqk
-name: Hatchet
-rank: Stalker
-class: 'Melee Weapons'
-weight: 0.75
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 40.0
-chanceForADeepWound: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: GJqk
+    key: '21022'
+    name: Hatchet
+    category: Weapon/Melee
+    rank: Stalker
+    class: 'Melee Weapons'
+    weight: 0.75
+    common: 50.0
+    strong: 120.0
+    piercing: 40.0
+    bloodlustChance: 35.0
+    text: 'A huge hatchet covered in rust and... ketchup?'

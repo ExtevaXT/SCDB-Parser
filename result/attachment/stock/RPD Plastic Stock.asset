@@ -1,8 +1,15 @@
-id: JAaG
-name: 'RPD Plastic Stock'
-class: Stocks
-weight: 0.31
-recoil: -2.9999971
-sway: -10.000002
-recoilBuildup: -14.999998
-stabilization: 39.999996
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JAaG
+    key: '22656'
+    name: 'RPD Plastic Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.31
+    recoil: -2.9999971
+    wiggle: -10.000002
+    recoilGain: -14.999998
+    tickSpreadMultiplierReduction: 39.999996
+    suitableFor: [RPD]

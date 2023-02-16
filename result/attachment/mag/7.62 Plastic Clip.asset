@@ -1,8 +1,15 @@
-id: mxj8
-name: '7.62 Plastic Clip'
-rank: Newbie
-class: Clips
-weight: 0.32
-clipSize: 40.0
-drawSpeed: 20.000004
-reloadTime: 4.999995
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: mxj8
+    key: mag_rumag762p
+    name: '7.62 Plastic Clip'
+    category: Attachment/Mag
+    rank: Newbie
+    class: Clips
+    weight: 0.32
+    clipSize: 40.0
+    drawTime: 20.000004
+    reloadTime: 4.999995
+    suitableFor: [AKM, AK-103, SOK-94, RPK]

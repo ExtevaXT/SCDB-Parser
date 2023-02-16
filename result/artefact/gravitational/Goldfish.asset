@@ -1,7 +1,16 @@
-id: lLGM
-name: Goldfish
-class: Gravitational
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lLGM
+    key: voronka_goldfish
+    name: Goldfish
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    maxWeightBonus: [5.0, 10.0]
+    bulletDmgFactor: [5.0, 15.0]
+    psychoAccumulation: [3.0, 8.0]
+    text: 'Many artifact hunters lose their minds at the sight of this artifact. And not in a good way. A member of the gravitational family of artifacts, it can create a small energy field, but you’ll need to somehow protect yourself from the resulting psy-emissions.'

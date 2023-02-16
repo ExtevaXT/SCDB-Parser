@@ -1,13 +1,16 @@
-id: GJak
-name: 'Cossack Shashka'
-rank: Master
-class: 'Melee Weapons'
-weight: 0.76
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 80.0
-chanceForADeepWound: 45.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: GJak
+    key: shashka
+    name: 'Cossack Shashka'
+    category: Weapon/Melee
+    rank: Master
+    class: 'Melee Weapons'
+    weight: 0.76
+    common: 50.0
+    strong: 120.0
+    piercing: 80.0
+    bloodlustChance: 45.0
+    text: 'A classic Cossack shashka. A long, heavy blade intended for offensive combat. Excellent for chopping off limbs!'

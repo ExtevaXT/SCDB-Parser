@@ -1,5 +1,12 @@
-id: kxk2
-name: 'RIS P90 Handguard'
-rank: Stalker
-class: 'Hanguards and Brackets'
-weight: 0.3
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: kxk2
+    key: forend_p90ris
+    name: 'RIS P90 Handguard'
+    category: Attachment/Forend
+    rank: Stalker
+    class: 'Hanguards and Brackets'
+    weight: 0.3
+    suitableFor: ['FN P90']

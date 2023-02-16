@@ -1,5 +1,11 @@
-id: B2jr
-name: 'Swamp Stone'
-rank: Newbie
-class: Other
-weight: 0.025
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: B2jr
+    key: npc
+    name: 'Swamp Stone'
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.025

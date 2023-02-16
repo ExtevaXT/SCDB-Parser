@@ -1,24 +1,31 @@
-id: z1jL
-name: МР-412
-rank: Veteran
-class: Pistols
-weight: 0.9
-durability: 100.0
-max.Durability: 100.0
-ammoType: '9 mm'
-damage: 73.0
-clipCapacity: 6.0
-maximumDistance: 65.0
-rateOfFire: 500.0
-reload: 2.0
-spread: 1.142
-hip-fireSpread: 2.25
-verticalRecoil: 0.75
-horizontalRecoil: 0.5
-drawTime: 0.3
-aimingTime: 0.15
-startDamage: 73.0
-damageDecreaseStart: 15.0
-endDamage: 30.0
-damageDecreaseEnd: 36.0
-maxDistance: 65.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: z1jL
+    key: mr412
+    name: МР-412
+    category: Weapon/Pistol
+    rank: Veteran
+    class: Pistols
+    weight: 0.9
+    maxDurability: 100.0
+    ammoType: '9 mm'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 73.0
+    clipSize: 6.0
+    distance: 65.0
+    rateOfFire: 500.0
+    reloadTime: 2.0
+    spread: 1.142
+    hipSpread: 2.25
+    recoil: 0.75
+    horizontalRecoil: 0.5
+    drawTime: 0.3
+    aimSwitch: 0.15
+    startDamage: 73.0
+    damageDecreaseStart: 15.0
+    endDamage: 30.0
+    damageDecreaseEnd: 36.0
+    maxDistance: 65.0
+    text: 'A Russian-made revolver that uses .357 Smith & Wesson Magnum ammo (9x33 mm). It was developed at the Izhevsk Mechanical Plant at the end of the 1990s.'

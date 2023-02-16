@@ -1,21 +1,27 @@
-id: 6Xl7
-name: 'Worn Hoplite Armored Suit'
-rank: Stalker
-class: Combat
-weight: 10.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -8.0
-movementSpeed: -1.0
-carryWeight: 5.0
-bulletResistance: 91.0
-meleeProtection: 91.0
-explosionProtection: 126.0
-resistanceToElectricity: 36.0
-resistanceToFire: 36.0
-resistanceToChemicals: 36.0
-radiationProtection: 150.0
-thermalProtection: 20.0
-bioinfectionProtection: 120.0
-psy-emissionProtection: 60.0
-bleedingProtection: 49.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 6Xl7
+    key: goplit-1
+    name: 'Worn Hoplite Armored Suit'
+    category: Armor/Combat
+    rank: Stalker
+    class: Combat
+    weight: 10.0
+    maxDurability: 100.0
+    staminaBonus: [-8.0]
+    speedModifier: [-1.0]
+    maxWeightBonus: [5.0]
+    bulletDmgFactor: [91.0]
+    tearDmgFactor: [91.0]
+    explosionDmgFactor: [126.0]
+    electraDmgFactor: [36.0]
+    burnDmgFactor: [36.0]
+    chemicalBurnDmgFactor: [36.0]
+    radiationProtection: [150.0]
+    thermalProtection: [20.0]
+    biologicalProtection: [120.0]
+    psychoProtection: [60.0]
+    bleedingProtection: [49.0]
+    text: 'An excellent utility vest with body armor, a reliable helmet, and a gas mask. It is an excellent choice for any true firearms connoisseur. But don’t forget that in the Zone, you need more than just protection from bullets.'

@@ -1,10 +1,16 @@
-id: n8Vk
-name: 'SN-1u Mini-Pancake'
-class: Devices
-weight: 3.5
-durability: 100.0
-max.Durability: 100.0
-charge: 100.0
-passiveRange: 20.0
-activeRange: 8.0
-scanningAngle: 60.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n8Vk
+    key: cn1u
+    name: 'SN-1u Mini-Pancake'
+    category: Weapon/Device
+    class: Devices
+    weight: 3.5
+    maxDurability: 100.0
+    charge: 100.0
+    passiveScanRadius: 20.0
+    activeScanRadius: 8.0
+    activeScanAngle: 60.0
+    text: 'Lesser charge usage during active scanning compared to the standard model, but the scanning distance is also decreased.'

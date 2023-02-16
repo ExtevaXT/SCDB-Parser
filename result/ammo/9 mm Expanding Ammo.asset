@@ -1,8 +1,14 @@
-id: l0XB
-name: '9 mm Expanding Ammo'
-class: Ammo
-weight: 0.009
-damage: 10.000002
-armor-penetration: -25.0
-bleeding: 15.000001
-stoppingPower: 75.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: l0XB
+    key: 9exp
+    name: '9 mm Expanding Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.009
+    damage: 10.000002
+    piercing: -25.0
+    bleeding: 15.000001
+    stoppingPower: 75.0

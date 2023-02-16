@@ -1,13 +1,16 @@
-id: r67Z
-name: 'Military Stalkers’ Hatchet'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.55
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 60.0
-chanceForADeepWound: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: r67Z
+    key: '21034'
+    name: 'Military Stalkers’ Hatchet'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.55
+    common: 50.0
+    strong: 120.0
+    piercing: 60.0
+    bloodlustChance: 40.0
+    text: 'A knife intended for use by military stalkers. It stands out due to its aggressive, contemporary design. It allows you to quickly perform slashing attacks.'

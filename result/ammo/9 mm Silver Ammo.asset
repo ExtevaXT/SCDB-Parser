@@ -1,7 +1,13 @@
-id: Rb5b
-name: '9 mm Silver Ammo'
-class: Ammo
-weight: 0.009
-absoluteDamage: 20.0
-bleeding: 5.0
-stoppingPower: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Rb5b
+    key: 9silver2
+    name: '9 mm Silver Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.009
+    default: 20.0
+    bleeding: 5.0
+    stoppingPower: 50.0

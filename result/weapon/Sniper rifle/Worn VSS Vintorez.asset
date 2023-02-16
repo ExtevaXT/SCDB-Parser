@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JJ3K
+    key: vss-1
+    name: 'Worn VSS Vintorez'
+    category: 'Weapon/Sniper rifle'
+    rank: Veteran
+    class: 'Sniper Rifles'
+    weight: 3.9099998
+    maxDurability: 100.0
+    ammoType: 9x39
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 39.0
+    clipSize: 20.0
+    distance: 165.0
+    rateOfFire: 590.0
+    reloadTime: 3.5
+    tacticalReloadTime: 2.6
+    spread: 0.23
+    hipSpread: 3.771
+    recoil: 0.3
+    horizontalRecoil: 0.14
+    drawTime: 1.0
+    aimSwitch: 0.25
+    stoppingPower: 20.0
+    startDamage: 39.0
+    damageDecreaseStart: 20.0
+    endDamage: 29.0
+    damageDecreaseEnd: 65.0
+    maxDistance: 165.0
+    text: 'This 9 mm special sniper rifle (a VSS that was developed under the title Vintorez, a name that has remained in use) is a silenced sniper rifle. It was created in the Tochmash Central Scientific Research Institute for Precision Machine Engineering in Klimovsk at the start of the 1980s under the leadership of Pyotr Ivanovich Serdyukov. It was intended for use by special ops units.'

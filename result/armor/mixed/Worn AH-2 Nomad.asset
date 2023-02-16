@@ -1,20 +1,27 @@
-id: eb0G
-name: 'Worn AH-2 Nomad'
-rank: Newbie
-class: Combo
-weight: 4.5
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-periodicHealing: 1.25
-bulletResistance: 35.0
-meleeProtection: 41.0
-explosionProtection: 50.0
-resistanceToElectricity: 237.0
-resistanceToFire: 237.0
-resistanceToChemicals: 237.0
-radiationProtection: 105.0
-thermalProtection: 105.0
-bioinfectionProtection: 105.0
-psy-emissionProtection: 60.0
-bleedingProtection: 26.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: eb0G
+    key: ao2-1
+    name: 'Worn AH-2 Nomad'
+    category: Armor/Mixed
+    rank: Newbie
+    class: Combo
+    weight: 4.5
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    artefaktHeal: [1.25]
+    nightVision: 1
+    bulletDmgFactor: [35.0]
+    tearDmgFactor: [41.0]
+    explosionDmgFactor: [50.0]
+    electraDmgFactor: [237.0]
+    burnDmgFactor: [237.0]
+    chemicalBurnDmgFactor: [237.0]
+    radiationProtection: [105.0]
+    thermalProtection: [105.0]
+    biologicalProtection: [105.0]
+    psychoProtection: [60.0]
+    bleedingProtection: [26.0]
+    text: 'The AH-1 suit enjoyed amazing popularity, and so an improved modification was launched: the AH-2. It differs in terms of its increased protection from all sources of damage.'

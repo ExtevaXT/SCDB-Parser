@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Q8k1
+    key: mag_pp200040
+    name: 'PP-2000 Clip'
+    category: Attachment/Mag
+    rank: Newbie
+    class: Clips
+    weight: 0.26
+    clipSize: 40.0
+    drawTime: 4.999995
+    reloadTime: 4.999995
+    suitableFor: [SMG-2000]

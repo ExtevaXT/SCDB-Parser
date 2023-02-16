@@ -1,12 +1,19 @@
-id: y8Mx
-name: 'Scientific First-Aid Kit'
-class: Medicine
-weight: 0.2
-purpose: Healing
-duration: 12.0
-periodicHealing: 5.0
-radiationResistance: 25.0
-bioinfectionResistance: 25.0
-radiation: -10.0
-biologicalInfection: -10.0
-bleeding: -1.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: y8Mx
+    key: apt_s
+    name: 'Scientific First-Aid Kit'
+    category: Medicine
+    class: Medicine
+    weight: 0.2
+    purpose: Healing
+    duration: 12.0
+    artefaktHeal: [5.0]
+    radiationDmgFactor: [25.0]
+    biologicalDmgFactor: [25.0]
+    radiationAccumulation: [-10.0]
+    biologicalAccumulation: [-10.0]
+    bleedingAccumulation: [-1.0]
+    text: 'A medical kit developed especially for use in Zone conditions.'

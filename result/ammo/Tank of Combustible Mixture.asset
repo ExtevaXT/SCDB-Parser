@@ -1,4 +1,10 @@
-id: BOEy
-name: 'Tank of Combustible Mixture'
-class: Ammo
-weight: 1.2
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BOEy
+    key: gas_small
+    name: 'Tank of Combustible Mixture'
+    category: Ammo
+    class: Ammo
+    weight: 1.2

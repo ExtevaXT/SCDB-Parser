@@ -1,5 +1,12 @@
-id: N512
-name: 'Kochetov Mount for Patriot with Picatinny Rail'
-rank: Picklock
-class: 'Hanguards and Brackets'
-weight: 0.205
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: N512
+    key: mount_mosinris
+    name: 'Kochetov Mount for Patriot with Picatinny Rail'
+    category: Attachment/Forend
+    rank: Picklock
+    class: 'Hanguards and Brackets'
+    weight: 0.205
+    suitableFor: ['Mosin’s Carbine', 'Mosin’s Rifle']

@@ -1,6 +1,13 @@
-id: G0o9
-name: 'MP-133 MP-153 Clip Extender'
-rank: Newbie
-class: Clips
-weight: 0.124
-additionalClipSize: 2.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: G0o9
+    key: mag_mr133
+    name: 'MP-133 MP-153 Clip Extender'
+    category: Attachment/Mag
+    rank: Newbie
+    class: Clips
+    weight: 0.124
+    additiveClipSize: 2.0
+    suitableFor: [МР-133, МР-153]

@@ -1,9 +1,16 @@
-id: RokO
-name: 'ZM High Standard AK Stock'
-class: Stocks
-weight: 0.47
-recoil: -2.9999971
-sway: -14.999998
-drawSpeed: 4.999995
-recoilBuildup: -19.999998
-stabilization: 14.999998
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: RokO
+    key: '22654'
+    name: 'ZM High Standard AK Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.47
+    recoil: -2.9999971
+    wiggle: -14.999998
+    drawTime: 4.999995
+    recoilGain: -19.999998
+    tickSpreadMultiplierReduction: 14.999998
+    suitableFor: [AKS-74U, AKS-74, 'SMG-19 Bizon-2-01', AKM, 'SMG-19-01 Vityaz', AK-103, 'Kbk wz. 88 Tantal', AK-105, RPK-16, Saiga-12K]

@@ -1,3 +1,9 @@
-id: 755d
-name: Toxin
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 755d
+    key: alk22_toxin
+    name: Toxin
+    category: Other
+    class: 'Skins and Paint'

@@ -1,7 +1,15 @@
-id: k51k
-name: Soul
-class: Gravitational
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: k51k
+    key: karousel_dusha
+    name: Soul
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [3.0, 5.0]
+    radiationAccumulation: [3.0, 6.0]
+    text: 'Legend says this artifact contains the souls of dead swamp dwellers. It has the ability to significantly speed up the wearer’s physical regeneration rate. Radioactive.'

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: LJ3Z
+    key: sig-1
+    name: 'Worn SIG SG 550'
+    category: 'Weapon/Assault rifle'
+    rank: Stalker
+    class: 'Assault Rifles'
+    weight: 4.84
+    maxDurability: 100.0
+    ammoType: '5.56'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 36.0
+    clipSize: 30.0
+    distance: 160.0
+    rateOfFire: 680.0
+    reloadTime: 3.5
+    tacticalReloadTime: 2.95
+    spread: 0.584
+    hipSpread: 3.0900002
+    recoil: 0.39
+    horizontalRecoil: 0.14
+    drawTime: 1.05
+    aimSwitch: 0.3
+    startDamage: 36.0
+    damageDecreaseStart: 16.0
+    endDamage: 27.0
+    damageDecreaseEnd: 68.0
+    maxDistance: 160.0
+    text: 'A representative of a new family of assault rifles. Thanks to its high reliability, accuracy, and ease of handling, it is one of the best examples of a weapon in its class. It is not frequently encountered in the Zone, and it costs a pretty penny. It is usually seasoned stalkers who order one of these specially for themselves.'

@@ -1,25 +1,32 @@
-id: Xn5y
-name: PTRD-M
-rank: Veteran
-class: 'Other Weapons'
-weight: 17.3
-durability: 100.0
-max.Durability: 100.0
-ammoType: 'High Caliber'
-damage: 220.0
-clipCapacity: 1.0
-maximumDistance: 250.0
-rateOfFire: 50.0
-reload: 5.0
-spread: 4.0
-hip-fireSpread: 8.0
-verticalRecoil: 10.0
-horizontalRecoil: 3.0
-drawTime: 2.5
-aimingTime: 0.8
-stoppingPower: 200.0
-startDamage: 220.0
-damageDecreaseStart: 50.0
-endDamage: 220.0
-damageDecreaseEnd: 150.0
-maxDistance: 250.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Xn5y
+    key: ptrd
+    name: PTRD-M
+    category: Weapon/Heavy
+    rank: Veteran
+    class: 'Other Weapons'
+    weight: 17.3
+    maxDurability: 100.0
+    ammoType: 'High Caliber'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 220.0
+    clipSize: 1.0
+    distance: 250.0
+    rateOfFire: 50.0
+    reloadTime: 5.0
+    spread: 4.0
+    hipSpread: 8.0
+    recoil: 10.0
+    horizontalRecoil: 3.0
+    drawTime: 2.5
+    aimSwitch: 0.8
+    stoppingPower: 200.0
+    startDamage: 220.0
+    damageDecreaseStart: 50.0
+    endDamage: 220.0
+    damageDecreaseEnd: 150.0
+    maxDistance: 250.0
+    text: 'A single-shot anti-tank weapon with a shortened barrel and an improvised mount for various types of sights. For the sake of accuracy, this weapon should be fired from a prone position.'

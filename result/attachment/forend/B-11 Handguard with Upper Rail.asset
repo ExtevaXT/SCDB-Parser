@@ -1,5 +1,12 @@
-id: nxE9
-name: 'B-11 Handguard with Upper Rail'
-rank: Picklock
-class: 'Hanguards and Brackets'
-weight: 0.2
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nxE9
+    key: forend_b11
+    name: 'B-11 Handguard with Upper Rail'
+    category: Attachment/Forend
+    rank: Picklock
+    class: 'Hanguards and Brackets'
+    weight: 0.2
+    suitableFor: [AKS-74U]

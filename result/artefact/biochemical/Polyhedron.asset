@@ -1,7 +1,19 @@
-id: D1eX
-name: Polyhedron
-class: Biochemical
-weight: 0.05
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: D1eX
+    key: kisel_poly
+    name: Polyhedron
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.05
+    common: 'Not studied'
+    maxDurability: 100.0
+    triggerDamage: [100.0, 100.0]
+    blockingDamage: [50.0, 62.5]
+    recharge: [30.0, 18.0]
+    cost: [5.0, 3.0]
+    speedModifier: [-10.0, -5.0]
+    radiationAccumulation: [3.0, 4.0]
+    text: 'A strange radioactive artifact that seems to consume the owner, but prevents them from dying.'

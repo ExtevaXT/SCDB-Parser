@@ -1,5 +1,12 @@
-id: 2RQR
-name: 'B-10M Handguard and B-33 Receiver Cover'
-rank: Stalker
-class: 'Hanguards and Brackets'
-weight: 0.435
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2RQR
+    key: forend_b10b33
+    name: 'B-10M Handguard and B-33 Receiver Cover'
+    category: Attachment/Forend
+    rank: Stalker
+    class: 'Hanguards and Brackets'
+    weight: 0.435
+    suitableFor: [AKS-74, AKM, AK-103, 'Kbk wz. 88 Tantal', AK-105]

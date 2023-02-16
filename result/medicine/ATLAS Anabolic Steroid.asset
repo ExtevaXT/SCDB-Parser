@@ -1,11 +1,18 @@
-id: a97B
-name: 'ATLAS Anabolic Steroid'
-class: Medicine
-weight: 0.12
-purpose: 'Stamina Improvement'
-duration: 300.0
-poison: 25.0
-stamina: 50.0
-movementSpeed: 2.0
-carryWeight: 10.0
-staminaRegeneration: 5.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: a97B
+    key: atlas
+    name: 'ATLAS Anabolic Steroid'
+    category: Medicine
+    class: Medicine
+    weight: 0.12
+    purpose: 'Stamina Improvement'
+    duration: 300.0
+    toxicity: 25.0
+    staminaBonus: [50.0]
+    speedModifier: [2.0]
+    maxWeightBonus: [10.0]
+    staminaRegenerationBonus: [5.0]
+    text: 'A foreign anabolic steroid with effects similar to other substances that are popular among stalkers like Hercules and Jiden. Due to the high dose of the active ingredient, usage of more than one of these substances at the same time is not recommended.'

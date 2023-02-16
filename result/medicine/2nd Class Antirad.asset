@@ -1,9 +1,16 @@
-id: VYeJ
-name: '2nd Class Antirad'
-class: Medicine
-weight: 0.05
-purpose: 'Radiation Cleansing'
-duration: 5.0
-poison: 25.0
-radiationResistance: 75.0
-radiation: -50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: VYeJ
+    key: antirad_2
+    name: '2nd Class Antirad'
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Radiation Cleansing'
+    duration: 5.0
+    toxicity: 25.0
+    radiationDmgFactor: [75.0]
+    radiationAccumulation: [-50.0]
+    text: 'Removes radiation from the body.'

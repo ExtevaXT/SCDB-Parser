@@ -1,3 +1,9 @@
-id: z11P
-name: 'Test Prototype OTs-33'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: z11P
+    key: '19820'
+    name: 'Test Prototype OTs-33'
+    category: Other
+    class: 'Skins and Paint'

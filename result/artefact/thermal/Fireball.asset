@@ -1,7 +1,16 @@
-id: n8w9
-name: Fireball
-class: Thermal
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n8w9
+    key: jarka_fireball
+    name: Fireball
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    thermalDmgFactor: [5.0, 15.0]
+    radiationAccumulation: [2.0, 5.0]
+    thermalAccumulation: [-3.0, -1.0]
+    text: 'This artifact got its name from its appearance alone. In fact, it won’t burn you—it has the inexplicable ability to maintain a constant comfortable temperature in a small surrounding area.'

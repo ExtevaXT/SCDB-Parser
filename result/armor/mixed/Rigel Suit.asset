@@ -1,21 +1,28 @@
-id: JLBQ
-name: 'Rigel Suit'
-rank: Master
-class: Combo
-weight: 32.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-movementSpeed: -2.0
-carryWeight: 20.0
-bulletResistance: 105.0
-meleeProtection: 116.0
-explosionProtection: 171.0
-resistanceToElectricity: 711.0
-resistanceToFire: 1200.0
-resistanceToChemicals: 711.0
-radiationProtection: 240.0
-thermalProtection: 270.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 240.0
-bleedingProtection: 52.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JLBQ
+    key: rigel
+    name: 'Rigel Suit'
+    category: Armor/Mixed
+    rank: Master
+    class: Combo
+    weight: 32.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    speedModifier: [-2.0]
+    maxWeightBonus: [20.0]
+    nightVision: 1
+    bulletDmgFactor: [105.0]
+    tearDmgFactor: [116.0]
+    explosionDmgFactor: [171.0]
+    electraDmgFactor: [711.0]
+    burnDmgFactor: [1200.0]
+    chemicalBurnDmgFactor: [711.0]
+    radiationProtection: [240.0]
+    thermalProtection: [270.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [240.0]
+    bleedingProtection: [52.0]
+    text: 'A suit with an exoskeleton. A direct descendant of the SEVA, it does not have any focused specialization. Instead, the Rigel provides comprehensive protection from nearly all dangers in the Zone.'

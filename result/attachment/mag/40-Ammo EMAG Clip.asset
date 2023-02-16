@@ -1,8 +1,15 @@
-id: xL0K
-name: '40-Ammo EMAG Clip'
-rank: Stalker
-class: Clips
-weight: 0.22
-clipSize: 40.0
-drawSpeed: 14.999998
-reloadTime: 4.999995
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: xL0K
+    key: mag_sig40
+    name: '40-Ammo EMAG Clip'
+    category: Attachment/Mag
+    rank: Stalker
+    class: Clips
+    weight: 0.22
+    clipSize: 40.0
+    drawTime: 14.999998
+    reloadTime: 4.999995
+    suitableFor: ['SIG SG 550', 'HK G36C', 'SIG SG 550 Sniper', 'HK XM8', 'HK XM8S']

@@ -1,5 +1,11 @@
-id: 3rMl
-name: 'Digamma Data Fragment'
-rank: Newbie
-class: Other
-weight: 0.15
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3rMl
+    key: node
+    name: 'Digamma Data Fragment'
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.15

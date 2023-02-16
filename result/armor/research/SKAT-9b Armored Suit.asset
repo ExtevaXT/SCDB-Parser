@@ -1,20 +1,27 @@
-id: MAQB
-name: 'SKAT-9b Armored Suit'
-rank: Master
-class: Explorer
-weight: 14.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -8.0
-carryWeight: 10.0
-bulletResistance: 130.0
-meleeProtection: 140.0
-explosionProtection: 189.0
-resistanceToElectricity: 326.0
-resistanceToFire: 326.0
-resistanceToChemicals: 326.0
-radiationProtection: 215.0
-thermalProtection: 150.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 200.0
-bleedingProtection: 58.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: MAQB
+    key: skat9b
+    name: 'SKAT-9b Armored Suit'
+    category: Armor/Research
+    rank: Master
+    class: Explorer
+    weight: 14.0
+    maxDurability: 100.0
+    staminaBonus: [-8.0]
+    maxWeightBonus: [10.0]
+    nightVision: 1
+    bulletDmgFactor: [130.0]
+    tearDmgFactor: [140.0]
+    explosionDmgFactor: [189.0]
+    electraDmgFactor: [326.0]
+    burnDmgFactor: [326.0]
+    chemicalBurnDmgFactor: [326.0]
+    radiationProtection: [215.0]
+    thermalProtection: [150.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [200.0]
+    bleedingProtection: [58.0]
+    text: 'An armored suit made from components analogous to those in the SKAT-9m suit. The expensive NVG has been replaced with a more widespread model. The resulting cost reduction made it possible to install oxygen tanks and an advanced air-filtration system. This means the armor is maximally adapted for working in areas of the Zone with high levels of radiation and biological infection.'

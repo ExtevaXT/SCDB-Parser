@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JJ03
+    key: aks74_mod
+    name: Rapier
+    category: 'Weapon/Assault rifle'
+    rank: Stalker
+    class: 'Assault Rifles'
+    weight: 3.61
+    maxDurability: 100.0
+    ammoType: '5.45'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 45.0
+    clipSize: 30.0
+    distance: 165.0
+    rateOfFire: 500.0
+    reloadTime: 3.5
+    tacticalReloadTime: 2.95
+    spread: 0.3
+    hipSpread: 2.7
+    recoil: 0.45
+    horizontalRecoil: 0.2
+    drawTime: 0.9
+    aimSwitch: 0.25
+    startDamage: 45.0
+    damageDecreaseStart: 16.0
+    endDamage: 32.0
+    damageDecreaseEnd: 80.0
+    maxDistance: 165.0
+    text: 'A modification of the AKS-74 that allows the shooter to engage at longer distances. Meticulous work on the weapon’s barrel, breech, and gas tube has increased its accuracy and muzzle velocity. However, a decision was made to limit its rate of fire in order to maintain its durability.'

@@ -1,19 +1,25 @@
-id: GQxw
-name: 'Trapper Suit'
-rank: Newbie
-class: Combat
-weight: 6.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 6.0
-bulletResistance: 44.0
-meleeProtection: 125.0
-explosionProtection: 60.0
-resistanceToElectricity: 27.0
-resistanceToFire: 27.0
-resistanceToChemicals: 27.0
-radiationProtection: 120.0
-thermalProtection: 20.0
-bioinfectionProtection: 120.0
-psy-emissionProtection: 20.0
-bleedingProtection: 62.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: GQxw
+    key: trapper
+    name: 'Trapper Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 6.0
+    maxDurability: 100.0
+    maxWeightBonus: [6.0]
+    bulletDmgFactor: [44.0]
+    tearDmgFactor: [125.0]
+    explosionDmgFactor: [60.0]
+    electraDmgFactor: [27.0]
+    burnDmgFactor: [27.0]
+    chemicalBurnDmgFactor: [27.0]
+    radiationProtection: [120.0]
+    thermalProtection: [20.0]
+    biologicalProtection: [120.0]
+    psychoProtection: [20.0]
+    bleedingProtection: [62.0]
+    text: 'A comfortable suit that is good for actively tracking mutants and for fleeing from them. Its average damage protection is offset by its base resistance to anomalies.'

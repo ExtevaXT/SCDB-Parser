@@ -1,19 +1,26 @@
-id: V35A
-name: RG-6
-rank: Veteran
-class: 'Other Weapons'
-weight: 5.6
-durability: 100.0
-max.Durability: 100.0
-ammoType: '40 mm'
-damage: 440.0
-clipCapacity: 6.0
-maximumDistance: 200.0
-rateOfFire: 75.0
-reload: 5.25
-spread: 1.0
-hip-fireSpread: 1.0
-verticalRecoil: 2.0
-horizontalRecoil: 1.0
-drawTime: 1.4
-aimingTime: 0.35
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: V35A
+    key: rg6
+    name: RG-6
+    category: Weapon/Heavy
+    rank: Veteran
+    class: 'Other Weapons'
+    weight: 5.6
+    maxDurability: 100.0
+    ammoType: '40 mm'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 440.0
+    clipSize: 6.0
+    distance: 200.0
+    rateOfFire: 75.0
+    reloadTime: 5.25
+    spread: 1.0
+    hipSpread: 1.0
+    recoil: 2.0
+    horizontalRecoil: 1.0
+    drawTime: 1.4
+    aimSwitch: 0.35
+    text: 'A handheld revolver-type grenade launcher. It has a range of 55 meters.'

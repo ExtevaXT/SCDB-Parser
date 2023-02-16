@@ -1,14 +1,17 @@
-id: jawR
-name: 'Icy Kukri'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.6
-frostDamage: 10.0
-quickAttack(min): 45.0
-quickAttack(max): 55.0
-strongAttack(min): 110.0
-strongAttack(max): 130.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 50.0
-chanceForADeepWound: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: jawR
+    key: kukri_f
+    name: 'Icy Kukri'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.6
+    frost: 10.0
+    common: 45.0
+    strong: 110.0
+    piercing: 50.0
+    bloodlustChance: 40.0
+    text: 'Covered in ice, this kukri is used by Frost Hunters.'

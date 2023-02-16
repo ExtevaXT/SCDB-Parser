@@ -1,5 +1,12 @@
-id: lzG2
-name: 'Picatinny Rail and Base'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.15
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lzG2
+    key: mount_tozris
+    name: 'Picatinny Rail and Base'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.15
+    suitableFor: [TOZ-34]

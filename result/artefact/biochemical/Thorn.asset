@@ -1,7 +1,15 @@
-id: B19r
-name: Thorn
-class: Biochemical
-weight: 0.4
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: B19r
+    key: puh_koluchka
+    name: Thorn
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.4
+    common: 'Not studied'
+    maxDurability: 100.0
+    bleedingProtection: [-100.0, -50.0]
+    radiationAccumulation: [-4.0, -2.0]
+    text: 'An artifact that forms inside the Burnt Fuzz anomaly. In appearance it resembles a rusty sphere with needles. If worn, it slowly but effectively cleanses the body of radiation. The artifact affects the tissues of the blood vessels, and as a side effect, they become thinner, which increases the risk of bleeding when injured.'

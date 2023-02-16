@@ -1,20 +1,26 @@
-id: xQ1j
-name: 'Hunter’s Cloak'
-rank: Picklock
-class: Combat
-weight: 3.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-carryWeight: 5.0
-bulletResistance: 24.0
-meleeProtection: 73.0
-explosionProtection: 33.0
-resistanceToElectricity: 15.0
-resistanceToFire: 15.0
-resistanceToChemicals: 15.0
-radiationProtection: 30.0
-thermalProtection: 0.0
-bioinfectionProtection: 30.0
-psy-emissionProtection: 0.0
-bleedingProtection: 42.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: xQ1j
+    key: vestcoat
+    name: 'Hunter’s Cloak'
+    category: Armor/Combat
+    rank: Picklock
+    class: Combat
+    weight: 3.0
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    maxWeightBonus: [5.0]
+    bulletDmgFactor: [24.0]
+    tearDmgFactor: [73.0]
+    explosionDmgFactor: [33.0]
+    electraDmgFactor: [15.0]
+    burnDmgFactor: [15.0]
+    chemicalBurnDmgFactor: [15.0]
+    radiationProtection: [30.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [30.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [42.0]
+    text: 'Over this thick, waterproof cloak, one can wear a large utility vest with body armor, which allows you to increase the amount of resources that can be carried.'

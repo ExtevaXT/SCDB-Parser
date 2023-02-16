@@ -1,5 +1,12 @@
-id: nxea
-name: 'Clamp with 3 RIS Rails'
-rank: Veteran
-class: 'Hanguards and Brackets'
-weight: 0.24
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nxea
+    key: forend_valris3
+    name: 'Clamp with 3 RIS Rails'
+    category: Attachment/Forend
+    rank: Veteran
+    class: 'Hanguards and Brackets'
+    weight: 0.24
+    suitableFor: ['AS Val', VSK-94, 'VSS Vintorez']

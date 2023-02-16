@@ -1,6 +1,13 @@
-id: M7Bk
-name: 'MTs-558 Extended Clip'
-rank: Master
-class: Clips
-weight: 0.35
-clipSize: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: M7Bk
+    key: mag_mc55810
+    name: 'MTs-558 Extended Clip'
+    category: Attachment/Mag
+    rank: Master
+    class: Clips
+    weight: 0.35
+    clipSize: 10.0
+    suitableFor: [MTs-558]

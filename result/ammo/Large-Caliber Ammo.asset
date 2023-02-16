@@ -1,7 +1,13 @@
-id: 9r8V
-name: 'Large-Caliber Ammo'
-class: Ammo
-weight: 0.2
-armor-penetration: 60.0
-bleeding: 100.0
-stoppingPower: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 9r8V
+    key: 12st
+    name: 'Large-Caliber Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.2
+    piercing: 60.0
+    bleeding: 100.0
+    stoppingPower: 100.0

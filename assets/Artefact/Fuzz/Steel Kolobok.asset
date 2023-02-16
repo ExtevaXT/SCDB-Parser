@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c06992fabc4400c8c2e33ff979c9e2, type: 3}
+  m_Name: Steel Kolobok
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 100
+  price: 0
+  sellable: 0
+  personal: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Artefact
+  image: {fileID: 21300000, guid: ec8af59a56ee84c41a20aacf511acc09, type: 3}
+  drop: {fileID: 4835910926617433926, guid: 5998b3b9f9a118744ba8025a048f49e9, type: 3}
+  modelPrefab: {fileID: 0}
+  type: Biochemical
+  hide: 0
+  content: Anomaly even among the artifacts. Appears in the anomaly "burning fluff"
+    in an unknown set of circumstances. Reduces vulnerability to lacerations and
+    increases fatigue threshold, but has a negative mental effect.
+  notes: 
+  category: Artefact
+  keepUsingWhileButtonDown: 0
+  successfulUseSound: {fileID: 0}
+  failedUseSound: {fileID: 0}
+  emptySound: {fileID: 0}
+  cooldown: 0
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 0
+  useDirectly: 0
+  healthBonus: 0
+  hydrationBonus: 0
+  nutritionBonus: 0
+  damageBonus: 0
+  protectionThermalBonus: 0
+  protectionBiologicalBonus: 0
+  protectionPsychoBonus: 0
+  protectionRadiationBonus: 0
+  slotBonus: 0
+  artefactBonus: 0
+  healthRecoveryBonus: 0
+  healingBonus: 0
+  healingEffiencyBonus: 0
+  enduranceBonus: 10
+  enduranceRecoveryBonus: 0
+  speedBonus: 0
+  weightBonus: 0
+  defenseThermalBonus: 0
+  defenseBiologicalBonus: 0
+  defensePsychoBonus: 0
+  defenseRadiationBonus: 0
+  defenseBleedingBonus: 0
+  accumulationThermalBonus: 0
+  accumulationBiologicalBonus: 0
+  accumulationPsychoBonus: 4
+  accumulationRadiationBonus: 0
+  accumulationBleedingBonus: 0
+  defenseBulletBonus: 0
+  defenseExplosionBonus: 0
+  defenseTearBonus: 15
+  defenseElectricalBonus: 0
+  defenseBurnBonus: 0
+  defenseChemicalBonus: 0
+  damageFactorTearBonus: 0
+  damageFactorElectricalBonus: 0
+  damageFactorBurnBonus: 0
+  damageFactorChemicalBonus: 0

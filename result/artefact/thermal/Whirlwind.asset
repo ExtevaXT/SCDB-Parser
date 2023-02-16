@@ -1,7 +1,14 @@
-id: 0QZb
-name: Whirlwind
-class: Thermal
-weight: 0.1
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0QZb
+    key: blizzard_vortex
+    name: Whirlwind
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.1
+    common: 'Not studied'
+    maxDurability: 100.0
+    speedModifier: [3.0, 6.0]
+    staminaRegenerationBonus: [-5.0, -2.5]

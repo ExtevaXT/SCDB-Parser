@@ -1,8 +1,15 @@
-id: 0gyQ
-name: 'AA-12 Drum Clip'
-rank: Master
-class: Clips
-weight: 0.73
-clipSize: 20.0
-drawSpeed: 20.000004
-reloadTime: 39.999996
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0gyQ
+    key: mag_aa1220
+    name: 'AA-12 Drum Clip'
+    category: Attachment/Mag
+    rank: Master
+    class: Clips
+    weight: 0.73
+    clipSize: 20.0
+    drawTime: 20.000004
+    reloadTime: 39.999996
+    suitableFor: [AA-12]

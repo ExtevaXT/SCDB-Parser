@@ -1,7 +1,16 @@
-id: Rg37
-name: Mica
-class: Biochemical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Rg37
+    key: kisel_slyda
+    name: Mica
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [1.0, 2.0]
+    biologicalAccumulation: [2.0, 5.0]
+    reactionToTear: [1.5, 3.0]
+    text: 'A rare artifact that mitigates some types of damage by gradually enveloping the owner’s tissues in a thin, barely noticeable layer of regenerative substance.'

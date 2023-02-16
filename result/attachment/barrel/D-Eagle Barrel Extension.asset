@@ -1,8 +1,15 @@
-id: wDjk
-name: 'D-Eagle Barrel Extension'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.96
-distance: 20.000004
-recoil: 25.0
-spread: -10.000002
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: wDjk
+    key: barrel_longdeagle
+    name: 'D-Eagle Barrel Extension'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.96
+    distance: 20.000004
+    recoil: 25.0
+    spread: -10.000002
+    suitableFor: ['Desert Eagle Mark XIX']

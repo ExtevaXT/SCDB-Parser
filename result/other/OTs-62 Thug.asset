@@ -1,3 +1,9 @@
-id: aVV5
-name: 'OTs-62 Thug'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: aVV5
+    key: '19826'
+    name: 'OTs-62 Thug'
+    category: Other
+    class: 'Skins and Paint'

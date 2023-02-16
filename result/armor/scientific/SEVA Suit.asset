@@ -1,19 +1,26 @@
-id: VqMV
-name: 'SEVA Suit'
-rank: Veteran
-class: Scientist
-weight: 12.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 5.0
-bulletResistance: 63.0
-meleeProtection: 71.0
-explosionProtection: 86.0
-resistanceToElectricity: 773.0
-resistanceToFire: 773.0
-resistanceToChemicals: 773.0
-radiationProtection: 340.0
-thermalProtection: 340.0
-bioinfectionProtection: 400.0
-psy-emissionProtection: 310.0
-bleedingProtection: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: VqMV
+    key: seva
+    name: 'SEVA Suit'
+    category: Armor/Scientific
+    rank: Veteran
+    class: Scientist
+    weight: 12.0
+    maxDurability: 100.0
+    maxWeightBonus: [5.0]
+    nightVision: 1
+    bulletDmgFactor: [63.0]
+    tearDmgFactor: [71.0]
+    explosionDmgFactor: [86.0]
+    electraDmgFactor: [773.0]
+    burnDmgFactor: [773.0]
+    chemicalBurnDmgFactor: [773.0]
+    radiationProtection: [340.0]
+    thermalProtection: [340.0]
+    biologicalProtection: [400.0]
+    psychoProtection: [310.0]
+    bleedingProtection: [40.0]
+    text: 'Having obtained a shipment of decommissioned body armor, the Chernobyl Research Institute decided to get a decisive foothold in a newly forming market segment: wealthy stalkers. This suit was the result. The closed breathing system gave it excellent performance and an eye-watering price. Fitted with 2nd-generation NVGs.'

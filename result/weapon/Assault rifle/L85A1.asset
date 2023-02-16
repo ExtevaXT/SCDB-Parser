@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: L85A1
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 3.82
+    price: 100
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: f4e3e07e61ad3314da32d3b1f0a076ab, type: 3 }
+    drop: { fileID: 4724983406357909044, guid: 2854e6cdbcdaaec44a8e9ec49ae145fb, type: 3 }
+    modelPrefab: { fileID: 1428701504022370, guid: c2a14a7492b824e408d4a35a42a0665e, type: 3 }
+    type: 'Assault Rifle'
+    hide: 0
+    content: 'The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated assault rifle that is chambered for the 7.62×39mm cartridge. Developed in the Soviet Union by Russian small-arms designer Mikhail Kalashnikov, it is the originating firearm of the Kalashnikov (or "AK") family of rifles.'
+    notes: null
+    category: 'Weapon/Assault rifle'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: 86f43ff452d59d6409cdbca20a984a2e, type: 3 }, { fileID: 8300000, guid: 48e55b1b381390948b3a1a1362c68715, type: 3 }, { fileID: 8300000, guid: eef99167a94fbb84f903bc087ccd7810, type: 3 }, { fileID: 8300000, guid: 27b78014575c20d43ad6ec4bfa0be015, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 85c68abf79fa7a946bb8319f494b59d3, type: 3 }
+    emptySound: { fileID: 8300000, guid: 85c68abf79fa7a946bb8319f494b59d3, type: 3 }
+    drawSound: { fileID: 8300000, guid: 1dda23453b39b194d9df5dbe97c801b3, type: 3 }
+    cooldown: 0.13
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 150
+    damage: 33.0
+    damageType: Tear
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 20
+    reloadTime: 3.6
+    reloadTimeFull: 3.5
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 133c6a204e368994c9565fbe754d2239, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: b7784a46fa06ebb48bb227a31240aa5b, type: 3 }
+    reloadBolt: { fileID: 8300000, guid: 1f4ef1a43d84992458e6092fbf88ea9d, type: 3 }
+    reloadIn: { fileID: 8300000, guid: e6bbe59871773e74b8e3a6cf091dcf86, type: 3 }
+    reloadOut: { fileID: 8300000, guid: 86ee039a15cd3bb4d833f575e5edbbe2, type: 3 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: 17d1126af77b55b43bef7ab0b712e84b, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 1
+    recoilVertical: 2
+    id: aVQ0
+    key: l85
+    name: L85A1
+    rank: Newbie
+    class: 'Assault Rifles'
+    ammoType: '5.56'
+    clipSize: 30.0
+    distance: 150.0
+    rateOfFire: 700.0
+    tacticalReloadTime: 2.8
+    spread: 0.784
+    hipSpread: 2.7
+    recoil: 0.4
+    horizontalRecoil: 0.15
+    drawTime: 0.7
+    aimSwitch: 0.25
+    startDamage: 33.0
+    damageDecreaseStart: 15.0
+    endDamage: 25.0
+    damageDecreaseEnd: 65.0
+    maxDistance: 150.0
+    text: 'The SA80 (SA-80—Small Arms for the 1980s) is a British family of firearms developed in the mid-1980s. It comprises the L85 assault rifle, the L86 light support weapon, the L22 carbine and the L98 cadet rifle. The set is used as the service weapons of the British Army.'

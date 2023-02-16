@@ -1,25 +1,91 @@
-id: KPE8
-name: PMM
-rank: Picklock
-class: Pistols
-weight: 0.76
-durability: 100.0
-max.Durability: 100.0
-ammoType: '9 mm'
-damage: 52.0
-clipCapacity: 12.0
-maximumDistance: 50.0
-rateOfFire: 390.0
-reload: 2.5
-tacticalReload: 2.0
-spread: 1.606
-hip-fireSpread: 2.25
-verticalRecoil: 0.52
-horizontalRecoil: 0.4
-drawTime: 0.5
-aimingTime: 0.25
-startDamage: 52.0
-damageDecreaseStart: 10.0
-endDamage: 18.0
-damageDecreaseEnd: 26.0
-maxDistance: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: PMM
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 0.76
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 1ddd257d4341b5c42a43de5d573275da, type: 3 }
+    drop: { fileID: -6751449189331077520, guid: c31cefa7bd455c445befab149c0623c5, type: 3 }
+    modelPrefab: { fileID: 1375090684829650, guid: 0951b7db6e6a71b4e889b3e54ed5dd1d, type: 3 }
+    type: Pistol
+    hide: 0
+    content: 'The most common pistol in the area, a legacy of the Soviet era, the PM is one of the best representatives of the compact self-defense class. It is very large in size, extremely reliable, and easy to use and maintain. Disadvantages include short range and accuracy, low bullet efficiency, and (compared to modern pistols of the same class) rather high weight with insufficient magazine capacity.'
+    notes: null
+    category: Weapon/Pistol
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: [{ fileID: 8300000, guid: d73fadfcd28209c4aa59e19884a35111, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: aa8e4630186eea549a44ad23f1bb16e7, type: 3 }
+    emptySound: { fileID: 8300000, guid: aa8e4630186eea549a44ad23f1bb16e7, type: 3 }
+    drawSound: { fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3 }
+    cooldown: 0.375
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 30
+    damage: 52.0
+    damageType: Tear
+    upperBodyAnimationParameter: UPPERBODY_PISTOL
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 12
+    reloadTime: 2.5
+    reloadTimeFull: 2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 7450499e8d33a47d8b5db0c4650b7f18, type: 3 }
+    reloadSound0: { fileID: 0 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: 6517d987c31223d49a57d1b2ef28368f, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 1
+    recoilVertical: 4
+    id: KPE8
+    key: pmm
+    name: PMM
+    rank: Picklock
+    class: Pistols
+    ammoType: '9 mm'
+    clipSize: 12.0
+    distance: 50.0
+    rateOfFire: 390.0
+    tacticalReloadTime: 2.0
+    spread: 1.606
+    hipSpread: 2.25
+    recoil: 0.52
+    horizontalRecoil: 0.4
+    drawTime: 0.5
+    aimSwitch: 0.25
+    startDamage: 52.0
+    damageDecreaseStart: 10.0
+    endDamage: 18.0
+    damageDecreaseEnd: 26.0
+    maxDistance: 50.0
+    text: 'This upgraded PM differs in terms of its increased magazine and improved reliability. The maximum pressure in the pistol’s barrel has been increased, which has improved its stopping power. Its disadvantages include its short range and low accuracy, and also its increased recoil by comparison with the PM and the increased spring tension in the magazine, which can lead to a loss of elasticity in the spring and cause delays while firing.'

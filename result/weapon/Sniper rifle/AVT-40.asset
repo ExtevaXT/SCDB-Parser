@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: V3g2
+    key: svt40_mod
+    name: AVT-40
+    category: 'Weapon/Sniper rifle'
+    rank: Stalker
+    class: 'Sniper Rifles'
+    weight: 3.8
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 75.0
+    clipSize: 10.0
+    distance: 170.0
+    rateOfFire: 260.0
+    reloadTime: 3.75
+    spread: 0.104
+    hipSpread: 4.5
+    recoil: 1.05
+    horizontalRecoil: 0.45
+    drawTime: 1.15
+    aimSwitch: 0.5
+    stoppingPower: 30.0
+    startDamage: 75.0
+    damageDecreaseStart: 30.0
+    endDamage: 60.0
+    damageDecreaseEnd: 100.0
+    maxDistance: 170.0
+    text: 'This assault rifle looks exactly the same as the SVT-40, with just a small alteration to the trigger mechanism. In terms of its weight and size, the AVT-40 is indistinguishable from the SVT-40. Due to some structural flaws, it wears out quickly, as continuous automatic fire can deform the receiver.'

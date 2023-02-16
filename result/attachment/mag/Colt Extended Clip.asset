@@ -1,6 +1,13 @@
-id: DV8V
-name: 'Colt Extended Clip'
-rank: Stalker
-class: Clips
-weight: 0.24
-additionalClipSize: 3.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: DV8V
+    key: mag_colt
+    name: 'Colt Extended Clip'
+    category: Attachment/Mag
+    rank: Stalker
+    class: Clips
+    weight: 0.24
+    additiveClipSize: 3.0
+    suitableFor: [SW1911]

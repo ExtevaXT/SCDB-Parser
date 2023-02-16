@@ -1,5 +1,12 @@
-id: BkQw
-name: 'BM Barrel Mount'
-rank: Picklock
-class: 'Hanguards and Brackets'
-weight: 0.18
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BkQw
+    key: forend_bm
+    name: 'BM Barrel Mount'
+    category: Attachment/Forend
+    rank: Picklock
+    class: 'Hanguards and Brackets'
+    weight: 0.18
+    suitableFor: ['BM-16 Sawed-Off', BM-16]

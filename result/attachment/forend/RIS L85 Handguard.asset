@@ -1,5 +1,12 @@
-id: Bk2j
-name: 'RIS L85 Handguard'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.2
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Bk2j
+    key: forend_l85
+    name: 'RIS L85 Handguard'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.2
+    suitableFor: [L85A1]

@@ -1,3 +1,9 @@
-id: l9M0
-name: 'Birch Tree Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: l9M0
+    key: '19102'
+    name: 'Birch Tree Camouflage'
+    category: Other
+    class: 'Skins and Paint'

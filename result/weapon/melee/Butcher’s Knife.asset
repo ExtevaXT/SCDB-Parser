@@ -1,13 +1,15 @@
-id: y1B8
-name: 'Butcher’s Knife'
-rank: Stalker
-class: 'Melee Weapons'
-weight: 0.6
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.7
-weaponReach(strong): 1.7
-penetration: 40.0
-chanceForADeepWound: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: y1B8
+    key: '21045'
+    name: 'Butcher’s Knife'
+    category: Weapon/Melee
+    rank: Stalker
+    class: 'Melee Weapons'
+    weight: 0.6
+    common: 50.0
+    strong: 120.0
+    piercing: 40.0
+    bloodlustChance: 35.0

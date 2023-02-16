@@ -1,8 +1,15 @@
-id: 2Zo7
-name: 'Jiden EXTRA Energy Drink'
-class: Medicine
-weight: 0.2
-purpose: 'Stamina Improvement'
-duration: 300.0
-movementSpeed: 2.0
-staminaRegeneration: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2Zo7
+    key: jiden
+    name: 'Jiden EXTRA Energy Drink'
+    category: Medicine
+    class: Medicine
+    weight: 0.2
+    purpose: 'Stamina Improvement'
+    duration: 300.0
+    speedModifier: [2.0]
+    staminaRegenerationBonus: [10.0]
+    text: 'A beverage that gives a rush of energy. Contains a large dose of caffeine.'

@@ -1,7 +1,16 @@
-id: B16j
-name: 'Electric Crystal'
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: B16j
+    key: electra_crystal
+    name: 'Electric Crystal'
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [-1.0, -0.5]
+    psychoAccumulation: [-2.0, -1.0]
+    reactionToElectroshock: [1.0, 3.0]
+    text: 'A crystal that was caught in an electrical anomaly.'

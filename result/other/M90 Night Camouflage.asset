@@ -1,3 +1,9 @@
-id: 0OZJ
-name: 'M90 Night Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0OZJ
+    key: '19209'
+    name: 'M90 Night Camouflage'
+    category: Other
+    class: 'Skins and Paint'

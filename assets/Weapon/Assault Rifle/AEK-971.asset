@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: AEK-971
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 3530
+  price: 100
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 068062d8baa1a8a4593121f505336141, type: 3}
+  drop: {fileID: 0}
+  modelPrefab: {fileID: 1428701504022370, guid: c2a14a7492b824e408d4a35a42a0665e,
+    type: 3}
+  type: Assault Rifle
+  hide: 0
+  content: "\u0410\u0415\u041A-971 - \u0430\u0432\u0442\u043E\u043C\u0430\u0442,
+    \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u044B\u0439
+    \u0432 1978 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0437\u0430\u0432\u043E\u0434\u0435
+    \u0438\u043C\u0435\u043D\u0438 \u0414\u0435\u0433\u0442\u044F\u0440\u0435\u0432\u0430
+    \u0432 \u041A\u043E\u0432\u0440\u043E\u0432\u0435. \u0412 2013-2015 \u0433\u043E\u0434\u0430\u0445
+    \u043C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0410\u0415\u041A-971
+    \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C \xAB\u0410-545\xBB
+    \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435
+    \u0432 \u043A\u043E\u043D\u043A\u0443\u0440\u0441\u0435 \u043D\u0430 \u043D\u043E\u0432\u044B\u0439
+    \u043E\u0431\u0449\u0435\u0432\u043E\u0439\u0441\u043A\u043E\u0432\u043E\u0439
+    \u0430\u0432\u0442\u043E\u043C\u0430\u0442."
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 1
+  successfulUseSound:
+  - {fileID: 8300000, guid: 71f836dea543fc248af58abbc6e2c387, type: 3}
+  - {fileID: 8300000, guid: e0f96c887b4a3b44f8364a955853f01f, type: 3}
+  - {fileID: 8300000, guid: 5eb7af656730e234eb9198e719c70c7f, type: 3}
+  failedUseSound: {fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3}
+  emptySound: {fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 900
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 150
+  damage: 36
+  damageType: Tear
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 579f7dfd452127d4eb73928cfed84b7e, type: 2}
+  magazineSize: 30
+  reloadTime: 2.9
+  reloadTimeFull: 3.5
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: f815c79c0f3215a4dba1c4b45caf2a1a, type: 3}
+  reloadSound0: {fileID: 8300000, guid: 80a06629307c4fe4d9c2654b9c04f5aa, type: 3}
+  reloadBolt: {fileID: 0}
+  reloadIn: {fileID: 0}
+  reloadOut: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: 6158b1129c5afbf4aa908cdf2e986f26, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 1
+  recoilVertical: 2

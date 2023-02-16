@@ -1,7 +1,15 @@
-id: 2Xqg
-name: Razor
-class: Thermal
-weight: 0.15
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2Xqg
+    key: '11455'
+    name: Razor
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.15
+    common: 'Not studied'
+    maxDurability: 100.0
+    tearDmgFactor: [-60.0, -30.0]
+    burnDmgFactor: [15.0, 30.0]
+    chemicalBurnDmgFactor: [15.0, 30.0]

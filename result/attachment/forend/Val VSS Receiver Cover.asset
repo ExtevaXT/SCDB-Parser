@@ -1,5 +1,12 @@
-id: ePQX
-name: 'Val VSS Receiver Cover'
-rank: Stalker
-class: 'Hanguards and Brackets'
-weight: 0.13
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: ePQX
+    key: forend_val
+    name: 'Val VSS Receiver Cover'
+    category: Attachment/Forend
+    rank: Stalker
+    class: 'Hanguards and Brackets'
+    weight: 0.13
+    suitableFor: ['AS Val', 'VSS Vintorez']

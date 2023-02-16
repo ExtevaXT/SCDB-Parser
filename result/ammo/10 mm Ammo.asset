@@ -1,7 +1,13 @@
-id: A3E9
-name: '10 mm Ammo'
-class: Ammo
-weight: 0.013
-numberOfProjectiles: 5.0
-bleeding: 1.0
-stoppingPower: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: A3E9
+    key: 10st
+    name: '10 mm Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.013
+    numBullets: 5.0
+    bleeding: 1.0
+    stoppingPower: 10.0

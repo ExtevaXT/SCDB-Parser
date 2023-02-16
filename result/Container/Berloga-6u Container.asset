@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2DON
+    key: bear6d
+    name: 'Berloga-6u Container'
+    category: Container
+    rank: Master
+    class: 'Backpacks and Containers'
+    weight: 7.0
+    maxDurability: 100.0
+    innerProtection: 60.000004
+    effectiveness: 80.0
+    size: 6.0
+    speedModifier: [-2.0]
+    text: 'A reinforced artifact container model. Has weak shielding capabilities but is easy to produce, reliable, and lets you carry six artifacts. These factors had a strong influence on this model’s popularity.'

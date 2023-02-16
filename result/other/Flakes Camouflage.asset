@@ -1,3 +1,9 @@
-id: wLZj
-name: 'Flakes Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: wLZj
+    key: flake
+    name: 'Flakes Camouflage'
+    category: Other
+    class: 'Skins and Paint'

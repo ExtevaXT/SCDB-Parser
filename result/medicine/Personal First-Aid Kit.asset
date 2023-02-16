@@ -1,10 +1,17 @@
-id: BLoN
-name: 'Personal First-Aid Kit'
-class: Medicine
-weight: 0.2
-purpose: Healing
-duration: 7.0
-periodicHealing: 5.0
-radiation: -3.0
-biologicalInfection: -3.0
-bleeding: -1.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BLoN
+    key: apt_i
+    name: 'Personal First-Aid Kit'
+    category: Medicine
+    class: Medicine
+    weight: 0.2
+    purpose: Healing
+    duration: 7.0
+    artefaktHeal: [5.0]
+    radiationAccumulation: [-3.0]
+    biologicalAccumulation: [-3.0]
+    bleedingAccumulation: [-1.0]
+    text: 'A multipurpose medical kit.'

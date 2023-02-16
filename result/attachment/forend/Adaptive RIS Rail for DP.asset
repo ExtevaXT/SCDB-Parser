@@ -1,5 +1,12 @@
-id: mxwo
-name: 'Adaptive RIS Rail for DP'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.1
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: mxwo
+    key: mount_dpris
+    name: 'Adaptive RIS Rail for DP'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.1
+    suitableFor: [DP]

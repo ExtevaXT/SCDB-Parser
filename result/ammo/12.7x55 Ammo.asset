@@ -1,7 +1,13 @@
-id: yg5N
-name: '12.7x55 Ammo'
-class: Ammo
-weight: 0.022
-armor-penetration: 15.0
-bleeding: 5.0
-stoppingPower: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yg5N
+    key: 127st
+    name: '12.7x55 Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.022
+    piercing: 15.0
+    bleeding: 5.0
+    stoppingPower: 40.0

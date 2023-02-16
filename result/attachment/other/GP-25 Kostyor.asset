@@ -1,5 +1,13 @@
-id: Bl92
-name: 'GP-25 Kostyor'
-rank: Veteran
-class: 'Other Attachments'
-weight: 1.5
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Bl92
+    key: launcher_gp25
+    name: 'GP-25 Kostyor'
+    category: Attachment/Other
+    rank: Veteran
+    class: 'Other Attachments'
+    weight: 1.5
+    text: 'Russian 40 mm Underbarrel Grenade Launcher'
+    suitableFor: [AKS-74, AKM, 'AN-94 Abakan', 'Kbk wz. 88 Tantal', AK-105, TKB-0146M, AK-12, AK-308, 'AKM Wooden Handguard, Black', 'Fab Defense AK Handguard', 'B-10M Handguard and B-33 Receiver Cover', 'B-10M Handguard (Bottom Rail)']

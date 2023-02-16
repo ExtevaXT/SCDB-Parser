@@ -1,14 +1,17 @@
-id: 92JD
-name: 'Frozen Ice Pick'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.65
-frostDamage: 10.0
-quickAttack(min): 35.0
-quickAttack(max): 45.0
-strongAttack(min): 90.0
-strongAttack(max): 110.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 55.0
-chanceForADeepWound: 55.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 92JD
+    key: iceaxe_f
+    name: 'Frozen Ice Pick'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.65
+    frost: 10.0
+    common: 35.0
+    strong: 90.0
+    piercing: 55.0
+    bloodlustChance: 55.0
+    text: 'Covered in ice, this ice pick is used by Frost Hunters.'

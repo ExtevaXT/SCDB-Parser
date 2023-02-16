@@ -1,8 +1,15 @@
-id: 2RlP
-name: 'APS Stock'
-class: Stocks
-weight: 0.18
-sway: -25.0
-drawSpeed: 35.000004
-recoilBuildup: -19.999998
-stabilization: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2RlP
+    key: '22655'
+    name: 'APS Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.18
+    wiggle: -25.0
+    drawTime: 35.000004
+    recoilGain: -19.999998
+    tickSpreadMultiplierReduction: 25.0
+    suitableFor: [APS]

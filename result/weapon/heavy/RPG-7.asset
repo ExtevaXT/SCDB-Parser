@@ -1,19 +1,26 @@
-id: 753d
-name: RPG-7
-rank: Master
-class: 'Other Weapons'
-weight: 6.3
-durability: 100.0
-max.Durability: 100.0
-ammoType: 'RPG Round'
-damage: 500.0
-clipCapacity: 1.0
-maximumDistance: 200.0
-rateOfFire: 75.0
-reload: 2.5
-spread: 1.0
-hip-fireSpread: 1.0
-verticalRecoil: 2.0
-horizontalRecoil: 1.0
-drawTime: 1.4
-aimingTime: 0.35
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 753d
+    key: rpg7
+    name: RPG-7
+    category: Weapon/Heavy
+    rank: Master
+    class: 'Other Weapons'
+    weight: 6.3
+    maxDurability: 100.0
+    ammoType: 'RPG Round'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 500.0
+    clipSize: 1.0
+    distance: 200.0
+    rateOfFire: 75.0
+    reloadTime: 2.5
+    spread: 1.0
+    hipSpread: 1.0
+    recoil: 2.0
+    horizontalRecoil: 1.0
+    drawTime: 1.4
+    aimSwitch: 0.35
+    text: 'A reusable Soviet handheld anti-tank grenade launcher. It is intended for dealing with tanks, self-propelled artillery, and other armored vehicles. It can be used to eliminate personnel behind cover and also counter low-flying, low-speed airborne targets.'

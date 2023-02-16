@@ -1,8 +1,16 @@
-id: j7YO
-name: PBS-4
-rank: Stalker
-class: 'Muzzles and Silencers'
-weight: 0.61
-spread: -9.000004
-drawSpeed: 10.000002
-damageAtRange: -22.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: j7YO
+    key: silencer_pbs4
+    name: PBS-4
+    category: Attachment/Barrel
+    rank: Stalker
+    class: 'Muzzles and Silencers'
+    weight: 0.61
+    spread: -9.000004
+    drawTime: 10.000002
+    damageDistant: -22.000004
+    text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
+    suitableFor: [AKS-74U, AKS-74, AKM, 'AN-94 Abakan', AK-103, A-545, AEK-971, 'Kbk wz. 88 Tantal', SOK-94, AK-105, RPK, RPK-16, MTs-116M, AK-12, AK-308, Rapier, SKS, SVD]

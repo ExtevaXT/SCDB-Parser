@@ -1,20 +1,27 @@
-id: dzRL
-name: 'Grenadier Exoskeleton'
-rank: Veteran
-class: Explorer
-weight: 20.0
-durability: 100.0
-max.Durability: 100.0
-movementSpeed: 5.0
-carryWeight: 30.0
-bulletResistance: 110.0
-meleeProtection: 125.0
-explosionProtection: 175.0
-resistanceToElectricity: 50.0
-resistanceToFire: 50.0
-resistanceToChemicals: 50.0
-radiationProtection: 200.0
-thermalProtection: 40.0
-bioinfectionProtection: 270.0
-psy-emissionProtection: 150.0
-bleedingProtection: 60.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: dzRL
+    key: grenadier
+    name: 'Grenadier Exoskeleton'
+    category: Armor/Research
+    rank: Veteran
+    class: Explorer
+    weight: 20.0
+    maxDurability: 100.0
+    speedModifier: [5.0]
+    maxWeightBonus: [30.0]
+    nightVision: 1
+    bulletDmgFactor: [110.0]
+    tearDmgFactor: [125.0]
+    explosionDmgFactor: [175.0]
+    electraDmgFactor: [50.0]
+    burnDmgFactor: [50.0]
+    chemicalBurnDmgFactor: [50.0]
+    radiationProtection: [200.0]
+    thermalProtection: [40.0]
+    biologicalProtection: [270.0]
+    psychoProtection: [150.0]
+    bleedingProtection: [60.0]
+    text: 'This suit is a good choice for anyone who wants to sneak up behind the enemy unnoticed (even in the middle of the night—it comes with excellent NVG!) and set up a “grenade shower.” The enemy has little chance of survival... unless they’re also equipped with Grenadiers and manage to flee quickly.'

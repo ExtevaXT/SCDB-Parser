@@ -1,7 +1,16 @@
-id: RgMD
-name: 'Night Star'
-class: Gravitational
-weight: 0.1
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: RgMD
+    key: trampoline_nightstar
+    name: 'Night Star'
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.1
+    common: 'Not studied'
+    maxDurability: 100.0
+    psychoDmgFactor: [5.0, 15.0]
+    radiationAccumulation: [2.0, 5.0]
+    psychoAccumulation: [-5.0, -2.0]
+    text: 'This artifact generates a field around it that stabilizes the owner’s mental state. Simply observing this artifact’s energy overflow creates a calming effect.'

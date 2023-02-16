@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: G706
+    key: errand
+    name: 'Errand Junior Backpack'
+    category: Container
+    rank: Newbie
+    class: 'Backpacks and Containers'
+    weight: 1.6
+    staminaBonus: [20.0]
+    maxWeightBonus: [27.0]

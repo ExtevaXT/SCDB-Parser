@@ -1,21 +1,27 @@
-id: JQxo
-name: 'Lynx Armored Suit'
-rank: Stalker
-class: Combat
-weight: 9.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-movementSpeed: 2.0
-carryWeight: 6.0
-bulletResistance: 115.0
-meleeProtection: 119.0
-explosionProtection: 160.0
-resistanceToElectricity: 47.0
-resistanceToFire: 47.0
-resistanceToChemicals: 47.0
-radiationProtection: 100.0
-thermalProtection: 30.0
-bioinfectionProtection: 100.0
-psy-emissionProtection: 75.0
-bleedingProtection: 55.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JQxo
+    key: ris
+    name: 'Lynx Armored Suit'
+    category: Armor/Combat
+    rank: Stalker
+    class: Combat
+    weight: 9.0
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    speedModifier: [2.0]
+    maxWeightBonus: [6.0]
+    bulletDmgFactor: [115.0]
+    tearDmgFactor: [119.0]
+    explosionDmgFactor: [160.0]
+    electraDmgFactor: [47.0]
+    burnDmgFactor: [47.0]
+    chemicalBurnDmgFactor: [47.0]
+    radiationProtection: [100.0]
+    thermalProtection: [30.0]
+    biologicalProtection: [100.0]
+    psychoProtection: [75.0]
+    bleedingProtection: [55.0]
+    text: 'The set includes a SSh-60 helmet, utility vest and body armor.'

@@ -1,7 +1,17 @@
-id: Vz5w
-name: 'Black Crystal'
-class: Gravitational
-weight: 0.4
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Vz5w
+    key: voronka_crystal
+    name: 'Black Crystal'
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.4
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [1.0, 2.5]
+    tearDmgFactor: [15.0, 25.0]
+    radiationAccumulation: [-4.0, -2.0]
+    psychoAccumulation: [4.0, 6.0]
+    text: 'This artifact appears infrequently in old anomalies. It has a powerful gravitational effect formed by crystal artifacts being caught in a Blackhole. Unlike other artifacts of this type, this crystal gives the owner increased chances of survival in combat situations.'

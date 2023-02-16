@@ -1,5 +1,12 @@
-id: VoDA
-name: 'SIG SG 550 Handguard 4x NAR'
-rank: Veteran
-class: 'Hanguards and Brackets'
-weight: 0.66
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: VoDA
+    key: forend_sigris4
+    name: 'SIG SG 550 Handguard 4x NAR'
+    category: Attachment/Forend
+    rank: Veteran
+    class: 'Hanguards and Brackets'
+    weight: 0.66
+    suitableFor: ['SIG SG 550', 'SIG SG 550 Sniper']

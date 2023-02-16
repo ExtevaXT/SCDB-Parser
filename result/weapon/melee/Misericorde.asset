@@ -1,13 +1,16 @@
-id: xEOl
-name: Misericorde
-rank: Master
-class: 'Melee Weapons'
-weight: 0.32
-quickAttack(min): 40.0
-quickAttack(max): 50.0
-strongAttack(min): 100.0
-strongAttack(max): 120.0
-weaponReach(quick): 1.8
-weaponReach(strong): 1.9
-penetration: 80.0
-chanceForADeepWound: 70.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: xEOl
+    key: misery
+    name: Misericorde
+    category: Weapon/Melee
+    rank: Master
+    class: 'Melee Weapons'
+    weight: 0.32
+    common: 40.0
+    strong: 100.0
+    piercing: 80.0
+    bloodlustChance: 70.0
+    text: 'A dagger with a diamond-shaped blade. In the Medieval Ages, these weapons were used to kill wounded enemies and for piercing in-between the plates of their armor. That doesn’t mean it can’t be used to do the same thing now...'

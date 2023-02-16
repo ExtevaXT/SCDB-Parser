@@ -1,5 +1,12 @@
-id: K5kj
-name: 'MP5 with Picatinny Rail Handguard'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.18
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: K5kj
+    key: forend_mp5ris
+    name: 'MP5 with Picatinny Rail Handguard'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.18
+    suitableFor: ['HK MP5']

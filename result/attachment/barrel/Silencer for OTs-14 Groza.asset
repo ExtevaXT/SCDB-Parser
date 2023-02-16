@@ -1,8 +1,16 @@
-id: rwnB
-name: 'Silencer for OTs-14 Groza'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.48
-spread: -9.000004
-drawSpeed: 4.999995
-damageAtRange: -10.000002
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: rwnB
+    key: silencer_groza
+    name: 'Silencer for OTs-14 Groza'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.48
+    spread: -9.000004
+    drawTime: 4.999995
+    damageDistant: -10.000002
+    text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
+    suitableFor: ['OTs-14 Groza', 'OTs-14 Tactical Grip']

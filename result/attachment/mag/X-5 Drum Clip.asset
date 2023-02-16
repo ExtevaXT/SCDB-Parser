@@ -1,9 +1,16 @@
-id: gJeG
-name: 'X-5 Drum Clip'
-rank: Newbie
-class: Clips
-weight: 0.64
-clipSize: 50.0
-jamming: 0.005
-drawSpeed: 14.999998
-reloadTime: 20.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: gJeG
+    key: mag_x550
+    name: 'X-5 Drum Clip'
+    category: Attachment/Mag
+    rank: Newbie
+    class: Clips
+    weight: 0.64
+    clipSize: 50.0
+    jamming: 0.005
+    drawTime: 14.999998
+    reloadTime: 20.000004
+    suitableFor: ['HK MP5', 'HK UMP9', 'HK MP5K', Viper]

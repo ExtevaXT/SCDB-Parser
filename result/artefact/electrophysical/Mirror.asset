@@ -1,7 +1,16 @@
-id: n813
-name: Mirror
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n813
+    key: puzir_zerkalo
+    name: Mirror
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    healthBonus: [-5.0, -3.0]
+    radiationProtection: [10.0, 15.0]
+    psychoProtection: [10.0, 15.0]
+    text: 'An artifact produced by the Stasis anomaly that possesses shielding properties, and can partially deflect ionizing emissions. It has a negative effect on the nervous system and increases pain tolerance.'

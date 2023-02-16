@@ -1,5 +1,11 @@
-id: Zx1x
-name: Shrimp
-rank: Newbie
-class: Other
-weight: 0.02
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Zx1x
+    key: npc
+    name: Shrimp
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.02

@@ -1,7 +1,14 @@
-id: JkGK
-name: Heel
-class: Thermal
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JkGK
+    key: blizzard_heel
+    name: Heel
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    staminaBonus: [-50.0, -25.0]
+    healEfficiency: [10.0, 25.0]

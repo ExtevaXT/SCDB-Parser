@@ -1,5 +1,12 @@
-id: 2R6R
-name: 'Handguard RIS LR-300'
-rank: Veteran
-class: 'Hanguards and Brackets'
-weight: 0.25
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 2R6R
+    key: forend_lr300ris
+    name: 'Handguard RIS LR-300'
+    category: Attachment/Forend
+    rank: Veteran
+    class: 'Hanguards and Brackets'
+    weight: 0.25
+    suitableFor: [LR-300]

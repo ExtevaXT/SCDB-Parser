@@ -1,9 +1,16 @@
-id: kqyG
-name: Vinca
-class: Medicine
-weight: 0.05
-purpose: 'Bleeding Protection'
-duration: 300.0
-poison: 20.0
-bleedingProtection: 10.0
-bleeding: -0.5
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: kqyG
+    key: barvinok
+    name: Vinca
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Bleeding Protection'
+    duration: 300.0
+    toxicity: 20.0
+    bleedingProtection: [10.0]
+    bleedingAccumulation: [-0.5]
+    text: 'A medicinal drug that helps thicken the blood. Use before situations where intense bleeding may occur (and before fights, just in case).'

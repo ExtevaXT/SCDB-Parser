@@ -1,18 +1,97 @@
-id: RQ8G
-name: 'KIM-99 Amber'
-rank: Newbie
-class: Scientist
-weight: 7.3
-durability: 100.0
-max.Durability: 100.0
-bulletResistance: 31.0
-meleeProtection: 35.0
-explosionProtection: 43.0
-resistanceToElectricity: 333.0
-resistanceToFire: 333.0
-resistanceToChemicals: 333.0
-radiationProtection: 180.0
-thermalProtection: 210.0
-bioinfectionProtection: 255.0
-psy-emissionProtection: 105.0
-bleedingProtection: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: 90c06992fabc4400c8c2e33ff979c9e2, type: 3 }
+    m_Name: 'KIM-99 Amber'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 7.3
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nHazmat costume\n\n{ARTEFACTBONUS} Max artefact amount\nDurability: {DURABILITY}%"
+    image: { fileID: 21300000, guid: adc9c9fd0ebc73245b6df2c186d0e66d, type: 3 }
+    drop: { fileID: -3002282694736733961, guid: ec0cb1acb689b7c48b1c86afb7daeeb1, type: 3 }
+    modelPrefab: { fileID: 3658017124668526173, guid: 92087c9ad4c32ee4b83257cdc09686c2, type: 3 }
+    type: Scientific
+    hide: 0
+    content: null
+    notes: null
+    category: Armor/Scientific
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: { fileID: 0 }
+    failedUseSound: { fileID: 0 }
+    emptySound: { fileID: 0 }
+    cooldown: 0
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 0
+    useDirectly: 0
+    hood: 1
+    mask: 1
+    head: { fileID: 0 }
+    backSize: 0
+    healthBonus: 0
+    hydrationBonus: 0
+    nutritionBonus: 0
+    damageBonus: 0
+    protectionThermalBonus: 0
+    protectionBiologicalBonus: 0
+    protectionPsychoBonus: 0
+    protectionRadiationBonus: 100
+    slotBonus: 0
+    artefactBonus: 0
+    healthRecoveryBonus: 0
+    healingBonus: 0
+    healingEffiencyBonus: 0
+    enduranceBonus: 0
+    enduranceRecoveryBonus: 0
+    speedBonus: 0
+    weightBonus: 10000
+    defenseThermalBonus: 0
+    defenseBiologicalBonus: 0
+    defensePsychoBonus: 0
+    defenseRadiationBonus: 0
+    defenseBleedingBonus: 0
+    accumulationThermalBonus: 0
+    accumulationBiologicalBonus: 0
+    accumulationPsychoBonus: 0
+    accumulationRadiationBonus: 0
+    accumulationBleedingBonus: 0
+    defenseBulletBonus: 0
+    defenseExplosionBonus: 0
+    defenseTearBonus: 0
+    defenseElectricalBonus: 0
+    defenseBurnBonus: 0
+    defenseChemicalBonus: 0
+    damageFactorTearBonus: 0
+    damageFactorElectricalBonus: 0
+    damageFactorBurnBonus: 0
+    damageFactorChemicalBonus: 0
+    id: RQ8G
+    key: yantar
+    name: 'KIM-99 Amber'
+    rank: Newbie
+    class: Scientist
+    nightVision: 1
+    bulletDmgFactor: [31.0]
+    tearDmgFactor: [35.0]
+    explosionDmgFactor: [43.0]
+    electraDmgFactor: [333.0]
+    burnDmgFactor: [333.0]
+    chemicalBurnDmgFactor: [333.0]
+    radiationProtection: [180.0]
+    thermalProtection: [210.0]
+    biologicalProtection: [255.0]
+    psychoProtection: [105.0]
+    bleedingProtection: [25.0]
+    text: 'One of the Chernobyl Research Institute’s suits that might be classed as a success. From this production suit came a whole plethora of specialized prototypes. They are valuable not only in terms of their price: maintaining them also costs a pretty penny. Advanced stalkers use them to obtain artifacts in places that are inaccessible when wearing a regular suit.'

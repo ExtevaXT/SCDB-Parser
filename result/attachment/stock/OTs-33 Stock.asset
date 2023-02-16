@@ -1,8 +1,15 @@
-id: P8lx
-name: 'OTs-33 Stock'
-class: Stocks
-weight: 0.27
-sway: -25.0
-drawSpeed: 35.000004
-recoilBuildup: -19.999998
-stabilization: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: P8lx
+    key: '22657'
+    name: 'OTs-33 Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.27
+    wiggle: -25.0
+    drawTime: 35.000004
+    recoilGain: -19.999998
+    tickSpreadMultiplierReduction: 25.0
+    suitableFor: ['OTs-33 Pernach']

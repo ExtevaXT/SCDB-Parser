@@ -1,3 +1,9 @@
-id: el6g
-name: 'Bhutan—Snow Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: el6g
+    key: butan_snow
+    name: 'Bhutan—Snow Camouflage'
+    category: Other
+    class: 'Skins and Paint'

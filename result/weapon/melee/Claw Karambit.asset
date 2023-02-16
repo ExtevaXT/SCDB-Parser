@@ -1,13 +1,16 @@
-id: AMz5
-name: 'Claw Karambit'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.34
-quickAttack(min): 40.0
-quickAttack(max): 50.0
-strongAttack(min): 100.0
-strongAttack(max): 120.0
-weaponReach(quick): 1.7
-weaponReach(strong): 1.8
-penetration: 60.0
-chanceForADeepWound: 55.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: AMz5
+    key: '21040'
+    name: 'Claw Karambit'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.34
+    common: 40.0
+    strong: 100.0
+    piercing: 60.0
+    bloodlustChance: 55.0
+    text: 'A karambit made from a mutant’s claw. It can penetrate any protection.'

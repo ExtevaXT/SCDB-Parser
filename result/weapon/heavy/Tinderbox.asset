@@ -1,20 +1,26 @@
-id: Ryjy
-name: Tinderbox
-rank: Veteran
-class: 'Other Weapons'
-weight: 4.3
-durability: 100.0
-max.Durability: 100.0
-ammoType: 'Flammable Mixture'
-damage: 10.0
-clipCapacity: 50.0
-maximumDistance: 6.0
-rateOfFire: 600.0
-reload: 5.65
-spread: 1.0
-hip-fireSpread: 1.0
-verticalRecoil: 0.05
-drawTime: 0.75
-aimingTime: 0.45
-fireDamage: 66.66667
-absoluteDamage: 33.333336
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Ryjy
+    key: flamepistol
+    name: Tinderbox
+    category: Weapon/Heavy
+    rank: Veteran
+    class: 'Other Weapons'
+    weight: 4.3
+    maxDurability: 100.0
+    ammoType: 'Flammable Mixture'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 10.0
+    clipSize: 50.0
+    distance: 6.0
+    rateOfFire: 600.0
+    reloadTime: 5.65
+    spread: 1.0
+    hipSpread: 1.0
+    recoil: 0.05
+    drawTime: 0.75
+    aimSwitch: 0.45
+    burn: 66.66667
+    default: 33.333336

@@ -1,3 +1,9 @@
-id: BMMj
-name: 'Treasure of the Oasis'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BMMj
+    key: '19800'
+    name: 'Treasure of the Oasis'
+    category: Other
+    class: 'Skins and Paint'

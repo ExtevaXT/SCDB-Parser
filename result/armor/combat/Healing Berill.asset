@@ -1,22 +1,100 @@
-id: 5L9J
-name: 'Healing Berill'
-rank: Stalker
-class: Combat
-weight: 9.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -3.0
-carryWeight: 3.0
-healthRegeneration: 4.0
-staminaRegeneration: 5.0
-bulletResistance: 61.0
-meleeProtection: 61.0
-explosionProtection: 84.0
-resistanceToElectricity: 24.0
-resistanceToFire: 24.0
-resistanceToChemicals: 24.0
-radiationProtection: 90.0
-thermalProtection: 0.0
-bioinfectionProtection: 75.0
-psy-emissionProtection: 0.0
-bleedingProtection: 39.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: 90c06992fabc4400c8c2e33ff979c9e2, type: 3 }
+    m_Name: 'Healing Berill'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 9.0
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nHazmat costume\n\n{ARTEFACTBONUS} Max artefact amount\nDurability: {DURABILITY}%"
+    image: { fileID: 21300000, guid: 88567108ac0c9034686370d9f4a77587, type: 3 }
+    drop: { fileID: -3002282694736733961, guid: ec0cb1acb689b7c48b1c86afb7daeeb1, type: 3 }
+    modelPrefab: { fileID: 1005869407385184, guid: db04a0c6b39809444827e19c41be30c0, type: 3 }
+    type: Combat
+    hide: 0
+    content: null
+    notes: null
+    category: Armor/Combat
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: { fileID: 0 }
+    failedUseSound: { fileID: 0 }
+    emptySound: { fileID: 0 }
+    cooldown: 0
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 0
+    useDirectly: 0
+    hood: 1
+    mask: 1
+    head: { fileID: 0 }
+    backSize: 2
+    healthBonus: 0
+    hydrationBonus: 0
+    nutritionBonus: 0
+    damageBonus: 0
+    protectionThermalBonus: 0
+    protectionBiologicalBonus: 0
+    protectionPsychoBonus: 0
+    protectionRadiationBonus: 100
+    slotBonus: 0
+    artefactBonus: 0
+    healthRecoveryBonus: 0
+    healingBonus: 0
+    healingEffiencyBonus: 0
+    enduranceBonus: 0
+    enduranceRecoveryBonus: 0
+    speedBonus: 0
+    weightBonus: 10000
+    defenseThermalBonus: 0
+    defenseBiologicalBonus: 0
+    defensePsychoBonus: 0
+    defenseRadiationBonus: 0
+    defenseBleedingBonus: 0
+    accumulationThermalBonus: 0
+    accumulationBiologicalBonus: 0
+    accumulationPsychoBonus: 0
+    accumulationRadiationBonus: 0
+    accumulationBleedingBonus: 0
+    defenseBulletBonus: 0
+    defenseExplosionBonus: 0
+    defenseTearBonus: 0
+    defenseElectricalBonus: 0
+    defenseBurnBonus: 0
+    defenseChemicalBonus: 0
+    damageFactorTearBonus: 0
+    damageFactorElectricalBonus: 0
+    damageFactorBurnBonus: 0
+    damageFactorChemicalBonus: 0
+    id: 5L9J
+    key: berill_lech
+    name: 'Healing Berill'
+    rank: Stalker
+    class: Combat
+    staminaBonus: [-3.0]
+    maxWeightBonus: [3.0]
+    regenerationBonus: [4.0]
+    staminaRegenerationBonus: [5.0]
+    bulletDmgFactor: [61.0]
+    tearDmgFactor: [61.0]
+    explosionDmgFactor: [84.0]
+    electraDmgFactor: [24.0]
+    burnDmgFactor: [24.0]
+    chemicalBurnDmgFactor: [24.0]
+    radiationProtection: [90.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [75.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [39.0]
+    text: 'The lining is soaked in a special invigorating, healing ointment. Rumor has it that it can cure a hangover, so it could even get Private Petrovich back on his feet.'

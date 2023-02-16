@@ -1,5 +1,12 @@
-id: yEXY
-name: 'RIS Bracket-Rail'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.11
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yEXY
+    key: mount_mp5ris
+    name: 'RIS Bracket-Rail'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.11
+    suitableFor: ['HK MP5', 'HK MP5K', Viper]

@@ -1,8 +1,14 @@
-id: m0Zz
-name: '5.45 mm Incendiary Ammo'
-class: Ammo
-weight: 0.005
-armor-penetration: 8.0
-bleeding: -45.0
-burning: 50.0
-stoppingPower: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: m0Zz
+    key: 545inc
+    name: '5.45 mm Incendiary Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.005
+    piercing: 8.0
+    bleeding: -45.0
+    combustion: 50.0
+    stoppingPower: 40.0

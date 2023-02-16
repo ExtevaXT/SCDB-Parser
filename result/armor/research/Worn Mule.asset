@@ -1,21 +1,28 @@
-id: jD6R
-name: 'Worn Mule'
-rank: Master
-class: Explorer
-weight: 35.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -15.0
-movementSpeed: -3.0
-carryWeight: 40.0
-bulletResistance: 147.0
-meleeProtection: 147.0
-explosionProtection: 210.0
-resistanceToElectricity: 98.0
-resistanceToFire: 98.0
-resistanceToChemicals: 98.0
-radiationProtection: 200.0
-thermalProtection: 80.0
-bioinfectionProtection: 200.0
-psy-emissionProtection: 180.0
-bleedingProtection: 62.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: jD6R
+    key: mule-1
+    name: 'Worn Mule'
+    category: Armor/Research
+    rank: Master
+    class: Explorer
+    weight: 35.0
+    maxDurability: 100.0
+    staminaBonus: [-15.0]
+    speedModifier: [-3.0]
+    maxWeightBonus: [40.0]
+    nightVision: 1
+    bulletDmgFactor: [147.0]
+    tearDmgFactor: [147.0]
+    explosionDmgFactor: [210.0]
+    electraDmgFactor: [98.0]
+    burnDmgFactor: [98.0]
+    chemicalBurnDmgFactor: [98.0]
+    radiationProtection: [200.0]
+    thermalProtection: [80.0]
+    biologicalProtection: [200.0]
+    psychoProtection: [180.0]
+    bleedingProtection: [62.0]
+    text: 'With an exclusive carrying capacity, the Mule frame exoskeleton was created specifically for high-class couriers. It allows the wearer to not only carry bulky loads, but to also survive in conditions of increased anomalous activity.'

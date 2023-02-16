@@ -1,7 +1,15 @@
-id: yZz5
-name: 'Crystal Thorn'
-class: Biochemical
-weight: 0.4
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yZz5
+    key: puh_kkoluchka
+    name: 'Crystal Thorn'
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.4
+    common: 'Not studied'
+    maxDurability: 100.0
+    bleedingProtection: [-50.0, -25.0]
+    radiationAccumulation: [-6.0, -3.0]
+    text: 'An artifact that is made by the Burnt Fuzz anomaly. A small sphere made of matte crystal, covered in cracks and needle-like growths. When worn, it cleanses the body of radiation fairly quickly. During use, this artifact increases the risk of bleeding when injured, similarly to a regular Thorn.'

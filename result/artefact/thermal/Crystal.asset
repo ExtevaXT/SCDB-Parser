@@ -1,7 +1,15 @@
-id: n86x
-name: Crystal
-class: Thermal
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n86x
+    key: blizzard_crystal
+    name: Crystal
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    radiationDmgFactor: [5.0, 15.0]
+    psychoDmgFactor: [5.0, 15.0]
+    bleedingDmgFactor: [-50.0, -25.0]

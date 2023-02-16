@@ -1,13 +1,16 @@
-id: NNqK
-name: Ax
-rank: Newbie
-class: 'Melee Weapons'
-weight: 1.04
-quickAttack(min): 45.0
-quickAttack(max): 55.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.8
-weaponReach(strong): 2.0
-penetration: 30.0
-chanceForADeepWound: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: NNqK
+    key: '21014'
+    name: Ax
+    category: Weapon/Melee
+    rank: Newbie
+    class: 'Melee Weapons'
+    weight: 1.04
+    common: 45.0
+    strong: 120.0
+    piercing: 30.0
+    bloodlustChance: 35.0
+    text: 'A small ax for cutting wood and engaging in close combat.'

@@ -1,9 +1,15 @@
-id: yZ08
-name: 'Buryat Short Range Detector'
-rank: Stalker
-class: Devices
-weight: 0.6
-durability: 100.0
-max.Durability: 100.0
-charge: 100.0
-range: 80.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: yZ08
+    key: dud_buryat
+    name: 'Buryat Short Range Detector'
+    category: Weapon/Device
+    rank: Stalker
+    class: Devices
+    weight: 0.6
+    maxDurability: 100.0
+    charge: 100.0
+    range: 80.0
+    text: 'A detector used to locate zones of anomalous activity. It is equipped with a screen that can show the source of the signals.'

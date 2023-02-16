@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: DNjR
+    key: kzs2d
+    name: KZS-2u
+    category: Container
+    rank: Stalker
+    class: 'Backpacks and Containers'
+    weight: 3.5
+    maxDurability: 100.0
+    innerProtection: 75.0
+    effectiveness: 100.0
+    size: 2.0
+    text: 'A set of two KZS-1u containers. Lets you carry two artifacts and, obviously, has good shielding capabilities.'

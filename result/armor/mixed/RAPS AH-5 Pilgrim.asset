@@ -1,22 +1,29 @@
-id: GQRw
-name: 'RAPS AH-5 Pilgrim'
-rank: Veteran
-class: Combo
-weight: 30.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-movementSpeed: -2.0
-carryWeight: 15.0
-periodicHealing: 2.5
-bulletResistance: 88.0
-meleeProtection: 103.0
-explosionProtection: 124.0
-resistanceToElectricity: 593.0
-resistanceToFire: 593.0
-resistanceToChemicals: 593.0
-radiationProtection: 225.0
-thermalProtection: 225.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 210.0
-bleedingProtection: 47.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: GQRw
+    key: ao5
+    name: 'RAPS AH-5 Pilgrim'
+    category: Armor/Mixed
+    rank: Veteran
+    class: Combo
+    weight: 30.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    speedModifier: [-2.0]
+    maxWeightBonus: [15.0]
+    artefaktHeal: [2.5]
+    nightVision: 1
+    bulletDmgFactor: [88.0]
+    tearDmgFactor: [103.0]
+    explosionDmgFactor: [124.0]
+    electraDmgFactor: [593.0]
+    burnDmgFactor: [593.0]
+    chemicalBurnDmgFactor: [593.0]
+    radiationProtection: [225.0]
+    thermalProtection: [225.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [210.0]
+    bleedingProtection: [47.0]
+    text: 'Virtually the best model in the Artifact Hunters range. Combines all the benefits of the previous versions and comes equipped with a closed breathing circuit.'

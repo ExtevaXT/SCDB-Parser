@@ -1,21 +1,28 @@
-id: ERV1
-name: 'Worn AH-3 Seeker Suit'
-rank: Stalker
-class: Combo
-weight: 7.5
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 3.0
-periodicHealing: 1.25
-bulletResistance: 53.0
-meleeProtection: 62.0
-explosionProtection: 74.0
-resistanceToElectricity: 356.0
-resistanceToFire: 356.0
-resistanceToChemicals: 356.0
-radiationProtection: 180.0
-thermalProtection: 180.0
-bioinfectionProtection: 195.0
-psy-emissionProtection: 150.0
-bleedingProtection: 38.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: ERV1
+    key: ao3-1
+    name: 'Worn AH-3 Seeker Suit'
+    category: Armor/Mixed
+    rank: Stalker
+    class: Combo
+    weight: 7.5
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [3.0]
+    artefaktHeal: [1.25]
+    nightVision: 1
+    bulletDmgFactor: [53.0]
+    tearDmgFactor: [62.0]
+    explosionDmgFactor: [74.0]
+    electraDmgFactor: [356.0]
+    burnDmgFactor: [356.0]
+    chemicalBurnDmgFactor: [356.0]
+    radiationProtection: [180.0]
+    thermalProtection: [180.0]
+    biologicalProtection: [195.0]
+    psychoProtection: [150.0]
+    bleedingProtection: [38.0]
+    text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'

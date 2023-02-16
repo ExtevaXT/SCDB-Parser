@@ -1,7 +1,16 @@
-id: gKaN
-name: Slime
-class: Biochemical
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: gKaN
+    key: kisel_sliz
+    name: Slime
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    burnDmgFactor: [-100.0, -50.0]
+    bleedingProtection: [5.0, 10.0]
+    bleedingAccumulation: [-2.0, -1.0]
+    text: 'A slimy artifact that, despite its repulsive texture, is safe to hold without hand protection. When in close contact with a human, it lowers fibrinogen levels in the blood, thickening it. However, the owner becomes more susceptible to different types of burns.'

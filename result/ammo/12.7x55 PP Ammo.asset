@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: l0ZB
+    key: 127bb
+    name: '12.7x55 PP Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.022
+    piercing: 25.0
+    bleeding: 5.0
+    stoppingPower: 40.0

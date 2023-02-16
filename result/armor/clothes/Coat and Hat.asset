@@ -1,19 +1,25 @@
-id: 0be1
-name: 'Coat and Hat'
-rank: Picklock
-class: Clothing
-weight: 2.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-bulletResistance: 14.0
-meleeProtection: 54.0
-explosionProtection: 17.0
-resistanceToElectricity: 9.0
-resistanceToFire: 9.0
-resistanceToChemicals: 9.0
-radiationProtection: 30.0
-thermalProtection: 0.0
-bioinfectionProtection: 30.0
-psy-emissionProtection: 0.0
-bleedingProtection: 34.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0be1
+    key: palto
+    name: 'Coat and Hat'
+    category: Armor/Clothes
+    rank: Picklock
+    class: Clothing
+    weight: 2.0
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    bulletDmgFactor: [14.0]
+    tearDmgFactor: [54.0]
+    explosionDmgFactor: [17.0]
+    electraDmgFactor: [9.0]
+    burnDmgFactor: [9.0]
+    chemicalBurnDmgFactor: [9.0]
+    radiationProtection: [30.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [30.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [34.0]
+    text: 'I just want a peaceful life.'

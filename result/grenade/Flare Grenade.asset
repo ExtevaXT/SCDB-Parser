@@ -1,7 +1,14 @@
-id: A3Rw
-name: 'Flare Grenade'
-class: Grenades
-weight: 0.17
-range: 9.0
-max.BlindnessDuration: 4.0
-timeUntilActivation: 2.5
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: A3Rw
+    key: vspishka
+    name: 'Flare Grenade'
+    category: Grenade
+    class: Grenades
+    weight: 0.17
+    explosionSize: 9.0
+    flashTime: 4.0
+    lifetime: 2.5
+    text: 'A flash grenade produced in the Zone. It is popular due to its price and lightness, and it allows you to scare small mutants.'

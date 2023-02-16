@@ -1,4 +1,10 @@
-id: kqQN
-name: 'NVD-11 Export'
-class: Devices
-weight: 1.75
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: kqQN
+    key: '25504'
+    name: 'NVD-11 Export'
+    category: Armor/Device
+    class: Devices
+    weight: 1.75

@@ -1,19 +1,25 @@
-id: drgm
-name: IP-4M
-rank: Picklock
-class: Scientist
-weight: 3.3
-durability: 100.0
-max.Durability: 100.0
-stamina: -15.0
-bulletResistance: 10.0
-meleeProtection: 15.0
-explosionProtection: 19.0
-resistanceToElectricity: 148.0
-resistanceToFire: 148.0
-resistanceToChemicals: 148.0
-radiationProtection: 100.0
-thermalProtection: 100.0
-bioinfectionProtection: 100.0
-psy-emissionProtection: 0.0
-bleedingProtection: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: drgm
+    key: ip4m
+    name: IP-4M
+    category: Armor/Scientific
+    rank: Picklock
+    class: Scientist
+    weight: 3.3
+    maxDurability: 100.0
+    staminaBonus: [-15.0]
+    bulletDmgFactor: [10.0]
+    tearDmgFactor: [15.0]
+    explosionDmgFactor: [19.0]
+    electraDmgFactor: [148.0]
+    burnDmgFactor: [148.0]
+    chemicalBurnDmgFactor: [148.0]
+    radiationProtection: [100.0]
+    thermalProtection: [100.0]
+    biologicalProtection: [100.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [10.0]
+    text: 'This gas mask with an IP-4M closed breathing system is a really handy gizmo. The most comfortable way to wear it is with a hazmat suit. Someone decided to multiply the benefit of wearing this suit a tenfold by creating a lining made of light plates that improve protection against bullets and other forms of physical damage. What they ended up with was a good suit for a novice stalker who has grown out of wearing a jacket, but can’t yet afford a suit like the Zarya model.'

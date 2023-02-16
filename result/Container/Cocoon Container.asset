@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: j6nm
+    key: cocoon
+    name: 'Cocoon Container'
+    category: Container
+    rank: Veteran
+    class: 'Backpacks and Containers'
+    weight: 7.0
+    maxDurability: 100.0
+    innerProtection: 90.0
+    effectiveness: 80.0
+    size: 3.0
+    speedModifier: [-1.5]
+    text: 'An alternative version of the Hive, with fewer artifact slots but greater internal protection and reliability.'

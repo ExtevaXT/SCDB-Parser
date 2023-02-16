@@ -1,3 +1,9 @@
-id: z6dB
-name: 'ERDL Woodland Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: z6dB
+    key: '19220'
+    name: 'ERDL Woodland Camouflage'
+    category: Other
+    class: 'Skins and Paint'

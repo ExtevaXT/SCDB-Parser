@@ -1,23 +1,30 @@
-id: nj29
-name: 'Tonga Suit'
-rank: Veteran
-class: Combo
-weight: 17.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 20.0
-periodicHealing: 2.0
-radiation: -1.0
-bleeding: -0.5
-bulletResistance: 76.0
-meleeProtection: 87.0
-explosionProtection: 94.0
-resistanceToElectricity: 474.0
-resistanceToFire: 474.0
-resistanceToChemicals: 474.0
-radiationProtection: 240.0
-thermalProtection: 240.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 210.0
-bleedingProtection: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nj29
+    key: tonga
+    name: 'Tonga Suit'
+    category: Armor/Mixed
+    rank: Veteran
+    class: Combo
+    weight: 17.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [20.0]
+    artefaktHeal: [2.0]
+    radiationAccumulation: [-1.0]
+    bleedingAccumulation: [-0.5]
+    nightVision: 1
+    bulletDmgFactor: [76.0]
+    tearDmgFactor: [87.0]
+    explosionDmgFactor: [94.0]
+    electraDmgFactor: [474.0]
+    burnDmgFactor: [474.0]
+    chemicalBurnDmgFactor: [474.0]
+    radiationProtection: [240.0]
+    thermalProtection: [240.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [210.0]
+    bleedingProtection: [40.0]
+    text: 'A suit named in honor of the archipelago in the Pacific Ocean. Outwardly it resembles a diving suit, but more technologically advanced. Equipped with a cheap but reliable life-support system.'

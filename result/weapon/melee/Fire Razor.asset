@@ -1,14 +1,16 @@
-id: 1gqO
-name: 'Fire Razor'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.35
-fireDamage: 20.0
-quickAttack(min): 40.0
-quickAttack(max): 50.0
-strongAttack(min): 100.0
-strongAttack(max): 115.0
-weaponReach(quick): 1.7
-weaponReach(strong): 1.7
-penetration: 50.0
-chanceForADeepWound: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 1gqO
+    key: britva_fire
+    name: 'Fire Razor'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.35
+    burn: 20.0
+    common: 40.0
+    strong: 100.0
+    piercing: 50.0
+    bloodlustChance: 40.0

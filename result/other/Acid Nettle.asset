@@ -1,4 +1,10 @@
-id: Og3x
-name: 'Acid Nettle'
-rank: Newbie
-class: Other
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Og3x
+    key: mob
+    name: 'Acid Nettle'
+    category: Other
+    rank: Newbie
+    class: Other

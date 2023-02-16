@@ -1,5 +1,12 @@
-id: 3mr1
-name: 'Fal Quad Rail'
-rank: Master
-class: 'Hanguards and Brackets'
-weight: 0.43
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3mr1
+    key: forend_falris
+    name: 'Fal Quad Rail'
+    category: Attachment/Forend
+    rank: Master
+    class: 'Hanguards and Brackets'
+    weight: 0.43
+    suitableFor: ['FN FAL']

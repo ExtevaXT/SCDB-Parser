@@ -1,18 +1,24 @@
-id: JQG3
-name: 'Gorka-3 Suit'
-rank: Picklock
-class: Explorer
-weight: 1.0
-durability: 100.0
-max.Durability: 100.0
-bulletResistance: 9.0
-meleeProtection: 15.0
-explosionProtection: 29.0
-resistanceToElectricity: 30.0
-resistanceToFire: 30.0
-resistanceToChemicals: 30.0
-radiationProtection: 30.0
-thermalProtection: 10.0
-bioinfectionProtection: 30.0
-psy-emissionProtection: 0.0
-bleedingProtection: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JQG3
+    key: gorka
+    name: 'Gorka-3 Suit'
+    category: Armor/Research
+    rank: Picklock
+    class: Explorer
+    weight: 1.0
+    maxDurability: 100.0
+    bulletDmgFactor: [9.0]
+    tearDmgFactor: [15.0]
+    explosionDmgFactor: [29.0]
+    electraDmgFactor: [30.0]
+    burnDmgFactor: [30.0]
+    chemicalBurnDmgFactor: [30.0]
+    radiationProtection: [30.0]
+    thermalProtection: [10.0]
+    biologicalProtection: [30.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [10.0]
+    text: 'This suit consists of a coat and pants with suspenders. For a better fit and to prevent it from flapping around like a sail in the wind, it has a system of zip ties made of braids of rubber fabric along the sides of the coat, on the sleeves, under the knees, and at the bottom of the pants. A light, concealed body armor can be worn under the coat.'

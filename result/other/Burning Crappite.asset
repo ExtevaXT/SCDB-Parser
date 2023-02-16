@@ -1,5 +1,11 @@
-id: P0jq
-name: 'Burning Crappite'
-rank: Veteran
-class: Other
-weight: 0.05
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: P0jq
+    key: npc_add
+    name: 'Burning Crappite'
+    category: Other
+    rank: Veteran
+    class: Other
+    weight: 0.05

@@ -1,5 +1,10 @@
-id: nVD9
-name: 'Advanced Tools'
-class: Other
-weight: 0.01
-durabilityLossOnFailure: 5.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nVD9
+    key: tools_3
+    name: 'Advanced Tools'
+    category: Other
+    class: Other
+    weight: 0.01

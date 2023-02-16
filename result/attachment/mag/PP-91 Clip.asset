@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: N5yN
+    key: mag_kedr40
+    name: 'PP-91 Clip'
+    category: Attachment/Mag
+    rank: Picklock
+    class: Clips
+    weight: 0.128
+    clipSize: 40.0
+    drawTime: 4.999995
+    reloadTime: 4.999995
+    suitableFor: ['SMG-91 KEDR', Tsunami]

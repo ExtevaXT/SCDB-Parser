@@ -1,7 +1,17 @@
-id: 0Qak
-name: Veiner
-class: Gravitational
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0Qak
+    key: trampoline_jilnik
+    name: Veiner
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    healthBonus: [-5.0, -3.0]
+    bulletDmgFactor: [10.0, 15.0]
+    electraDmgFactor: [10.0, 15.0]
+    psychoAccumulation: [-3.0, -1.0]
+    text: 'An extremely rare artifact. Like other “jellyfish,” it is formed in the Trampoline anomaly. For a long time, this artifact was thought not to exist at all. Its properties place it somewhere between a Dark Jellyfish and a Night Star, but it is not radioactive. While it has a positive effect on the mind, rumor has it that the side effects lead to a decrease in pain tolerance.'

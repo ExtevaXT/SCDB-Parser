@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: oqrQ
+    key: terminator
+    name: 'Cobray Terminator'
+    category: 'Weapon/Shotgun rifle'
+    rank: Picklock
+    class: 'Shotguns and Rifles'
+    weight: 2.175
+    maxDurability: 100.0
+    ammoType: '12 caliber'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 220.0
+    clipSize: 1.0
+    distance: 30.0
+    rateOfFire: 150.0
+    reloadTime: 2.5
+    spread: 2.0
+    hipSpread: 3.5
+    recoil: 12.0
+    horizontalRecoil: 2.0
+    drawTime: 0.7
+    aimSwitch: 0.25
+    startDamage: 220.0
+    damageDecreaseStart: 4.0
+    endDamage: 24.0
+    damageDecreaseEnd: 24.0
+    maxDistance: 30.0
+    text: 'An American smoothbore, single-shot shotgun. It has never enjoyed widespread use, but thanks to its simple construction, it is now often made by hand in the Zone as a cheap and reliable “boomstick.”'

@@ -1,8 +1,15 @@
-id: m858
-name: Morphine
-class: Medicine
-weight: 0.05
-purpose: 'Short-Term Boost'
-duration: 90.0
-poison: 50.0
-vitality: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: m858
+    key: morphin
+    name: Morphine
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Short-Term Boost'
+    duration: 90.0
+    toxicity: 50.0
+    healthBonus: [10.0]
+    text: 'A medicinal substance of synthetic origin intended to relieve pain. Side effects include drowsiness and difficulty paying attention. Frequent use can lead to addiction.'

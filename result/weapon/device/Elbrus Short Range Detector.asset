@@ -1,9 +1,15 @@
-id: lLod
-name: 'Elbrus Short Range Detector'
-rank: Veteran
-class: Devices
-weight: 0.6
-durability: 100.0
-max.Durability: 100.0
-charge: 100.0
-range: 120.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lLod
+    key: dud_elbrus
+    name: 'Elbrus Short Range Detector'
+    category: Weapon/Device
+    rank: Veteran
+    class: Devices
+    weight: 0.6
+    maxDurability: 100.0
+    charge: 100.0
+    range: 120.0
+    text: 'A detector used to locate zones of anomalous activity. It is equipped with a screen that can show the source of the signals.'

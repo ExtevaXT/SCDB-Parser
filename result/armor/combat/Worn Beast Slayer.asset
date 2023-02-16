@@ -1,20 +1,26 @@
-id: 7Z1e
-name: 'Worn Beast Slayer'
-rank: Master
-class: Combat
-weight: 32.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 25.0
-bulletResistance: 107.0
-meleeProtection: 307.0
-explosionProtection: 147.0
-resistanceToElectricity: 65.0
-resistanceToFire: 65.0
-resistanceToChemicals: 65.0
-radiationProtection: 200.0
-thermalProtection: 40.0
-bioinfectionProtection: 220.0
-psy-emissionProtection: 200.0
-bleedingProtection: 79.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 7Z1e
+    key: zveroboi-1
+    name: 'Worn Beast Slayer'
+    category: Armor/Combat
+    rank: Master
+    class: Combat
+    weight: 32.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [25.0]
+    bulletDmgFactor: [107.0]
+    tearDmgFactor: [307.0]
+    explosionDmgFactor: [147.0]
+    electraDmgFactor: [65.0]
+    burnDmgFactor: [65.0]
+    chemicalBurnDmgFactor: [65.0]
+    radiationProtection: [200.0]
+    thermalProtection: [40.0]
+    biologicalProtection: [220.0]
+    psychoProtection: [200.0]
+    bleedingProtection: [79.0]
+    text: 'Beast Slayer'

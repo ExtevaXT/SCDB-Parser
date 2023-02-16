@@ -1,6 +1,13 @@
-id: '1039'
-name: '30-Round Clip for AK-308'
-rank: Master
-class: Clips
-weight: 0.42
-clipSize: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: '1039'
+    key: mag_ak30830
+    name: '30-Round Clip for AK-308'
+    category: Attachment/Mag
+    rank: Master
+    class: Clips
+    weight: 0.42
+    clipSize: 30.0
+    suitableFor: [AK-308]

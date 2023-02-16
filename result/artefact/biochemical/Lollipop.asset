@@ -1,7 +1,15 @@
-id: n8Bk
-name: Lollipop
-class: Biochemical
-weight: 0.02
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: n8Bk
+    key: kisel_kisel
+    name: Lollipop
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.02
+    common: 'Not studied'
+    maxDurability: 100.0
+    radiationAccumulation: [-6.0, -3.0]
+    biologicalAccumulation: [5.0, 15.0]
+    text: 'A proto-artifact and gelatinous substance (colloid gas) that forms the basis of the Kissel anomaly. Absorbs radioactive elements from the surrounding oxygen, while also releasing dangerous toxins. This makes it almost impossible to use as intended.'

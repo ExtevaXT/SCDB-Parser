@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: MOe1
+    key: svt40-2
+    name: 'Old SVT-40'
+    category: 'Weapon/Sniper rifle'
+    rank: Picklock
+    class: 'Sniper Rifles'
+    weight: 3.8
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 69.0
+    clipSize: 10.0
+    distance: 165.0
+    rateOfFire: 180.0
+    reloadTime: 3.75
+    spread: 0.187
+    hipSpread: 4.5829997
+    recoil: 1.05
+    horizontalRecoil: 0.45
+    drawTime: 1.15
+    aimSwitch: 0.5
+    stoppingPower: 20.0
+    startDamage: 69.0
+    damageDecreaseStart: 26.0
+    endDamage: 55.2
+    damageDecreaseEnd: 100.0
+    maxDistance: 165.0
+    text: 'This 1940 example of a semi-automatic rifle using the Tokarev system was developed as a replacement for the Simonov assault rifle and was subsequently entered into service in the Red Army. Due to its various shortcomings, particularly its low reliability, it was not particularly widely used after the war. Nonetheless, a substantial number of examples can be found with merchants—this rifle’s low price made it popular among novice stalkers.'

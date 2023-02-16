@@ -1,8 +1,72 @@
-id: ygm5
-name: M67
-class: Grenades
-weight: 0.39
-damageAtCenter: 475.0
-minimumDamage: 30.0
-timeUntilDetonation: 4.0
-damageRange: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: f740495c2dbda4cecb9f88f961bdeafd, type: 3 }
+    m_Name: M67
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 0.39
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 1000
+    destroyable: 0
+    toolTip: Grenade
+    image: { fileID: 21300000, guid: c89a08b0a6bc19945b9d62c7c90a70e4, type: 3 }
+    drop: { fileID: 114890139362544706, guid: 03ca005a5faa08d4a8aaef2bc1850024, type: 3 }
+    modelPrefab: { fileID: 1187654204942760, guid: 6f06206ea0570704e8808b34e81e4a1e, type: 3 }
+    type: Grenade
+    hide: 0
+    content: null
+    notes: null
+    category: Grenade
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: { fileID: 8300000, guid: cfc38ad81a7e3fb46a1b9a7eb121fff9, type: 3 }
+    failedUseSound: { fileID: 0 }
+    emptySound: { fileID: 0 }
+    cooldown: 0
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 0
+    useDirectly: 0
+    attackRange: 140
+    damage: 100
+    damageType: Explosion
+    upperBodyAnimationParameter: null
+    attachmentsAllowed: {  }
+    requiredAmmo: { fileID: 0 }
+    magazineSize: 1
+    reloadTime: 1
+    reloadTimeFull: 2
+    reloadSound: { fileID: 0 }
+    reloadSound0: { fileID: 0 }
+    silencedSound: { fileID: 0 }
+    zoom: 20
+    decalPrefab: { fileID: 1804206099813350, guid: d83ade6f41e07e84a868126691d7dd3d, type: 3 }
+    decalSound: { fileID: 8300000, guid: da33a2d196446cc4eba6630e9dc7b24c, type: 3 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    recoilHorizontal: 0
+    recoilVertical: 0
+    projectile: { fileID: 114528146157462722, guid: 573fbf6fc7a247e4596bfee267b9d69e, type: 3 }
+    gravity: -9.81
+    speed: 30
+    destroyAfter: 3
+    maxDistance: 50
+    radius: 10
+    id: ygm5
+    key: m67
+    name: M67
+    class: Grenades
+    explosionStrength: 475.0
+    explosionStrengthMin: 30.0
+    lifetime: 4.0
+    explosionSize: 10.0
+    text: 'An American fragmentation hand grenade.'

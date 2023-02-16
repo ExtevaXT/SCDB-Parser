@@ -1,5 +1,11 @@
-id: JKre
-name: 'Alpha Group Tracker'
-rank: Stalker
-class: Other
-weight: 0.02
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JKre
+    key: signal
+    name: 'Alpha Group Tracker'
+    category: Other
+    rank: Stalker
+    class: Other
+    weight: 0.02

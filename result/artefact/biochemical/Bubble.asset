@@ -1,7 +1,16 @@
-id: PRKE
-name: Bubble
-class: Biochemical
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: PRKE
+    key: kisel_puzir
+    name: Bubble
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    radiationDmgFactor: [5.0, 10.0]
+    radiationAccumulation: [-9.0, -3.0]
+    thermalAccumulation: [1.0, 3.0]
+    text: 'This artifact takes the shape of several hollow formations of an organic nature, combined into one. It releases a gas-like substance that can neutralize radioactive particles in the human body. When used actively, it starts to overheat.'

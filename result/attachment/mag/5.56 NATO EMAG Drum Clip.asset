@@ -1,9 +1,16 @@
-id: JAo1
-name: '5.56 NATO EMAG Drum Clip'
-rank: Veteran
-class: Clips
-weight: 0.58
-clipSize: 60.0
-jamming: 0.006
-drawSpeed: 20.000004
-reloadTime: 20.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JAo1
+    key: mag_emag55660
+    name: '5.56 NATO EMAG Drum Clip'
+    category: Attachment/Mag
+    rank: Veteran
+    class: Clips
+    weight: 0.58
+    clipSize: 60.0
+    jamming: 0.006
+    drawTime: 20.000004
+    reloadTime: 20.000004
+    suitableFor: ['SIG SG 550', 'HK G36C', 'SIG SG 550 Sniper', 'HK XM8', 'HK XM8S']

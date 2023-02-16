@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Z0xx
+    key: f2000
+    name: 'FN F2000 Tactical'
+    category: 'Weapon/Assault rifle'
+    rank: Master
+    class: 'Assault Rifles'
+    weight: 3.8
+    maxDurability: 100.0
+    ammoType: '5.56'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 35.0
+    clipSize: 30.0
+    distance: 160.0
+    rateOfFire: 850.0
+    reloadTime: 3.75
+    tacticalReloadTime: 3.1
+    spread: 0.54
+    hipSpread: 3.0
+    recoil: 0.24
+    horizontalRecoil: 0.12
+    drawTime: 1.0
+    aimSwitch: 0.2
+    startDamage: 35.0
+    damageDecreaseStart: 16.0
+    endDamage: 33.2
+    damageDecreaseEnd: 70.0
+    maxDistance: 160.0
+    text: 'A Belgian assault rifle that was developed by the FN Herstal company. The weapon was intended for modern combat missions in local military conflicts.'

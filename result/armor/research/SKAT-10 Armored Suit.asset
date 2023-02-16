@@ -1,20 +1,27 @@
-id: NQD2
-name: 'SKAT-10 Armored Suit'
-rank: Master
-class: Explorer
-weight: 12.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 10.0
-bulletResistance: 142.0
-meleeProtection: 153.0
-explosionProtection: 206.0
-resistanceToElectricity: 356.0
-resistanceToFire: 356.0
-resistanceToChemicals: 356.0
-radiationProtection: 225.0
-thermalProtection: 160.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 210.0
-bleedingProtection: 60.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: NQD2
+    key: skat10
+    name: 'SKAT-10 Armored Suit'
+    category: Armor/Research
+    rank: Master
+    class: Explorer
+    weight: 12.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [10.0]
+    nightVision: 1
+    bulletDmgFactor: [142.0]
+    tearDmgFactor: [153.0]
+    explosionDmgFactor: [206.0]
+    electraDmgFactor: [356.0]
+    burnDmgFactor: [356.0]
+    chemicalBurnDmgFactor: [356.0]
+    radiationProtection: [225.0]
+    thermalProtection: [160.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [210.0]
+    bleedingProtection: [60.0]
+    text: 'A modern military armored suit for assault operations in zones of anomalous activity. Components: PSZ-15 series heavy body armor; Sphere-15 helmet, equipped with induction field suppression; an anomalous protection suit and pressure suit.'

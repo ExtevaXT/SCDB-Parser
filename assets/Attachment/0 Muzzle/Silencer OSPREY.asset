@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ae8f2a691b5974289ba8a2d2fd217c, type: 3}
+  m_Name: Silencer OSPREY
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 1000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Sliencer OSPREY
+  image: {fileID: 21300000, guid: 292148ca91d894e46a95e5e4d1e37683, type: 3}
+  drop: {fileID: -7727273790618153289, guid: f669389fe4371eb4f81007098dbbd87b, type: 3}
+  modelPrefab: {fileID: 1388882735730434, guid: e509dd13ff288f141b80b19ca0a20303,
+    type: 3}
+  type: Muzzle
+  hide: 0
+  content: 
+  notes: 
+  attachmentMetaId: 81
+  attachmentMetaGroup: 0
+  silenced: 1
+  magazine: 0
+  recoilHorizontal: 10
+  recoilVertical: 10
+  zoom: 0

@@ -1,25 +1,32 @@
-id: RyNO
-name: 'Worn Beretta 93R'
-rank: Stalker
-class: Pistols
-weight: 1.2500001
-durability: 100.0
-max.Durability: 100.0
-ammoType: '9 mm'
-damage: 46.0
-clipCapacity: 20.0
-maximumDistance: 48.0
-rateOfFire: 420.0
-reload: 2.25
-tacticalReload: 1.75
-spread: 1.125
-hip-fireSpread: 3.0
-verticalRecoil: 0.3
-horizontalRecoil: 0.25
-drawTime: 0.45
-aimingTime: 0.15
-startDamage: 46.0
-damageDecreaseStart: 10.0
-endDamage: 14.0
-damageDecreaseEnd: 28.0
-maxDistance: 48.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: RyNO
+    key: beretta93-1
+    name: 'Worn Beretta 93R'
+    category: Weapon/Pistol
+    rank: Stalker
+    class: Pistols
+    weight: 1.2500001
+    maxDurability: 100.0
+    ammoType: '9 mm'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 46.0
+    clipSize: 20.0
+    distance: 48.0
+    rateOfFire: 420.0
+    reloadTime: 2.25
+    tacticalReloadTime: 1.75
+    spread: 1.125
+    hipSpread: 3.0
+    recoil: 0.3
+    horizontalRecoil: 0.25
+    drawTime: 0.45
+    aimSwitch: 0.15
+    startDamage: 46.0
+    damageDecreaseStart: 10.0
+    endDamage: 14.0
+    damageDecreaseEnd: 28.0
+    maxDistance: 48.0
+    text: 'An Italian automatic pistol that was developed by the Beretta company based on the semi-automatic Beretta 92 pistol in the 1970s for law enforcement agencies and the military.'

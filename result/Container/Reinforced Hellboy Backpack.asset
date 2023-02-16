@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: QAOn
+    key: hellboyd
+    name: 'Reinforced Hellboy Backpack'
+    category: Container
+    rank: Stalker
+    class: 'Backpacks and Containers'
+    weight: 4.1
+    maxDurability: 100.0
+    innerProtection: 60.000004
+    effectiveness: 90.0
+    size: 2.0
+    staminaBonus: [20.0]
+    maxWeightBonus: [28.0]
+    text: 'A fairly spacious black backpack that comes equipped with two average-sized artifact containers. It gets its name from its visual similarity to the character of the same name.'

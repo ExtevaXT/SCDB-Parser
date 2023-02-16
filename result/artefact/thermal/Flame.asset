@@ -1,7 +1,16 @@
-id: Jk6Q
-name: Flame
-class: Thermal
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Jk6Q
+    key: jarka_plamya
+    name: Flame
+    category: Artefact/Thermal
+    class: Thermal
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [2.0, 4.0]
+    thermalAccumulation: [2.0, 5.0]
+    bleedingAccumulation: [-4.0, -2.0]
+    text: 'A degraded form, this Fireball stayed too close to its parent anomaly for too long. Speeds up tissue regeneration but, unlike its starting form, warms up too fast and is unsafe to touch without protection.'

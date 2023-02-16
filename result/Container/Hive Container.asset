@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: EY7z
+    key: hive
+    name: 'Hive Container'
+    category: Container
+    rank: Master
+    class: 'Backpacks and Containers'
+    weight: 8.0
+    maxDurability: 100.0
+    innerProtection: 80.0
+    effectiveness: 80.0
+    size: 5.0
+    speedModifier: [-1.5]
+    text: 'While the Bear’s Den was much more compact than the KZS bundle, it was still fairly cumbersome. Scientists conducted a series of projects to improve popular containers. This led to the Hive, a compact, spacious, reliable, but fairly expensive option.'

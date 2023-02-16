@@ -1,7 +1,14 @@
-id: Bk3j
-name: 'RK-3 Grip'
-rank: Stalker
-class: 'Pistol Grips'
-weight: 0.225
-reloadTime: -1.9999981
-recoilBuildup: -2.9999971
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Bk3j
+    key: handle_rk3
+    name: 'RK-3 Grip'
+    category: Attachment/Handle
+    rank: Stalker
+    class: 'Pistol Grips'
+    weight: 0.225
+    reloadTime: -1.9999981
+    recoilGain: -2.9999971
+    suitableFor: [AKS-74U, AKS-74, 'SMG-19 Bizon-2-01', AKM, 'SMG-19-01 Vityaz', AK-103, 'Kbk wz. 88 Tantal', AK-105, RPK, RPK-16, AK-12, 'Gauss Rifle', AK-308, Saiga-12K, RPK-74, 'PKP Pecheneg']

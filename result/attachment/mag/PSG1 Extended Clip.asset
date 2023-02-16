@@ -1,6 +1,13 @@
-id: amzB
-name: 'PSG1 Extended Clip'
-rank: Veteran
-class: Clips
-weight: 0.24
-clipSize: 10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: amzB
+    key: mag_psg1
+    name: 'PSG1 Extended Clip'
+    category: Attachment/Mag
+    rank: Veteran
+    class: Clips
+    weight: 0.24
+    clipSize: 10.0
+    suitableFor: ['HK PSG1']

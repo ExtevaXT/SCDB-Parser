@@ -1,7 +1,14 @@
-id: qeVw
-name: 'MTs-558 Silencer'
-rank: Master
-class: 'Muzzles and Silencers'
-weight: 1.1
-drawSpeed: 20.000004
-damageAtRange: -10.000002
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: qeVw
+    key: silencer_mc558
+    name: 'MTs-558 Silencer'
+    category: Attachment/Barrel
+    rank: Master
+    class: 'Muzzles and Silencers'
+    weight: 1.1
+    drawTime: 20.000004
+    damageDistant: -10.000002
+    suitableFor: [MTs-558]

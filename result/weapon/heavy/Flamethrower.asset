@@ -1,21 +1,27 @@
-id: nqe9
-name: Flamethrower
-rank: Veteran
-class: 'Other Weapons'
-weight: 16.0
-durability: 100.0
-max.Durability: 100.0
-ammoType: 'Flammable Mixture'
-damage: 10.0
-clipCapacity: 150.0
-maximumDistance: 10.0
-rateOfFire: 600.0
-reload: 11.25
-tacticalReload: 9.6
-spread: 2.0
-hip-fireSpread: 2.0
-verticalRecoil: 0.05
-drawTime: 1.35
-aimingTime: 0.45
-fireDamage: 66.66667
-absoluteDamage: 33.333336
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nqe9
+    key: flamethrower
+    name: Flamethrower
+    category: Weapon/Heavy
+    rank: Veteran
+    class: 'Other Weapons'
+    weight: 16.0
+    maxDurability: 100.0
+    ammoType: 'Flammable Mixture'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 10.0
+    clipSize: 150.0
+    distance: 10.0
+    rateOfFire: 600.0
+    reloadTime: 11.25
+    tacticalReloadTime: 9.6
+    spread: 2.0
+    hipSpread: 2.0
+    recoil: 0.05
+    drawTime: 1.35
+    aimSwitch: 0.45
+    burn: 66.66667
+    default: 33.333336

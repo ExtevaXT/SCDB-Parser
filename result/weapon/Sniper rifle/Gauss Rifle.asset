@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: 'Gauss Rifle'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 9.5
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: b907d71a0b5987740bcf41a8c8863116, type: 3 }
+    drop: { fileID: -4885421634399960166, guid: 2bf2bb5c63be55a4bb27034c986a2363, type: 3 }
+    modelPrefab: { fileID: 1775407650306278, guid: 5e2db7648bb918c48bfed455dd9e4dcb, type: 3 }
+    type: Rifle
+    hide: 0
+    content: 'This type of sniper rifle has been on the arms market for half a century and during this time has managed to prove itself as an extremely reliable and easy to handle weapon. In the army it is mainly used to hit distant targets that cannot be hit with a machine gun, but stalkers appreciated the SVD in many ways because the bullet from it can penetrate even the thickest mutant skin or armor vest.'
+    notes: null
+    category: 'Weapon/Sniper rifle'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: 1058386d81ff525449e0488ce5b9eb9d, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 447ad5d4c400ff7419d86ab212fa8fca, type: 3 }
+    emptySound: { fileID: 8300000, guid: 447ad5d4c400ff7419d86ab212fa8fca, type: 3 }
+    drawSound: { fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3 }
+    cooldown: 0.1
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 140
+    damage: 150.0
+    damageType: Bullet
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 30
+    reloadTime: 4.0
+    reloadTimeFull: 3.2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 159ca0de9a0c71944acb7f1bd1355922, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: 159ca0de9a0c71944acb7f1bd1355922, type: 3 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 0 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 2
+    recoilVertical: 4
+    id: Z0V2
+    key: gauss
+    name: 'Gauss Rifle'
+    rank: Master
+    class: 'Sniper Rifles'
+    ammoType: Battery
+    clipSize: 6.0
+    distance: 250.0
+    rateOfFire: 35.0
+    spread: 0.02
+    hipSpread: 5.0
+    recoil: 2.0
+    horizontalRecoil: 0.2
+    drawTime: 1.35
+    aimSwitch: 0.7
+    startDamage: 150.0
+    damageDecreaseStart: 200.0
+    endDamage: 150.0
+    damageDecreaseEnd: 200.0
+    maxDistance: 250.0
+    text: 'A sniper rifle that uses a system of electromagnets to accelerate bullets. This system is fed by energy from the Flare artifact. It is also known as “Project 62.”'

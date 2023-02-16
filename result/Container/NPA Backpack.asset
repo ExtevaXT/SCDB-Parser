@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: A3KP
+    key: npa
+    name: 'NPA Backpack'
+    category: Container
+    rank: Veteran
+    class: 'Backpacks and Containers'
+    weight: 2.5
+    staminaBonus: [40.0]
+    maxWeightBonus: [45.0]

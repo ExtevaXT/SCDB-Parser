@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: PP-19-01 Vityaz
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 5000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 706f66b4a7b1ff04186a93b76cb8564f, type: 3}
+  drop: {fileID: 6918345994587255518, guid: fe7b305ff8df2bd42bfcfd3f462dd211, type: 3}
+  modelPrefab: {fileID: 1540458763532602, guid: 02445ac09aa4a8f48826f7f60389419d,
+    type: 3}
+  type: SMG
+  hide: 0
+  content: 
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 1
+  successfulUseSound: []
+  failedUseSound: {fileID: 0}
+  emptySound: {fileID: 8300000, guid: 733fe413007e0b04e966c8e58e74210a, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 0.1
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 140
+  damage: 36
+  damageType: Bullet
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 564c2eb47e0b4214bb72fbd93aa99d78, type: 2}
+  magazineSize: 30
+  reloadTime: 3
+  reloadTimeFull: 3.2
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: aceb1de7265465e49b30c55b7fbb3141, type: 3}
+  reloadSound0: {fileID: 8300000, guid: f408cf52e0d827649bd21109acce2306, type: 3}
+  reloadBolt: {fileID: 8300000, guid: d3af9b856917c5f4290dedebc43507d3, type: 3}
+  reloadIn: {fileID: 8300000, guid: c42a4fe9f564bb041a28b8c26b00a59b, type: 3}
+  reloadOut: {fileID: 8300000, guid: 768d902d2a78c244f925d63b4e771d6e, type: 3}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 0}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 2
+  recoilVertical: 4

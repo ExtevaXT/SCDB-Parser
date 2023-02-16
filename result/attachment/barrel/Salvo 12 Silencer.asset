@@ -1,8 +1,16 @@
-id: Romn
-name: 'Salvo 12 Silencer'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.96
-spread: -11.000002
-drawSpeed: 10.000002
-damageAtRange: -25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Romn
+    key: silencer_salvo12
+    name: 'Salvo 12 Silencer'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.96
+    spread: -11.000002
+    drawTime: 10.000002
+    damageDistant: -25.0
+    text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
+    suitableFor: ['Cobray Terminator', AA-12, 'Mossberg 590A1', МР-133, 'Franchi SPAS-12', Saiga-12K, МР-153]

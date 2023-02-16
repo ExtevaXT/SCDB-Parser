@@ -1,9 +1,16 @@
-id: 3m8G
-name: '3 Port Mini Compensator'
-rank: Newbie
-class: 'Muzzles and Silencers'
-weight: 0.025
-recoil: -6.999999
-horizontalRecoil: -5.000001
-spread: -4.000002
-recoilBuildup: -14.999998
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3m8G
+    key: barrel_3port
+    name: '3 Port Mini Compensator'
+    category: Attachment/Barrel
+    rank: Newbie
+    class: 'Muzzles and Silencers'
+    weight: 0.025
+    recoil: -6.999999
+    horizontalRecoil: -5.000001
+    spread: -4.000002
+    recoilGain: -14.999998
+    suitableFor: ['SMG-91 KEDR', 'HK MP5', 'IMI Uzi', 'AEK-919K Kashtan', 'Walther MPK', 'SMG-19 Bizon-2-01', 'SMG-19-01 Vityaz', 'FN P90', SMG-2000, 'SR-2M Veresk', 'Spectre M4', 'TDI KRISS Vector', 'HK UMP9', 'IMI Mini Uzi', 'IMI Micro Uzi', PMM, 'HK MP5K', 'Ingram MAC-10', APS, 'Glock 18C', 'Steyr AUG 9 mm', Tsunami, Viper, 'Eternal Novice’s PM', Bee, Dream, PB, PM, Fort-12, 'Walther P99', R-92, 'Beretta 92FS', 'Browning Hi-Power', 'Mauser C96', 'Beretta 93R', SW1911, 'Glock 17', 'Desert Eagle Mark XIX', 'SR-1 Gyurza', 'OTs-33 Pernach']

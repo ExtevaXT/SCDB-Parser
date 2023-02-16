@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffae3923c904b2542812e0dadd8023ec, type: 3}
+  m_Name: AchievementDebug
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 100
+  price: 0
+  sellable: 0
+  personal: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: 
+  image: {fileID: 0}
+  drop: {fileID: 0}
+  modelPrefab: {fileID: 0}
+  type: 
+  content: 
+  notes: 
+  category: 
+  keepUsingWhileButtonDown: 0
+  successfulUseSound: {fileID: 0}
+  failedUseSound: {fileID: 0}
+  emptySound: {fileID: 0}
+  cooldown: 0
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 0
+  useDirectly: 0
+  debugText: TestAchievement

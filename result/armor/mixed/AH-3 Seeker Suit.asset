@@ -1,21 +1,28 @@
-id: D05a
-name: 'AH-3 Seeker Suit'
-rank: Stalker
-class: Combo
-weight: 7.5
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 5.0
-periodicHealing: 1.5
-bulletResistance: 62.0
-meleeProtection: 72.0
-explosionProtection: 87.0
-resistanceToElectricity: 415.0
-resistanceToFire: 415.0
-resistanceToChemicals: 415.0
-radiationProtection: 195.0
-thermalProtection: 195.0
-bioinfectionProtection: 225.0
-psy-emissionProtection: 165.0
-bleedingProtection: 42.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: D05a
+    key: ao3
+    name: 'AH-3 Seeker Suit'
+    category: Armor/Mixed
+    rank: Stalker
+    class: Combo
+    weight: 7.5
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [5.0]
+    artefaktHeal: [1.5]
+    nightVision: 1
+    bulletDmgFactor: [62.0]
+    tearDmgFactor: [72.0]
+    explosionDmgFactor: [87.0]
+    electraDmgFactor: [415.0]
+    burnDmgFactor: [415.0]
+    chemicalBurnDmgFactor: [415.0]
+    radiationProtection: [195.0]
+    thermalProtection: [195.0]
+    biologicalProtection: [225.0]
+    psychoProtection: [165.0]
+    bleedingProtection: [42.0]
+    text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 1g8d
+    key: alk22
+    name: 'ALK-22 Dragonfly'
+    category: 'Weapon/Assault rifle'
+    rank: Veteran
+    class: 'Assault Rifles'
+    weight: 3.8
+    maxDurability: 100.0
+    ammoType: '5.56'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 33.3
+    clipSize: 30.0
+    distance: 155.0
+    rateOfFire: 750.0
+    reloadTime: 4.0
+    tacticalReloadTime: 3.0
+    spread: 0.58
+    hipSpread: 2.6999998
+    recoil: 0.35
+    horizontalRecoil: 0.25
+    drawTime: 1.0
+    aimSwitch: 0.2
+    startDamage: 33.3
+    damageDecreaseStart: 14.0
+    endDamage: 25.0
+    damageDecreaseEnd: 60.0
+    maxDistance: 155.0
+    text: 'An assault rifle with variable rate of fire and a block of spinning barrels. The rate of fire increases gradually in automatic firing mode.'

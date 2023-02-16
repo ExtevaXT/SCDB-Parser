@@ -1,13 +1,16 @@
-id: 20Aa
-name: 'Hunter’s Machete'
-rank: Stalker
-class: 'Melee Weapons'
-weight: 0.42
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 40.0
-chanceForADeepWound: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 20Aa
+    key: '21011'
+    name: 'Hunter’s Machete'
+    category: Weapon/Melee
+    rank: Stalker
+    class: 'Melee Weapons'
+    weight: 0.42
+    common: 50.0
+    strong: 120.0
+    piercing: 40.0
+    bloodlustChance: 35.0
+    text: 'This machete, with its strong steel blade and attached wooden hilt, was intended for hunting and tourism. The construction, which is entirely made of metal, allows for high durability.'

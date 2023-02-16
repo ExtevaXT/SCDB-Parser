@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: HK UMP9
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 5000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 0f50e46df9c808245ac4767beccd8db5, type: 3}
+  drop: {fileID: -5240774679397780539, guid: 366e75f3b2f4ba34e9b1cbbe42515e8f, type: 3}
+  modelPrefab: {fileID: 1555594515587678, guid: f7005a4c8935e504eb636a264903c4bc,
+    type: 3}
+  type: SMG
+  hide: 0
+  content: A submachine gun developed by Transformational Defense Industries. It
+    uses a semi-rigid bolt system, which directs the recoil-driven bolt group downward
+    at a steep angle.
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 1
+  successfulUseSound:
+  - {fileID: 8300000, guid: 9215f2a9b516e60498d082a73b77e211, type: 3}
+  failedUseSound: {fileID: 0}
+  emptySound: {fileID: 8300000, guid: 733fe413007e0b04e966c8e58e74210a, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 0.1
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 140
+  damage: 36
+  damageType: Bullet
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 564c2eb47e0b4214bb72fbd93aa99d78, type: 2}
+  magazineSize: 30
+  reloadTime: 3
+  reloadTimeFull: 3.2
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: 52eeda9a90f16b54586d5af0f1af5197, type: 3}
+  reloadSound0: {fileID: 8300000, guid: 729a68f0ef8404c4e807f7252a5a2a57, type: 3}
+  reloadBolt: {fileID: 8300000, guid: c9348cee4080c5245adcd951e8d43255, type: 3}
+  reloadIn: {fileID: 8300000, guid: c42a9f80932b2704285193b5bf144689, type: 3}
+  reloadOut: {fileID: 8300000, guid: cd6643c4a8a45a245885c8decd188a9f, type: 3}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: d4bf48858fb5c83408bd90caac6bde25, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 2
+  recoilVertical: 4

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Ry5b
+    key: rpk
+    name: RPK
+    category: 'Weapon/Machine gun'
+    rank: Veteran
+    class: 'Machine Guns'
+    weight: 3.1100001
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 41.0
+    clipSize: 40.0
+    distance: 165.0
+    rateOfFire: 650.0
+    reloadTime: 3.8
+    tacticalReloadTime: 3.0
+    spread: 0.658
+    hipSpread: 2.8
+    recoil: 0.55
+    horizontalRecoil: 0.2
+    drawTime: 1.15
+    aimSwitch: 0.35
+    startDamage: 41.0
+    damageDecreaseStart: 17.0
+    endDamage: 27.0
+    damageDecreaseEnd: 75.0
+    maxDistance: 165.0
+    text: 'A Soviet light machine gun based on the AKM assault rifle. When it was entered into service, and indeed for a long time afterwards, it was the lightest machine gun in the world, and established itself as a highly effective weapon compact, simple, and convenient to use.'

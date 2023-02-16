@@ -1,7 +1,13 @@
-id: 7JxP
-name: '9x39 mm SP-6 Ammo'
-class: Ammo
-weight: 0.02
-armor-penetration: 20.0
-bleeding: 5.0
-stoppingPower: 15.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 7JxP
+    key: 939bb
+    name: '9x39 mm SP-6 Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.02
+    piercing: 20.0
+    bleeding: 5.0
+    stoppingPower: 15.0

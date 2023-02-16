@@ -1,21 +1,28 @@
-id: Vqw2
-name: 'Damaged Centurion'
-rank: Veteran
-class: Combat
-weight: 40.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -15.0
-movementSpeed: -3.0
-carryWeight: 25.0
-bulletResistance: 152.0
-meleeProtection: 152.0
-explosionProtection: 210.0
-resistanceToElectricity: 59.0
-resistanceToFire: 59.0
-resistanceToChemicals: 59.0
-radiationProtection: 200.0
-thermalProtection: 30.0
-bioinfectionProtection: 180.0
-psy-emissionProtection: 160.0
-bleedingProtection: 61.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Vqw2
+    key: centurion-2
+    name: 'Damaged Centurion'
+    category: Armor/Combat
+    rank: Veteran
+    class: Combat
+    weight: 40.0
+    maxDurability: 100.0
+    staminaBonus: [-15.0]
+    speedModifier: [-3.0]
+    maxWeightBonus: [25.0]
+    nightVision: 1
+    bulletDmgFactor: [152.0]
+    tearDmgFactor: [152.0]
+    explosionDmgFactor: [210.0]
+    electraDmgFactor: [59.0]
+    burnDmgFactor: [59.0]
+    chemicalBurnDmgFactor: [59.0]
+    radiationProtection: [200.0]
+    thermalProtection: [30.0]
+    biologicalProtection: [180.0]
+    psychoProtection: [160.0]
+    bleedingProtection: [61.0]
+    text: 'Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this.'

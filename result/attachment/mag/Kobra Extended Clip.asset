@@ -1,7 +1,14 @@
-id: DVeV
-name: 'Kobra Extended Clip'
-rank: Veteran
-class: Clips
-weight: 0.28
-clipSize: 15.0
-reloadTime: 20.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: DVeV
+    key: mag_svu15
+    name: 'Kobra Extended Clip'
+    category: Attachment/Mag
+    rank: Veteran
+    class: Clips
+    weight: 0.28
+    clipSize: 15.0
+    reloadTime: 20.000004
+    suitableFor: [MTs-116M, Avalanche, SVD, SVU]

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: 'M249 SAW'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 6.85
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 9dd645c89ab881c44bed72cf85b0041a, type: 3 }
+    drop: { fileID: -120898231776610291, guid: 90270924c0be87147913b028dcafb432, type: 3 }
+    modelPrefab: { fileID: 1403235601242518, guid: a2ff09790da4a6249894d73cabb4b4c0, type: 3 }
+    type: Machinegun
+    hide: 0
+    content: 'U.S. Army 5.56 caliber handgun (made by a local subsidiary of the Belgian company FN Herstal), production started in the 1980s.'
+    notes: null
+    category: 'Weapon/Machine gun'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: d1bfc5e6843dca349b6f3cad3bed0d41, type: 3 }, { fileID: 8300000, guid: f9120fb6930addf4e8c5920b09310499, type: 3 }, { fileID: 8300000, guid: 7b10b17875738e94fbca56a59ac86c18, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: d85bd6e46e4964146b3ba9856192bae1, type: 3 }
+    emptySound: { fileID: 8300000, guid: d85bd6e46e4964146b3ba9856192bae1, type: 3 }
+    drawSound: { fileID: 8300000, guid: 8b5cb0bb0685ec34ea5e896c6490cbc2, type: 3 }
+    cooldown: 0.1
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 140
+    damage: 36.0
+    damageType: Bullet
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 30
+    reloadTime: 7.25
+    reloadTimeFull: 3.2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 1dfd2afb4ba32764d880158de4c57ab2, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: d2f5b4fd68012f54080eee0d87b309f5, type: 3 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: e6590f9a5e2240d4a9a82f594b91be5d, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 2
+    recoilVertical: 4
+    id: QBX1
+    key: m249
+    name: 'M249 SAW'
+    rank: Veteran
+    class: 'Machine Guns'
+    ammoType: '5.56'
+    clipSize: 200.0
+    distance: 165.0
+    rateOfFire: 775.0
+    spread: 0.55
+    hipSpread: 2.8
+    recoil: 0.45
+    horizontalRecoil: 0.15
+    drawTime: 1.3
+    aimSwitch: 0.4
+    startDamage: 36.0
+    damageDecreaseStart: 19.0
+    endDamage: 26.0
+    damageDecreaseEnd: 77.0
+    maxDistance: 165.0
+    text: 'A handheld, American-made, 5.56 caliber US army machine gun (manufactured by the local branch of the Belgian company FN Herstal). Mass production of this weapon began in the 1980s.'

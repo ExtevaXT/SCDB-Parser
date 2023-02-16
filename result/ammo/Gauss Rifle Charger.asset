@@ -1,6 +1,12 @@
-id: OZEV
-name: 'Gauss Rifle Charger'
-class: Ammo
-weight: 0.06
-armor-penetration: 62.0
-bleeding: 5.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: OZEV
+    key: akumulatora
+    name: 'Gauss Rifle Charger'
+    category: Ammo
+    class: Ammo
+    weight: 0.06
+    piercing: 62.0
+    bleeding: 5.0

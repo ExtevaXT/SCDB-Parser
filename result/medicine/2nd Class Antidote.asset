@@ -1,8 +1,15 @@
-id: 0bLQ
-name: '2nd Class Antidote'
-class: Medicine
-weight: 0.05
-purpose: 'Bioinfection Protection'
-duration: 240.0
-poison: 50.0
-bioinfectionResistance: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0bLQ
+    key: antidot_2
+    name: '2nd Class Antidote'
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Bioinfection Protection'
+    duration: 240.0
+    toxicity: 50.0
+    biologicalDmgFactor: [35.0]
+    text: 'A first-aid treatment used for chemical burns of the larynx and lungs, or chemical poisoning. Does not protect against the direct effects of acid on the body.'

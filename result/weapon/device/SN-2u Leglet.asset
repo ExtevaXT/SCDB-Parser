@@ -1,10 +1,16 @@
-id: 0Qd7
-name: 'SN-2u Leglet'
-class: Devices
-weight: 3.2
-durability: 100.0
-max.Durability: 100.0
-charge: 100.0
-passiveRange: 25.0
-activeRange: 25.0
-scanningAngle: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0Qd7
+    key: cn2u
+    name: 'SN-2u Leglet'
+    category: Weapon/Device
+    class: Devices
+    weight: 3.2
+    maxDurability: 100.0
+    charge: 100.0
+    passiveScanRadius: 25.0
+    activeScanRadius: 25.0
+    activeScanAngle: 30.0
+    text: 'Lesser charge usage during active scanning compared to the standard model, but the scanning distance is also decreased.'

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: RSh-12
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 3000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: a03248d8c8ef19c49b8614a30761913b, type: 3}
+  drop: {fileID: -3276016062954899971, guid: ac68d432af58be945b4ae397fb34bf8f, type: 3}
+  modelPrefab: {fileID: 1111015175407080, guid: 4ca2f36875e39d3489da658ebac77271,
+    type: 3}
+  type: Pistol
+  hide: 0
+  content: 
+  notes: 
+  category: WeaponOnehand
+  keepUsingWhileButtonDown: 0
+  successfulUseSound:
+  - {fileID: 8300000, guid: 9d2efbca326ec8442aced7bc566aed5a, type: 3}
+  failedUseSound: {fileID: 8300000, guid: 80f4257e22a5dbf4caacabefee2bb887, type: 3}
+  emptySound: {fileID: 8300000, guid: 80f4257e22a5dbf4caacabefee2bb887, type: 3}
+  drawSound: {fileID: 8300000, guid: 1adc2f5d7686d4a48bbe9ae7c1786fec, type: 3}
+  cooldown: 0.375
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 30
+  damage: 5
+  damageType: Tear
+  upperBodyAnimationParameter: UPPERBODY_PISTOL_BREAKACTION
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 70e0efc602e2a294e8c4baf31bb8cb86, type: 2}
+  magazineSize: 5
+  reloadTime: 2
+  reloadTimeFull: 2
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 1647599476371734, guid: 05efeb02e1245454a96b6e078c7433ff, type: 3}
+  reloadSound: {fileID: 8300000, guid: 834077e3dee0e7f4799cbf83bc860bb7, type: 3}
+  reloadSound0: {fileID: 8300000, guid: 834077e3dee0e7f4799cbf83bc860bb7, type: 3}
+  reloadBolt: {fileID: 0}
+  reloadIn: {fileID: 0}
+  reloadOut: {fileID: 0}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: 9876e4d57b3814b41b90bc0aea8b70d8, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 1
+  recoilVertical: 4

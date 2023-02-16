@@ -1,8 +1,14 @@
-id: 81zQ
-name: '5.56 mm Expanding Ammo'
-class: Ammo
-weight: 0.012
-damage: 10.000002
-armor-penetration: -20.0
-bleeding: 15.000001
-stoppingPower: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 81zQ
+    key: 556exp
+    name: '5.56 mm Expanding Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.012
+    damage: 10.000002
+    piercing: -20.0
+    bleeding: 15.000001
+    stoppingPower: 40.0

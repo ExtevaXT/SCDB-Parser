@@ -1,9 +1,16 @@
-id: 3grl
-name: 'M381 Grenade Round'
-class: Grenades
-weight: 0.23
-damageAtCenter: 450.0
-minimumDamage: 25.0
-timeUntilDetonation: 8.0
-damageRange: 6.0
-fuseTime: 0.25
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3grl
+    key: m381
+    name: 'M381 Grenade Round'
+    category: Grenade
+    class: Grenades
+    weight: 0.23
+    explosionStrength: 450.0
+    explosionStrengthMin: 25.0
+    lifetime: 8.0
+    explosionSize: 6.0
+    explosionActivationTime: 0.25
+    text: 'A fragmentation round for the M203 grenade launcher.'

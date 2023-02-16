@@ -1,8 +1,15 @@
-id: 7mYL
-name: 'ASh-12 Standard Barrel'
-rank: Master
-class: 'Muzzles and Silencers'
-weight: 0.16
-distance: 10.000002
-horizontalRecoil: -10.000002
-drawSpeed: 10.000002
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 7mYL
+    key: barrel_ash12
+    name: 'ASh-12 Standard Barrel'
+    category: Attachment/Barrel
+    rank: Master
+    class: 'Muzzles and Silencers'
+    weight: 0.16
+    distance: 10.000002
+    horizontalRecoil: -10.000002
+    drawTime: 10.000002
+    suitableFor: [ASh-12]

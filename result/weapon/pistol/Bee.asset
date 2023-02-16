@@ -1,25 +1,32 @@
-id: JJd9
-name: Bee
-rank: Newbie
-class: Pistols
-weight: 0.7
-durability: 100.0
-max.Durability: 100.0
-ammoType: '9 mm'
-damage: 48.0
-clipCapacity: 16.0
-maximumDistance: 50.0
-rateOfFire: 460.0
-reload: 2.4
-tacticalReload: 2.1
-spread: 1.368
-hip-fireSpread: 2.7
-verticalRecoil: 0.25
-horizontalRecoil: 0.2
-drawTime: 0.6
-aimingTime: 0.15
-startDamage: 48.0
-damageDecreaseStart: 10.0
-endDamage: 17.0
-damageDecreaseEnd: 24.0
-maxDistance: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JJd9
+    key: p99_mod
+    name: Bee
+    category: Weapon/Pistol
+    rank: Newbie
+    class: Pistols
+    weight: 0.7
+    maxDurability: 100.0
+    ammoType: '9 mm'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 48.0
+    clipSize: 16.0
+    distance: 50.0
+    rateOfFire: 460.0
+    reloadTime: 2.4
+    tacticalReloadTime: 2.1
+    spread: 1.368
+    hipSpread: 2.7
+    recoil: 0.25
+    horizontalRecoil: 0.2
+    drawTime: 0.6
+    aimSwitch: 0.15
+    startDamage: 48.0
+    damageDecreaseStart: 10.0
+    endDamage: 17.0
+    damageDecreaseEnd: 24.0
+    maxDistance: 50.0
+    text: 'This widely available modification of the P99 pistol, which is popular in the Zone, allows it to fire in fully automatic mode. It is cheap, easy to use, effective, and sometimes makes a “pop” sound while being fired—isn’t that all you need for a perfect weapon?'

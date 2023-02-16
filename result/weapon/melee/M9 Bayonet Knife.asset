@@ -1,13 +1,16 @@
-id: mqol
-name: 'M9 Bayonet Knife'
-rank: Veteran
-class: 'Melee Weapons'
-weight: 0.25
-quickAttack(min): 35.0
-quickAttack(max): 45.0
-strongAttack(min): 100.0
-strongAttack(max): 120.0
-weaponReach(quick): 1.7
-weaponReach(strong): 1.8
-penetration: 60.0
-chanceForADeepWound: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: mqol
+    key: '21017'
+    name: 'M9 Bayonet Knife'
+    category: Weapon/Melee
+    rank: Veteran
+    class: 'Melee Weapons'
+    weight: 0.25
+    common: 35.0
+    strong: 100.0
+    piercing: 60.0
+    bloodlustChance: 40.0
+    text: 'An American bayonet knife entered into service by the US Army.'

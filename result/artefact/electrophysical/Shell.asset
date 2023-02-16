@@ -1,7 +1,15 @@
-id: 31K1
-name: Shell
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 31K1
+    key: electra_pustishka
+    name: Shell
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    burnDmgFactor: [15.0, 30.0]
+    radiationAccumulation: [1.0, 3.0]
+    text: 'When this artifact comes into contact with heated plasma, it absorbs part of it, working in a similar way as a Battery. It may be a Battery that has undergone an unknown mutation inside an anomaly. Radioactive.'

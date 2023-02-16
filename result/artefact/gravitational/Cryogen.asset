@@ -1,7 +1,17 @@
-id: 31y7
-name: Cryogen
-class: Gravitational
-weight: 0.4
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 31y7
+    key: voronka_kriogen
+    name: Cryogen
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.4
+    common: 'Not studied'
+    maxDurability: 100.0
+    staminaBonus: [-20.0, -10.0]
+    regenerationBonus: [-2.5, -1.0]
+    thermalDmgFactor: [10.0, 25.0]
+    thermalAccumulation: [-7.0, -4.0]
+    text: 'An artifact that is formed only under an extremely rare set of circumstances. Its initial formation is similar to that of Amberite, but the anomalous substance, after undergoing several fluctuations in pressure, eventually loses energy and begins to intensively absorb it from the surrounding oxygen, cooling a small area around itself. This results in the body of the owner also cooling down, which slows regeneration and movement speed.'

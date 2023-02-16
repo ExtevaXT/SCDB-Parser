@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: RPK-16
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 4.7799997
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 62494cc8347b53a4f83e1f85adc7fc2e, type: 3 }
+    drop: { fileID: -674074274231560322, guid: 89476fd57f4d15348a40d89bcdc9b9e0, type: 3 }
+    modelPrefab: { fileID: 1726046159356512, guid: c0c945cf84c075748ab0c5119436c12b, type: 3 }
+    type: Machinegun
+    hide: 0
+    content: 'Russian single machine gun developed on the basis of PKM. Designed to defeat enemy manpower, fire and transport vehicles, and air targets.'
+    notes: null
+    category: 'Weapon/Machine gun'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: ffe1ea33236422341997e2e390160aeb, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
+    emptySound: { fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3 }
+    drawSound: { fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3 }
+    cooldown: 0.1
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 140
+    damage: 38.0
+    damageType: Bullet
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 30
+    reloadTime: 4.25
+    reloadTimeFull: 3.2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: f815c79c0f3215a4dba1c4b45caf2a1a, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: 80a06629307c4fe4d9c2654b9c04f5aa, type: 3 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: 6158b1129c5afbf4aa908cdf2e986f26, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 2
+    recoilVertical: 4
+    id: eamJ
+    key: rpk16
+    name: RPK-16
+    rank: Veteran
+    class: 'Machine Guns'
+    ammoType: '5.45'
+    clipSize: 96.0
+    distance: 170.0
+    rateOfFire: 700.0
+    tacticalReloadTime: 2.95
+    spread: 0.48
+    hipSpread: 2.8
+    recoil: 0.4
+    horizontalRecoil: 0.14
+    drawTime: 1.15
+    aimSwitch: 0.35
+    startDamage: 38.0
+    damageDecreaseStart: 17.0
+    endDamage: 27.0
+    damageDecreaseEnd: 77.0
+    maxDistance: 170.0
+    text: 'A Russian 5.45x39 mm caliber light machine gun. This machine gun is being developed as a potential replacement for the RPK-74 Kalashnikov light machine gun, both for regular troops and for special ops units.'

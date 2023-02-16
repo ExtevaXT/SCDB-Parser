@@ -1,8 +1,15 @@
-id: Bkmy
-name: 'Mossberg Stock'
-class: Stocks
-weight: 0.25
-recoil: -14.999998
-sway: -19.999998
-drawSpeed: 14.999998
-stabilization: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Bkmy
+    key: '22600'
+    name: 'Mossberg Stock'
+    category: Attachment/Stock
+    class: Stocks
+    weight: 0.25
+    recoil: -14.999998
+    wiggle: -19.999998
+    drawTime: 14.999998
+    tickSpreadMultiplierReduction: 25.0
+    suitableFor: ['Mossberg 590A1', 'Shorty 590']

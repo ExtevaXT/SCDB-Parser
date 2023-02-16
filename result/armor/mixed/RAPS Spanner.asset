@@ -1,21 +1,28 @@
-id: 0jRE
-name: 'RAPS Spanner'
-rank: Veteran
-class: Combo
-weight: 28.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 10.0
-periodicHealing: 2.25
-bulletResistance: 90.0
-meleeProtection: 105.0
-explosionProtection: 125.0
-resistanceToElectricity: 533.0
-resistanceToFire: 533.0
-resistanceToChemicals: 533.0
-radiationProtection: 225.0
-thermalProtection: 225.0
-bioinfectionProtection: 285.0
-psy-emissionProtection: 225.0
-bleedingProtection: 47.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0jRE
+    key: spanner
+    name: 'RAPS Spanner'
+    category: Armor/Mixed
+    rank: Veteran
+    class: Combo
+    weight: 28.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [10.0]
+    artefaktHeal: [2.25]
+    nightVision: 1
+    bulletDmgFactor: [90.0]
+    tearDmgFactor: [105.0]
+    explosionDmgFactor: [125.0]
+    electraDmgFactor: [533.0]
+    burnDmgFactor: [533.0]
+    chemicalBurnDmgFactor: [533.0]
+    radiationProtection: [225.0]
+    thermalProtection: [225.0]
+    biologicalProtection: [285.0]
+    psychoProtection: [225.0]
+    bleedingProtection: [47.0]
+    text: 'A reinforced anomalous protection suit inspired by the AH-4. It has the same psy-emission offset device and absorbent capacitor, but the design of the suit has been reworked. An advanced air-filtration system and a frame to fit bulky backpacks were added, the armor was strengthened.'

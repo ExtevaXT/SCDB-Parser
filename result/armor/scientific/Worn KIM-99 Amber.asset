@@ -1,18 +1,25 @@
-id: ZAor
-name: 'Worn KIM-99 Amber'
-rank: Newbie
-class: Scientist
-weight: 7.3
-durability: 100.0
-max.Durability: 100.0
-bulletResistance: 28.0
-meleeProtection: 32.0
-explosionProtection: 38.0
-resistanceToElectricity: 296.0
-resistanceToFire: 296.0
-resistanceToChemicals: 296.0
-radiationProtection: 150.0
-thermalProtection: 180.0
-bioinfectionProtection: 210.0
-psy-emissionProtection: 100.0
-bleedingProtection: 23.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: ZAor
+    key: yantar-1
+    name: 'Worn KIM-99 Amber'
+    category: Armor/Scientific
+    rank: Newbie
+    class: Scientist
+    weight: 7.3
+    maxDurability: 100.0
+    nightVision: 1
+    bulletDmgFactor: [28.0]
+    tearDmgFactor: [32.0]
+    explosionDmgFactor: [38.0]
+    electraDmgFactor: [296.0]
+    burnDmgFactor: [296.0]
+    chemicalBurnDmgFactor: [296.0]
+    radiationProtection: [150.0]
+    thermalProtection: [180.0]
+    biologicalProtection: [210.0]
+    psychoProtection: [100.0]
+    bleedingProtection: [23.0]
+    text: 'One of the Chernobyl Research Institute’s suits that might be classed as a success. From this production suit came a whole plethora of specialized prototypes. They are valuable not only in terms of their price: maintaining them also costs a pretty penny. Advanced stalkers use them to obtain artifacts in places that are inaccessible when wearing a regular suit.'

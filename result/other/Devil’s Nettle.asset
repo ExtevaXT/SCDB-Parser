@@ -1,4 +1,10 @@
-id: ENDA
-name: 'Devil’s Nettle'
-rank: Veteran
-class: Other
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: ENDA
+    key: mob_add
+    name: 'Devil’s Nettle'
+    category: Other
+    rank: Veteran
+    class: Other

@@ -1,5 +1,12 @@
-id: Q8xR
-name: 'SKS Tactical Grip'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.11
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Q8xR
+    key: forend_skstop
+    name: 'SKS Tactical Grip'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.11
+    suitableFor: [SKS]

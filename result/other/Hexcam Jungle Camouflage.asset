@@ -1,3 +1,9 @@
-id: 9KOQ
-name: 'Hexcam Jungle Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 9KOQ
+    key: '19233'
+    name: 'Hexcam Jungle Camouflage'
+    category: Other
+    class: 'Skins and Paint'

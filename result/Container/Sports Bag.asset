@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: DNVZ
+    key: sports
+    name: 'Sports Bag'
+    category: Container
+    rank: Newbie
+    class: 'Backpacks and Containers'
+    weight: 1.5
+    staminaBonus: [15.0]
+    maxWeightBonus: [20.0]

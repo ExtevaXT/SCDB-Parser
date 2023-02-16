@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdae6158522d46441a5aace99f60b060, type: 3}
+  m_Name: AA-12
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 10000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 66f938df3883a154692e3c367eff2066, type: 3}
+  drop: {fileID: 2950910088686658154, guid: 39cbf2fed58d40a41be4184904419110, type: 3}
+  modelPrefab: {fileID: 1607563544594070, guid: 6d91cb27fbec3fb49899231951c68cd6,
+    type: 3}
+  type: Shotgun
+  hide: 0
+  content: A regular hunting rifle with horizontal barrels, much more compact and
+    lightweight than a conventional double-barreled shotgun. One of the most common
+    weapons used by bandits, as it is convenient for concealed carry and very effective
+    in close combat.
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 0
+  successfulUseSound:
+  - {fileID: 8300000, guid: a2e2c452e7704c34fa2ca083b94343fb, type: 3}
+  failedUseSound: {fileID: 8300000, guid: c51e0192d22173a4399078c3746aad35, type: 3}
+  emptySound: {fileID: 8300000, guid: c51e0192d22173a4399078c3746aad35, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 0.1
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 120
+  damage: 10
+  damageType: Bullet
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: e61eef604bab1f644b00e3b7bec9982d, type: 2}
+  magazineSize: 10
+  reloadTime: 1
+  reloadTimeFull: 2
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: 3fcfc1aed1916544f888ca61fa0f423a, type: 3}
+  reloadSound0: {fileID: 8300000, guid: df9515c371ab85940b4663365b879c5b, type: 3}
+  reloadBolt: {fileID: 0}
+  reloadIn: {fileID: 0}
+  reloadOut: {fileID: 0}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 0}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 2
+  recoilVertical: 4
+  damageLossDistanceMin: 12
+  damageLossDistanceMax: 60
+  damageMin: 10
+  amountOfProjectiles: 8
+  distanceMultiplier: 1
+  spreadHorizontal: 1
+  spreadVertical: 1

@@ -1,3 +1,9 @@
-id: eaRG
-name: Carrie
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: eaRG
+    key: carry
+    name: Carrie
+    category: Other
+    class: 'Skins and Paint'

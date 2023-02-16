@@ -58,8 +58,7 @@ MonoBehaviour:
   category: WeaponTwohand
   keepUsingWhileButtonDown: 1
   successfulUseSound:
-  - {
-      : 8300000, guid: f7b7db35408607643a88ce231833f274, type: 3}
+  - {fileID: 8300000, guid: f7b7db35408607643a88ce231833f274, type: 3}
   - {fileID: 8300000, guid: 17574c4de342f7544835506f0fcc7ec6, type: 3}
   - {fileID: 8300000, guid: 4ddd13cfa9a0c8f40b02eb5a92b9a1d4, type: 3}
   failedUseSound: {fileID: 8300000, guid: 5a77d3df1c03c0045867cd955f36ee42, type: 3}

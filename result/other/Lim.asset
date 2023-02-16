@@ -1,5 +1,11 @@
-id: zLwx
-name: Lim
-rank: Newbie
-class: Other
-weight: 0.1
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: zLwx
+    key: npc
+    name: Lim
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.1

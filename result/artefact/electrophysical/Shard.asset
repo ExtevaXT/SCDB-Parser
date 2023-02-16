@@ -1,7 +1,16 @@
-id: gKz3
-name: Shard
-class: Electrophysical
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: gKz3
+    key: puzir_oskolok
+    name: Shard
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    healthBonus: [2.0, 5.0]
+    healEfficiency: [5.0, 15.0]
+    biologicalAccumulation: [3.0, 8.0]
+    text: 'An artifact that resembles a shard of cheap crystal. Don’t let its appearance deceive you, though—this artifact increases the owner’s vitality, allowing them to survive nearly fatal wounds. However, the artifact is made of toxic substances and could be dangerous without the necessary protection.'

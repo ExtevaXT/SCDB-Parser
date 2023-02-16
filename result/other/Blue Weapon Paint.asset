@@ -1,3 +1,9 @@
-id: V1Y3
-name: 'Blue Weapon Paint'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: V1Y3
+    key: indigo
+    name: 'Blue Weapon Paint'
+    category: Other
+    class: 'Skins and Paint'

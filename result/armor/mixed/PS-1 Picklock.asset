@@ -1,20 +1,26 @@
-id: 3j7Z
-name: 'PS-1 Picklock'
-rank: Picklock
-class: Combo
-weight: 4.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-carryWeight: 3.0
-bulletResistance: 17.0
-meleeProtection: 21.0
-explosionProtection: 27.0
-resistanceToElectricity: 89.0
-resistanceToFire: 89.0
-resistanceToChemicals: 89.0
-radiationProtection: 100.0
-thermalProtection: 30.0
-bioinfectionProtection: 100.0
-psy-emissionProtection: 0.0
-bleedingProtection: 12.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3j7Z
+    key: picklock
+    name: 'PS-1 Picklock'
+    category: Armor/Mixed
+    rank: Picklock
+    class: Combo
+    weight: 4.0
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    maxWeightBonus: [3.0]
+    bulletDmgFactor: [17.0]
+    tearDmgFactor: [21.0]
+    explosionDmgFactor: [27.0]
+    electraDmgFactor: [89.0]
+    burnDmgFactor: [89.0]
+    chemicalBurnDmgFactor: [89.0]
+    radiationProtection: [100.0]
+    thermalProtection: [30.0]
+    biologicalProtection: [100.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [12.0]
+    text: 'Rejected or irreparable Zarya suits often get a second life as a kind of protective suit. Of course, their bullet resistance leaves something to be desired, but you won’t find better protection from radiation for this price.'

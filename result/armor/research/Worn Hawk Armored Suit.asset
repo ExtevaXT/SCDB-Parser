@@ -1,19 +1,25 @@
-id: D0Qa
-name: 'Worn Hawk Armored Suit'
-rank: Stalker
-class: Explorer
-weight: 9.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 10.0
-bulletResistance: 75.0
-meleeProtection: 80.0
-explosionProtection: 114.0
-resistanceToElectricity: 53.0
-resistanceToFire: 53.0
-resistanceToChemicals: 53.0
-radiationProtection: 150.0
-thermalProtection: 90.0
-bioinfectionProtection: 150.0
-psy-emissionProtection: 100.0
-bleedingProtection: 46.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: D0Qa
+    key: sokol-1
+    name: 'Worn Hawk Armored Suit'
+    category: Armor/Research
+    rank: Stalker
+    class: Explorer
+    weight: 9.0
+    maxDurability: 100.0
+    maxWeightBonus: [10.0]
+    bulletDmgFactor: [75.0]
+    tearDmgFactor: [80.0]
+    explosionDmgFactor: [114.0]
+    electraDmgFactor: [53.0]
+    burnDmgFactor: [53.0]
+    chemicalBurnDmgFactor: [53.0]
+    radiationProtection: [150.0]
+    thermalProtection: [90.0]
+    biologicalProtection: [150.0]
+    psychoProtection: [100.0]
+    bleedingProtection: [46.0]
+    text: 'The Huntsman suit, body armor with a utility vest, the Hawk helmet and respirator don’t look like anything special, but in the conditions of the Zone, they make up an incredibly useful pack for an experienced stalker. The wisely selected components don’t hinder movement at all.'

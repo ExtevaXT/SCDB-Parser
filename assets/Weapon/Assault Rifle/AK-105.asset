@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: AK-105
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 3150
+  price: 100
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: 1246f3de486ce44488372d2d2fe84af0, type: 3}
+  drop: {fileID: 0}
+  modelPrefab: {fileID: 1523676449047648, guid: 579f5357527bcff4f9b459258a266dde,
+    type: 3}
+  type: Assault Rifle
+  hide: 0
+  content: "\u0410\u0432\u0442\u043E\u043C\u0430\u0442 \u041A\u0430\u043B\u0430\u0448\u043D\u0438\u043A\u043E\u0432\u0430
+    \u0410\u041A-12 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u043C
+    \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u043C
+    \u0441\u0442\u0440\u0435\u043B\u043A\u043E\u0432\u044B\u043C \u043E\u0440\u0443\u0436\u0438\u0435\u043C
+    \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0439 \u0430\u0440\u043C\u0438\u0438
+    \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0438\u043B\u043E\u0432\u044B\u0445
+    \u0432\u0435\u0434\u043E\u043C\u0441\u0442\u0432, \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u044E\u0449\u0438\u043C
+    \u0435\u0449\u0435 \u0431\u043E\u043B\u044C\u0448\u0443\u044E \u0431\u043E\u0435\u0432\u0443\u044E
+    \u044D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+    \u043E\u0440\u0443\u0436\u0438\u044F, \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+    \u043F\u0440\u0438\u043C\u0435\u043D\u0435\u043D\u0438\u044F, \u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C
+    \u0438 \u043A\u0443\u0447\u043D\u043E\u0441\u0442\u044C \u0441\u0442\u0440\u0435\u043B\u044C\u0431\u044B."
+  notes: 
+  category: WeaponTwohand
+  keepUsingWhileButtonDown: 1
+  successfulUseSound:
+  - {fileID: 8300000, guid: 9d85b878db6089b4fabe8fc42e84afaa, type: 3}
+  failedUseSound: {fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3}
+  emptySound: {fileID: 8300000, guid: b31eb5362790c5d4485dfe985a93b716, type: 3}
+  drawSound: {fileID: 8300000, guid: a0ac02d6e0ab96241aeb08537ceeb4e4, type: 3}
+  cooldown: 700
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 150
+  damage: 37
+  damageType: Bullet
+  upperBodyAnimationParameter: UPPERBODY_RIFLE
+  attachmentsAllowed:
+  - {fileID: 11400000, guid: 6b06e4556f5aaa440ae26c6a12ae0393, type: 2}
+  - {fileID: 11400000, guid: 98ecd94d0fd0bc7418ed7ba8a7f0f4f5, type: 2}
+  - {fileID: 11400000, guid: eaa8cd30265ade145b38de6333cfa867, type: 2}
+  - {fileID: 11400000, guid: 8d4d357dc64ca9d42bf2a81854d8a5c9, type: 2}
+  - {fileID: 11400000, guid: 2dbd76f3ece4bcc46863c535cd6666f9, type: 2}
+  - {fileID: 11400000, guid: 2ad4f4e73c582bd4d8c85ad230bbce6f, type: 2}
+  - {fileID: 11400000, guid: 8b0ab0820d1a1874b83b0a204af36ee0, type: 2}
+  - {fileID: 11400000, guid: b1a2d4c0a580e4a4f8c2b424de7b6215, type: 2}
+  requiredAmmo: {fileID: 11400000, guid: 512d64d75cbd45d4ea1d238c38841898, type: 2}
+  magazineSize: 30
+  reloadTime: 3
+  reloadTimeFull: 3.5
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: f815c79c0f3215a4dba1c4b45caf2a1a, type: 3}
+  reloadSound0: {fileID: 8300000, guid: 80a06629307c4fe4d9c2654b9c04f5aa, type: 3}
+  reloadBolt: {fileID: 0}
+  reloadIn: {fileID: 0}
+  reloadOut: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: 6158b1129c5afbf4aa908cdf2e986f26, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 2
+  recoilVertical: 4

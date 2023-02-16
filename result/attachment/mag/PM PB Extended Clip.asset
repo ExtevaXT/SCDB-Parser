@@ -1,6 +1,13 @@
-id: z5JL
-name: 'PM PB Extended Clip'
-rank: Picklock
-class: Clips
-weight: 0.05
-additionalClipSize: 2.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: z5JL
+    key: mag_pm
+    name: 'PM PB Extended Clip'
+    category: Attachment/Mag
+    rank: Picklock
+    class: Clips
+    weight: 0.05
+    additiveClipSize: 2.0
+    suitableFor: [PMM, 'Eternal Novice’s PM', PB, PM]

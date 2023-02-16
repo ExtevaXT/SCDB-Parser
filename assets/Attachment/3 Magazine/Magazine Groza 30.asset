@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ae8f2a691b5974289ba8a2d2fd217c, type: 3}
+  m_Name: Magazine Groza 30
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 1000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Magazine for weapon
+  image: {fileID: 21300000, guid: 7e5e685b9f3f2f248874a0d667c9af67, type: 3}
+  drop: {fileID: -1322884234165360555, guid: 2ab61ba2213782046bdb9b22f6c03840, type: 3}
+  modelPrefab: {fileID: 1477973260144702, guid: 8ea3fa5ae3cdb4b4a9a0f3bb39938f08,
+    type: 3}
+  type: Magazine
+  hide: 0
+  content: 
+  notes: 
+  attachmentMetaId: 71
+  attachmentMetaGroup: 3
+  silenced: 0
+  magazine: 0
+  recoilHorizontal: 0
+  recoilVertical: 0
+  zoom: 0

@@ -1,20 +1,26 @@
-id: k939
-name: 'Striker Armored Suit'
-rank: Newbie
-class: Combat
-weight: 9.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -3.0
-carryWeight: 3.0
-bulletResistance: 68.0
-meleeProtection: 68.0
-explosionProtection: 94.0
-resistanceToElectricity: 27.0
-resistanceToFire: 27.0
-resistanceToChemicals: 27.0
-radiationProtection: 100.0
-thermalProtection: 0.0
-bioinfectionProtection: 90.0
-psy-emissionProtection: 30.0
-bleedingProtection: 42.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: k939
+    key: striker
+    name: 'Striker Armored Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 9.0
+    maxDurability: 100.0
+    staminaBonus: [-3.0]
+    maxWeightBonus: [3.0]
+    bulletDmgFactor: [68.0]
+    tearDmgFactor: [68.0]
+    explosionDmgFactor: [94.0]
+    electraDmgFactor: [27.0]
+    burnDmgFactor: [27.0]
+    chemicalBurnDmgFactor: [27.0]
+    radiationProtection: [100.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [90.0]
+    psychoProtection: [30.0]
+    bleedingProtection: [42.0]
+    text: 'The direct successor to the Berill. This widely-available soldier’s suit has ended up with various syndicates via the black market. They put together a complete set of gear for their soldiers based on this attire, with upgraded body armor, limb protection, and a more comfortable uniform. The helmet remained unchanged.'

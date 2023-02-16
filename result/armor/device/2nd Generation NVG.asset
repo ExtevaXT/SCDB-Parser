@@ -1,5 +1,11 @@
-id: l6or
-name: '2nd Generation NVG'
-rank: Veteran
-class: Devices
-weight: 2.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: l6or
+    key: nvd2
+    name: '2nd Generation NVG'
+    category: Armor/Device
+    rank: Veteran
+    class: Devices
+    weight: 2.0

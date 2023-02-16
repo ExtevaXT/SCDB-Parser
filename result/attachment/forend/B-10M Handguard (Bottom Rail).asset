@@ -1,5 +1,12 @@
-id: 61KD
-name: 'B-10M Handguard (Bottom Rail)'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.12
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 61KD
+    key: forend_b10m
+    name: 'B-10M Handguard (Bottom Rail)'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.12
+    suitableFor: [AKS-74, AKM, AK-103, 'Kbk wz. 88 Tantal', AK-105]

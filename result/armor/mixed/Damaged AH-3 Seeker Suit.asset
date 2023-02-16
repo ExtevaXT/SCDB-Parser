@@ -1,21 +1,28 @@
-id: AVl2
-name: 'Damaged AH-3 Seeker Suit'
-rank: Stalker
-class: Combo
-weight: 7.5
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-carryWeight: 2.0
-periodicHealing: 1.25
-bulletResistance: 48.0
-meleeProtection: 57.0
-explosionProtection: 68.0
-resistanceToElectricity: 326.0
-resistanceToFire: 326.0
-resistanceToChemicals: 326.0
-radiationProtection: 165.0
-thermalProtection: 165.0
-bioinfectionProtection: 165.0
-psy-emissionProtection: 120.0
-bleedingProtection: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: AVl2
+    key: ao3-2
+    name: 'Damaged AH-3 Seeker Suit'
+    category: Armor/Mixed
+    rank: Stalker
+    class: Combo
+    weight: 7.5
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    maxWeightBonus: [2.0]
+    artefaktHeal: [1.25]
+    nightVision: 1
+    bulletDmgFactor: [48.0]
+    tearDmgFactor: [57.0]
+    explosionDmgFactor: [68.0]
+    electraDmgFactor: [326.0]
+    burnDmgFactor: [326.0]
+    chemicalBurnDmgFactor: [326.0]
+    radiationProtection: [165.0]
+    thermalProtection: [165.0]
+    biologicalProtection: [165.0]
+    psychoProtection: [120.0]
+    bleedingProtection: [35.0]
+    text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'

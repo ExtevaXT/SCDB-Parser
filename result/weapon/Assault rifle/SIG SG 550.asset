@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: 'SIG SG 550'
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 4.1
+    price: 100
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 17626fcbedd0ecf448fb598d35fa2c34, type: 3 }
+    drop: { fileID: 4724983406357909044, guid: 2854e6cdbcdaaec44a8e9ec49ae145fb, type: 3 }
+    modelPrefab: { fileID: 1428701504022370, guid: c2a14a7492b824e408d4a35a42a0665e, type: 3 }
+    type: 'Assault Rifle'
+    hide: 0
+    content: 'The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated assault rifle that is chambered for the 7.62×39mm cartridge. Developed in the Soviet Union by Russian small-arms designer Mikhail Kalashnikov, it is the originating firearm of the Kalashnikov (or "AK") family of rifles.'
+    notes: null
+    category: 'Weapon/Assault rifle'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: 25dfd975895f569489a2c5ff5d42303b, type: 3 }, { fileID: 8300000, guid: d2255e4d0600bce48ba8e664dfce8a6f, type: 3 }, { fileID: 8300000, guid: 6dcaf75f31ab96e4b91abd2113bdb64a, type: 3 }, { fileID: 8300000, guid: fe9193c81a5ac6548a11527dcd05ca98, type: 3 }, { fileID: 8300000, guid: 018cf5e87370ad044b576a283c337eb1, type: 3 }, { fileID: 8300000, guid: e078f32801cf9e04a8fc550ba9070ff9, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 2bd2c4520e7b73a42acab8be24844f12, type: 3 }
+    emptySound: { fileID: 8300000, guid: 2bd2c4520e7b73a42acab8be24844f12, type: 3 }
+    drawSound: { fileID: 8300000, guid: a7d410b7bb084b046b639d4a6450a153, type: 3 }
+    cooldown: 0.13
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 150
+    damage: 37.0
+    damageType: Tear
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 20
+    reloadTime: 3.5
+    reloadTimeFull: 3.5
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 331aae7e88a41f4439175a5a72bf68de, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: 56772ed4eddff844a94b5462f1293515, type: 3 }
+    reloadBolt: { fileID: 0 }
+    reloadIn: { fileID: 0 }
+    reloadOut: { fileID: 0 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: e6102c947da62ef4ea976220ba9b5247, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 1
+    recoilVertical: 2
+    id: RywD
+    key: sig
+    name: 'SIG SG 550'
+    rank: Veteran
+    class: 'Assault Rifles'
+    ammoType: '5.56'
+    clipSize: 30.0
+    distance: 160.0
+    rateOfFire: 700.0
+    tacticalReloadTime: 2.95
+    spread: 0.494
+    hipSpread: 3.0
+    recoil: 0.39
+    horizontalRecoil: 0.14
+    drawTime: 1.05
+    aimSwitch: 0.3
+    startDamage: 37.0
+    damageDecreaseStart: 16.0
+    endDamage: 28.0
+    damageDecreaseEnd: 70.0
+    maxDistance: 160.0
+    text: 'A representative of a new family of assault rifles. Thanks to its high reliability, accuracy, and ease of handling, it is one of the best examples of a weapon in its class. It is not frequently encountered in the Zone, and it costs a pretty penny. It is usually seasoned stalkers who order one of these specially for themselves.'

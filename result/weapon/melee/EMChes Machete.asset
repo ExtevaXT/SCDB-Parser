@@ -1,13 +1,16 @@
-id: QBqQ
-name: 'EMChes Machete'
-rank: Stalker
-class: 'Melee Weapons'
-weight: 0.8
-quickAttack(min): 50.0
-quickAttack(max): 60.0
-strongAttack(min): 120.0
-strongAttack(max): 140.0
-weaponReach(quick): 1.9
-weaponReach(strong): 1.9
-penetration: 60.0
-chanceForADeepWound: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: QBqQ
+    key: '21016'
+    name: 'EMChes Machete'
+    category: Weapon/Melee
+    rank: Stalker
+    class: 'Melee Weapons'
+    weight: 0.8
+    common: 50.0
+    strong: 120.0
+    piercing: 60.0
+    bloodlustChance: 40.0
+    text: 'This weapon boasts a well-thought-out design, which combines several tools for various fields of work into one object. The sturdy blade, which is fixed onto an ergonomic wooden handle, can be used as an ax, saw, screwdriver, or lever.'

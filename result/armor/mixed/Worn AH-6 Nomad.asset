@@ -1,22 +1,29 @@
-id: bbqO
-name: 'Worn AH-6 Nomad'
-rank: Master
-class: Combo
-weight: 24.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-movementSpeed: -2.0
-carryWeight: 15.0
-periodicHealing: 2.7
-bulletResistance: 97.0
-meleeProtection: 113.0
-explosionProtection: 136.0
-resistanceToElectricity: 652.0
-resistanceToFire: 652.0
-resistanceToChemicals: 652.0
-radiationProtection: 240.0
-thermalProtection: 240.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 225.0
-bleedingProtection: 52.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: bbqO
+    key: ao6-1
+    name: 'Worn AH-6 Nomad'
+    category: Armor/Mixed
+    rank: Master
+    class: Combo
+    weight: 24.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    speedModifier: [-2.0]
+    maxWeightBonus: [15.0]
+    artefaktHeal: [2.7]
+    nightVision: 1
+    bulletDmgFactor: [97.0]
+    tearDmgFactor: [113.0]
+    explosionDmgFactor: [136.0]
+    electraDmgFactor: [652.0]
+    burnDmgFactor: [652.0]
+    chemicalBurnDmgFactor: [652.0]
+    radiationProtection: [240.0]
+    thermalProtection: [240.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [225.0]
+    bleedingProtection: [52.0]
+    text: 'The best model in the Artifact Hunters range. The main emphasis was placed on increasing ease of use and fixing errors from previous versions.'

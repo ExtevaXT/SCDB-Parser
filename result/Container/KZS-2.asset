@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Rb1x
+    key: kzs2
+    name: KZS-2
+    category: Container
+    rank: Newbie
+    class: 'Backpacks and Containers'
+    weight: 3.5
+    maxDurability: 100.0
+    innerProtection: 75.0
+    effectiveness: 90.0
+    size: 2.0
+    text: 'A set of two KZS-1 containers. Lets you carry two artifacts and, obviously, has good shielding capabilities.'

@@ -1,20 +1,27 @@
-id: 3ZgB
-name: item.arm.granite.name
-rank: Master
-class: Combat
-weight: 65.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -40.0
-movementSpeed: -20.0
-bulletResistance: 256.0
-meleeProtection: 300.0
-explosionProtection: 300.0
-resistanceToElectricity: 53.0
-resistanceToFire: 53.0
-resistanceToChemicals: 53.0
-radiationProtection: 200.0
-thermalProtection: 50.0
-bioinfectionProtection: 200.0
-psy-emissionProtection: 170.0
-bleedingProtection: 75.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3ZgB
+    key: granite
+    name: item.arm.granite.name
+    category: Armor/Combat
+    rank: Master
+    class: Combat
+    weight: 65.0
+    maxDurability: 100.0
+    staminaBonus: [-40.0]
+    speedModifier: [-20.0]
+    nightVision: 1
+    bulletDmgFactor: [256.0]
+    tearDmgFactor: [300.0]
+    explosionDmgFactor: [300.0]
+    electraDmgFactor: [53.0]
+    burnDmgFactor: [53.0]
+    chemicalBurnDmgFactor: [53.0]
+    radiationProtection: [200.0]
+    thermalProtection: [50.0]
+    biologicalProtection: [200.0]
+    psychoProtection: [170.0]
+    bleedingProtection: [75.0]
+    text: item.arm.granite.description

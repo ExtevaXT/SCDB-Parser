@@ -1,22 +1,29 @@
-id: 1LNO
-name: 'RAPS AH-6 Nomad'
-rank: Master
-class: Combo
-weight: 24.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-movementSpeed: -2.0
-carryWeight: 15.0
-periodicHealing: 3.0
-bulletResistance: 105.0
-meleeProtection: 124.0
-explosionProtection: 149.0
-resistanceToElectricity: 711.0
-resistanceToFire: 711.0
-resistanceToChemicals: 711.0
-radiationProtection: 240.0
-thermalProtection: 240.0
-bioinfectionProtection: 300.0
-psy-emissionProtection: 240.0
-bleedingProtection: 53.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 1LNO
+    key: ao6
+    name: 'RAPS AH-6 Nomad'
+    category: Armor/Mixed
+    rank: Master
+    class: Combo
+    weight: 24.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    speedModifier: [-2.0]
+    maxWeightBonus: [15.0]
+    artefaktHeal: [3.0]
+    nightVision: 1
+    bulletDmgFactor: [105.0]
+    tearDmgFactor: [124.0]
+    explosionDmgFactor: [149.0]
+    electraDmgFactor: [711.0]
+    burnDmgFactor: [711.0]
+    chemicalBurnDmgFactor: [711.0]
+    radiationProtection: [240.0]
+    thermalProtection: [240.0]
+    biologicalProtection: [300.0]
+    psychoProtection: [240.0]
+    bleedingProtection: [53.0]
+    text: 'The best model in the Artifact Hunters range. The main emphasis was placed on increasing ease of use and fixing errors from previous versions.'

@@ -1,6 +1,12 @@
-id: NbRD
-name: '5.45 mm Ammo'
-class: Ammo
-weight: 0.01
-bleeding: 5.0
-stoppingPower: 25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: NbRD
+    key: 545st
+    name: '5.45 mm Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.01
+    bleeding: 5.0
+    stoppingPower: 25.0

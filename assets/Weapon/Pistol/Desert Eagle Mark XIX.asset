@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3}
+  m_Name: Desert Eagle Mark XIX
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 3000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 1
+  toolTip: '<b>{NAME}</b>
+
+    Some weapon description
+
+    {PERSONAL}
+
+
+    {DAMAGE}
+    Damage
+
+    Fire Interval: {COOLDOWN}s
+
+    Requires: {REQUIREDAMMO}
+
+
+    Ammo:
+    {AMMO} / {MAGAZINESIZE}
+
+    Durability: {DURABILITY}%
+
+    Weight: {WEIGHT}g'
+  image: {fileID: 21300000, guid: d12c485b62effc8449edf85795387d17, type: 3}
+  drop: {fileID: 3630844629187145047, guid: e2b38f09f2c70ba4988d747f13065150, type: 3}
+  modelPrefab: {fileID: 1508934165754910, guid: 0767a7f22b086d441905f619b2315de9,
+    type: 3}
+  type: Pistol
+  hide: 0
+  content: A real pocket cannon - large, heavy and with extremely high killing power.
+    It was developed as a specialized weapon for hunting medium and large game, as
+    well as for sport shooting at silhouette targets at ranges of fifty meters or
+    more. Because of the price, weight, and impressive size, it was not particularly
+    popular in the Zone.
+  notes: 
+  category: WeaponOnehand
+  keepUsingWhileButtonDown: 0
+  successfulUseSound:
+  - {fileID: 8300000, guid: b14adbfe685fd7342be518611e8df732, type: 3}
+  failedUseSound: {fileID: 8300000, guid: 5b05a94d0bd37e2439f9331c242b53e2, type: 3}
+  emptySound: {fileID: 8300000, guid: 5b05a94d0bd37e2439f9331c242b53e2, type: 3}
+  drawSound: {fileID: 8300000, guid: 353aa1ef83971114eaa6f556be4fc17e, type: 3}
+  cooldown: 0.375
+  _cooldownCategory: 
+  shoulderLookAtWhileHolding: 1
+  useDirectly: 0
+  attackRange: 30
+  damage: 5
+  damageType: Tear
+  upperBodyAnimationParameter: UPPERBODY_PISTOL
+  attachmentsAllowed: []
+  requiredAmmo: {fileID: 11400000, guid: 564c2eb47e0b4214bb72fbd93aa99d78, type: 2}
+  magazineSize: 12
+  reloadTime: 2
+  reloadTimeFull: 2
+  zoom: 20
+  decalPrefab: {fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28,
+    type: 3}
+  decalSound: {fileID: 0}
+  decalOffset: 0.01
+  Ejection: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: 7450499e8d33a47d8b5db0c4650b7f18, type: 3}
+  reloadSound0: {fileID: 0}
+  reloadBolt: {fileID: 8300000, guid: 150d4341a93f37a4f8e5d69ba0919ced, type: 3}
+  reloadIn: {fileID: 8300000, guid: 092e25067d3f8434991a8428ab44dedd, type: 3}
+  reloadOut: {fileID: 8300000, guid: a90dd94339826074d9b00abd68a4c175, type: 3}
+  reloadOpen: {fileID: 0}
+  reloadClose: {fileID: 0}
+  reloadBegin: {fileID: 0}
+  reloadBegin0: {fileID: 0}
+  reloadEnd: {fileID: 0}
+  reloadStep: {fileID: 0}
+  silencedSound: {fileID: 8300000, guid: c5512a10ea688d1448dd4eda75125649, type: 3}
+  silencedSound0: {fileID: 0}
+  successfulUseSound0: {fileID: 0}
+  recoilHorizontal: 1
+  recoilVertical: 4

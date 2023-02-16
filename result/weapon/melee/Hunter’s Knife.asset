@@ -1,13 +1,16 @@
-id: BMqn
-name: 'Hunter’s Knife'
-rank: Newbie
-class: 'Melee Weapons'
-weight: 0.19
-quickAttack(min): 35.0
-quickAttack(max): 45.0
-strongAttack(min): 100.0
-strongAttack(max): 120.0
-weaponReach(quick): 1.7
-weaponReach(strong): 1.8
-penetration: 20.0
-chanceForADeepWound: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: BMqn
+    key: '21000'
+    name: 'Hunter’s Knife'
+    category: Weapon/Melee
+    rank: Newbie
+    class: 'Melee Weapons'
+    weight: 0.19
+    common: 35.0
+    strong: 100.0
+    piercing: 20.0
+    bloodlustChance: 30.0
+    text: 'A knife forged from 95x18 steel with a handle made from valuable species of tree.'

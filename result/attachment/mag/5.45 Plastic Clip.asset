@@ -1,8 +1,15 @@
-id: 0gkQ
-name: '5.45 Plastic Clip'
-rank: Stalker
-class: Clips
-weight: 0.3
-clipSize: 45.0
-drawSpeed: 20.000004
-reloadTime: 4.999995
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0gkQ
+    key: mag_rumag54545p
+    name: '5.45 Plastic Clip'
+    category: Attachment/Mag
+    rank: Stalker
+    class: Clips
+    weight: 0.3
+    clipSize: 45.0
+    drawTime: 20.000004
+    reloadTime: 4.999995
+    suitableFor: [AKS-74U, AKS-74, 'AN-94 Abakan', A-545, AEK-971, 'Kbk wz. 88 Tantal', AK-105, 'OTs-14M Shtorm', RPK-16, TKB-0146M, AK-12, RPK-74, Rapier]

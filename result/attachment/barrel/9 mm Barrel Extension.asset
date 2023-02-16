@@ -1,9 +1,16 @@
-id: dJnq
-name: '9 mm Barrel Extension'
-rank: Veteran
-class: 'Muzzles and Silencers'
-weight: 0.2
-distance: 20.000004
-recoil: 25.0
-spread: -19.999998
-damageAtRange: 14.999998
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: dJnq
+    key: barrel_extension9mm
+    name: '9 mm Barrel Extension'
+    category: Attachment/Barrel
+    rank: Veteran
+    class: 'Muzzles and Silencers'
+    weight: 0.2
+    distance: 20.000004
+    recoil: 25.0
+    spread: -19.999998
+    damageDistant: 14.999998
+    suitableFor: ['SMG-91 KEDR', 'IMI Uzi', 'AEK-919K Kashtan', 'FN P90', SMG-2000, 'SR-2M Veresk', 'Spectre M4', 'TDI KRISS Vector', 'IMI Mini Uzi', 'IMI Micro Uzi', 'HK MP5K', 'Ingram MAC-10', Tsunami]

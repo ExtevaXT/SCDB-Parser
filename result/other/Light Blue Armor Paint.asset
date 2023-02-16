@@ -1,3 +1,9 @@
-id: 3Ob7
-name: 'Light Blue Armor Paint'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3Ob7
+    key: blue
+    name: 'Light Blue Armor Paint'
+    category: Other
+    class: 'Skins and Paint'

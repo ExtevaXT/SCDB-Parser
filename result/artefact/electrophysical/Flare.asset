@@ -1,7 +1,15 @@
-id: lLBw
-name: Flare
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lLBw
+    key: electra_vspyshka
+    name: Flare
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    staminaBonus: [7.5, 15.0]
+    electraDmgFactor: [-50.0, -25.0]
+    text: 'An electrostatic artifact that absorbs electrical charges and immediately discharges itself, strengthening them, violating the laws of classical physics. Nevertheless, it has a positive effect on the body’s stamina.'

@@ -1,5 +1,11 @@
-id: JK9e
-name: 'Pieces of Copper Wire'
-rank: Newbie
-class: Other
-weight: 0.05
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: JK9e
+    key: mining
+    name: 'Pieces of Copper Wire'
+    category: Other
+    rank: Newbie
+    class: Other
+    weight: 0.05

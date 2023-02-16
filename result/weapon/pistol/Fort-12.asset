@@ -1,25 +1,91 @@
-id: MO0D
-name: Fort-12
-rank: Newbie
-class: Pistols
-weight: 0.83
-durability: 100.0
-max.Durability: 100.0
-ammoType: '9 mm'
-damage: 51.0
-clipCapacity: 12.0
-maximumDistance: 55.0
-rateOfFire: 400.0
-reload: 3.0
-tacticalReload: 2.25
-spread: 1.452
-hip-fireSpread: 2.7
-verticalRecoil: 0.35
-horizontalRecoil: 0.3
-drawTime: 0.4
-aimingTime: 0.15
-startDamage: 51.0
-damageDecreaseStart: 12.0
-endDamage: 18.0
-damageDecreaseEnd: 25.0
-maxDistance: 55.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: Fort-12
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 0.83
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 91221d2395d6b35468e60ab4ac2ba19f, type: 3 }
+    drop: { fileID: 6485579997308468635, guid: a2fb7e9b6b4a11549a871942e00d666f, type: 3 }
+    modelPrefab: { fileID: 1643153634518648, guid: c401e1915c829fc4185dba6c5a95a939, type: 3 }
+    type: Pistol
+    hide: 0
+    content: 'A modified model of the pistol of the first half of the 20th century. Despite its venerable age the popularity of this model is still very high all over the world.'
+    notes: null
+    category: Weapon/Pistol
+    keepUsingWhileButtonDown: 0
+    successfulUseSound: [{ fileID: 8300000, guid: b1d20aedb34e3264694c869da53d4573, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: e0f77dbd2059d8b4aa9d017b5275c12f, type: 3 }
+    emptySound: { fileID: 8300000, guid: e0f77dbd2059d8b4aa9d017b5275c12f, type: 3 }
+    drawSound: { fileID: 8300000, guid: a25eeb4bee2ba494eab34f8ac80d9c80, type: 3 }
+    cooldown: 0.375
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 30
+    damage: 51.0
+    damageType: Tear
+    upperBodyAnimationParameter: UPPERBODY_PISTOL
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 12
+    reloadTime: 3.0
+    reloadTimeFull: 2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 7450499e8d33a47d8b5db0c4650b7f18, type: 3 }
+    reloadSound0: { fileID: 0 }
+    reloadBolt: { fileID: 8300000, guid: da2b092645de6164aa2b1e42193082fd, type: 3 }
+    reloadIn: { fileID: 8300000, guid: b7670081f0b8f984a9848ca567821737, type: 3 }
+    reloadOut: { fileID: 8300000, guid: 61d4bb32a817f7442a1a16c0f9119d02, type: 3 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: abcfcca776d89a44cb38886c6a0f88b5, type: 3 }
+    silencedSound0: { fileID: 0 }
+    successfulUseSound0: { fileID: 0 }
+    recoilHorizontal: 1
+    recoilVertical: 4
+    id: MO0D
+    key: fort12
+    name: Fort-12
+    rank: Newbie
+    class: Pistols
+    ammoType: '9 mm'
+    clipSize: 12.0
+    distance: 55.0
+    rateOfFire: 400.0
+    tacticalReloadTime: 2.25
+    spread: 1.452
+    hipSpread: 2.7
+    recoil: 0.35
+    horizontalRecoil: 0.3
+    drawTime: 0.4
+    aimSwitch: 0.15
+    startDamage: 51.0
+    damageDecreaseStart: 12.0
+    endDamage: 18.0
+    damageDecreaseEnd: 25.0
+    maxDistance: 55.0
+    text: 'A Ukrainian-made pistol primarily intended for use by law enforcement agencies and security forces. It has better accuracy, ease-of-use, and clip capacity than the PM. It mainly ends up in the Zone amidst the recalls that are widely being carried out here, but there is nonetheless good demand for it among stalkers due to its fairly admirable combat performance.'

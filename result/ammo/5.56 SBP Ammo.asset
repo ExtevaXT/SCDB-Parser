@@ -1,7 +1,13 @@
-id: w3Xq
-name: '5.56 SBP Ammo'
-class: Ammo
-weight: 0.012
-armor-penetration: 20.0
-bleeding: 5.0
-stoppingPower: 15.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: w3Xq
+    key: 556sbp
+    name: '5.56 SBP Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.012
+    piercing: 20.0
+    bleeding: 5.0
+    stoppingPower: 15.0

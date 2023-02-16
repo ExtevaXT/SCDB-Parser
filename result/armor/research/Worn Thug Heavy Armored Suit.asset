@@ -1,21 +1,28 @@
-id: 5LjJ
-name: 'Worn Thug Heavy Armored Suit'
-rank: Stalker
-class: Explorer
-weight: 12.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -10.0
-movementSpeed: -3.0
-carryWeight: 10.0
-bulletResistance: 93.0
-meleeProtection: 102.0
-explosionProtection: 133.0
-resistanceToElectricity: 62.0
-resistanceToFire: 62.0
-resistanceToChemicals: 62.0
-radiationProtection: 180.0
-thermalProtection: 60.0
-bioinfectionProtection: 150.0
-psy-emissionProtection: 105.0
-bleedingProtection: 50.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 5LjJ
+    key: gromila-1
+    name: 'Worn Thug Heavy Armored Suit'
+    category: Armor/Research
+    rank: Stalker
+    class: Explorer
+    weight: 12.0
+    maxDurability: 100.0
+    staminaBonus: [-10.0]
+    speedModifier: [-3.0]
+    maxWeightBonus: [10.0]
+    nightVision: 1
+    bulletDmgFactor: [93.0]
+    tearDmgFactor: [102.0]
+    explosionDmgFactor: [133.0]
+    electraDmgFactor: [62.0]
+    burnDmgFactor: [62.0]
+    chemicalBurnDmgFactor: [62.0]
+    radiationProtection: [180.0]
+    thermalProtection: [60.0]
+    biologicalProtection: [150.0]
+    psychoProtection: [105.0]
+    bleedingProtection: [50.0]
+    text: 'Exoskeletons with irreparable actuators get a second life when they’re made into these suits. However, you can order one of these suits from the outset. The heavy plates are replaced with lighter ones, and the places where the actuators used to be are reinforced.'

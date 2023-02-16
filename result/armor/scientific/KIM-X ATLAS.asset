@@ -1,22 +1,29 @@
-id: zxzq
-name: 'KIM-X ATLAS'
-rank: Master
-class: Scientist
-weight: 9.0
-durability: 100.0
-max.Durability: 100.0
-stamina: -15.0
-carryWeight: 4.0
-radiation: -2.0
-bleeding: -0.5
-bulletResistance: 64.0
-meleeProtection: 81.0
-explosionProtection: 80.0
-resistanceToElectricity: 840.0
-resistanceToFire: 840.0
-resistanceToChemicals: 840.0
-radiationProtection: 385.0
-thermalProtection: 370.0
-bioinfectionProtection: 400.0
-psy-emissionProtection: 310.0
-bleedingProtection: 35.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: zxzq
+    key: atlas
+    name: 'KIM-X ATLAS'
+    category: Armor/Scientific
+    rank: Master
+    class: Scientist
+    weight: 9.0
+    maxDurability: 100.0
+    staminaBonus: [-15.0]
+    maxWeightBonus: [4.0]
+    radiationAccumulation: [-2.0]
+    bleedingAccumulation: [-0.5]
+    nightVision: 1
+    bulletDmgFactor: [64.0]
+    tearDmgFactor: [81.0]
+    explosionDmgFactor: [80.0]
+    electraDmgFactor: [840.0]
+    burnDmgFactor: [840.0]
+    chemicalBurnDmgFactor: [840.0]
+    radiationProtection: [385.0]
+    thermalProtection: [370.0]
+    biologicalProtection: [400.0]
+    psychoProtection: [310.0]
+    bleedingProtection: [35.0]
+    text: 'The result of long, arduous work on the MIS series. A multi-functional suit that protects from the majority of anomalous effects. Judging from the marks on the armor, this suit belonged to someone.'

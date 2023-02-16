@@ -1,7 +1,16 @@
-id: Vz0G
-name: 'Acid Crystal'
-class: Biochemical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Vz0G
+    key: kisel_crystal
+    name: 'Acid Crystal'
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    regenerationBonus: [-1.0, -0.5]
+    biologicalAccumulation: [-2.0, -1.0]
+    reactionToChemicalBurn: [1.0, 3.0]
+    text: 'A crystal that has undergone the effects of a chemical anomaly.'

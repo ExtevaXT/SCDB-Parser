@@ -1,7 +1,15 @@
-id: 0QKe
-name: Prism
-class: Electrophysical
-weight: 0.3
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 0QKe
+    key: puzir_prisma
+    name: Prism
+    category: Artefact/Electrophysical
+    class: Electrophysical
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    bulletDmgFactor: [15.0, 20.0]
+    bleedingProtection: [-50.0, -25.0]
+    text: 'This artifact gets its name both from its appearance and its ability to distort the space around the owner, creating a fluctuating energy field that absorbs projectiles. However, at certain points it might cause the owner to receive deeper bleeding wounds.'

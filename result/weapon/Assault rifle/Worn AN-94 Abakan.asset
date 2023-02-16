@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: V3Lg
+    key: abakan-1
+    name: 'Worn AN-94 Abakan'
+    category: 'Weapon/Assault rifle'
+    rank: Newbie
+    class: 'Assault Rifles'
+    weight: 4.052
+    maxDurability: 100.0
+    ammoType: '5.45'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 36.0
+    clipSize: 30.0
+    distance: 150.0
+    rateOfFire: 600.0
+    reloadTime: 3.5
+    tacticalReloadTime: 2.95
+    spread: 0.683
+    hipSpread: 3.0400002
+    recoil: 0.38
+    horizontalRecoil: 0.17
+    drawTime: 1.0
+    aimSwitch: 0.25
+    startDamage: 36.0
+    damageDecreaseStart: 12.0
+    endDamage: 26.0
+    damageDecreaseEnd: 70.0
+    maxDistance: 150.0
+    text: 'A modern assault rifle developed to replace the then-aging AK-74. One of its main features is the ability to fire bursts of two shots with high accuracy (at a range of 100 meters, both bullets hit the same point). This substantially increases the chances of taking down a target thanks to the combined penetrative and stopping power of the bullets.'

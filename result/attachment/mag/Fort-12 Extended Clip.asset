@@ -1,6 +1,13 @@
-id: 86J3
-name: 'Fort-12 Extended Clip'
-rank: Newbie
-class: Clips
-weight: 0.06
-additionalClipSize: 3.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 86J3
+    key: mag_fort12
+    name: 'Fort-12 Extended Clip'
+    category: Attachment/Mag
+    rank: Newbie
+    class: Clips
+    weight: 0.06
+    additiveClipSize: 3.0
+    suitableFor: [Fort-12]

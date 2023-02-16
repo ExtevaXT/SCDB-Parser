@@ -1,7 +1,15 @@
-id: N539
-name: 'Pilad 3.5x20 Optical Sight'
-rank: Stalker
-class: Sights
-weight: 0.55
-aimSpeed: 10.000002
-drawSpeed: 4.999995
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: N539
+    key: scope_pilad
+    name: 'Pilad 3.5x20 Optical Sight'
+    category: Attachment/Sight
+    rank: Stalker
+    class: Sights
+    weight: 0.55
+    aimSwitchTime: 10.000002
+    drawTime: 4.999995
+    text: 'Model: R-3520-T'
+    suitableFor: [AKS-74U, AKS-74, 'SMG-19 Bizon-2-01', AKM, 'SMG-19-01 Vityaz', 'AS Val', 'AN-94 Abakan', AK-103, AEK-971, 'Kbk wz. 88 Tantal', SOK-94, AK-105, RPK, 9А-91, VSK-94, Saiga-12K, RPK-74, 'PKP Pecheneg', Rapier, Avalanche, SVD, 'VSS Vintorez', SVU, 'SKS Bracket—Dovetail Joint']

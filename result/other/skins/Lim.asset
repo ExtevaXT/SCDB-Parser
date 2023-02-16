@@ -1,3 +1,9 @@
-id: g9wN
-name: Lim
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: g9wN
+    key: lim
+    name: Lim
+    category: Other/Skins
+    class: 'Skins and Paint'

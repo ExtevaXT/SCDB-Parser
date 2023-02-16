@@ -1,7 +1,14 @@
-id: P8KA
-name: 'Ergonomic Clip for VSS Val'
-rank: Veteran
-class: Clips
-weight: 0.3
-clipSize: 20.0
-reloadTime: -25.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: P8KA
+    key: mag_vss20
+    name: 'Ergonomic Clip for VSS Val'
+    category: Attachment/Mag
+    rank: Veteran
+    class: Clips
+    weight: 0.3
+    clipSize: 20.0
+    reloadTime: -25.0
+    suitableFor: ['AS Val', 'VSS Vintorez']

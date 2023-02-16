@@ -1,3 +1,9 @@
-id: anNx
-name: 'Belarusian Digital Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: anNx
+    key: '19126'
+    name: 'Belarusian Digital Camouflage'
+    category: Other
+    class: 'Skins and Paint'

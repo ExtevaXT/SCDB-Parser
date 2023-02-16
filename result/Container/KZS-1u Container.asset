@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3gLq
+    key: kzs1d
+    name: 'KZS-1u Container'
+    category: Container
+    rank: Newbie
+    class: 'Backpacks and Containers'
+    weight: 1.75
+    maxDurability: 100.0
+    innerProtection: 75.0
+    effectiveness: 100.0
+    size: 1.0
+    text: 'A reinforced container model. Contains only 1 artifact slot but has good shielding capabilities. Widespread and inexpensive.'

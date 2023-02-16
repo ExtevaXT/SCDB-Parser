@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    m_ObjectHideFlags: 0
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_GameObject: { fileID: 0 }
+    m_Enabled: 1
+    m_EditorHideFlags: 0
+    m_Script: { fileID: 11500000, guid: fa99cbcb882d44b2984928ebe183fb04, type: 3 }
+    m_Name: L96A1
+    m_EditorClassIdentifier: null
+    maxStack: 1
+    weight: 6.5
+    price: 0
+    sellable: 0
+    personalizable: 0
+    maxDurability: 100.0
+    destroyable: 1
+    toolTip: "<b>{NAME}</b>\nSome weapon description\n{PERSONAL}\n\n{DAMAGE} Damage\nFire Interval: {COOLDOWN}s\nRequires: {REQUIREDAMMO}\n\nAmmo: {AMMO} / {MAGAZINESIZE}\nDurability: {DURABILITY}%\nWeight: {WEIGHT}g"
+    image: { fileID: 21300000, guid: 7aa8d8d4a5116854281743a5cf34e366, type: 3 }
+    drop: { fileID: -4885421634399960166, guid: 2bf2bb5c63be55a4bb27034c986a2363, type: 3 }
+    modelPrefab: { fileID: 1775407650306278, guid: 5e2db7648bb918c48bfed455dd9e4dcb, type: 3 }
+    type: Rifle
+    hide: 0
+    content: 'This type of sniper rifle has been on the arms market for half a century and during this time has managed to prove itself as an extremely reliable and easy to handle weapon. In the army it is mainly used to hit distant targets that cannot be hit with a machine gun, but stalkers appreciated the SVD in many ways because the bullet from it can penetrate even the thickest mutant skin or armor vest.'
+    notes: null
+    category: 'Weapon/Sniper rifle'
+    keepUsingWhileButtonDown: 1
+    successfulUseSound: [{ fileID: 8300000, guid: f6371425ea5f48c49bccf9448332ebf6, type: 3 }]
+    failedUseSound: { fileID: 8300000, guid: 3564076d445a15a4382c928507d3e547, type: 3 }
+    emptySound: { fileID: 8300000, guid: 3564076d445a15a4382c928507d3e547, type: 3 }
+    drawSound: { fileID: 8300000, guid: 4407c9c11a8a17044bbb4f01c2f6ecc6, type: 3 }
+    cooldown: 0.1
+    _cooldownCategory: null
+    shoulderLookAtWhileHolding: 1
+    useDirectly: 0
+    attackRange: 140
+    damage: 110.0
+    damageType: Bullet
+    upperBodyAnimationParameter: UPPERBODY_RIFLE
+    attachmentsAllowed: {  }
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    magazineSize: 30
+    reloadTime: 4.75
+    reloadTimeFull: 3.2
+    zoom: 20
+    decalPrefab: { fileID: 1369496945668376, guid: 12cfe7016056b48e6875cfc877e30d28, type: 3 }
+    decalSound: { fileID: 0 }
+    decalOffset: 0.01
+    Ejection: { fileID: 0 }
+    reloadSound: { fileID: 8300000, guid: 09c8d31ec80bb3a46b471dd5325713f9, type: 3 }
+    reloadSound0: { fileID: 8300000, guid: c90445f59e66a224c94cf9109adff648, type: 3 }
+    reloadBolt: { fileID: 8300000, guid: ad6015776cfbcde448de937764f55fd1, type: 3 }
+    reloadIn: { fileID: 8300000, guid: d908818296f3ba849bbf16b052c579dc, type: 3 }
+    reloadOut: { fileID: 8300000, guid: e4914baa5e137c345b32cde14c8a18e4, type: 3 }
+    reloadOpen: { fileID: 0 }
+    reloadClose: { fileID: 0 }
+    reloadBegin: { fileID: 0 }
+    reloadBegin0: { fileID: 0 }
+    reloadEnd: { fileID: 0 }
+    reloadStep: { fileID: 0 }
+    silencedSound: { fileID: 8300000, guid: 766d7574d1001ad4f89fe15555a610d4, type: 3 }
+    silencedSound0: { fileID: 8300000, guid: 3aae95df5f29914429597143deb27f6c, type: 3 }
+    successfulUseSound0: { fileID: 8300000, guid: a14e88dd5f519bc4f99a7453a8ce8dbc, type: 3 }
+    recoilHorizontal: 2
+    recoilVertical: 4
+    id: r637
+    key: l96
+    name: L96A1
+    rank: Master
+    class: 'Sniper Rifles'
+    ammoType: '7.62'
+    clipSize: 5.0
+    distance: 230.0
+    rateOfFire: 40.0
+    tacticalReloadTime: 3.5
+    spread: 0.03
+    hipSpread: 4.5
+    recoil: 2.2
+    horizontalRecoil: 0.7
+    drawTime: 1.25
+    aimSwitch: 0.45
+    piercing: 12.5
+    bleeding: 95.0
+    stoppingPower: 200.0
+    startDamage: 110.0
+    damageDecreaseStart: 40.0
+    endDamage: 110.0
+    damageDecreaseEnd: 120.0
+    maxDistance: 230.0
+    text: 'A British-made sniper rifle that was developed by the company Accuracy International. In the mid-1980s, this rifle was entered into service in the British Army under the designation L96. Modifications of this rifle also exist, used by the police and special forces.'

@@ -1,9 +1,16 @@
-id: 3ZoR
-name: '1st Class Antirad'
-class: Medicine
-weight: 0.05
-purpose: 'Radiation Cleansing'
-duration: 5.0
-poison: 25.0
-radiationResistance: 50.0
-radiation: -10.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3ZoR
+    key: antirad_1
+    name: '1st Class Antirad'
+    category: Medicine
+    class: Medicine
+    weight: 0.05
+    purpose: 'Radiation Cleansing'
+    duration: 5.0
+    toxicity: 25.0
+    radiationDmgFactor: [50.0]
+    radiationAccumulation: [-10.0]
+    text: 'Removes radiation from the body.'

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: NN0j
+    key: fg42
+    name: 'FG-42 Whip'
+    category: 'Weapon/Sniper rifle'
+    rank: Veteran
+    class: 'Sniper Rifles'
+    weight: 4.95
+    maxDurability: 100.0
+    ammoType: '7.62'
+    requiredAmmo: [{ fileID: 11400000, guid: 999e8dc267ef825418be332578e4e926, type: 2 }]
+    damage: 48.0
+    clipSize: 15.0
+    distance: 180.0
+    rateOfFire: 500.0
+    reloadTime: 3.5
+    tacticalReloadTime: 3.0
+    spread: 0.2
+    hipSpread: 3.8
+    recoil: 0.56
+    horizontalRecoil: 0.176
+    drawTime: 1.0
+    aimSwitch: 0.5
+    stoppingPower: 60.0
+    startDamage: 48.0
+    damageDecreaseStart: 20.0
+    endDamage: 48.0
+    damageDecreaseEnd: 80.0
+    maxDistance: 180.0
+    text: 'As rumor has it, a shipment of German rifles from the Second World War was intercepted and ended up in the Zone in the hands of a group of foreign mercenaries. The rifles have been modified: the weapons have been updated for the more common 7.62 ammo, and the baseline rate of fire has been reduced for improved control. A key feature is now its capability for short bursts of fire at double firing rate, causing colossal damage over a set period of time.'

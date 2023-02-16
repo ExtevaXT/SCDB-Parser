@@ -1,3 +1,9 @@
-id: 1gmX
-name: 'One-Eyed Joe'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 1gmX
+    key: joe
+    name: 'One-Eyed Joe'
+    category: Other
+    class: 'Skins and Paint'

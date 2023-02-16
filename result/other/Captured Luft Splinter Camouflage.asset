@@ -1,3 +1,9 @@
-id: l9V1
-name: 'Captured Luft Splinter Camouflage'
-class: 'Skins and Paint'
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: l9V1
+    key: '19246'
+    name: 'Captured Luft Splinter Camouflage'
+    category: Other
+    class: 'Skins and Paint'

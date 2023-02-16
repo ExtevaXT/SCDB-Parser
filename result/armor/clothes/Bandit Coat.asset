@@ -1,18 +1,24 @@
-id: lYQO
-name: 'Bandit Coat'
-rank: Picklock
-class: Clothing
-weight: 1.0
-durability: 100.0
-max.Durability: 100.0
-bulletResistance: 6.0
-meleeProtection: 11.0
-explosionProtection: 6.0
-resistanceToElectricity: 11.0
-resistanceToFire: 11.0
-resistanceToChemicals: 11.0
-radiationProtection: 0.0
-thermalProtection: 0.0
-bioinfectionProtection: 0.0
-psy-emissionProtection: 0.0
-bleedingProtection: 7.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: lYQO
+    key: kyrtka_bandit
+    name: 'Bandit Coat'
+    category: Armor/Clothes
+    rank: Picklock
+    class: Clothing
+    weight: 1.0
+    maxDurability: 100.0
+    bulletDmgFactor: [6.0]
+    tearDmgFactor: [11.0]
+    explosionDmgFactor: [6.0]
+    electraDmgFactor: [11.0]
+    burnDmgFactor: [11.0]
+    chemicalBurnDmgFactor: [11.0]
+    radiationProtection: [0.0]
+    thermalProtection: [0.0]
+    biologicalProtection: [0.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [7.0]
+    text: 'A black leather coat. When combined with striped pants, it creates a distinct, recognizable image.'

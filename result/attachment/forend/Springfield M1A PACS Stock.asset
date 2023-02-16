@@ -1,8 +1,15 @@
-id: P80Y
-name: 'Springfield M1A PACS Stock'
-rank: Veteran
-class: 'Hanguards and Brackets'
-weight: 1.9
-aimSpeed: -10.000002
-drawSpeed: -10.000002
-reloadTime: -5.000001
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: P80Y
+    key: forend_m1pacs
+    name: 'Springfield M1A PACS Stock'
+    category: Attachment/Forend
+    rank: Veteran
+    class: 'Hanguards and Brackets'
+    weight: 1.9
+    aimSwitchTime: -10.000002
+    drawTime: -10.000002
+    reloadTime: -5.000001
+    suitableFor: ['M1A FA']

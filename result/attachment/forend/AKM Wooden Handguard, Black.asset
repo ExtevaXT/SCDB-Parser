@@ -1,5 +1,12 @@
-id: gJEn
-name: 'AKM Wooden Handguard, Black'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.2
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: gJEn
+    key: forend_akmblack
+    name: 'AKM Wooden Handguard, Black'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.2
+    suitableFor: [AKS-74, AKM, AK-103, 'Kbk wz. 88 Tantal', AK-105]

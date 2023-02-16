@@ -1,8 +1,14 @@
-id: QAX1
-name: 'Large-Caliber Silver Ammo'
-class: Ammo
-weight: 0.2
-absoluteDamage: 20.0
-armor-penetration: 60.0
-bleeding: 100.0
-stoppingPower: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: QAX1
+    key: 12silver2
+    name: 'Large-Caliber Silver Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.2
+    default: 20.0
+    piercing: 60.0
+    bleeding: 100.0
+    stoppingPower: 100.0

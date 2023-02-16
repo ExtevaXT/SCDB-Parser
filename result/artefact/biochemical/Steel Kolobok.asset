@@ -1,7 +1,16 @@
-id: k5VN
-name: 'Steel Kolobok'
-class: Biochemical
-weight: 1.0
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: k5VN
+    key: puh_steelkolobok
+    name: 'Steel Kolobok'
+    category: Artefact/Biochemical
+    class: Biochemical
+    weight: 1.0
+    common: 'Not studied'
+    maxDurability: 100.0
+    staminaBonus: [10.0, 20.0]
+    tearDmgFactor: [15.0, 25.0]
+    psychoAccumulation: [4.0, 6.0]
+    text: 'An anomaly even among artifacts. Appearing in the Burnt Fuzz anomaly under an unknown set of conditions, this artifact lowers susceptibility to lacerations and increases fatigue tolerance, but it also has a negative effect on the psyche.'

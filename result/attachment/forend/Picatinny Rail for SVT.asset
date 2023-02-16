@@ -1,4 +1,12 @@
-id: z5Bd
-name: 'Picatinny Rail for SVT'
-class: 'Hanguards and Brackets'
-weight: 0.12
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: z5Bd
+    key: mount_svt
+    name: 'Picatinny Rail for SVT'
+    category: Attachment/Forend
+    class: 'Hanguards and Brackets'
+    weight: 0.12
+    text: 'Picatinny rail for mounting sights on an SVT'
+    suitableFor: [AVT-40, SVT-40]

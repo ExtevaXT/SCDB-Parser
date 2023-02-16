@@ -1,6 +1,13 @@
-id: wD0P
-name: '30-Round Clip for VSS Val'
-rank: Veteran
-class: Clips
-weight: 0.45
-clipSize: 30.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: wD0P
+    key: mag_val30
+    name: '30-Round Clip for VSS Val'
+    category: Attachment/Mag
+    rank: Veteran
+    class: Clips
+    weight: 0.45
+    clipSize: 30.0
+    suitableFor: ['AS Val', 'VSS Vintorez']

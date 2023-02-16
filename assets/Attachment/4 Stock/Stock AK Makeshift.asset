@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ae8f2a691b5974289ba8a2d2fd217c, type: 3}
+  m_Name: Stock AK Makeshift
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  weight: 1000
+  price: 0
+  sellable: 0
+  personalizable: 0
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Stock for weapon
+  image: {fileID: 21300000, guid: 691e69aaf8ecc9744843e0e3e8a66ee8, type: 3}
+  drop: {fileID: -1322884234165360555, guid: 2ab61ba2213782046bdb9b22f6c03840, type: 3}
+  modelPrefab: {fileID: 1196161358752670, guid: ac7d381a47e011945a165b4ea7e6cc7a,
+    type: 3}
+  type: Stock
+  hide: 0
+  content: 
+  notes: 
+  attachmentMetaId: 53
+  attachmentMetaGroup: 4
+  silenced: 0
+  magazine: 0
+  recoilHorizontal: 0
+  recoilVertical: 0
+  zoom: 0

@@ -1,20 +1,26 @@
-id: njGr
-name: 'CD-2 Armored Suit'
-rank: Newbie
-class: Combat
-weight: 7.5
-durability: 100.0
-max.Durability: 100.0
-stamina: -5.0
-carryWeight: 8.0
-bulletResistance: 60.0
-meleeProtection: 76.0
-explosionProtection: 86.0
-resistanceToElectricity: 53.0
-resistanceToFire: 53.0
-resistanceToChemicals: 53.0
-radiationProtection: 100.0
-thermalProtection: 60.0
-bioinfectionProtection: 150.0
-psy-emissionProtection: 0.0
-bleedingProtection: 44.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: njGr
+    key: kz2
+    name: 'CD-2 Armored Suit'
+    category: Armor/Combat
+    rank: Newbie
+    class: Combat
+    weight: 7.5
+    maxDurability: 100.0
+    staminaBonus: [-5.0]
+    maxWeightBonus: [8.0]
+    bulletDmgFactor: [60.0]
+    tearDmgFactor: [76.0]
+    explosionDmgFactor: [86.0]
+    electraDmgFactor: [53.0]
+    burnDmgFactor: [53.0]
+    chemicalBurnDmgFactor: [53.0]
+    radiationProtection: [100.0]
+    thermalProtection: [60.0]
+    biologicalProtection: [150.0]
+    psychoProtection: [0.0]
+    bleedingProtection: [44.0]
+    text: 'An upgraded version of the standard Horizon clan suit. A cheap gas mask and improved protection from physical damage make this suit good for search operations in areas with average levels of anomalous activity.'

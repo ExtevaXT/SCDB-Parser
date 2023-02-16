@@ -1,10 +1,17 @@
-id: VonJ
-name: '5.56 NATO Drum Clip, Khaki'
-rank: Master
-class: Clips
-weight: 1.0
-clipSize: 100.0
-jamming: 0.01
-rateOfFire: -2.9999971
-drawSpeed: 22.000004
-reloadTime: 60.000004
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: VonJ
+    key: mag_cmag100h
+    name: '5.56 NATO Drum Clip, Khaki'
+    category: Attachment/Mag
+    rank: Master
+    class: Clips
+    weight: 1.0
+    clipSize: 100.0
+    jamming: 0.01
+    rateOfFire: -2.9999971
+    drawTime: 22.000004
+    reloadTime: 60.000004
+    suitableFor: [L85A1, M4A1, M16A3, 'M4 LB', M16A2, LR-300, 'FN SCAR-L', 'Steyr AUG A1', HK416, 'Steyr AUG A2', 'Steyr AUG A3', 'FAMAS G2', L86A1]

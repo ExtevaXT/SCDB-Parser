@@ -1,7 +1,16 @@
-id: KmMq
-name: 'Gold Gravi'
-class: Gravitational
-weight: 0.2
-common: 'Not studied'
-charge: 100.0
-max.Charge: 100.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: KmMq
+    key: voronka_goldgravi
+    name: 'Gold Gravi'
+    category: Artefact/Gravitational
+    class: Gravitational
+    weight: 0.2
+    common: 'Not studied'
+    maxDurability: 100.0
+    speedModifier: [1.0, 3.0]
+    maxWeightBonus: [10.0, 15.0]
+    radiationAccumulation: [4.0, 8.0]
+    text: 'A gravity regulator artifact of a split-off evolutionary branch of the Quirk family. Formed in a Blackhole alongside the Goldfish, but in a totally different way. This artifact creates a sustained field of negative gravity, which makes both the wearer’s backpack and the wearer themselves much lighter. Due to its rarity, not all of its properties are well-studied.'

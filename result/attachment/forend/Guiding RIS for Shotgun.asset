@@ -1,5 +1,12 @@
-id: 3myD
-name: 'Guiding RIS for Shotgun'
-rank: Newbie
-class: 'Hanguards and Brackets'
-weight: 0.14
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 3myD
+    key: mount_shotgunris
+    name: 'Guiding RIS for Shotgun'
+    category: Attachment/Forend
+    rank: Newbie
+    class: 'Hanguards and Brackets'
+    weight: 0.14
+    suitableFor: [AA-12, M1014, 'Grizzly 8.5', 'Mossberg 590A1', 'Shorty 590', МР-133, RMB-93, 'Franchi SPAS-12', МР-153]

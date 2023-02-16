@@ -1,7 +1,14 @@
-id: Lm3Z
-name: 'M84 QD'
-class: Grenades
-weight: 0.24
-range: 12.0
-max.BlindnessDuration: 5.0
-timeUntilActivation: 1.5
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: Lm3Z
+    key: m84qd
+    name: 'M84 QD'
+    category: Grenade
+    class: Grenades
+    weight: 0.24
+    explosionSize: 12.0
+    flashTime: 5.0
+    lifetime: 1.5
+    text: 'An American flashbang grenade with a short detonation time.'

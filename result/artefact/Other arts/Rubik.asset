@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: B132
+    key: special_rubik
+    name: Rubik
+    category: 'Artefact/Other arts'
+    class: Other
+    weight: 0.3
+    common: 'Not studied'
+    maxDurability: 100.0
+    text: 'A mysterious artifact born from the Underbelly, which can have unpredictable attributes when under raised potential.'

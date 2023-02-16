@@ -1,19 +1,26 @@
-id: nbgM
-name: 'REAPER Suit'
-rank: Veteran
-class: Scientist
-weight: 12.0
-durability: 100.0
-max.Durability: 100.0
-carryWeight: 5.0
-bulletResistance: 63.0
-meleeProtection: 71.0
-explosionProtection: 86.0
-resistanceToElectricity: 773.0
-resistanceToFire: 773.0
-resistanceToChemicals: 773.0
-radiationProtection: 340.0
-thermalProtection: 340.0
-bioinfectionProtection: 400.0
-psy-emissionProtection: 310.0
-bleedingProtection: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: nbgM
+    key: jnec
+    name: 'REAPER Suit'
+    category: Armor/Scientific
+    rank: Veteran
+    class: Scientist
+    weight: 12.0
+    maxDurability: 100.0
+    maxWeightBonus: [5.0]
+    nightVision: 1
+    bulletDmgFactor: [63.0]
+    tearDmgFactor: [71.0]
+    explosionDmgFactor: [86.0]
+    electraDmgFactor: [773.0]
+    burnDmgFactor: [773.0]
+    chemicalBurnDmgFactor: [773.0]
+    radiationProtection: [340.0]
+    thermalProtection: [340.0]
+    biologicalProtection: [400.0]
+    psychoProtection: [310.0]
+    bleedingProtection: [40.0]
+    text: 'Who says bandits can’t afford decent gear? Even though this example of the SEVA suit is second-hand, and its former owner is probably dead, this suit’s properties are nonetheless superb. Despite the fact that the bullets holes in the chest needed thoroughly darning, the value of this suit didn’t increase. Equipped with 2nd-generation NVGs.'

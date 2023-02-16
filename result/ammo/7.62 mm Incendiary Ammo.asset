@@ -1,8 +1,14 @@
-id: 1rPj
-name: '7.62 mm Incendiary Ammo'
-class: Ammo
-weight: 0.008
-armor-penetration: 14.0
-bleeding: -45.0
-burning: 50.0
-stoppingPower: 40.0
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: 1rPj
+    key: 762inc
+    name: '7.62 mm Incendiary Ammo'
+    category: Ammo
+    class: Ammo
+    weight: 0.008
+    piercing: 14.0
+    bleeding: -45.0
+    combustion: 50.0
+    stoppingPower: 40.0

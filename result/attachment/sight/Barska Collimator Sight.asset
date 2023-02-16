@@ -1,5 +1,13 @@
-id: RoRz
-name: 'Barska Collimator Sight'
-rank: Veteran
-class: Sights
-weight: 0.386
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+    id: RoRz
+    key: sight_barska_closed
+    name: 'Barska Collimator Sight'
+    category: Attachment/Sight
+    rank: Veteran
+    class: Sights
+    weight: 0.386
+    text: 'Model: Multi-reticle AR-X 1x35@Reticle: circle with cutaways, dot in the center, red'
+    suitableFor: [L85A1, M4A1, 'FN P90', 'SIG SG 550', SMG-2000, M16A3, 'M4 LB', 'ALK-22 Dragonfly', 'HK G36C', 'TDI KRISS Vector', A-545, 'HK G3A1', 'FN F2000 Tactical', ASh-12, 'FN F2000', 'HK UMP9', LR-300, 'FN SCAR-L', 'OTs-14M Shtorm', SV-98, 'M249 SAW', HK416, RPK-16, TKB-0146M, 'Steyr AUG A2', 'Steyr AUG A3', AK-12, 'SIG SG 550 Sniper', 'FN FAL', 'FN SCAR-H', 'Gauss Rifle', 'FN SCAR SSR', 'FAMAS G2', 'McMillan CS5', 'Crye Precision SIX12', 'HK PSG1', 'HK XM8S', HK417, DSA-58, AK-308, 'IWI Tavor X95', 'Chiappa Triple Crown', Protecta, L86A1, Rapier, 'SMG Nut', 'Desert Eagle Mark XIX', RSh-12, 'Winchester M70', 'Steyr Scout', M40A5, 'Alpine TPG-1', 'FG-42 Whip', WA2000, L96A1, MTs-558, 'Karbach OTL-03', 'RIS L85 Handguard', 'RIS M4A1 Handguard', 'RIS M16 Handguard', 'Fal Quad Rail', 'SIG SG 550 Handguard 4x NAR', 'Handguard RIS LR-300', 'B-11 Handguard with Upper Rail', 'CAA RS-21 Handguard', 'B-10M Handguard and B-33 Receiver Cover', 'PKP Receiver Cover with Picatinny Rail', 'SKS Tactical Grip', 'RPD Tactical Handguard', 'OTs-14 Tactical Grip', 'Val VSS Receiver Cover', 'BM Barrel Mount', 'D-Eagle Barrel Extension', 'M1A with Picatinny Rail Handguard', 'RIS Bracket-Rail', 'Picatinny Rail and Base', 'Side Bracket with Picatinny Rail', 'RIS XM8 Rail', 'Guiding RIS for Shotgun', 'Kochetov Mount for Patriot with Picatinny Rail', 'Adaptive RIS Rail for DP', 'Sight Mount for M16A2', 'Increasing RIS-Rail', 'Picatinny Rail for SVT']
