@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'This set contains the Altyn helmet, utility vest, heavy body armor and Gorka-3 suit with the owner’s choice of camouflage.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Altyn Set'
+    m_Script: 'Altyn Set'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

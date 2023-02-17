@@ -25,3 +25,13 @@ MonoBehaviour:
     psychoProtection: [75.0]
     bleedingProtection: [63.0]
     text: 'The Lynx armored suit, equipped with a heavy exoskeleton with additional armoring.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Bear Exoskeleton'
+    m_Script: 'Bear Exoskeleton'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

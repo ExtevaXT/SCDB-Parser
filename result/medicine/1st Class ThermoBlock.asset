@@ -13,3 +13,13 @@ MonoBehaviour:
     toxicity: 50.0
     thermalDmgFactor: [25.0]
     text: 'A first-aid treatment used for burns of the larynx and lungs in high-temperature environments. Does not protect against the direct effects of open flame on the body.'
+    m_EditorClassIdentifier: null
+    m_Name: '1st Class ThermoBlock'
+    m_Script: '1st Class ThermoBlock'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: -10.000002
     reloadTime: -5.000001
     suitableFor: ['M1A FA']
+    m_EditorClassIdentifier: null
+    m_Name: 'Springfield M1A PACS Stock'
+    m_Script: 'Springfield M1A PACS Stock'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

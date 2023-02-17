@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 0.06
     additiveClipSize: 3.0
     suitableFor: [Fort-12]
+    m_EditorClassIdentifier: null
+    m_Name: 'Fort-12 Extended Clip'
+    m_Script: 'Fort-12 Extended Clip'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
     staminaBonus: [-10.0]
     speedModifier: [-2.0]
     maxWeightBonus: [10.0]
-    artefaktHeal: [2.0]
+    heal: [2.0]
     nightVision: 1
     bulletDmgFactor: [79.0]
     tearDmgFactor: [93.0]
@@ -29,3 +29,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'A reinforced anomalous protection suit, the logical next stage in the development of the Artifact Hunters range, which requires both physical and anomalous protection. The RAPS is the perfect choice for getting past Electros and for zones with increased psy-emissions.'
+    m_EditorClassIdentifier: null
+    m_Name: 'RAPS AH-4 Raider'
+    m_Script: 'RAPS AH-4 Raider'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

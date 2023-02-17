@@ -11,3 +11,13 @@ MonoBehaviour:
     common: 'Not studied'
     maxDurability: 100.0
     text: 'A mysterious artifact born from the Underbelly, which can have unpredictable attributes when under raised potential.'
+    m_EditorClassIdentifier: null
+    m_Name: Rubik
+    m_Script: Rubik
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

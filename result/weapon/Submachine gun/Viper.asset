@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 45.0
     maxDistance: 125.0
     text: 'Replacing some parts and enlarging the magazine might sound like minor modifications, but this MP5 has become a decent weapon for a scout.'
+    m_EditorClassIdentifier: null
+    m_Name: Viper
+    m_Script: Viper
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

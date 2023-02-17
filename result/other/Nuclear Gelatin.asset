@@ -8,3 +8,13 @@ MonoBehaviour:
     pathCategory: Other
     class: Other
     weight: 0.15
+    m_EditorClassIdentifier: null
+    m_Name: 'Nuclear Gelatin'
+    m_Script: 'Nuclear Gelatin'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

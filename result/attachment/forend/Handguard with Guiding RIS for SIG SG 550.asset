@@ -10,3 +10,13 @@ MonoBehaviour:
     class: 'Hanguards and Brackets'
     weight: 0.35
     suitableFor: ['SIG SG 550', 'SIG SG 550 Sniper']
+    m_EditorClassIdentifier: null
+    m_Name: 'Handguard with Guiding RIS for SIG SG 550'
+    m_Script: 'Handguard with Guiding RIS for SIG SG 550'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

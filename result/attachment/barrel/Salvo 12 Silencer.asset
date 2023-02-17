@@ -14,3 +14,13 @@ MonoBehaviour:
     damageDistant: -25.0
     text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
     suitableFor: ['Cobray Terminator', AA-12, 'Mossberg 590A1', МР-133, 'Franchi SPAS-12', Saiga-12K, МР-153]
+    m_EditorClassIdentifier: null
+    m_Name: 'Salvo 12 Silencer'
+    m_Script: 'Salvo 12 Silencer'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

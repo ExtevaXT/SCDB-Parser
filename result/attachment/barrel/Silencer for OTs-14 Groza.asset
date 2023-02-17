@@ -14,3 +14,13 @@ MonoBehaviour:
     damageDistant: -10.000002
     text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
     suitableFor: ['OTs-14 Groza', 'OTs-14 Tactical Grip']
+    m_EditorClassIdentifier: null
+    m_Name: 'Silencer for OTs-14 Groza'
+    m_Script: 'Silencer for OTs-14 Groza'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

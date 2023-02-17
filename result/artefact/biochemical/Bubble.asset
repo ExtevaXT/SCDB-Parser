@@ -14,3 +14,13 @@ MonoBehaviour:
     radiationAccumulation: [-9.0, -3.0]
     thermalAccumulation: [1.0, 3.0]
     text: 'This artifact takes the shape of several hollow formations of an organic nature, combined into one. It releases a gas-like substance that can neutralize radioactive particles in the human body. When used actively, it starts to overheat.'
+    m_EditorClassIdentifier: null
+    m_Name: Bubble
+    m_Script: Bubble
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

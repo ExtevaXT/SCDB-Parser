@@ -29,3 +29,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'Developed by the ZIVCAS Research Institute, this armored exoskeleton has excellent properties, but every modification is very specific. This model is intended for surveillance and radioactivity surveying of an area. Equipped with an experimental life-support system and cutting-edge night-vision goggles that are virtually unaffected by daylight.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Albatross Infiltrator Armored Exoskeleton'
+    m_Script: 'Albatross Infiltrator Armored Exoskeleton'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

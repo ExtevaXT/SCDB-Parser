@@ -13,3 +13,13 @@ MonoBehaviour:
     staminaBonus: [-50.0, -25.0]
     bulletDmgFactor: [15.0, 20.0]
     tearDmgFactor: [15.0, 20.0]
+    m_EditorClassIdentifier: null
+    m_Name: Crust
+    m_Script: Crust
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

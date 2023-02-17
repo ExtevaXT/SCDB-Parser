@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 40.0
     bloodlustChance: 35.0
     text: 'The civilian version of the 6H9 Ratnik army combat knife.'
+    m_EditorClassIdentifier: null
+    m_Name: '6H9 Knife'
+    m_Script: '6H9 Knife'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

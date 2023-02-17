@@ -12,3 +12,13 @@ MonoBehaviour:
     maxDurability: 100.0
     speedModifier: [3.0, 6.0]
     staminaRegenerationBonus: [-5.0, -2.5]
+    m_EditorClassIdentifier: null
+    m_Name: Whirlwind
+    m_Script: Whirlwind
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

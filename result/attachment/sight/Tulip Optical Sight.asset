@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: 4.999995
     text: 'Model: 1P29'
     suitableFor: [AKS-74U, AKS-74, 'SMG-19 Bizon-2-01', AKM, 'SMG-19-01 Vityaz', 'AS Val', 'AN-94 Abakan', AK-103, AEK-971, 'Kbk wz. 88 Tantal', SOK-94, AK-105, RPK, 9А-91, VSK-94, Saiga-12K, RPK-74, 'PKP Pecheneg', Rapier, Avalanche, SVD, 'VSS Vintorez', SVU, 'SKS Bracket—Dovetail Joint']
+    m_EditorClassIdentifier: null
+    m_Name: 'Tulip Optical Sight'
+    m_Script: 'Tulip Optical Sight'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

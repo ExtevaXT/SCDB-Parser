@@ -14,3 +14,13 @@ MonoBehaviour:
     radiationAccumulation: [2.0, 5.0]
     psychoAccumulation: [-5.0, -2.0]
     text: 'This artifact generates a field around it that stabilizes the owner’s mental state. Simply observing this artifact’s energy overflow creates a calming effect.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Night Star'
+    m_Script: 'Night Star'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

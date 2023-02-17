@@ -24,3 +24,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'A variation of the Zarya suit, made from materials that have improved resistance to anomalies, but offer lower protection against physical damage. The gas mask and tank of breathing gas allow this suit to function as a research suit for novice stalkers.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Zarya-B Suit'
+    m_Script: 'Zarya-B Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -27,3 +27,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: standard
     text: 'An exoskeleton modification made by an unknown craftsman. By all appearances, this model was upgraded using anomalous tools and acquired unique capabilities. Among the various upgrades, the advanced servomotors, the unlimited freedom of movement, the cutting-edge NVG and the upgraded shielding helmet stand out.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Modified Exoskeleton'
+    m_Script: 'Modified Exoskeleton'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

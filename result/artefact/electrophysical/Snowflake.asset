@@ -14,3 +14,13 @@ MonoBehaviour:
     staminaRegenerationBonus: [1.0, 3.0]
     biologicalAccumulation: [1.0, 3.0]
     text: 'Don’t be fooled by its visual similarity to Kolobok—the benefits of the artifacts differ considerably. This artifact can speed up stamina regeneration. The one thing it does have in common with its supposed relative, Kolobok, is toxicity.'
+    m_EditorClassIdentifier: null
+    m_Name: Snowflake
+    m_Script: Snowflake
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

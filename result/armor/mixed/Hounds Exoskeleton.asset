@@ -12,7 +12,7 @@ MonoBehaviour:
     maxDurability: 100.0
     speedModifier: [15.0]
     maxWeightBonus: [20.0]
-    artefaktHeal: [2.0]
+    heal: [2.0]
     radiationAccumulation: [-2.0]
     bleedingAccumulation: [-0.5]
     nightVision: 1
@@ -30,3 +30,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'This exo-suit is an excellent purchase for a sniper working in the Zone. High mobility is combined with the ability to lie for hours in a radioactive swamp, waiting for the enemy. Masters of ambush from Freedom approve!'
+    m_EditorClassIdentifier: null
+    m_Name: 'Hounds Exoskeleton'
+    m_Script: 'Hounds Exoskeleton'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -13,3 +13,13 @@ MonoBehaviour:
     bulletDmgFactor: [15.0, 20.0]
     bleedingProtection: [-50.0, -25.0]
     text: 'This artifact gets its name both from its appearance and its ability to distort the space around the owner, creating a fluctuating energy field that absorbs projectiles. However, at certain points it might cause the owner to receive deeper bleeding wounds.'
+    m_EditorClassIdentifier: null
+    m_Name: Prism
+    m_Script: Prism
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -14,3 +14,13 @@ MonoBehaviour:
     damageDistant: -18.0
     text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
     suitableFor: [AKS-74U, AKS-74, AKM, 'AN-94 Abakan', AK-103, A-545, AEK-971, 'Kbk wz. 88 Tantal', SOK-94, AK-105, RPK, SV-98, RPK-16, MTs-116M, AK-12, AK-308, Rapier, 'Mosin’s Carbine', SKS, SVD, 'Mosin’s Rifle']
+    m_EditorClassIdentifier: null
+    m_Name: 'PSUZV-11TM.12 Imkas'
+    m_Script: 'PSUZV-11TM.12 Imkas'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -14,3 +14,13 @@ MonoBehaviour:
     psychoDmgFactor: [50.0]
     psychoAccumulation: [-50.0]
     text: 'A drug developed by foreign scientists using research into artifacts that block psy-emissions. The effects of the drug remained unknown until the decision was made to give it to a patient suffering from mental disorders. A little while later, his behavior began to resemble that of a mentally stable person. The drug affects recently damaged brain cells and restores them with unbelievable speed. Due to its effects and the materials required to create it, this drug spread quickly to the Zone, where it became popular among stalkers.'
+    m_EditorClassIdentifier: null
+    m_Name: “ClearMind+”
+    m_Script: “ClearMind+”
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

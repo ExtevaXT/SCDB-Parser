@@ -13,3 +13,13 @@ MonoBehaviour:
     recoil: 25.0
     spread: -10.000002
     suitableFor: ['Desert Eagle Mark XIX']
+    m_EditorClassIdentifier: null
+    m_Name: 'D-Eagle Barrel Extension'
+    m_Script: 'D-Eagle Barrel Extension'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

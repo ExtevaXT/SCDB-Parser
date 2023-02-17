@@ -14,3 +14,13 @@ MonoBehaviour:
     regenerationBonus: [1.5, 3.0]
     psychoAccumulation: [3.0, 8.0]
     text: 'Affects the owner’s nervous system, thereby increasing pain tolerance. However, it has a negative effect on the human mind, damaging mental stability.'
+    m_EditorClassIdentifier: null
+    m_Name: Firefly
+    m_Script: Firefly
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -83,7 +83,7 @@ MonoBehaviour:
     pathCategory: Armor/Scientific
     rank: Stalker
     class: Scientist
-    artefaktHeal: [3.0]
+    heal: [3.0]
     radiationAccumulation: [-2.0]
     bleedingAccumulation: [-0.5]
     nightVision: 1

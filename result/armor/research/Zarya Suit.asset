@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'The Chernobyl Research Institute decided to fill the colossal hole in its budget, which was eaten up due to the crisis, with its own version of the makeshift Zarya suit. The cheap plexiglass lining is sturdy, but it accumulates static electricity. It is inferior to its prototype but has a major advantage: it is cheap and widely available.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Zarya Suit'
+    m_Script: 'Zarya Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

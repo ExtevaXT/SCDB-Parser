@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 2.0
     staminaBonus: [25.0]
     maxWeightBonus: [30.0]
+    m_EditorClassIdentifier: null
+    m_Name: 'MBSS Backpack'
+    m_Script: 'MBSS Backpack'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

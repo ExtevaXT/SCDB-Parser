@@ -15,3 +15,13 @@ MonoBehaviour:
     drawTime: 4.999995
     damageDistant: 4.999995
     suitableFor: ['OTs-14 Groza', 'OTs-14 Tactical Grip']
+    m_EditorClassIdentifier: null
+    m_Name: 'Grip for OTs-14 Groza'
+    m_Script: 'Grip for OTs-14 Groza'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

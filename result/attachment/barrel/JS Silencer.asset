@@ -14,3 +14,13 @@ MonoBehaviour:
     damageDistant: -30.000002
     text: 'ATTENTION: if you use a silencer, the enemy won’t know where you are firing from.'
     suitableFor: ['SMG-91 KEDR', 'HK MP5', 'IMI Uzi', 'AEK-919K Kashtan', 'Walther MPK', 'SMG-19 Bizon-2-01', 'SMG-19-01 Vityaz', 'FN P90', SMG-2000, 'SR-2M Veresk', 'Spectre M4', 'TDI KRISS Vector', 'HK UMP9', 'IMI Mini Uzi', 'IMI Micro Uzi', PMM, 'HK MP5K', 'Ingram MAC-10', APS, 'Glock 18C', 'Steyr AUG 9 mm', Tsunami, Viper, 'Eternal Novice’s PM', Bee, Dream, PM, Fort-12, 'Walther P99', R-92, 'Beretta 92FS', 'Browning Hi-Power', 'Mauser C96', 'Beretta 93R', SW1911, 'Glock 17', 'Desert Eagle Mark XIX', 'SR-1 Gyurza', 'OTs-33 Pernach']
+    m_EditorClassIdentifier: null
+    m_Name: 'JS Silencer'
+    m_Script: 'JS Silencer'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

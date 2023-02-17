@@ -10,8 +10,18 @@ MonoBehaviour:
     weight: 0.2
     purpose: Healing
     duration: 7.0
-    artefaktHeal: [5.0]
+    heal: [5.0]
     radiationAccumulation: [-3.0]
     biologicalAccumulation: [-3.0]
     bleedingAccumulation: [-1.0]
     text: 'A multipurpose medical kit.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Personal First-Aid Kit'
+    m_Script: 'Personal First-Aid Kit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

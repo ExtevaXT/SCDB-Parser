@@ -12,7 +12,7 @@ MonoBehaviour:
     maxDurability: 100.0
     staminaBonus: [-10.0]
     maxWeightBonus: [25.0]
-    artefaktHeal: [4.0]
+    heal: [4.0]
     nightVision: 1
     bulletDmgFactor: [102.0]
     tearDmgFactor: [116.0]
@@ -28,3 +28,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: spacious
     text: 'One version of the legendary exoarmor prototype. Combines all the benefits of cutting-edge research suits and army armored exoskeleton. Comes with a special covering that prevents damage from chemical substances.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Khors Group ZIVCAS'
+    m_Script: 'Khors Group ZIVCAS'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

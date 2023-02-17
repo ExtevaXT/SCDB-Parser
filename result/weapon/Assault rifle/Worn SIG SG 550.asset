@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 68.0
     maxDistance: 160.0
     text: 'A representative of a new family of assault rifles. Thanks to its high reliability, accuracy, and ease of handling, it is one of the best examples of a weapon in its class. It is not frequently encountered in the Zone, and it costs a pretty penny. It is usually seasoned stalkers who order one of these specially for themselves.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn SIG SG 550'
+    m_Script: 'Worn SIG SG 550'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

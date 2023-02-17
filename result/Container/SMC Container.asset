@@ -15,3 +15,13 @@ MonoBehaviour:
     size: 4.0
     speedModifier: [-1.5]
     text: 'A special multipurpose container, one of the latest models created by Zone craftsmen. Quality materials are combined with skillfully arranged boxes to hold 4 artifacts in the container whilst providing reliable inner protection.'
+    m_EditorClassIdentifier: null
+    m_Name: 'SMC Container'
+    m_Script: 'SMC Container'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

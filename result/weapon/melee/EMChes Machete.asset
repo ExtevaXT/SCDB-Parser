@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 60.0
     bloodlustChance: 40.0
     text: 'This weapon boasts a well-thought-out design, which combines several tools for various fields of work into one object. The sturdy blade, which is fixed onto an ergonomic wooden handle, can be used as an ax, saw, screwdriver, or lever.'
+    m_EditorClassIdentifier: null
+    m_Name: 'EMChes Machete'
+    m_Script: 'EMChes Machete'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

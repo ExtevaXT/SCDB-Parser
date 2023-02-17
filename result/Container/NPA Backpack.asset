@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 2.5
     staminaBonus: [40.0]
     maxWeightBonus: [45.0]
+    m_EditorClassIdentifier: null
+    m_Name: 'NPA Backpack'
+    m_Script: 'NPA Backpack'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

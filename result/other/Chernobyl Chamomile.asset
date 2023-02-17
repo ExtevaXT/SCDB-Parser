@@ -9,3 +9,13 @@ MonoBehaviour:
     rank: Veteran
     class: Other
     weight: 0.005
+    m_EditorClassIdentifier: null
+    m_Name: 'Chernobyl Chamomile'
+    m_Script: 'Chernobyl Chamomile'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

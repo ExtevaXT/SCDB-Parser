@@ -12,7 +12,7 @@ MonoBehaviour:
     maxDurability: 100.0
     staminaBonus: [-10.0]
     maxWeightBonus: [10.0]
-    artefaktHeal: [1.0]
+    heal: [1.0]
     thermalAccumulation: [-1.0]
     nightVision: 1
     bulletDmgFactor: [109.0]
@@ -29,3 +29,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A consignment of protection gear sets, intended for a group of foreign mercenaries, was intercepted by parties unknown, eventually falling into the hands of Masters. The latter took advantage of the components and, inspired by the Pack of common PSZ-10s and Kingpins, developed a new armored suit. Of particular note are the quality of the fabric, which distributes heat, and the compact healing module similar to the one installed in the AH-2 Nomad.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Brigand Armored Suit'
+    m_Script: 'Brigand Armored Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

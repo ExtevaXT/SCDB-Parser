@@ -14,3 +14,13 @@ MonoBehaviour:
     spread: -19.999998
     damageDistant: 14.999998
     suitableFor: ['SMG-91 KEDR', 'IMI Uzi', 'AEK-919K Kashtan', 'FN P90', SMG-2000, 'SR-2M Veresk', 'Spectre M4', 'TDI KRISS Vector', 'IMI Mini Uzi', 'IMI Micro Uzi', 'HK MP5K', 'Ingram MAC-10', Tsunami]
+    m_EditorClassIdentifier: null
+    m_Name: '9 mm Barrel Extension'
+    m_Script: '9 mm Barrel Extension'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

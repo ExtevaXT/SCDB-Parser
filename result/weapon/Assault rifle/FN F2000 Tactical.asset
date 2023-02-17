@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 70.0
     maxDistance: 160.0
     text: 'A Belgian assault rifle that was developed by the FN Herstal company. The weapon was intended for modern combat missions in local military conflicts.'
+    m_EditorClassIdentifier: null
+    m_Name: 'FN F2000 Tactical'
+    m_Script: 'FN F2000 Tactical'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

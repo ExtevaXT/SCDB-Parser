@@ -12,3 +12,13 @@ MonoBehaviour:
     aimSwitchTime: 10.000002
     text: 'A Soviet optical sight first created in 1940 for use with the sniper model of the Tokarev semi-automatic rifle.'
     suitableFor: [AVT-40, SVT-40]
+    m_EditorClassIdentifier: null
+    m_Name: 'PU Optical Sight for SVT'
+    m_Script: 'PU Optical Sight for SVT'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

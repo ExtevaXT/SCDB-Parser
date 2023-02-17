@@ -11,3 +11,13 @@ MonoBehaviour:
     piercing: 27.5
     bleeding: 5.0
     stoppingPower: 25.0
+    m_EditorClassIdentifier: null
+    m_Name: '7.62 mm Sniper Ammo'
+    m_Script: '7.62 mm Sniper Ammo'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

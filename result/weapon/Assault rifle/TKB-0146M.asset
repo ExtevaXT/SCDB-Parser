@@ -29,3 +29,13 @@ MonoBehaviour:
     damageDecreaseEnd: 70.0
     maxDistance: 150.0
     text: 'A Stechkin-designed assault rifle, built according to a bullpup configuration. It uses the balanced automatics recoil system with a fixed magazine, using two-step feeding from the magazine into the chamber. It is equipped with a rail mount for installing various types of sights.'
+    m_EditorClassIdentifier: null
+    m_Name: TKB-0146M
+    m_Script: TKB-0146M
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

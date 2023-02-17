@@ -13,3 +13,13 @@ MonoBehaviour:
     recoilGain: -14.999998
     tickSpreadMultiplierReduction: 39.999996
     suitableFor: [RPD]
+    m_EditorClassIdentifier: null
+    m_Name: 'RPD Plastic Stock'
+    m_Script: 'RPD Plastic Stock'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -14,3 +14,13 @@ MonoBehaviour:
     strong: 48.0
     bloodlustChance: 2.5
     text: 'This Knuckleduster used to belong to the Frost Fighters’ leader, nicknamed Vodka. Obtained for saving him and the whole Zone from the Anomalous Blizzard.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Fiery Greeting'
+    m_Script: 'Fiery Greeting'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

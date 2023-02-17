@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 80.0
     maxDistance: 165.0
     text: 'A modification of the AKS-74 that allows the shooter to engage at longer distances. Meticulous work on the weapon’s barrel, breech, and gas tube has increased its accuracy and muzzle velocity. However, a decision was made to limit its rate of fire in order to maintain its durability.'
+    m_EditorClassIdentifier: null
+    m_Name: Rapier
+    m_Script: Rapier
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

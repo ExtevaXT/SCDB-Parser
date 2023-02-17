@@ -31,3 +31,13 @@ MonoBehaviour:
     damageDecreaseEnd: 115.0
     maxDistance: 175.0
     text: 'An American rifle with a longitudinally sliding bolt introduced in 1936. Its impressive effectiveness along with its low cost made it popular among many gunmen, and, as a result, it became widely distributed all over the world. The rail, which was added by a repairman, doesn’t look particularly aesthetic, but doesn’t interfere with the aiming line either, allowing it to be aimed with open sights.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn Winchester M70'
+    m_Script: 'Worn Winchester M70'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

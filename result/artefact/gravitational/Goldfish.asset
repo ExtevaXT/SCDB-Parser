@@ -14,3 +14,13 @@ MonoBehaviour:
     bulletDmgFactor: [5.0, 15.0]
     psychoAccumulation: [3.0, 8.0]
     text: 'Many artifact hunters lose their minds at the sight of this artifact. And not in a good way. A member of the gravitational family of artifacts, it can create a small energy field, but you’ll need to somehow protect yourself from the resulting psy-emissions.'
+    m_EditorClassIdentifier: null
+    m_Name: Goldfish
+    m_Script: Goldfish
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

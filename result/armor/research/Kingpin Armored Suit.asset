@@ -27,3 +27,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'The bandit version of the PSZ-10. Comes in a stylish shade of black.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Kingpin Armored Suit'
+    m_Script: 'Kingpin Armored Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

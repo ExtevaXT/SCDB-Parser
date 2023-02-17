@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 65.0
     maxDistance: 150.0
     text: 'A compact assault rifle manufactured in the Tulsky Instrument Design Bureau in 1992 as a more technical alternative to (and competitor for) the SR-3 Vikhr assault rifle.'
+    m_EditorClassIdentifier: null
+    m_Name: 9А-91
+    m_Script: 9А-91
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

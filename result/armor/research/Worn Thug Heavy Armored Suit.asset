@@ -28,3 +28,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'Exoskeletons with irreparable actuators get a second life when they’re made into these suits. However, you can order one of these suits from the outset. The heavy plates are replaced with lighter ones, and the places where the actuators used to be are reinforced.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn Thug Heavy Armored Suit'
+    m_Script: 'Worn Thug Heavy Armored Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

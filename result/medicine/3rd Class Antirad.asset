@@ -14,3 +14,13 @@ MonoBehaviour:
     radiationDmgFactor: [100.0]
     radiationAccumulation: [-100.0]
     text: 'Removes radiation from the body.'
+    m_EditorClassIdentifier: null
+    m_Name: '3rd Class Antirad'
+    m_Script: '3rd Class Antirad'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

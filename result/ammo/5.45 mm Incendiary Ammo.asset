@@ -12,3 +12,13 @@ MonoBehaviour:
     bleeding: -45.0
     combustion: 50.0
     stoppingPower: 40.0
+    m_EditorClassIdentifier: null
+    m_Name: '5.45 mm Incendiary Ammo'
+    m_Script: '5.45 mm Incendiary Ammo'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

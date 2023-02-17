@@ -15,3 +15,13 @@ MonoBehaviour:
     piercing: 50.0
     bloodlustChance: 40.0
     text: 'Adept ceremonial knife that can pierce any armor'
+    m_EditorClassIdentifier: null
+    m_Name: 'Bone Knife'
+    m_Script: 'Bone Knife'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

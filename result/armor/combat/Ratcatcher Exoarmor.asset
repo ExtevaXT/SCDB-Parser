@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'Hunting for rats requires the right suit.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Ratcatcher Exoarmor'
+    m_Script: 'Ratcatcher Exoarmor'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

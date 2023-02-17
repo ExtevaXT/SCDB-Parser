@@ -14,3 +14,13 @@ MonoBehaviour:
     effectiveness: 100.0
     size: 1.0
     text: 'A reinforced container model. Contains only 1 artifact slot but has good shielding capabilities. Widespread and inexpensive.'
+    m_EditorClassIdentifier: null
+    m_Name: 'KZS-1u Container'
+    m_Script: 'KZS-1u Container'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

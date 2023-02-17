@@ -27,3 +27,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'An armored suit made from components analogous to those in the SKAT-9m suit. The expensive NVG has been replaced with a more widespread model. The resulting cost reduction made it possible to install oxygen tanks and an advanced air-filtration system. This means the armor is maximally adapted for working in areas of the Zone with high levels of radiation and biological infection.'
+    m_EditorClassIdentifier: null
+    m_Name: 'SKAT-9b Armored Suit'
+    m_Script: 'SKAT-9b Armored Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

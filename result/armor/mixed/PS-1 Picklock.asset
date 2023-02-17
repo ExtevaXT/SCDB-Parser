@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'Rejected or irreparable Zarya suits often get a second life as a kind of protective suit. Of course, their bullet resistance leaves something to be desired, but you won’t find better protection from radiation for this price.'
+    m_EditorClassIdentifier: null
+    m_Name: 'PS-1 Picklock'
+    m_Script: 'PS-1 Picklock'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

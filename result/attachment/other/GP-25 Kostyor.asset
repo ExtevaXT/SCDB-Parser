@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 1.5
     text: 'Russian 40 mm Underbarrel Grenade Launcher'
     suitableFor: [AKS-74, AKM, 'AN-94 Abakan', 'Kbk wz. 88 Tantal', AK-105, TKB-0146M, AK-12, AK-308, 'AKM Wooden Handguard, Black', 'Fab Defense AK Handguard', 'B-10M Handguard and B-33 Receiver Cover', 'B-10M Handguard (Bottom Rail)']
+    m_EditorClassIdentifier: null
+    m_Name: 'GP-25 Kostyor'
+    m_Script: 'GP-25 Kostyor'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

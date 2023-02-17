@@ -24,3 +24,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'Getting an undamaged Zarya-A from a stalker is pretty difficult, so the kingpins decided to order a shipment of RS-33s, which are more resistant to the effects of anomalies, on the black market. A PMG gas mask and oxygen tanks are included in the suit. To compensate for the weight of the tanks, they decided to use lighter materials for the body armor.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Bandit Suit with Gas Tanks'
+    m_Script: 'Bandit Suit with Gas Tanks'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

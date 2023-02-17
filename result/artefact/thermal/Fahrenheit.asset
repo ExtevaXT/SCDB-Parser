@@ -13,3 +13,13 @@ MonoBehaviour:
     regenerationBonus: [-1.5, -0.75]
     bulletDmgFactor: [5.0, 15.0]
     reactionToTear: [1.0, 2.0]
+    m_EditorClassIdentifier: null
+    m_Name: Fahrenheit
+    m_Script: Fahrenheit
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

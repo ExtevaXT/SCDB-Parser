@@ -15,3 +15,13 @@ MonoBehaviour:
     piercing: 50.0
     bloodlustChance: 45.0
     text: 'A small hatchet equipped with a system for heating the blade. It looks stylish and can cook enemies’ wounds into a bloody crisp.'
+    m_EditorClassIdentifier: null
+    m_Name: Cauterizer
+    m_Script: Cauterizer
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

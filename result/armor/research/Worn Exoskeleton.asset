@@ -28,3 +28,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: standard
     text: 'At some point, a military invention fell into the hands of a brainy stalker technician, who put a lot of effort into crafting this item. The quality of the piece isn’t particularly high, due to the presence of fatal flaws in the original planning stage.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn Exoskeleton'
+    m_Script: 'Worn Exoskeleton'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -15,3 +15,13 @@ MonoBehaviour:
     radiationAccumulation: [-4.0, -2.0]
     psychoAccumulation: [4.0, 6.0]
     text: 'This artifact appears infrequently in old anomalies. It has a powerful gravitational effect formed by crystal artifacts being caught in a Blackhole. Unlike other artifacts of this type, this crystal gives the owner increased chances of survival in combat situations.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Black Crystal'
+    m_Script: 'Black Crystal'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

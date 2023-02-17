@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'Having obtained a shipment of decommissioned body armor, the Chernobyl Research Institute decided to get a decisive foothold in a newly forming market segment: wealthy stalkers. This suit was the result. The closed breathing system gave it excellent performance and an eye-watering price. Fitted with 2nd-generation NVGs.'
+    m_EditorClassIdentifier: null
+    m_Name: 'SEVA Suit'
+    m_Script: 'SEVA Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

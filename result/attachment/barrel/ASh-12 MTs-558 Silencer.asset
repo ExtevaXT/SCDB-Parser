@@ -12,3 +12,13 @@ MonoBehaviour:
     drawTime: 10.000002
     damageDistant: -14.999998
     suitableFor: [ASh-12, MTs-558]
+    m_EditorClassIdentifier: null
+    m_Name: 'ASh-12 MTs-558 Silencer'
+    m_Script: 'ASh-12 MTs-558 Silencer'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

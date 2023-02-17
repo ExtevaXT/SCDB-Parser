@@ -13,3 +13,13 @@ MonoBehaviour:
     staminaBonus: [5.0, 10.0]
     electraDmgFactor: [-100.0, -50.0]
     text: 'A member of the electrostatic family of artifacts, named for its brightness. It stores electricity but also increases the owner’s stamina. Common and not particularly valuable.'
+    m_EditorClassIdentifier: null
+    m_Name: Sparkler
+    m_Script: Sparkler
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

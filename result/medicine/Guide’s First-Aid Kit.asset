@@ -11,10 +11,20 @@ MonoBehaviour:
     purpose: Healing
     duration: 10.0
     staminaRegenerationBonus: [15.0]
-    artefaktHeal: [6.5]
+    heal: [6.5]
     radiationDmgFactor: [30.0]
     biologicalDmgFactor: [30.0]
     radiationAccumulation: [-5.0]
     biologicalAccumulation: [-5.0]
     bleedingAccumulation: [-1.5]
     text: 'A first-aid kit with items assembled by an experienced stalker. Contains the most useful treatments in the right doses and is suitable for any situation.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Guide’s First-Aid Kit'
+    m_Script: 'Guide’s First-Aid Kit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

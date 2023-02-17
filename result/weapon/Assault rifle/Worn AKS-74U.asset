@@ -30,3 +30,13 @@ MonoBehaviour:
     damageDecreaseEnd: 55.0
     maxDistance: 130.0
     text: 'A shortened version of the AK-74 that was developed in the late 1970s and early 1980s for armed crews of combat vehicles, airborne infantry, gun crews and paratroopers. It was also used by the Ministry of Internal Affairs and security forces, thanks to its compact size.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn AKS-74U'
+    m_Script: 'Worn AKS-74U'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

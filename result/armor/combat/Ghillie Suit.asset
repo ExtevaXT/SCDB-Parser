@@ -26,3 +26,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A crude ghillie suit with a utility vest. The most suitable suit for snipers.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Ghillie Suit'
+    m_Script: 'Ghillie Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

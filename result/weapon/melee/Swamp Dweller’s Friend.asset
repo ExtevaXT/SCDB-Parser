@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 20.0
     bloodlustChance: 30.0
     text: 'This light, easy-to-use knife has changed owners on more than one occasion.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Swamp Dweller’s Friend'
+    m_Script: 'Swamp Dweller’s Friend'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

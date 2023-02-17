@@ -10,3 +10,13 @@ MonoBehaviour:
     class: 'Hanguards and Brackets'
     weight: 0.14
     suitableFor: [AA-12, M1014, 'Grizzly 8.5', 'Mossberg 590A1', 'Shorty 590', МР-133, RMB-93, 'Franchi SPAS-12', МР-153]
+    m_EditorClassIdentifier: null
+    m_Name: 'Guiding RIS for Shotgun'
+    m_Script: 'Guiding RIS for Shotgun'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

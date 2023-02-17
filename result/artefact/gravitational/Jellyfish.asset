@@ -14,3 +14,13 @@ MonoBehaviour:
     bulletDmgFactor: [5.0, 10.0]
     radiationAccumulation: [2.0, 5.0]
     text: 'The protective field formed by this gravitational artifact is not remarkably strong, but it slightly reduces bullet damage. A side effect is that gravity has a stronger impact on the owner’s body, which can lead to fatigue more quickly.'
+    m_EditorClassIdentifier: null
+    m_Name: Jellyfish
+    m_Script: Jellyfish
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

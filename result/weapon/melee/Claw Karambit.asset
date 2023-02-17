@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 60.0
     bloodlustChance: 55.0
     text: 'A karambit made from a mutant’s claw. It can penetrate any protection.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Claw Karambit'
+    m_Script: 'Claw Karambit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

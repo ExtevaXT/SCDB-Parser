@@ -10,3 +10,13 @@ MonoBehaviour:
     weight: 0.12
     text: 'Picatinny rail for mounting sights on an SVT'
     suitableFor: [AVT-40, SVT-40]
+    m_EditorClassIdentifier: null
+    m_Name: 'Picatinny Rail for SVT'
+    m_Script: 'Picatinny Rail for SVT'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

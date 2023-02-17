@@ -31,3 +31,13 @@ MonoBehaviour:
     damageDecreaseEnd: 65.0
     maxDistance: 165.0
     text: 'This 9 mm special sniper rifle (a VSS that was developed under the title Vintorez, a name that has remained in use) is a silenced sniper rifle. It was created in the Tochmash Central Scientific Research Institute for Precision Machine Engineering in Klimovsk at the start of the 1980s under the leadership of Pyotr Ivanovich Serdyukov. It was intended for use by special ops units.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn VSS Vintorez'
+    m_Script: 'Worn VSS Vintorez'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

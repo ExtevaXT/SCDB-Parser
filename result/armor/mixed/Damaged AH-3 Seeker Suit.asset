@@ -12,7 +12,7 @@ MonoBehaviour:
     maxDurability: 100.0
     staminaBonus: [-10.0]
     maxWeightBonus: [2.0]
-    artefaktHeal: [1.25]
+    heal: [1.25]
     nightVision: 1
     bulletDmgFactor: [48.0]
     tearDmgFactor: [57.0]
@@ -28,3 +28,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A further development of the Artifact Hunters line. This version was produced using light composite materials and some innovations. It is expensive, but this protective suit wholly justified its price.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Damaged AH-3 Seeker Suit'
+    m_Script: 'Damaged AH-3 Seeker Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

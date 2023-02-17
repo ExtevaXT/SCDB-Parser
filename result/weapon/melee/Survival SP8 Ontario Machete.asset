@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 40.0
     bloodlustChance: 35.0
     text: 'Intended for rescue work and surviving in the wilderness.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Survival SP8 Ontario Machete'
+    m_Script: 'Survival SP8 Ontario Machete'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -14,3 +14,13 @@ MonoBehaviour:
     bulletDmgFactor: [15.0, 20.0]
     radiationAccumulation: [3.0, 6.0]
     text: 'A little-known member of the power-shielding gravitational anomaly family. The strength of its gravitational emissions is likely much stronger than that of any other artifacts of this type. The Dark Jellyfish is believed to be present in several old gravitational anomalies with extremely high activity levels. If worn for a long time, it has a negative effect on the body’s tolerance to exertion.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Dark Jellyfish'
+    m_Script: 'Dark Jellyfish'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

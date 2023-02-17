@@ -12,3 +12,13 @@ MonoBehaviour:
     piercing: 60.0
     bleeding: 100.0
     stoppingPower: 100.0
+    m_EditorClassIdentifier: null
+    m_Name: 'Large-Caliber Silver Ammo'
+    m_Script: 'Large-Caliber Silver Ammo'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

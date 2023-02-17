@@ -10,3 +10,13 @@ MonoBehaviour:
     class: 'Hanguards and Brackets'
     weight: 0.205
     suitableFor: ['Mosin’s Carbine', 'Mosin’s Rifle']
+    m_EditorClassIdentifier: null
+    m_Name: 'Kochetov Mount for Patriot with Picatinny Rail'
+    m_Script: 'Kochetov Mount for Patriot with Picatinny Rail'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

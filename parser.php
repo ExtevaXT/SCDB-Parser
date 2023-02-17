@@ -11,6 +11,21 @@ $db_path = './stalcraft-database/ru/';
 $asset_path = './assets/';
 $result_path = './result/';
 
+const sprite_fileID = 21300000;
+const asset_fileID = 11400000;
+const script_fileID = 11500000;
+const ammo_guid = 'ebbf3d4b1d1a4412ba55eb0813d3fa87';
+const attachment_guid = '87ae8f2a691b5974289ba8a2d2fd217c';
+const container_guid = '08ced404c58c31e4ab5f6795ae9ed896';
+const equipment_guid = '90c06992fabc4400c8c2e33ff979c9e2';
+const device_guid = '07dbc71676f2aaf44a61ae8a445d9051';
+const grenade_guid = 'ed7a33bc444938c4daeeb785a5c3728e';
+const melee_guid = 'd2dab61ac11af4e81a71e209d3f091f2';
+const medicine_guid = '8fbc25bef1e7c4f4aa348edf964275e9';
+const shotgun_guid = 'bdae6158522d46441a5aace99f60b060';
+const weapon_guid = 'fa99cbcb882d44b2984928ebe183fb04';
+const item_guid = '6ca52a2d0c310fc4ca4d26b3c6ed943a';
+
 $arr = [];
 
 //listing with all item references
@@ -61,7 +76,7 @@ foreach ($listing as $item_ref){
                     }
                     if($element['type'] == 'numeric'){
                         //single bonus
-                        str_replace('artefakt_heal', 'heal', $element['name']['key']);
+                        $element['name']['key'] = str_replace('artefakt_heal', 'heal', $element['name']['key']);
                         if(!str_contains($element['name']['key'],'stalker.artefact_properties.factor.')){
                             //fix naming and remove excess vars
                             if($item['category'] == 'Ammo') {
@@ -83,7 +98,7 @@ foreach ($listing as $item_ref){
                         //min max bonus
                         //burn_dmg_factor -> burnDmgFactor
                         //without this shit
-                        str_replace('artefakt_heal', 'heal', $element['name']['key']);
+                        $element['name']['key'] = str_replace('artefakt_heal', 'heal', $element['name']['key']);
                         if(!str_contains($element['name']['key'],'lifesaver'))
                             $template += [KeyToVar($element['name']['key']) => [$element['min'], $element['max']]];
                     }
@@ -107,7 +122,8 @@ foreach ($listing as $item_ref){
                 $template += array_slice($infoBlock, 1);
             }
             if($infoBlock['type'] == 'text'){
-                if(str_contains($infoBlock['text']['key'], 'description'))
+                if(str_contains($infoBlock['text']['key'], 'description')
+                or str_contains($infoBlock['text']['key'], 'additional_stats_tip'))
                     $template += ['text' => $infoBlock['text']['lines']['en']];
                 //armor compatibles
                 if(str_contains($infoBlock['text']['key'], 'compatibility.backpacks'))
@@ -131,16 +147,56 @@ foreach ($listing as $item_ref){
         $preset = Yaml::parse($preset);
         $template = array_merge($preset['MonoBehaviour'], $template);
     }
+    else{
+        //script assignment
+        $template += ['m_EditorClassIdentifier'=> null];
+        $template += ['m_Name'=> $item['name']['lines']['en']];
+        $template += ['m_Script'=>['fileID'=>script_fileID, 'guid' => ScriptGUID($item['category']), 'type' => 3]];
+        $template += ['m_EditorHideFlags'=> 0];
+        $template += ['m_Enabled'=> 1];
+        $template += ['m_GameObject'=> ['fileID'=>0]];
+        $template += ['m_PrefabAsset'=> ['fileID'=>0]];
+        $template += ['m_PrefabInstance'=> ['fileID'=>0]];
+        $template += ['m_CorrespondingSourceObject'=> ['fileID'=>0]];
+        $template += ['m_ObjectHideFlags'=> 0];
+    }
     $final = Yaml::dump(['MonoBehaviour'=>$template], 2);
     //need to bring it back
     $final = '%YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 '.$final;
+
     file_put_contents($result_path.$item['category'].'/'.$item['name']['lines']['en'].'.asset', $final);
 }
 var_dump_pre($arr);
 echo 'ok';
+
+
+
+function ScriptGUID($category){
+    if(str_contains('Other', $category) or $category == 'Misc') return item_guid;
+    if(str_contains('Armor', $category) or $category == 'Backpack') return equipment_guid;
+    if(str_contains('Attachment', $category)) return attachment_guid;
+    if(str_contains('Weapon', $category)){
+        if(str_contains('Device', $category)) return device_guid;
+        if(str_contains('Melee', $category)) return melee_guid;
+        if(str_contains('Shotgun', $category)) return shotgun_guid;
+        return weapon_guid;
+    }
+    if($category == 'Container') return container_guid;
+    if($category == 'Ammo') return ammo_guid;
+    if($category == 'Medicine') return medicine_guid;
+    if($category == 'Grenade') return grenade_guid;
+    return 0;
+}
+function GUID()
+{
+    return sprintf('%04X%04X-%04X-%04X-%04X-%04X%04X%04X', mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(16384, 20479), mt_rand(32768, 49151), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535));
+}
+
+
+//helpers
 function KeyToVar($string){
     $keys = explode('.',$string);
     return ToCamelCase(str_replace('_',' ', end($keys)));

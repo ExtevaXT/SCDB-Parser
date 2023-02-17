@@ -12,7 +12,7 @@ MonoBehaviour:
     maxDurability: 100.0
     staminaBonus: [-10.0]
     speedModifier: [2.0]
-    artefaktHeal: [1.5]
+    heal: [1.5]
     radiationAccumulation: [-2.0]
     bleedingAccumulation: [-0.5]
     nightVision: 1
@@ -30,3 +30,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'Every suit has a purpose, and this Expedition Suit is no exception. Initially designed to withstand the conditions of an anomalous blizzard, it is so user-friendly and cheap to produce that it very quickly became popular amongst middle-class stalkers.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Expedition Suit'
+    m_Script: 'Expedition Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -27,3 +27,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'Similar in appearance to a suit used for training dogs or a quilted jacket, the Osh is good to have around during fights with mutant teeth and claws. Its protection against bullets is only average, but mutants don’t know how to shoot yet, do they?'
+    m_EditorClassIdentifier: null
+    m_Name: 'Osh Protective Suit'
+    m_Script: 'Osh Protective Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

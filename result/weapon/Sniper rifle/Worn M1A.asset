@@ -31,3 +31,13 @@ MonoBehaviour:
     damageDecreaseEnd: 85.0
     maxDistance: 175.0
     text: 'M1A semi-automatic rifle. It is in demand among stalkers due to its availability, high accuracy, and substantial stopping power.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn M1A'
+    m_Script: 'Worn M1A'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

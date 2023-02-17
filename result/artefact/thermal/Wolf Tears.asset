@@ -14,3 +14,13 @@ MonoBehaviour:
     thermalAccumulation: [-2.0, -1.0]
     biologicalAccumulation: [0.0, 2.0]
     text: 'Anthracite black droplets big as apples. Their main benefit is that they slightly reduce the weight of cargo if placed in a backpack. It also slightly cools the area around it. This artifact differs in the way it is formed and can produce toxic substances.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Wolf Tears'
+    m_Script: 'Wolf Tears'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: 20.000004
     reloadTime: 39.999996
     suitableFor: [AA-12]
+    m_EditorClassIdentifier: null
+    m_Name: 'AA-12 Drum Clip'
+    m_Script: 'AA-12 Drum Clip'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

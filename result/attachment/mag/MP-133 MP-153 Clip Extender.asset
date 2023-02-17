@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 0.124
     additiveClipSize: 2.0
     suitableFor: [МР-133, МР-153]
+    m_EditorClassIdentifier: null
+    m_Name: 'MP-133 MP-153 Clip Extender'
+    m_Script: 'MP-133 MP-153 Clip Extender'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

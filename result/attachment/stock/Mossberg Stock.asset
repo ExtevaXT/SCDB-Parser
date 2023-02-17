@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: 14.999998
     tickSpreadMultiplierReduction: 25.0
     suitableFor: ['Mossberg 590A1', 'Shorty 590']
+    m_EditorClassIdentifier: null
+    m_Name: 'Mossberg Stock'
+    m_Script: 'Mossberg Stock'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

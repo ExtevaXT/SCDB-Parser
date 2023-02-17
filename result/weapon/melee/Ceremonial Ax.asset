@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 50.0
     bloodlustChance: 40.0
     text: 'Ax with a grip made from the bone of an unknown being. It is covered in runes.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Ceremonial Ax'
+    m_Script: 'Ceremonial Ax'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

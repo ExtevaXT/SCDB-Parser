@@ -31,3 +31,13 @@ MonoBehaviour:
     damageDecreaseEnd: 120.0
     maxDistance: 220.0
     text: 'The WA2000 is a bullpup sniper rifle that was developed@by the weapons company Walther.'
+    m_EditorClassIdentifier: null
+    m_Name: 'WA 2000'
+    m_Script: 'WA 2000'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: 20.000004
     reloadTime: 4.999995
     suitableFor: [AKM, AK-103, SOK-94, RPK]
+    m_EditorClassIdentifier: null
+    m_Name: '7.62 Bakelite Clip'
+    m_Script: '7.62 Bakelite Clip'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

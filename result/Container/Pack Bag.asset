@@ -17,3 +17,13 @@ MonoBehaviour:
     maxWeightBonus: [10.0]
     biologicalAccumulation: [-1.5]
     text: 'Cursed artifact hunters’ bag with three containers and filter system'
+    m_EditorClassIdentifier: null
+    m_Name: 'Pack Bag'
+    m_Script: 'Pack Bag'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

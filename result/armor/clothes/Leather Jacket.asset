@@ -24,3 +24,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A sturdy leather jacket. Keeps you safe from prickly bushes and the teeth of small rodents.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Leather Jacket'
+    m_Script: 'Leather Jacket'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

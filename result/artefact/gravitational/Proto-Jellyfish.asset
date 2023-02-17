@@ -14,3 +14,13 @@ MonoBehaviour:
     staminaRegenerationBonus: [-3.0, -1.5]
     radiationAccumulation: [-10.0, -5.0]
     text: 'A “blank” for a future artifact, the Proto-Jellyfish absorbs radioactive particles from the surrounding area and uses them as “fuel” for its own development. Maturing inside an anomaly, it eventually becomes a fully-fledged artifact, most often a Jellyfish. If this artifact is extracted from an anomaly in time, its development stops. It will never become a true Jellyfish, but it retains its ability to absorb and contain radiation. However, the side effect of wearing this artifact is a slight feeling of fatigue.'
+    m_EditorClassIdentifier: null
+    m_Name: Proto-Jellyfish
+    m_Script: Proto-Jellyfish
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

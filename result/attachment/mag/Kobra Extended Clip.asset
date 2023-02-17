@@ -12,3 +12,13 @@ MonoBehaviour:
     clipSize: 15.0
     reloadTime: 20.000004
     suitableFor: [MTs-116M, Avalanche, SVD, SVU]
+    m_EditorClassIdentifier: null
+    m_Name: 'Kobra Extended Clip'
+    m_Script: 'Kobra Extended Clip'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

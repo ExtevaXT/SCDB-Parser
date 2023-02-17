@@ -9,3 +9,13 @@ MonoBehaviour:
     class: Backpacks
     weight: 25.0
     text: 'When placed in a tournament location, lets you respawn in the camp.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Mobile Camp'
+    m_Script: 'Mobile Camp'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

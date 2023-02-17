@@ -13,3 +13,13 @@ MonoBehaviour:
     drawTime: 20.000004
     reloadTime: 60.000004
     suitableFor: [PMM, 'Eternal Novice’s PM', PM]
+    m_EditorClassIdentifier: null
+    m_Name: 'Drum Clip for PM'
+    m_Script: 'Drum Clip for PM'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

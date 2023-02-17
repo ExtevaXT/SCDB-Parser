@@ -8,3 +8,13 @@ MonoBehaviour:
     pathCategory: Other
     class: Other
     text: 'I received this IOU as a reward from Shaman. I can use it to get an AKS from the merchant at the Cordon.'
+    m_EditorClassIdentifier: null
+    m_Name: 'IOU from Shaman'
+    m_Script: 'IOU from Shaman'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

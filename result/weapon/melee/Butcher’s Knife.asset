@@ -13,3 +13,13 @@ MonoBehaviour:
     strong: 120.0
     piercing: 40.0
     bloodlustChance: 35.0
+    m_EditorClassIdentifier: null
+    m_Name: 'Butcher’s Knife'
+    m_Script: 'Butcher’s Knife'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

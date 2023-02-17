@@ -11,7 +11,17 @@ MonoBehaviour:
     purpose: Healing
     duration: 10.0
     staminaRegenerationBonus: [10.0]
-    artefaktHeal: [6.0]
+    heal: [6.0]
     radiationAccumulation: [-5.0]
     bleedingAccumulation: [-1.5]
     text: 'A specialized medical kit for treating physical wounds and bleeding. The kit contains a tourniquet for stopping bleeding, an adrenaline injection, a weak antirad treatment, and a special regeneration drug.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Army First-Aid Kit'
+    m_Script: 'Army First-Aid Kit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

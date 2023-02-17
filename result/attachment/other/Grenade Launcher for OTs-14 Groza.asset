@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 1.6
     text: 'Russian 40 mm Underbarrel Grenade Launcher'
     suitableFor: ['OTs-14 Groza', 'OTs-14 Tactical Grip']
+    m_EditorClassIdentifier: null
+    m_Name: 'Grenade Launcher for OTs-14 Groza'
+    m_Script: 'Grenade Launcher for OTs-14 Groza'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

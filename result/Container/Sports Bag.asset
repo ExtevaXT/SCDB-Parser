@@ -11,3 +11,13 @@ MonoBehaviour:
     weight: 1.5
     staminaBonus: [15.0]
     maxWeightBonus: [20.0]
+    m_EditorClassIdentifier: null
+    m_Name: 'Sports Bag'
+    m_Script: 'Sports Bag'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

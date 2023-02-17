@@ -7,3 +7,13 @@ MonoBehaviour:
     fullName: 'Test Prototype RPK-16'
     pathCategory: Other
     class: 'Skins and Paint'
+    m_EditorClassIdentifier: null
+    m_Name: 'Test Prototype RPK-16'
+    m_Script: 'Test Prototype RPK-16'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

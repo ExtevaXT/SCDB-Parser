@@ -14,3 +14,13 @@ MonoBehaviour:
     thermalAccumulation: [2.0, 5.0]
     bleedingAccumulation: [-4.0, -2.0]
     text: 'A degraded form, this Fireball stayed too close to its parent anomaly for too long. Speeds up tissue regeneration but, unlike its starting form, warms up too fast and is unsafe to touch without protection.'
+    m_EditorClassIdentifier: null
+    m_Name: Flame
+    m_Script: Flame
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

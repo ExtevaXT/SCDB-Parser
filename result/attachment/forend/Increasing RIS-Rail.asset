@@ -10,3 +10,13 @@ MonoBehaviour:
     class: 'Hanguards and Brackets'
     weight: 0.05
     suitableFor: [L85A1, M4A1, 'SIG SG 550', M16A3, 'M4 LB', 'ALK-22 Dragonfly', 'HK G36C', 'TDI KRISS Vector', A-545, 'HK G3A1', 'FN F2000 Tactical', ASh-12, 'FN F2000', LR-300, 'FN SCAR-L', 'OTs-14M Shtorm', SV-98, 'M249 SAW', HK416, RPK-16, 'Steyr AUG A2', 'Steyr AUG A3', AK-12, 'SIG SG 550 Sniper', 'FN FAL', 'FN SCAR-H', 'Gauss Rifle', 'FN SCAR SSR', 'FAMAS G2', 'McMillan CS5', 'Crye Precision SIX12', 'HK PSG1', 'HK XM8S', HK417, DSA-58, AK-308, 'IWI Tavor X95', 'Chiappa Triple Crown', L86A1, 'Winchester M70', 'Steyr Scout', M40A5, 'Alpine TPG-1', 'FG-42 Whip', WA2000, L96A1, MTs-558, 'Karbach OTL-03']
+    m_EditorClassIdentifier: null
+    m_Name: 'Increasing RIS-Rail'
+    m_Script: 'Increasing RIS-Rail'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

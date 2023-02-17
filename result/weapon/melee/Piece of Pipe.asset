@@ -14,3 +14,13 @@ MonoBehaviour:
     piercing: 30.0
     bloodlustChance: 25.0
     text: 'You can sometimes find useful stuff in a junkyard.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Piece of Pipe'
+    m_Script: 'Piece of Pipe'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

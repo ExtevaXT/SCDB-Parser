@@ -29,3 +29,13 @@ MonoBehaviour:
     damageDecreaseEnd: 70.0
     maxDistance: 150.0
     text: 'A modification of the Groza with an integrated grenade launcher. It has been converted to take 5.45 mm ammo. It is unknown who produced these modifications, but the sheer number of these weapons that can be seen around would suggest that they were mass-produced.'
+    m_EditorClassIdentifier: null
+    m_Name: 'OTs-14M Shtorm'
+    m_Script: 'OTs-14M Shtorm'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

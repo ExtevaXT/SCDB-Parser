@@ -14,3 +14,13 @@ MonoBehaviour:
     bleedingProtection: [7.5, 15.0]
     bleedingAccumulation: [-3.0, -1.5]
     text: 'A Slime artifact that has been exposed to the effects of external forces. It still has the same properties and the same unpleasant texture, just a little bit more solid.'
+    m_EditorClassIdentifier: null
+    m_Name: Slug
+    m_Script: Slug
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

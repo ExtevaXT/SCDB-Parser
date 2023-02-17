@@ -24,3 +24,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A regular polyester coat. Polyester is water resistant, so it can resist the effect of chemical reagents very well, but it cannot withstand high temperatures. It melts and can cause serious harm to whoever is wearing it. The face covering will protect the wearer from any harmful substances in the air. Probably.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Coat with Face Covering'
+    m_Script: 'Coat with Face Covering'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

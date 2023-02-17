@@ -14,3 +14,13 @@ MonoBehaviour:
     radiationAccumulation: [3.0, 6.0]
     reactionToElectroshock: [1.0, 2.0]
     text: 'Uncommon electrostatic artifact. When it comes into contact with a current, some electrons are absorbed, which lowers the current. Radioactive.'
+    m_EditorClassIdentifier: null
+    m_Name: Battery
+    m_Script: Battery
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

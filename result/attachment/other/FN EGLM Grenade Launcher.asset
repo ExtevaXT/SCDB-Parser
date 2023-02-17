@@ -10,3 +10,13 @@ MonoBehaviour:
     class: 'Other Attachments'
     weight: 1.35
     suitableFor: ['FN SCAR-L', 'FN SCAR-H']
+    m_EditorClassIdentifier: null
+    m_Name: 'FN EGLM Grenade Launcher'
+    m_Script: 'FN EGLM Grenade Launcher'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

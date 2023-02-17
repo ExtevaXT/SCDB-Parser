@@ -15,3 +15,13 @@ MonoBehaviour:
     piercing: 55.0
     bloodlustChance: 55.0
     text: 'Covered in ice, this ice pick is used by Frost Hunters.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Frozen Ice Pick'
+    m_Script: 'Frozen Ice Pick'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

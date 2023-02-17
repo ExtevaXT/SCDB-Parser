@@ -13,7 +13,7 @@ MonoBehaviour:
     staminaBonus: [-10.0]
     speedModifier: [-2.0]
     maxWeightBonus: [15.0]
-    artefaktHeal: [2.7]
+    heal: [2.7]
     nightVision: 1
     bulletDmgFactor: [97.0]
     tearDmgFactor: [113.0]
@@ -29,3 +29,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: spacious
     text: 'The best model in the Artifact Hunters range. The main emphasis was placed on increasing ease of use and fixing errors from previous versions.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Worn AH-6 Nomad'
+    m_Script: 'Worn AH-6 Nomad'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -7,3 +7,13 @@ MonoBehaviour:
     fullName: 'Hell Rider'
     pathCategory: Other
     class: 'Skins and Paint'
+    m_EditorClassIdentifier: null
+    m_Name: 'Hell Rider'
+    m_Script: 'Hell Rider'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

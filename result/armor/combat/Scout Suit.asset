@@ -25,3 +25,13 @@ MonoBehaviour:
     compatibleBackpacks: superheavy
     compatibleContainers: bulky
     text: 'A suit that is purchased by mercenaries on the Mainland. It is popular due to its lightness and comfort. It isn’t well suited to the conditions of the Zone, but it offers good protection against bullets.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Scout Suit'
+    m_Script: 'Scout Suit'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

@@ -28,3 +28,13 @@ MonoBehaviour:
     compatibleBackpacks: light
     compatibleContainers: standard
     text: 'Heavy combat engineer armor developed by a Korean company as part of a joint order by several private military companies. It reached the Zone via the black market. It does not provide good anomalous protection, but is excellent for lengthy combat. The bulky helmet of this armor was seen as unusable in Zone conditions and swapped for a more suitable version.'
+    m_EditorClassIdentifier: null
+    m_Name: 'Khors Group Tank'
+    m_Script: 'Khors Group Tank'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

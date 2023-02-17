@@ -14,3 +14,13 @@ MonoBehaviour:
     explosionSize: 8.0
     explosionActivationTime: 0.25
     text: 'A fragmentation round for the M203 grenade launcher. It bounces when it lands, increasing the area damaged by the fragments.'
+    m_EditorClassIdentifier: null
+    m_Name: 'M397 Grenade Round'
+    m_Script: 'M397 Grenade Round'
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

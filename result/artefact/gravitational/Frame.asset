@@ -15,3 +15,13 @@ MonoBehaviour:
     radiationAccumulation: [-3.0, 0.0]
     biologicalAccumulation: [-3.0, 0.0]
     text: 'A surprising and unusual artifact that does not grant any significant benefits, but also does not possess any negative qualities. Some samples possess no properties at all. According to some stalkers, it is formed from the effect of anomalous energy on the skeletal remains of people who “weren’t afraid to look death in the face.”'
+    m_EditorClassIdentifier: null
+    m_Name: Frame
+    m_Script: Frame
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0

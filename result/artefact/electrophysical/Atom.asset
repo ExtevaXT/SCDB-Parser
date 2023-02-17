@@ -15,3 +15,13 @@ MonoBehaviour:
     radiationAccumulation: [-5.0, -3.0]
     biologicalAccumulation: [-5.0, -3.0]
     text: 'An extremely rare and valuable artifact. Finding it is a big windfall. The few people who own one of these call it their “guardian angel,” as it can protect from negative effects while not having any negative properties of its own.'
+    m_EditorClassIdentifier: null
+    m_Name: Atom
+    m_Script: Atom
+    m_EditorHideFlags: 0
+    m_Enabled: 1
+    m_GameObject: { fileID: 0 }
+    m_PrefabAsset: { fileID: 0 }
+    m_PrefabInstance: { fileID: 0 }
+    m_CorrespondingSourceObject: { fileID: 0 }
+    m_ObjectHideFlags: 0
