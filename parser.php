@@ -9,7 +9,8 @@ error_reporting(E_ALL);
 
 $db_path = './stalcraft-database/ru/';
 $asset_path = './assets/';
-$result_path = './result/';
+$result_path = './result/Items/';
+$result_icons_path = './result/Icons/';
 
 const sprite_fileID = 21300000;
 const asset_fileID = 11400000;
@@ -70,7 +71,7 @@ foreach ($listing as $item_ref){
                             $template += [ToCamelCase($element['key']['lines']['en']) => $element['value']['lines']['en']];
                             if($element['key']['key'] == 'weapon.tooltip.weapon.info.ammo_type'){
                                 //need to inline asset references
-                                $template += ['requiredAmmo'=> [['fileID'=> 11400000, 'guid' => '999e8dc267ef825418be332578e4e926', 'type'=>2]]];
+                                $template += ['requiredAmmo'=> [['fileID'=> asset_fileID, 'guid' => '999e8dc267ef825418be332578e4e926', 'type'=>2]]];
                             }
                         }
                     }
@@ -136,7 +137,18 @@ foreach ($listing as $item_ref){
     if (!is_dir($result_path.$item['category'])) {
         // dir doesn't exist, make it
         mkdir($result_path.$item['category'], 0777, true);
+        mkdir($result_icons_path.$item['category'], 0777, true);
     }
+    // image: {fileID: 21300000, guid: 9a35b5e015009b54bafcc7fafc643665, type: 3}
+    // attach embedded icon
+
+    $icon_guid = GUID();
+    $icon_meta = str_replace('GUID', $icon_guid, file_get_contents('./icon.png.meta'));
+    copy($db_path.$item_ref['icon'],$result_icons_path.$item['category'].'/'.$item['name']['lines']['en'].'.png');
+    file_put_contents($result_icons_path.$item['category'].'/'.$item['name']['lines']['en'].'.png.meta', $icon_meta);
+
+    $template += ['image'=> ['fileID'=> sprite_fileID, 'guid' => $icon_guid, 'type'=>3]];
+
     //if finds my preset then merge it
     $preset_path = $asset_path.$item['category'].'/'.$item['name']['lines']['en'].'.asset';
     if(file_exists($preset_path)){
@@ -166,8 +178,11 @@ foreach ($listing as $item_ref){
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 '.$final;
-
+    $guid = GUID();
     file_put_contents($result_path.$item['category'].'/'.$item['name']['lines']['en'].'.asset', $final);
+    $final_meta = str_replace('GUID', $guid, file_get_contents('./template.asset.meta'));
+    file_put_contents( $result_path.$item['category'].'/'.$item['name']['lines']['en'].'.asset.meta',$final_meta);
+
 }
 var_dump_pre($arr);
 echo 'ok';
@@ -175,13 +190,13 @@ echo 'ok';
 
 
 function ScriptGUID($category){
-    if(str_contains('Other', $category) or $category == 'Misc') return item_guid;
-    if(str_contains('Armor', $category) or $category == 'Backpack') return equipment_guid;
-    if(str_contains('Attachment', $category)) return attachment_guid;
-    if(str_contains('Weapon', $category)){
-        if(str_contains('Device', $category)) return device_guid;
-        if(str_contains('Melee', $category)) return melee_guid;
-        if(str_contains('Shotgun', $category)) return shotgun_guid;
+    if(str_contains($category,'Other') or $category == 'Misc') return item_guid;
+    if(str_contains($category,'Armor') or $category == 'Backpack' or str_contains($category,'Artefact')) return equipment_guid;
+    if(str_contains($category,'Attachment')) return attachment_guid;
+    if(str_contains($category,'Weapon')){
+        if(str_contains($category,'Device')) return device_guid;
+        if(str_contains($category,'Melee')) return melee_guid;
+        if(str_contains($category,'Shotgun')) return shotgun_guid;
         return weapon_guid;
     }
     if($category == 'Container') return container_guid;
@@ -192,7 +207,7 @@ function ScriptGUID($category){
 }
 function GUID()
 {
-    return sprintf('%04X%04X-%04X-%04X-%04X-%04X%04X%04X', mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(16384, 20479), mt_rand(32768, 49151), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535));
+    return sprintf('%04x%04x%04x%04x%04x%04x%04x%04x', mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(16384, 20479), mt_rand(32768, 49151), mt_rand(0, 65535), mt_rand(0, 65535), mt_rand(0, 65535));
 }
 
 

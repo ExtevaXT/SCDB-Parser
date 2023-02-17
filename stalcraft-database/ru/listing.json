@@ -15028,19 +15028,6 @@
     }
   },
   {
-    "data": "/items/other/Kkzq.json",
-    "icon": "/icons/other/Kkzq.png",
-    "name": {
-      "type": "translation",
-      "key": "item.brt.sever.capture_add.name",
-      "args": {},
-      "lines": {
-        "ru": "Записи майора Д.",
-        "en": "Notes of Major D."
-      }
-    }
-  },
-  {
     "data": "/items/other/kknD.json",
     "icon": "/icons/other/kknD.png",
     "name": {
