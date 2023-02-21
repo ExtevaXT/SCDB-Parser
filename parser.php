@@ -29,6 +29,12 @@ const item_guid = '6ca52a2d0c310fc4ca4d26b3c6ed943a';
 
 $arr = [];
 
+$muzzle_id = 0;
+$lower_rail_id = 0;
+$upper_rail_id = 0;
+$magazine_id = 0;
+$stock_id = 0;
+
 //listing with all item references
 $listing = json_decode(file_get_contents("$db_path/listing.json"), true);
 foreach ($listing as $item_ref){
@@ -61,6 +67,38 @@ foreach ($listing as $item_ref){
     $template += ['key' => array_reverse(explode('.',$item['name']['key']))[1]];
     $template += ['fullName' => $item['name']['lines']['en']];
     $template += ['pathCategory' => $item['category']];
+    if(str_contains($item['category'], 'Attachment')){
+        $group = -1;
+        $id = 0;
+
+        if($item['category'] == 'Attachment/Barrel'){
+            $group = 0;
+            $id = $muzzle_id;
+            $muzzle_id++;
+        }
+        if($item['category'] == 'Attachment/Other'){
+            $group = 1;
+            $id = $lower_rail_id;
+            $lower_rail_id++;
+        }
+        if($item['category'] == 'Attachment/Sight'){
+            $group = 2;
+            $id = $upper_rail_id;
+            $upper_rail_id++;
+        }
+        if($item['category'] == 'Attachment/Mag'){
+            $group = 3;
+            $id = $magazine_id;
+            $magazine_id++;
+        }
+        if($item['category'] == 'Attachment/Stock'){
+            $group = 4;
+            $id = $stock_id;
+            $stock_id++;
+        }
+        $template +=['attachmentMetaGroup' => $group];
+        $template += ['attachmentMetaId' => chr($id + 65)];
+    }
     foreach ($item['infoBlocks'] as $infoBlock){
         if(isset($infoBlock['type'])){
             if($infoBlock['type'] == 'list'){
@@ -108,9 +146,7 @@ foreach ($listing as $item_ref){
                         if(str_contains($element['text']['key'], 'stalker.tooltip.armor_artefact.night_vision'))
                             $template += ['nightVision'=>1];
                     }
-                    //attachment feature
                     if($element['type'] == 'item'){
-                        //here I should make link to item asset using guid from meta.php
                         $_item = str_replace('/', ' ', $element['name']['lines']['en']);
                         if(isset($template['suitableFor']))
                             array_push($template['suitableFor'], $_item);
@@ -185,8 +221,8 @@ foreach ($listing as $item_ref){
 
 }
 var_dump_pre($arr);
-echo 'ok';
-
+echo '<br>ok';
+require_once('./attachment.php');
 
 
 function ScriptGUID($category){
