@@ -50,11 +50,7 @@ foreach ($listing as $item_ref){
     $item['category'] = str_replace('bullet','ammo' , $item['category']);
     $item['category'] = str_replace('containers','container' , $item['category']);
     //fix item naming
-    $item['name']['lines']['en'] = str_replace("Mosin's", 'Mosin', $item['name']['lines']['en']);
-    $item['name']['lines']['en'] = str_replace('WA2000', 'WA 2000', $item['name']['lines']['en']);
-    $item['name']['lines']['en'] = str_replace("SMG", 'PP', $item['name']['lines']['en']);
-    $item['name']['lines']['en'] = str_replace("Nut", 'Oreh', $item['name']['lines']['en']);
-    $item['name']['lines']['en'] = str_replace('/', ' ', $item['name']['lines']['en']);
+    $item['name']['lines']['en'] = FixNaming($item['name']['lines']['en']);
     if($item['category'] == 'armor/scientific')
         $item['name']['lines']['en'] = str_replace('MIS', 'KIM', $item['name']['lines']['en']);
     //weapon/assault_rifle -> Weapon/Assault rifle
@@ -147,7 +143,7 @@ foreach ($listing as $item_ref){
                             $template += ['nightVision'=>1];
                     }
                     if($element['type'] == 'item'){
-                        $_item = str_replace('/', ' ', $element['name']['lines']['en']);
+                        $_item = FixNaming($element['name']['lines']['en']);
                         if(isset($template['suitableFor']))
                             array_push($template['suitableFor'], $_item);
                         else
@@ -259,6 +255,15 @@ function ToCamelCase($string){
     $humps = array_map('ucfirst', $humps);
     array_unshift($humps , $words[0]);
     return str_replace('.','',implode($humps));
+}
+function FixNaming($name){
+    //fix item naming
+    $name = str_replace("Mosin's", 'Mosin', $name);
+    $name = str_replace('WA2000', 'WA 2000', $name);
+    $name = str_replace("SMG", 'PP', $name);
+    $name = str_replace("Nut", 'Oreh', $name);
+    $name = str_replace('/', ' ', $name);
+    return $name;
 }
 //debug
 function var_dump_pre($mixed = null) {
