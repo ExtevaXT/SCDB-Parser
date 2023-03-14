@@ -25,6 +25,7 @@ foreach ($listing as $item_ref){
     $item['category'] = Category($item['category']);
     if(($asset_path = $result_path.$item['category'].'/'.Name($item['name']['lines']['en']) .'.asset') != null){
         $asset = Yaml::parse(str_replace(trim, '', file_get_contents($asset_path)))['MonoBehaviour'];
+        $assetMeta = Yaml::parse(file_get_contents($result_path.$asset['pathCategory'].'/'.$asset['m_Name'].'.asset.meta'));
         foreach ($item['infoBlocks'] as $infoBlock) {
             if(isset($infoBlock['type']) and $infoBlock['type'] == 'list') {
                 foreach ($infoBlock['elements'] as $element) {
@@ -36,6 +37,16 @@ foreach ($listing as $item_ref){
                                 array_push($asset['_suitableFor'], $ref);
                             else
                                 $asset += ['_suitableFor' => [$ref]];
+
+                            //inject if attachment allowed to weapon, reverse logic
+                            $ref = ['fileID'=>11400000, 'guid' => $assetMeta['guid'], 'type'=>2];
+                            if(isset($suitableAsset['attachmentsAllowed']))
+                                array_push($suitableAsset['attachmentsAllowed'], $ref);
+                            else
+                                $suitableAsset += ['attachmentsAllowed' => [$ref]];
+                            //need to add this new $suitableAsset to $assets collection
+                            $assets = $assets->where('m_Name', '!=', $suitableAsset['m_Name'])->push($suitableAsset);
+                            //file_put_contents($result_path.$suitableAsset['pathCategory'].'/'.$suitableAsset['m_Name'].'.asset',trim.Yaml::dump(['MonoBehaviour'=>$suitableAsset], 2));
                         }
                     }
                 }
@@ -44,6 +55,10 @@ foreach ($listing as $item_ref){
         file_put_contents($result_path.$asset['pathCategory'].'/'.$asset['m_Name'].'.asset',trim.Yaml::dump(['MonoBehaviour'=>$asset], 2));
     }
 
+}
+foreach ($assets as $asset){
+    if(isset($asset['attachmentsAllowed']))
+        file_put_contents($result_path.$asset['pathCategory'].'/'.$asset['m_Name'].'.asset',trim.Yaml::dump(['MonoBehaviour'=>$asset], 2));
 }
 echo "<br>ok";
 function Category($string){
