@@ -95,7 +95,7 @@ foreach ($listing as $item_ref){
             $stock_id++;
         }
         $template +=['attachmentMetaGroup' => $group];
-        $template += ['attachmentMetaId' => chr($id + 65)];
+        $template += ['attachmentMetaId' => $id + 65];
     }
     foreach ($item['infoBlocks'] as $infoBlock){
         if(isset($infoBlock['type'])){
@@ -224,13 +224,13 @@ require_once('./attachment.php');
 
 
 function ScriptGUID($category){
-    if(str_contains($category,'Other') or $category == 'Misc') return item_guid;
-    if(str_contains($category,'Armor') or $category == 'Backpack' or str_contains($category,'Artefact')) return equipment_guid;
-    if(str_contains($category,'Attachment')) return attachment_guid;
-    if(str_contains($category,'Weapon')){
-        if(str_contains($category,'Device')) return device_guid;
-        if(str_contains($category,'Melee')) return melee_guid;
-        if(str_contains($category,'Shotgun')) return shotgun_guid;
+    if($category == 'Other' or $category == 'Misc') return item_guid;
+    if(str_contains($category,'Armor/') or $category == 'Backpack' or str_contains($category,'Artefact')) return equipment_guid;
+    if(str_contains($category,'Attachment/')) return attachment_guid;
+    if(str_contains($category,'Weapon/')){
+        if(str_contains($category,'/Device')) return device_guid;
+        if(str_contains($category,'/Melee')) return melee_guid;
+        if(str_contains($category,'/Shotgun')) return shotgun_guid;
         return weapon_guid;
     }
     if($category == 'Container') return container_guid;
